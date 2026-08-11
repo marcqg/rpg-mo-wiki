@@ -1,0 +1,52 @@
+---
+title: "Magic Pouches"
+slug: /magic-pouches
+---
+
+> 🇫🇷 Traduction française — nom original (anglais) : **Magic Pouches** — <a href="/rpg-mo-wiki/magic-pouches">voir la page en anglais</a>
+
+Les Magic Pouches (ou Magic Books) sont des objets équipables (main droite) nécessaires pour lancer des [Sorts](/spells) en combat, infligeant des [Dégâts Magiques](/magic-damage). Le tier (Small/Beginner, Medium/Apprentice, Large, Superior, Legendary) et la taille (S, M, L) d'une pochette ou d'un livre déterminent son niveau d'équipement, son nombre d'emplacements de sorts, le nombre maximum de sorts stockés, et les bonus de statistiques.
+
+## Magic Pouches
+
+| Icône | Pochette | Niv. Magie | Emplacements | Lancers max | Obtenu depuis | Stats supplémentaires |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![Small Magic Pouch](https://static.wikia.nocookie.net/rpg-mo/images/7/76/Small_Magic_Pouch.png/revision/latest?cb=20150225231641)](https://static.wikia.nocookie.net/rpg-mo/images/7/76/Small_Magic_Pouch.png/revision/latest?cb=20150225231641) | [Small Magic Pouch](/small-magic-pouch) | 1 | 1 | 1000 | [Dorpat Magician](/dorpat-magician) / [Dwarf Mage](/dwarf-mage) / [Good Present](/good-present) |  |
+| [![Small Magic Pouch](https://static.wikia.nocookie.net/rpg-mo/images/7/76/Small_Magic_Pouch.png/revision/latest?cb=20150225231641)](https://static.wikia.nocookie.net/rpg-mo/images/7/76/Small_Magic_Pouch.png/revision/latest?cb=20150225231641) | [Small Magic Pouch](/small-magic-pouch) (S) | 1 | 1 | 2000 | Fabrication ([Wizardry](/wizardry)) |  |
+| [![Beginner Magic Book](https://static.wikia.nocookie.net/rpg-mo/images/9/9f/Beginner_Magic_Book.png/revision/latest?cb=20230202030541)](https://static.wikia.nocookie.net/rpg-mo/images/9/9f/Beginner_Magic_Book.png/revision/latest?cb=20230202030541) | Beginner Magic Book | 30 | 1 | 1000 | [Merlin](/merlin) / [Young Grendalf](/young-grendalf) / [Grendalf The Grey](/grendalf-the-grey) / [Good Present](/good-present) / [Great Present](/great-present) | \-5% de temps de recharge |
+| [![Enchanted Beginner Magic Book](https://static.wikia.nocookie.net/rpg-mo/images/a/a8/Enchanted_Beginner_Magic_Book.png/revision/latest?cb=20151001215345)](https://static.wikia.nocookie.net/rpg-mo/images/a/a8/Enchanted_Beginner_Magic_Book.png/revision/latest?cb=20151001215345) | Enchanted Beginner Magic Book | 30 | 1 | 1000 | [Enchantement](/enchanting) d'un Beginner Magic Book | \-8% de temps de recharge |
+| [![Medium Magic Pouch](https://static.wikia.nocookie.net/rpg-mo/images/b/b6/Medium_Magic_Pouch.png/revision/latest?cb=20230202030558)](https://static.wikia.nocookie.net/rpg-mo/images/b/b6/Medium_Magic_Pouch.png/revision/latest?cb=20230202030558) | [Medium Magic Pouch](/medium-magic-pouch) | 30 | 2 | 2000 | [Snow Gungan Priest](/snow-gungan-priest) / [Merlin](/merlin) / [Young Grendalf](/young-grendalf) / [Grendalf The Grey](/grendalf-the-grey) / [Good Present](/good-present) / [Great Present](/great-present) / [MOS](/mos) : Magician Starter Pack |  |
+| [![Medium Magic Pouch](https://static.wikia.nocookie.net/rpg-mo/images/b/b6/Medium_Magic_Pouch.png/revision/latest?cb=20230202030558)](https://static.wikia.nocookie.net/rpg-mo/images/b/b6/Medium_Magic_Pouch.png/revision/latest?cb=20230202030558) | [Medium Magic Pouch](/medium-magic-pouch) (S) | 30 | 2 | 3000 | Fabrication ([Wizardry](/wizardry)) / [Good Present](/good-present) / [Great Present](/great-present) |  |
+| [![Apprentice Magic Book](https://static.wikia.nocookie.net/rpg-mo/images/f/f4/Apprentice_Magic_Book.png/revision/latest?cb=20230203201052)](https://static.wikia.nocookie.net/rpg-mo/images/f/f4/Apprentice_Magic_Book.png/revision/latest?cb=20230203201052) | Apprentice Magic Book | 60 | 2 | 2000 | [Zeus](/zeus) / [Pyrohydra](/pyrohydra) / [Death Energy](/death-energy) / [Great Present](/great-present) / [Best Present](/best-present) | \-10% de temps de recharge |
+| [![Enchanted Apprentice Magic Book](https://static.wikia.nocookie.net/rpg-mo/images/7/72/Enchanted_Apprentice_Magic_Book.png/revision/latest?cb=20170920005152)](https://static.wikia.nocookie.net/rpg-mo/images/7/72/Enchanted_Apprentice_Magic_Book.png/revision/latest?cb=20170920005152) | Enchanted Apprentice Magic Book | 60 | 2 | 2000 | [Enchantement](/enchanting) d'un Apprentice Magic Book | \-13% de temps de recharge |
+| [![Large Magic Pouch](https://static.wikia.nocookie.net/rpg-mo/images/2/2c/Large_Magic_Pouch.png/revision/latest?cb=20150225231639)](https://static.wikia.nocookie.net/rpg-mo/images/2/2c/Large_Magic_Pouch.png/revision/latest?cb=20150225231639) | [Large Magic Pouch](/large-magic-pouch) | 60 | 3 | 3000 | Fabrication ([Wizardry](/wizardry)) / [Zeus](/zeus) / [Great Present](/great-present) / [Best Present](/best-present) |  |
+| [![Large Magic Pouch](https://static.wikia.nocookie.net/rpg-mo/images/2/2c/Large_Magic_Pouch.png/revision/latest?cb=20150225231639)](https://static.wikia.nocookie.net/rpg-mo/images/2/2c/Large_Magic_Pouch.png/revision/latest?cb=20150225231639) | [Large Magic Pouch](/large-magic-pouch) (S) | 60 | 3 | 4000 | Fabrication ([Wizardry](/wizardry)) / [Great Present](/great-present) / [Best Present](/best-present) |  |
+| [![Large Magic Pouch](https://static.wikia.nocookie.net/rpg-mo/images/2/2c/Large_Magic_Pouch.png/revision/latest?cb=20150225231639)](https://static.wikia.nocookie.net/rpg-mo/images/2/2c/Large_Magic_Pouch.png/revision/latest?cb=20150225231639) | [Large Magic Pouch](/large-magic-pouch) (M) | 60 | 3 | 5500 | Fabrication ([Wizardry](/wizardry)) / [Great Present](/great-present) / [Best Present](/best-present) |  |
+| [![SuperiorMagicPouch2](https://static.wikia.nocookie.net/rpg-mo/images/8/8f/SuperiorMagicPouch2.png/revision/latest?cb=20191214041858)](https://static.wikia.nocookie.net/rpg-mo/images/8/8f/SuperiorMagicPouch2.png/revision/latest?cb=20191214041858) | [Superior Magic Pouch](/superior-magic-pouch) | 75 | 4 | 4000 | Fabrication ([Wizardry](/wizardry)) / [Best Present](/best-present) / [Legendary Present](/legendary-present) / Boss (Common) Present / Boss (Rare) Present / Boss (Legendary) Present / [Expert Magician Pack](/expert-magician-pack) ([MOS](/mos)) |  |
+| [![SuperiorMagicPouch2](https://static.wikia.nocookie.net/rpg-mo/images/8/8f/SuperiorMagicPouch2.png/revision/latest?cb=20191214041858)](https://static.wikia.nocookie.net/rpg-mo/images/8/8f/SuperiorMagicPouch2.png/revision/latest?cb=20191214041858) | [Superior Magic Pouch](/superior-magic-pouch) (S) | 75 | 4 | 5000 | Fabrication ([Wizardry](/wizardry)) / [Best Present](/best-present) / [Legendary Present](/legendary-present) / Boss (Common) Present / Boss (Rare) Present / Boss (Legendary) Present |  |
+| [![SuperiorMagicPouch2](https://static.wikia.nocookie.net/rpg-mo/images/8/8f/SuperiorMagicPouch2.png/revision/latest?cb=20191214041858)](https://static.wikia.nocookie.net/rpg-mo/images/8/8f/SuperiorMagicPouch2.png/revision/latest?cb=20191214041858) | [Superior Magic Pouch](/superior-magic-pouch) (M) | 75 | 4 | 6500 | Fabrication ([Wizardry](/wizardry)) / [Best Present](/best-present) / [Legendary Present](/legendary-present) / Boss (Common) Present / Boss (Rare) Present / Boss (Legendary) Present |  |
+| [![SantasBag2](https://static.wikia.nocookie.net/rpg-mo/images/9/92/SantasBag2.png/revision/latest?cb=20191214042825)](https://static.wikia.nocookie.net/rpg-mo/images/9/92/SantasBag2.png/revision/latest?cb=20191214042825) | [Santa's Bag](https://rpg-mo.fandom.com/wiki/Santa%27s_Bag) | 85 | 5 | 5000 | Fabrication ([Forge](/forging)) / [Rare Present](/rare-present) | +75 armure, +10 vitesse |
+| [![Rose Pouch](https://static.wikia.nocookie.net/rpg-mo/images/9/9b/Rose_Pouch.png/revision/latest?cb=20150226015901)](https://static.wikia.nocookie.net/rpg-mo/images/9/9b/Rose_Pouch.png/revision/latest?cb=20150226015901) | Rose Pouch | 85 | 5 | 5000 | Fabrication ([Bijouterie](/jewelry)) / [Rare Present](/rare-present) | +40 précision, +10 vitesse, -3% de temps de recharge |
+| [![Elemental pouch](https://static.wikia.nocookie.net/rpg-mo/images/a/ae/Elemental_pouch.png/revision/latest?cb=20150225031732)](https://static.wikia.nocookie.net/rpg-mo/images/a/ae/Elemental_pouch.png/revision/latest?cb=20150225031732) | Elemental Pouch | 90 | 5 | 5000 | Fabrication ([Wizardry](/wizardry)) |  |
+
+## Contenants
+
+[![Example of 2 spells casting simultaneously to add to damage.](https://static.wikia.nocookie.net/rpg-mo/images/c/cc/MultiCast.jpg/revision/latest/scale-to-width-down/180?cb=20150904170451)](https://static.wikia.nocookie.net/rpg-mo/images/c/cc/MultiCast.jpg/revision/latest?cb=20150904170451)
+
+[![Example of 2 spells casting simultaneously to add to damage.](https://static.wikia.nocookie.net/rpg-mo/images/c/cc/MultiCast.jpg/revision/latest/scale-to-width-down/180?cb=20150904170451)](https://static.wikia.nocookie.net/rpg-mo/images/c/cc/MultiCast.jpg/revision/latest?cb=20150904170451)
+
+Exemple de 2 sorts lancés simultanément pour cumuler les dégâts.
+
+Une pochette de sorts contient un certain nombre de lancers, en fonction de sa taille — pas seulement du nombre d'emplacements de sorts. De plus, si tu places plusieurs types de sorts dans les pochettes, ils seront tous lancés _simultanément_ (au rythme du temps de recharge propre à chaque sort). Cela augmente tes DPS et ton XP/heure, ce qui te permet d'affronter des monstres de plus haut niveau sans te faire tuer avant de pouvoir fuir.
+
+Les pochettes de base peuvent contenir 1 000 lancers d'un sort par emplacement disponible. Ainsi, une Medium Magic Pouch avec 2 emplacements peut contenir 2000 lancers de Earth Missile et 2000 lancers de Fire Missile, infligeant jusqu'à 16 dégâts par round de combat. Cependant, les tailles de pochette (S), (M), (L) augmentent le nombre de lancers stockés de 1000, 2500 et 5000 respectivement.
+
+[![Example of 2 spells in 1 pouch with multiple casts.](https://static.wikia.nocookie.net/rpg-mo/images/1/13/MultiCast2.jpg/revision/latest?cb=20150904171500)](https://static.wikia.nocookie.net/rpg-mo/images/1/13/MultiCast2.jpg/revision/latest?cb=20150904171500)
+
+[![Example of 2 spells in 1 pouch with multiple casts.](https://static.wikia.nocookie.net/rpg-mo/images/1/13/MultiCast2.jpg/revision/latest?cb=20150904171500)](https://static.wikia.nocookie.net/rpg-mo/images/1/13/MultiCast2.jpg/revision/latest?cb=20150904171500)
+
+Exemple de 2 sorts dans 1 pochette avec plusieurs lancers.
+
+## Notes
+
+Voir aussi : [Magic](/magic), [Equipment](/equipment)

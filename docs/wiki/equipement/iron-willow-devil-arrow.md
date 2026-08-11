@@ -1,0 +1,5 @@
+---
+title: "Iron Willow Devil Arrow"
+slug: /iron-willow-devil-arrow
+---
+1.8s cooldown 9 speed 5 range 5 max damage 16 uses \[arrows\] - 30 archery required to use

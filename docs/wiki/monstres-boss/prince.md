@@ -1,0 +1,5 @@
+---
+title: "Prince"
+slug: /prince
+---
+

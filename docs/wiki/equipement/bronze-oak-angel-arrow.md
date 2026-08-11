@@ -1,0 +1,5 @@
+---
+title: "Bronze Oak Angel Arrow"
+slug: /bronze-oak-angel-arrow
+---
+1.9s cooldown 3 speed 7 range 3 max damage 14 uses - 20 archery required to use
