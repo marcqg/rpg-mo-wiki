@@ -16,4 +16,4 @@ slug: /ruby-dragon
 | [![Light Greenwood Shield](https://static.wikia.nocookie.net/rpg-mo/images/1/1e/Light_Greenwood_Shield.png/revision/latest?cb=20150226020833)](/light-greenwood-shield) | [Light Greenwood Shield](/light-greenwood-shield) | 0.24% |
 | [![Steel Halberd](https://static.wikia.nocookie.net/rpg-mo/images/b/bc/Steel_Halberd.png/revision/latest?cb=20150225010432)](/steel-halberd) | [Steel Halberd](/steel-halberd) | 0.29% |
 | [![Medium Weapon Enchant Scroll](https://static.wikia.nocookie.net/rpg-mo/images/4/46/Medium_Weapon_Enchant_Scroll.png/revision/latest?cb=20230202013026)](/medium-weapon-enchant-scroll) | [Medium Weapon Enchant Scroll](/medium-weapon-enchant-scroll) | 0.48% |
-| [![No loot](https://static.wikia.nocookie.net/rpg-mo/images/f/fd/No_loot.png/revision/latest?cb=20181225051736)](/no-loot-2) | [No loot](/no-loot-2) | 96.02% |
+| [![No loot](https://static.wikia.nocookie.net/rpg-mo/images/f/fd/No_loot.png/revision/latest?cb=20181225051736)](/no-loot) | [No loot](/no-loot) | 96.02% |

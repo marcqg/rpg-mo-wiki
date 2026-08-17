@@ -15,4 +15,4 @@ slug: /flame-wyvern
 | [![Cut Emerald](https://static.wikia.nocookie.net/rpg-mo/images/0/09/Cut_Emerald.png/revision/latest?cb=20221218042757)](/cut-emerald) | [Cut Emerald](/cut-emerald) | &#123;&#123;&#123;Adjusted}}}% |
 | [![Medium Weapon Enchant Scroll](https://static.wikia.nocookie.net/rpg-mo/images/4/46/Medium_Weapon_Enchant_Scroll.png/revision/latest?cb=20230202013026)](/medium-weapon-enchant-scroll) | [Medium Weapon Enchant Scroll](/medium-weapon-enchant-scroll) | &#123;&#123;&#123;Adjusted}}}% |
 | [![Steel Battle Hammer](https://static.wikia.nocookie.net/rpg-mo/images/7/7c/Steel_Battle_Hammer.png/revision/latest?cb=20150225003733)](/steel-battle-hammer) | [Steel Battle Hammer](/steel-battle-hammer) | &#123;&#123;&#123;Adjusted}}}% |
-| [![No loot](https://static.wikia.nocookie.net/rpg-mo/images/f/fd/No_loot.png/revision/latest?cb=20181225051736)](/no-loot-2) | [No loot](/no-loot-2) | &#123;&#123;&#123;Adjusted}}}% |
+| [![No loot](https://static.wikia.nocookie.net/rpg-mo/images/f/fd/No_loot.png/revision/latest?cb=20181225051736)](/no-loot) | [No loot](/no-loot) | &#123;&#123;&#123;Adjusted}}}% |
