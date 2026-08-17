@@ -10,8 +10,6 @@ sidebar_position: 1
 
 [![Rpgmocharimg](https://static.wikia.nocookie.net/rpg-mo/images/a/a6/Rpgmocharimg.png/revision/latest/scale-to-width-down/180?cb=20150525232804)](https://static.wikia.nocookie.net/rpg-mo/images/a/a6/Rpgmocharimg.png/revision/latest?cb=20150525232804)
 
-Autres langues : [Português](https://rpg-mo.fandom.com/wiki/Portugu%C3%AAs), [Polski](https://rpg-mo.fandom.com/wiki/Polski), [한국어(Korean)](https://rpg-mo.fandom.com/wiki/Korean)
-
 ## À propos de ce wiki
 
 Ce dépôt GitHub n'est pas un travail original. Il a été construit en agrégeant, reformatant et traduisant du contenu provenant de plusieurs sources communautaires existantes — le wiki Fandom, modb, rpgmobob.com, et d'autres — toutes créditées sur la page [Sources et remerciements](/sources).
@@ -33,28 +31,6 @@ Le jeu se joue depuis quasiment n'importe quel navigateur compatible HTML5, via 
 *   [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 
 [Crédits](https://mo.ee/credits.html)
-
-## Notes des éditeurs
-
-Salut !
-
-Si tu es un·e nouveau·elle joueur·euse à la recherche d'infos sur ce jeu génial, tant mieux, et je suis content·e que tu sois là. Malheureusement, ce wiki est très en retard, avec beaucoup d'infos fausses et énormément de choses manquantes. J'y travaille actuellement, mais qui sait combien de temps ça prendra ! En attendant, je te recommande d'aller voir la page « [Liens utiles](https://rpg-mo.fandom.com/wiki/Helpful_Links) » de ce wiki. Elle regroupe tous les autres sites contenant des infos sur RPGMO, plus ou moins à jour. Enfin, si tu as des suggestions ou des points que tu juges prioritaires à corriger sur ce wiki, partage-les dans le fil de discussion « [Wiki Ideas!](https://rpg-mo.fandom.com/f/p/4400000000000077159) ».
-
-Amuse-toi bien, Pikkle _10/20/2024_
-
-Nous avons désormais une page pour les [Notes des joueurs](https://rpg-mo.fandom.com/wiki/Player_Notes) ! Viens y jeter un œil et ajouter tes commentaires, suggestions ou demandes.
-
-mis à jour par [Bbrian](https://mo.ee/highscore.html) _(novembre 2019)_.
-
-## Configuration système générale
-
-*   Connexion Internet
-*   Navigateur web : dernière version de Chrome/Firefox/Internet Explorer/Opera
-*   Steam
-*   CPU : 1GHz+ (recommandé)
-*   RAM : au moins 256 Mo (512 Mo recommandé)
-*   Disque dur : 50 Mo d'espace libre (pour le cache)
-*   Entrée : souris, clavier, tactile, manette
 
 ## Pour commencer
 
@@ -91,3 +67,13 @@ mis à jour par [Bbrian](https://mo.ee/highscore.html) _(novembre 2019)_.
 *   [Familiers](https://rpg-mo.fandom.com/wiki/Pets)
 *   [Sorts](https://rpg-mo.fandom.com/wiki/Spells)
 *   [Outils](https://rpg-mo.fandom.com/wiki/Tools)
+
+## Configuration système générale
+
+*   Connexion Internet
+*   Navigateur web : dernière version de Chrome/Firefox/Internet Explorer/Opera
+*   Steam
+*   CPU : 1GHz+ (recommandé)
+*   RAM : au moins 256 Mo (512 Mo recommandé)
+*   Disque dur : 50 Mo d'espace libre (pour le cache)
+*   Entrée : souris, clavier, tactile, manette

@@ -11,15 +11,6 @@ sidebar_position: 1
 
 Pode ser jogado praticamente em todo navegador com suporte à [HTML 5](https://www.barbi-igre.net/tag/html5/), e a partir de uma variedade de hospedes de jogos como [Kongregate](http://www.kongregate.com/), [MocoSpace](http://www.mocospace.com/games;sid=aaaWV_iwqCgbSfxZxJmzv?gid=1321&r=252&#confirm) ,e [Steam](http://store.steampowered.com/app/372800/). Está disponível através da [Google Play Store](https://play.google.com/store/apps/details?id=ee.mo.rpgnew), e também clientes standalone para plataformas [Windows, Mac, and Linux/Android](http://mo.ee/download.html). Modb site [aqui](http://modb.rpgmobob.com/#/).
 
-## Requisitos Gerais de Sistema
-
-*   Conexão à Internet
-*   Navegadores: Ultimas versões Chrome/Firefox/Internet Explorer/Opera
-*   CPU: 1GHz+ (recomendado)
-*   RAM: Pelo menos 256 MB (512 MB recomendado)
-*   Disco Rígido: 50 MB de espaço livre (para o cache)
-*   Entradas: Mouse, Teclado, Touch, Game pad
-
 ## Começando
 
 *   [Guia de novos jogadores](https://rpg-mo.fandom.com/wiki/Locations)
@@ -50,6 +41,11 @@ Pode ser jogado praticamente em todo navegador com suporte à [HTML 5](https://
 *   [Magias](https://rpg-mo.fandom.com/wiki/Spells)
 *   [Ferramentas](https://rpg-mo.fandom.com/wiki/Tools)
 
-## Nota dos editores
+## Requisitos Gerais de Sistema
 
-Nós temos agora uma página para [Anotações dos Jogadores](https://rpg-mo.fandom.com/wiki/Player_Notes)! Venha conferir e adicionar novos comentários, sugestões ou pedidos.
+*   Conexão à Internet
+*   Navegadores: Ultimas versões Chrome/Firefox/Internet Explorer/Opera
+*   CPU: 1GHz+ (recomendado)
+*   RAM: Pelo menos 256 MB (512 MB recomendado)
+*   Disco Rígido: 50 MB de espaço livre (para o cache)
+*   Entradas: Mouse, Teclado, Touch, Game pad

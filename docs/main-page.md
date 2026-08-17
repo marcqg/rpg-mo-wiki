@@ -17,8 +17,6 @@ The goal of this project is twofold:
 
 If you want to contribute, report an error, or request the removal of content you authored, please open an issue on the [GitHub repository](https://github.com/marcqg/rpg-mo-wiki).
 
-Other languages: [Português](https://rpg-mo.fandom.com/wiki/Portugu%C3%AAs), [Polski](https://rpg-mo.fandom.com/wiki/Polski), [한국어(Korean)](https://rpg-mo.fandom.com/wiki/Korean)
-
 ## _Welcome to the RPG MO Wiki!_ **What is RPG MO?**
 
 [RPG MO](https://data.mo.ee/loader.html)  is a sandbox, 2D style game with 19 skills to train and new content being introduced in regular updates.
@@ -30,28 +28,6 @@ It can be played from almost any web browser that supports HTML 5, from a variet
 *   [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 
 [Credits](https://mo.ee/credits.html)
-
-## Notes From Editors
-
-Hi!
-
-If you are a new player looking for info on this awesome game, that's wonderful, and I'm glad you are here. Sadly, this wiki is very outdated, with lots of wrong information and sooo much missing. I am currently working on it, but who knows how long it will take! In the meantime, I recommend you go to the "[Helpful Links](https://rpg-mo.fandom.com/wiki/Helpful_Links)" page of this wiki. It contains all of the other sites with RPGMO information on them, and are more or less more up to date. Lastly, if you have any suggestions or thing you consider to be of high importance on this wiki that you want to see fixed right away, share them in the "[Wiki Ideas!](https://rpg-mo.fandom.com/f/p/4400000000000077159)" discussion thread.
-
-Have fun, Pikkle _10/20/2024_
-
-We now have a page for [Player Notes](https://rpg-mo.fandom.com/wiki/Player_Notes)! Come check it out and add any comments, suggestions or requests.
-
-updated by [Bbrian](https://mo.ee/highscore.html) _(November / 2019)_.
-
-## General System Requirements
-
-*   Internet connection
-*   Web Browser: latest Chrome/Firefox/Internet Explorer/Opera
-*   Steam
-*   CPU: 1GHz+ (recommended)
-*   RAM: At least 256 MB (512 MB recommended)
-*   Hard drive: 50 MB of free space (for cache)
-*   Input: Mouse, keyboard, touch, game pad
 
 ## Getting Started
 
@@ -88,3 +64,13 @@ updated by [Bbrian](https://mo.ee/highscore.html) _(November / 2019)_.
 *   [Pets](https://rpg-mo.fandom.com/wiki/Pets)
 *   [Spells](https://rpg-mo.fandom.com/wiki/Spells)
 *   [Tools](https://rpg-mo.fandom.com/wiki/Tools)
+
+## General System Requirements
+
+*   Internet connection
+*   Web Browser: latest Chrome/Firefox/Internet Explorer/Opera
+*   Steam
+*   CPU: 1GHz+ (recommended)
+*   RAM: At least 256 MB (512 MB recommended)
+*   Hard drive: 50 MB of free space (for cache)
+*   Input: Mouse, keyboard, touch, game pad
