@@ -67,6 +67,10 @@ npm start       # serveur de dev avec rechargement à chaud
 npm run build   # build statique de production dans build/
 ```
 
+## Indexation CodeGraph (IA)
+
+Ce dépôt est indexé avec [CodeGraph](https://github.com/colbymchenry/codegraph), un outil qui construit un graphe de la structure du code et du contenu pour le rendre directement explorable par des agents IA (ex: Claude, Copilot, ou tout assistant basé sur un MCP). Cela permet à une IA de naviguer dans les pages du wiki, de comprendre l'organisation des données et de répondre à des questions précises sur le jeu à partir du contenu de ce repo.
+
 ## Déploiement
 
 Le déploiement est automatique via GitHub Actions à chaque push sur `main`. Il faut activer GitHub Pages sur le repo (Settings → Pages → Source: GitHub Actions) une première fois.
