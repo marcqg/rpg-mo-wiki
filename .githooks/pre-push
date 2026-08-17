@@ -1,0 +1,21 @@
+#!/bin/sh
+# Hook git pre-push : vérifie que le build Docusaurus passe avant tout push.
+# Installé via : cp .githooks/pre-push .git/hooks/pre-push && chmod +x .git/hooks/pre-push
+# Ou automatiquement via : git config core.hooksPath .githooks
+
+set -e
+
+NODE=$(command -v node || echo "/opt/homebrew/bin/node")
+
+echo "🔍 Vérification du build Docusaurus avant push..."
+"$NODE" node_modules/.bin/docusaurus build --locale en 2>&1
+
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "❌ Le build a échoué. Push annulé."
+  echo "   Corrige les erreurs ci-dessus puis relance : git push"
+  exit 1
+fi
+
+echo "✅ Build OK, push autorisé."
+exit 0
