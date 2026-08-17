@@ -325,5 +325,9 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "theme.reportError": {
+    "message": "Signaler une erreur",
+    "description": "Label du bouton pour signaler une erreur sur la page courante"
   }
 }

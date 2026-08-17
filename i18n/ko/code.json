@@ -325,5 +325,9 @@
   "theme.tags.tagsPageTitle": {
     "message": "태그",
     "description": "The title of the tag list page"
+  },
+  "theme.reportError": {
+    "message": "오류 신고",
+    "description": "Label of the button to report an error on the current page"
   }
 }
