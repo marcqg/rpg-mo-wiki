@@ -1,0 +1,18 @@
+{
+  "link.title.Source": {
+    "message": "Źródła",
+    "description": "The title of the footer links column with title=Source in the footer"
+  },
+  "link.item.label.Wiki original (Fandom)": {
+    "message": "Oryginalne Wiki (Fandom)",
+    "description": "The label of footer link with label=Wiki original (Fandom) linking to https://rpg-mo.fandom.com/wiki/Main_Page"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/marcqg/rpg-mo-wiki"
+  },
+  "copyright": {
+    "message": "Treść zaadaptowana z <a href=\"https://rpg-mo.fandom.com/wiki/Main_Page\">RPG MO Wiki</a> (Fandom), na licencji CC BY-SA. Ta strona nie jest powiązana z Fandom ani twórcami RPG MO.",
+    "description": "The footer copyright"
+  }
+}
