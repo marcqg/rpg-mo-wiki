@@ -1,10 +1,21 @@
 ---
 title: "Main Page"
 slug: /
+sidebar_position: 1
 ---
 [![Rpgmo title](https://static.wikia.nocookie.net/rpg-mo/images/a/af/Rpgmo_title.PNG/revision/latest/scale-to-width-down/228?cb=20150525232005)](https://static.wikia.nocookie.net/rpg-mo/images/a/af/Rpgmo_title.PNG/revision/latest?cb=20150525232005)
 
 [![Rpgmocharimg](https://static.wikia.nocookie.net/rpg-mo/images/a/a6/Rpgmocharimg.png/revision/latest/scale-to-width-down/180?cb=20150525232804)](https://static.wikia.nocookie.net/rpg-mo/images/a/a6/Rpgmocharimg.png/revision/latest?cb=20150525232804)
+
+## About this Wiki
+
+This GitHub repository is not an original work. It was built by aggregating, reformatting, and translating content from several existing community sources — the Fandom wiki, modb, rpgmobob.com, and others — all of which are credited on the [Sources & Credits](/sources) page.
+
+The goal of this project is twofold:
+- **Condense** scattered RPG MO knowledge into a single, clean, structured place.
+- **Serve as a reliable knowledge base for AI tools** (such as ChatGPT, Claude, or any RAG-based assistant) that players might use to find game information quickly and accurately.
+
+If you want to contribute, report an error, or request the removal of content you authored, please open an issue on the [GitHub repository](https://github.com/marcqg/rpg-mo-wiki).
 
 Other languages: [Português](https://rpg-mo.fandom.com/wiki/Portugu%C3%AAs), [Polski](https://rpg-mo.fandom.com/wiki/Polski), [한국어(Korean)](https://rpg-mo.fandom.com/wiki/Korean)
 

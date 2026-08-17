@@ -1,0 +1,42 @@
+---
+title: "Cotton Fabric"
+slug: /cotton-fabric
+---
+
+> 🇫🇷 Traduction française — nom original (anglais) : **Cotton Fabric** — <a href="/rpg-mo-wiki/cotton-fabric">voir la page en anglais</a>
+
+Template:Infobox Item Le Cotton Fabric est un matériau utilisé pour fabriquer des armures magiques, des [Spells](/spell-crafting) et des arcs d'archerie. Il est aussi utilisé dans la construction de ton propre [Ship](/ship-building). Les [Cotton Seeds](/cotton-seed) peuvent être achetées auprès du [Dorpat Farmer](/dorpat-farmer) pour 240 pièces. Le Cotton Fabric peut être acheté auprès du [Dorpat Magic Crafter](/dorpat-magic-crafter) pour 300 pièces.
+
+Voici une liste d'objets que tu peux fabriquer avec du Cotton Fabric dans ton inventaire. Seuls le tissu et le fil sont utilisés lors de la fabrication. NOTE : certains objets fabriqués sont aussi des butins de monstres.
+
+| Image | Nom | Matériaux | Compétence magique | Chance min | Chance max | Expérience |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![Wizard Boots](https://static.wikia.nocookie.net/rpg-mo/images/c/ca/Wizard_Boots.png/revision/latest?cb=20150226014440)](https://rpg-mo.fandom.com/wiki/Wizard_Boots) | Wizard Boots | [![Needle For Boots](https://static.wikia.nocookie.net/rpg-mo/images/b/bc/Needle_For_Boots.png/revision/latest?cb=20150226014343)](https://rpg-mo.fandom.com/wiki/Needle_For_Boots)  <br/>[![Thread](https://static.wikia.nocookie.net/rpg-mo/images/6/6b/Thread.png/revision/latest?cb=20150225235015)](/thread) X1 [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric)X4 | 2 | 70% | 70% | 15 |
+| [![Wizard Hat-0](https://static.wikia.nocookie.net/rpg-mo/images/3/37/Wizard_Hat-0.png/revision/latest?cb=20151001215403)](/wizard-hat) | [Wizard Hat](/wizard-hat) | [![Needle For Hats](https://static.wikia.nocookie.net/rpg-mo/images/1/13/Needle_For_Hats.png/revision/latest?cb=20150225235014)](https://rpg-mo.fandom.com/wiki/Needle_For_Hats)  <br/>[![Thread](https://static.wikia.nocookie.net/rpg-mo/images/6/6b/Thread.png/revision/latest?cb=20150225235015)](/thread) X1 [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) X4 | 3 | 50% | 50% | 20 |
+| [![Wizard Robe Bottom](https://static.wikia.nocookie.net/rpg-mo/images/7/77/Wizard_Robe_Bottom.png/revision/latest?cb=20150225231523)](/wizard-robe-bottom) | [Wizard Robe Bottom](/wizard-robe-bottom) | [![Needle For Robe Bottoms](https://static.wikia.nocookie.net/rpg-mo/images/9/9d/Needle_For_Robe_Bottoms.png/revision/latest?cb=20150225235016)](https://rpg-mo.fandom.com/wiki/Needle_For_Robe_Bottoms)  <br/>[![Thread](https://static.wikia.nocookie.net/rpg-mo/images/6/6b/Thread.png/revision/latest?cb=20150225235015)](/thread) X2 [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) X6 | 5 | 50% | 50% | 30 |
+| [![Wizard Robe-0](https://static.wikia.nocookie.net/rpg-mo/images/a/a4/Wizard_Robe-0.png/revision/latest?cb=20151001215352)](/wizard-robe) | [Wizard Robe](/wizard-robe) | [![Needle For Robes](https://static.wikia.nocookie.net/rpg-mo/images/5/53/Needle_For_Robes.png/revision/latest?cb=20150225235014)](https://rpg-mo.fandom.com/wiki/Needle_For_Robes)  <br/>[![Thread](https://static.wikia.nocookie.net/rpg-mo/images/6/6b/Thread.png/revision/latest?cb=20150225235015)](/thread) X3 [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) X8 | 9 | 50% | 50% | 40 |
+
+Les objets suivants sont fabriqués sur l'[Altar](/spell-crafting) approprié. Seul le tissu est utilisé lors du [Spell Crafting](/spell-crafting). Les parchemins de sorts sont aussi des butins de [Mobs](/monsters).
+
+| Image | Nom | Matériaux | Compétence magique | Chance min | Chance max | Expérience |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![Flash Bolt](https://static.wikia.nocookie.net/rpg-mo/images/0/09/Flash_Bolt.png/revision/latest?cb=20150225231821)](/flash-bolt) | [Flash Bolt](/flash-bolt) | [![Flash Bolt Medallion](https://static.wikia.nocookie.net/rpg-mo/images/6/60/Flash_Bolt_Medallion.png/revision/latest?cb=20150225235013)](https://rpg-mo.fandom.com/wiki/Flash_Bolt_Medallion) [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 10 | 70% | 100% | 2 |
+| [![Air Bolt](https://static.wikia.nocookie.net/rpg-mo/images/f/fc/Air_Bolt.png/revision/latest?cb=20150225231820)](/air-bolt) | [Air Bolt](/air-bolt) | [![Air Bolt Medallion](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Air_Bolt_Medallion.png/revision/latest?cb=20150225235012)](/air-bolt-medallion) [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 13 | 70% | 100% | 2.5 |
+| [![Water Bolt](https://static.wikia.nocookie.net/rpg-mo/images/5/53/Water_Bolt.png/revision/latest?cb=20150225231820)](/water-bolt) | [Water Bolt](/water-bolt) | [![Water Bolt Medallion](https://static.wikia.nocookie.net/rpg-mo/images/c/c2/Water_Bolt_Medallion.png/revision/latest?cb=20150225235014)](/water-bolt-medallion) [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 17 | 70% | 100% | 3.5 |
+| [![Fire Bolt](https://static.wikia.nocookie.net/rpg-mo/images/e/e7/Fire_Bolt.png/revision/latest?cb=20150225231818)](/fire-bolt) | [Fire Bolt](/fire-bolt) | [![Fire Bolt Medallion](https://static.wikia.nocookie.net/rpg-mo/images/4/4e/Fire_Bolt_Medallion.png/revision/latest?cb=20150225235013)](https://rpg-mo.fandom.com/wiki/Fire_Bolt_Medallion) [![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 19 | 70% | 100% | 4 |
+
+Les objets d'archerie suivants sont fabriqués sur l'[Anvil](/anvil)
+
+| Image | Nom | Matériaux | Compétence Fletching | Chance min | Chance max | Expérience |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![Fir Shortbow](https://static.wikia.nocookie.net/rpg-mo/images/f/fd/Fir_Shortbow.png/revision/latest?cb=20170921042053)](/fir-shortbow) | [Fir Shortbow](/fir-shortbow) | [![Fir Log](https://static.wikia.nocookie.net/rpg-mo/images/f/f0/Fir_Log.png/revision/latest?cb=20230103154959)](/fir-log) X5[![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 1 | 50 | 50 | 30 |
+| [![Fir Longbow](https://static.wikia.nocookie.net/rpg-mo/images/e/e6/Fir_Longbow.png/revision/latest?cb=20170921042140)](/fir-longbow) | [Fir Longbow](/fir-longbow) | [![Fir Log](https://static.wikia.nocookie.net/rpg-mo/images/f/f0/Fir_Log.png/revision/latest?cb=20230103154959)](/fir-log) X7  <br/>[![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 5 | 30 | 30 | 40 |
+| [![Cactus Shortbow](https://static.wikia.nocookie.net/rpg-mo/images/9/9b/Cactus_Shortbow.png/revision/latest?cb=20170921042200)](/cactus-shortbow) | [Cactus Shortbow](/cactus-shortbow) | [![Cactus Wood](https://static.wikia.nocookie.net/rpg-mo/images/5/54/Cactus_Wood.png/revision/latest?cb=20230103155426)](/cactus-wood) X5  <br/>[![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 15 | 50 | 50 | 40 |
+| [![Cactus Longbow](https://static.wikia.nocookie.net/rpg-mo/images/9/9c/Cactus_Longbow.png/revision/latest?cb=20170921042220)](/cactus-longbow) | [Cactus Longbow](/cactus-longbow) | [![Cactus Wood](https://static.wikia.nocookie.net/rpg-mo/images/5/54/Cactus_Wood.png/revision/latest?cb=20230103155426)](/cactus-wood) X7  <br/>[![Cotton Fabric](https://static.wikia.nocookie.net/rpg-mo/images/0/01/Cotton_Fabric.png/revision/latest?cb=20150225163639)](/cotton-fabric) | 18 | 30 | 30 | 54 |
+
+## Peut être obtenu de
+
+| \[\[File:&#123;&#123;&#123;Name}}}.png|32px|link=\]\] | \[\[&#123;&#123;&#123;Name}}}\]\] | ?% | Value}} |
+| --- | --- | --- | --- | --- | --- |
+| \[\[File:&#123;&#123;&#123;Name}}}.png|32px|link=\]\] | \[\[&#123;&#123;&#123;Name}}}\]\] | ?% | Value}} |
+| \[\[File:&#123;&#123;&#123;Name}}}.png|32px|link=\]\] | \[\[&#123;&#123;&#123;Name}}}\]\] | ?% | Value}} |

@@ -12,6 +12,16 @@ sidebar_position: 1
 
 Autres langues : [Português](https://rpg-mo.fandom.com/wiki/Portugu%C3%AAs), [Polski](https://rpg-mo.fandom.com/wiki/Polski), [한국어(Korean)](https://rpg-mo.fandom.com/wiki/Korean)
 
+## À propos de ce wiki
+
+Ce dépôt GitHub n'est pas un travail original. Il a été construit en agrégeant, reformatant et traduisant du contenu provenant de plusieurs sources communautaires existantes — le wiki Fandom, modb, rpgmobob.com, et d'autres — toutes créditées sur la page [Sources et remerciements](/sources).
+
+L'objectif de ce projet est double :
+- **Condenser** les informations dispersées sur RPG MO en un seul endroit, propre et structuré.
+- **Servir de base de connaissances fiable pour les outils d'IA** (comme ChatGPT, Claude, ou tout assistant basé sur un RAG) que les joueurs pourraient utiliser pour trouver rapidement et précisément des informations sur le jeu.
+
+Si tu veux contribuer, signaler une erreur, ou demander le retrait d'un contenu dont tu es l'auteur·e, ouvre une issue sur le [dépôt GitHub](https://github.com/marcqg/rpg-mo-wiki).
+
 ## _Bienvenue sur le RPG MO Wiki !_ **Qu'est-ce que RPG MO ?**
 
 [RPG MO](https://data.mo.ee/loader.html) est un bac à sable (sandbox) en 2D avec 19 compétences à entraîner, et du nouveau contenu ajouté régulièrement.
