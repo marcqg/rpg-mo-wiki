@@ -16,7 +16,7 @@ Ce dépôt GitHub n'est pas un travail original. Il a été construit en agrége
 
 L'objectif de ce projet est double :
 - **Condenser** les informations dispersées sur RPG MO en un seul endroit, propre et structuré.
-- **Servir de base de connaissances fiable pour les outils d'IA** (comme ChatGPT, Claude, ou tout assistant basé sur un RAG) que les joueurs pourraient utiliser pour trouver rapidement et précisément des informations sur le jeu.
+- **Servir de base de connaissances fiable pour les outils d'IA** (comme ChatGPT, Claude, ou tout assistant basé sur un RAG) que les joueurs pourraient utiliser pour trouver rapidement et précisément des informations sur le jeu. Ce dépôt est également indexé avec [CodeGraph](https://github.com/colbymchenry/codegraph) pour rendre sa structure et son contenu directement explorables par des agents IA.
 
 Si tu veux contribuer, signaler une erreur, ou demander le retrait d'un contenu dont tu es l'auteur·e, ouvre une issue sur le [dépôt GitHub](https://github.com/marcqg/rpg-mo-wiki).
 

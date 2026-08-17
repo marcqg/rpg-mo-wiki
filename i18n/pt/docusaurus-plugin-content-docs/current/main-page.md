@@ -3,9 +3,19 @@ title: "Página Inicial"
 slug: /
 sidebar_position: 1
 ---
-> 🇧🇷 Português version — original English title: **Português** — <a href="/rpg-mo-wiki/">see the English page</a>
+> 🇧🇷 Versão em Português — título original (inglês): **Main Page** — <a href="/rpg-mo-wiki/">see the English page</a>
 
-## _Bem vindo à Wiki para o RPG MO!_ **O que é o RPG MO?**
+## Sobre este wiki
+
+Este repositório GitHub não é um trabalho original. Foi construído agregando, reformatando e traduzindo conteúdo de várias fontes comunitárias existentes — o wiki do Fandom, modb, rpgmobob.com e outros — todos creditados na página [Fontes e Créditos](/sources).
+
+O objetivo deste projeto é duplo:
+- **Condensar** o conhecimento disperso sobre RPG MO em um único lugar, limpo e estruturado.
+- **Servir como base de conhecimento confiável para ferramentas de IA** (como ChatGPT, Claude ou qualquer assistente baseado em RAG) que os jogadores possam usar para encontrar informações sobre o jogo de forma rápida e precisa. Este repositório também é indexado com [CodeGraph](https://github.com/colbymchenry/codegraph) para tornar sua estrutura e conteúdo diretamente exploráveis por agentes de IA.
+
+Se você quiser contribuir, reportar um erro ou solicitar a remoção de conteúdo de sua autoria, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
+
+
 
 [RPG MO](http://www.rpg.mo.ee/)  é um jogo sandbox, estilo 2d com 18 habilidades para desenvolver e atualizações regulares.
 

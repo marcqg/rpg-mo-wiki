@@ -3,11 +3,19 @@ title: "메인 페이지"
 slug: /
 sidebar_position: 1
 ---
-> 🇰🇷 한국어(Korean) version — original English title: **한국어(Korean)** — <a href="/rpg-mo-wiki/">see the English page</a>
+> 🇰🇷 한국어 버전 — 영어 원본 제목: **Main Page** — <a href="/rpg-mo-wiki/">see the English page</a>
 
-## 한국어
+## 이 위키에 대하여
 
-(게임 아이디: balgowlah, Poliecon 한국어 번역에 많은 도움 부탁 드립니다.)
+이 GitHub 저장소는 독립적인 저작물이 아닙니다. Fandom 위키, modb, rpgmobob.com 등 기존 커뮤니티 소스에서 콘텐츠를 집계, 재구성 및 번역하여 구축되었으며, 모든 출처는 [출처 및 감사](/sources) 페이지에 명시되어 있습니다.
+
+이 프로젝트의 목표는 두 가지입니다:
+- RPG MO에 관한 분산된 정보를 **하나의 깔끔하고 구조화된 장소에 통합**합니다.
+- 플레이어가 게임 정보를 빠르고 정확하게 찾을 수 있도록 **AI 도구(ChatGPT, Claude 또는 RAG 기반 어시스턴트)를 위한 신뢰할 수 있는 지식 베이스**로 제공합니다. 이 저장소는 [CodeGraph](https://github.com/colbymchenry/codegraph)로 인덱싱되어 AI 에이전트가 구조와 콘텐츠를 직접 탐색할 수 있습니다.
+
+기여하거나, 오류를 신고하거나, 작성한 콘텐츠 삭제를 요청하려면 [GitHub 저장소](https://github.com/marcqg/rpg-mo-wiki)에서 issue를 열어주세요.
+
+
 
 ## _RPG MO 위키에 오실걸 환영 합니다.!_  **RPG MO 란?** 
 

@@ -13,7 +13,7 @@ This GitHub repository is not an original work. It was built by aggregating, ref
 
 The goal of this project is twofold:
 - **Condense** scattered RPG MO knowledge into a single, clean, structured place.
-- **Serve as a reliable knowledge base for AI tools** (such as ChatGPT, Claude, or any RAG-based assistant) that players might use to find game information quickly and accurately.
+- **Serve as a reliable knowledge base for AI tools** (such as ChatGPT, Claude, or any RAG-based assistant) that players might use to find game information quickly and accurately. This repository is also indexed with [CodeGraph](https://github.com/colbymchenry/codegraph) to make its structure and content directly explorable by AI coding agents.
 
 If you want to contribute, report an error, or request the removal of content you authored, please open an issue on the [GitHub repository](https://github.com/marcqg/rpg-mo-wiki).
 
