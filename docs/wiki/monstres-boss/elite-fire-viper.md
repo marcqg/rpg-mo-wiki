@@ -1,7 +1,8 @@
 ---
-title: "(Elite) Flaming Giant 4"
-slug: /elite-flaming-giant-4
+title: "(Elite) Fire Viper"
+slug: /elite-fire-viper
 ---
+
 ## Loot
 
 | Large Potion of Accuracy<br/>10% | Superior Potion of Accuracy<br/>2.7% | Large Potion of Strength<br/>8.73% | Superior Potion of Strength<br/>2.36% | [![Cooked White Shark](https://static.wikia.nocookie.net/rpg-mo/images/5/59/Cooked_White_Shark.png/revision/latest?cb=20150224212809)](https://static.wikia.nocookie.net/rpg-mo/images/5/59/Cooked_White_Shark.png/revision/latest?cb=20150224212809)  <br/>[Cooked White Shark](/cooked-white-shark)<br/>9.15% |

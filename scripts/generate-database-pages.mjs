@@ -10,7 +10,7 @@ const ROOT = path.resolve(import.meta.dirname, '..');
 const DATA_DIR = path.join(ROOT, 'data', 'modb');
 const OUT_DIR = path.join(ROOT, 'docs', 'database');
 const MODB_URL = 'https://modb.rpgmobob.com/#/';
-const MAX_ROWS_PER_PAGE = 350;
+const MAX_ROWS_PER_PAGE = Infinity;
 
 function slugify(str) {
   return String(str)
