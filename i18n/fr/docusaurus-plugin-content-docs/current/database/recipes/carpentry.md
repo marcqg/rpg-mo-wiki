@@ -1,9 +1,9 @@
 ---
-title: "Carpentry"
+title: "Menuiserie"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Carpentry** — <a href="/rpg-mo-wiki/database/recipes/carpentry">voir la page en anglais</a>
 
-## Carpentry
+## Menuiserie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

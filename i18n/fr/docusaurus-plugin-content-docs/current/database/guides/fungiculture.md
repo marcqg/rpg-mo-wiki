@@ -4,7 +4,7 @@ title: "Fongi culture"
 
 > 🇫🇷 Traduction française — nom original (anglais) : **Fungiculture** — <a href="/rpg-mo-wiki/database/guides/fungiculture">voir la page en anglais</a>
 
-## Fungi culture
+## Fongi culture
 
 | Spore | Niveau | Coût | XP | Durée (min) | Produit | Prix de vente | Vendeur de spores | Acheteur de champignons | Emplacements de culture |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

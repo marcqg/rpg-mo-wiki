@@ -1,9 +1,9 @@
 ---
-title: "Wizardry"
+title: "Sorcellerie"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Wizardry** — <a href="/rpg-mo-wiki/database/recipes/wizardry">voir la page en anglais</a>
 
-## Wizardry
+## Sorcellerie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

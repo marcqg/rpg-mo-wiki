@@ -1,9 +1,9 @@
 ---
-title: "House"
+title: "Maison"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **House** — <a href="/rpg-mo-wiki/database/items/house">voir la page en anglais</a>
 
-## House
+## Maison
 
 | Name | Price | Stats |
 | --- | --- | --- |

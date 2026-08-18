@@ -1,9 +1,9 @@
 ---
-title: "Jewelry"
+title: "Bijoux"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Jewelry** — <a href="/rpg-mo-wiki/database/items/jewelry">voir la page en anglais</a>
 
-## Jewelry
+## Bijoux
 
 | Name | Price | Stats |
 | --- | --- | --- |

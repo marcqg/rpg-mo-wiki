@@ -1,9 +1,9 @@
 ---
-title: "Jewelry"
+title: "Bijouterie"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Jewelry** — <a href="/rpg-mo-wiki/database/recipes/jewelry">voir la page en anglais</a>
 
-## Jewelry
+## Bijouterie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

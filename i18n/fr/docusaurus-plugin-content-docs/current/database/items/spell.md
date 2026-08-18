@@ -1,9 +1,9 @@
 ---
-title: "Spell"
+title: "Sorts"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Spell** — <a href="/rpg-mo-wiki/database/items/spell">voir la page en anglais</a>
 
-## Spell
+## Sorts
 
 | Name | Price | Stats |
 | --- | --- | --- |

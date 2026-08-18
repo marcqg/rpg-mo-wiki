@@ -1,9 +1,9 @@
 ---
-title: "Legendary"
+title: "Légendaire"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Legendary** — <a href="/rpg-mo-wiki/database/pets/legendary">voir la page en anglais</a>
 
-## Legendary
+## Légendaire
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

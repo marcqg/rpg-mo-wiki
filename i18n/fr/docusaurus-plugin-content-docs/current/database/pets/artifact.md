@@ -1,9 +1,9 @@
 ---
-title: "Artifact"
+title: "Artéfact"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Artifact** — <a href="/rpg-mo-wiki/database/pets/artifact">voir la page en anglais</a>
 
-## Artifact
+## Artéfact
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

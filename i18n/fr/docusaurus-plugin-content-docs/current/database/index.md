@@ -1,5 +1,5 @@
 ---
-title: "Database (modb)"
+title: "Base de données (modb)"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Database (modb)** — <a href="/rpg-mo-wiki/database/index">voir la page en anglais</a>
 

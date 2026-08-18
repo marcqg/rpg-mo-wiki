@@ -1,9 +1,9 @@
 ---
-title: "Pet Item"
+title: "Objets pour pets"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Pet Item** — <a href="/rpg-mo-wiki/database/items/pet-item">voir la page en anglais</a>
 
-## Pet Item
+## Objets pour pets
 
 | Name | Price | Stats |
 | --- | --- | --- |

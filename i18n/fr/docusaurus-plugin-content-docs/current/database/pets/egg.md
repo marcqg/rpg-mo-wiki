@@ -1,9 +1,9 @@
 ---
-title: "Egg"
+title: "Œuf"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Egg** — <a href="/rpg-mo-wiki/database/pets/egg">voir la page en anglais</a>
 
-## Egg
+## Œuf
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

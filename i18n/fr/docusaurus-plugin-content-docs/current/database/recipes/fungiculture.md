@@ -1,9 +1,9 @@
 ---
-title: "Fungiculture"
+title: "Fongi culture"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Fungiculture** — <a href="/rpg-mo-wiki/database/recipes/fungiculture">voir la page en anglais</a>
 
-## Fungiculture
+## Fongi culture
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

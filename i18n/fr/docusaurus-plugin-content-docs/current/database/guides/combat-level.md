@@ -4,7 +4,7 @@ title: "Niveau de Combat"
 
 > 🇫🇷 Traduction française — nom original (anglais) : **Combat Level** — <a href="/rpg-mo-wiki/database/guides/combat-level">voir la page en anglais</a>
 
-## Formule du Niveau de Combat
+## Niveau de Combat
 
 D'après le [Calculateur de Niveau de Combat](https://www.rpgmobob.com/cl) de bobdylan, le Niveau de Combat est calculé à partir des statistiques du personnage (précision, force, défense, santé, magie, archérie) :
 

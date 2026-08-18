@@ -1,9 +1,9 @@
 ---
-title: "Forging"
+title: "Forge"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Forging** — <a href="/rpg-mo-wiki/database/recipes/forging">voir la page en anglais</a>
 
-## Forging
+## Forge
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

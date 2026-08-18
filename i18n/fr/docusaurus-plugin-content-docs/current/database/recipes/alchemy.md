@@ -1,9 +1,9 @@
 ---
-title: "Alchemy"
+title: "Alchimie"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Alchemy** — <a href="/rpg-mo-wiki/database/recipes/alchemy">voir la page en anglais</a>
 
-## Alchemy
+## Alchimie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

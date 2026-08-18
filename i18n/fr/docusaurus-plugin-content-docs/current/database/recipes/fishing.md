@@ -1,9 +1,9 @@
 ---
-title: "Fishing"
+title: "Pêche"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Fishing** — <a href="/rpg-mo-wiki/database/recipes/fishing">voir la page en anglais</a>
 
-## Fishing
+## Pêche
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

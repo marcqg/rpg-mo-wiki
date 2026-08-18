@@ -1,9 +1,9 @@
 ---
-title: "Cooking"
+title: "Cuisine"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Cooking** — <a href="/rpg-mo-wiki/database/recipes/cooking">voir la page en anglais</a>
 
-## Cooking
+## Cuisine
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

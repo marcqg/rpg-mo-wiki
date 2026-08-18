@@ -1,9 +1,9 @@
 ---
-title: "Woodcutting"
+title: "Bûcheronnage"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Woodcutting** — <a href="/rpg-mo-wiki/database/recipes/woodcutting">voir la page en anglais</a>
 
-## Woodcutting
+## Bûcheronnage
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

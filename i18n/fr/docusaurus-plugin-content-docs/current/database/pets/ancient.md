@@ -1,9 +1,9 @@
 ---
-title: "Ancient"
+title: "Ancien"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Ancient** — <a href="/rpg-mo-wiki/database/pets/ancient">voir la page en anglais</a>
 
-## Ancient
+## Ancien
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

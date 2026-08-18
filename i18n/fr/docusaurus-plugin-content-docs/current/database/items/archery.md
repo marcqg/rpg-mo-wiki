@@ -1,9 +1,9 @@
 ---
-title: "Archery"
+title: "Archérie"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Archery** — <a href="/rpg-mo-wiki/database/items/archery">voir la page en anglais</a>
 
-## Archery
+## Archérie
 
 | Name | Price | Stats |
 | --- | --- | --- |

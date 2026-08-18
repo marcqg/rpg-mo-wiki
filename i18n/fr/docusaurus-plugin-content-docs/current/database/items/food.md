@@ -1,9 +1,9 @@
 ---
-title: "Food"
+title: "Nourriture"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Food** — <a href="/rpg-mo-wiki/database/items/food">voir la page en anglais</a>
 
-## Food
+## Nourriture
 
 | Name | Price | Stats |
 | --- | --- | --- |

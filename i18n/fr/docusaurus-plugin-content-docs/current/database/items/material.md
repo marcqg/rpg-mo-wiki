@@ -1,9 +1,9 @@
 ---
-title: "Material"
+title: "Matériaux"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Material** — <a href="/rpg-mo-wiki/database/items/material">voir la page en anglais</a>
 
-## Material
+## Matériaux
 
 | Name | Price | Stats |
 | --- | --- | --- |

@@ -4,7 +4,7 @@ title: "Spots de Pêche"
 
 > 🇫🇷 Traduction française — nom original (anglais) : **Fishing Spots** — <a href="/rpg-mo-wiki/database/guides/fishing-spots">voir la page en anglais</a>
 
-## Canne à pêche
+## Spots de Pêche
 
 ### Niveaux 1-20
 

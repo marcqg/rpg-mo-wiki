@@ -1,9 +1,9 @@
 ---
-title: "Tool"
+title: "Outils"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Tool** — <a href="/rpg-mo-wiki/database/items/tool">voir la page en anglais</a>
 
-## Tool
+## Outils
 
 | Name | Price | Stats |
 | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Weapon"
+title: "Armes"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Weapon** — <a href="/rpg-mo-wiki/database/items/weapon">voir la page en anglais</a>
 
-## Weapon
+## Armes
 
 | Name | Price | Stats |
 | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Mining"
+title: "Minage"
 ---
 > 🇫🇷 Traduction française — nom original (anglais) : **Mining** — <a href="/rpg-mo-wiki/database/recipes/mining">voir la page en anglais</a>
 
-## Mining
+## Minage
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |
