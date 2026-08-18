@@ -1,0 +1,37 @@
+---
+title: "Mods"
+slug: /mods
+---
+> 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/mods">see the English page</a>
+
+Mods are new, additional content to the game that have not been included in the initial launching of the game. Some of the mods will slow down your device so they can be activated individually if you want them. There are two ways to access the mods.
+
+1.  Open the chat window and type /mods and hit &lt;enter> or
+2.  Select the 'Menu' at the top of the game screen and select 'Enable mods' near the bottom of the list. Then you will see the following information screen:
+
+| Enable mods? These are produced<br/>by 3rd party and may not work on<br/>all devices. Also we are not<br/>responsible for any damages that<br/>may occur. To undo mods, just<br/>refresh your browser or restart<br/>your app. |
+| --- |
+| Yes No |
+
+Select 'Yes' to continue.
+
+A window will open showing your mod selection options and a description of each. As new mods are added, they will be select-able from that list. You can, of course, close the window without selecting any mods. Current mods are:
+
+1.  **FullScreen mode** - Provides a much larger playing field, greater visibility and, using a computer and your browsers 'Full Screen' mode (F11) gives you a closer view of the bigger game. Not recommended for mobile devices. WARNING: on slow devices this mod may affect game performance. After loading the mod, enable Fullscreen Mode (on) in Menu - Game options - Video.
+2.  **Auto Cast** - This mod enables auto-casting magic (which becomes automatic when engaging in combat). It is disabled by default, to turn it on enable Autocast (on) in Menu - Game options.
+3.  **Enhanced Map** - Map now shows current position and details including travel signs, mobs, bosses, resource spots and POI (Points Of Interest). In dungeons, follow players are shown in the full map. Minimap shows bigger dots, yellow-colored for friends.
+4.  **Enhanced Market** - Allows 'Resubmit' or 'Edit of market offers, display target player for transactions, highlights offers directed to the player and other market improvements. Adds [Trade channel](/market-guide) $$.
+5.  **Keybinding Extensions** - Adds an interface to manage custom keybindings for various actions. From the Menu - Keybindings allows access to mod customization.
+6.  **Gear Screen Mod** - From your Inventory, click (show Equipment) to access a gear screen where you can easily see what you have equipped and what you're missing. This screen can be moved. And click "Equipped" to switch it to "Vanity Set;" Using the in-game /wiki search under Items, then use (Try-On) to equip items to your Vanity Set and associated /stat bonuses..
+7.  **Pet Inventory** - Attaches the [Pet Inventory](/pets) to the main one ([Inventory](/inventory)). You will see the Pet's inventory beneath your main inventory. You will also be able to transfer items between the two inventories very easily. By default, left-clicking items will sent them from your inventory to your pet's and shift+clicking will cause you to use/equip items. Additional features include: (unload) and (load) to unload/load all pet inventory items quickly. Use with Keybinding Mod for single key movement of items in and out.
+8.  **Mouseover Stats** - When you mouse-over a mob, an item or an object, you'll be able to see its stats. The stats shown are 'A' for accuracy, 'S' for strength, 'D' for defense and 'Hp' for health. Objects show a description or required levels. A Menu - Game options item allows you to tweak panel appearance.
+9.  **Updated Health Bar** - Will now display health values for you and your target. You'll see current health values on your and your targets health bars that adjust as you take/deal damage or heal.
+10.  **Chest Interface** - New options for 'Sorting', 'Withdrawing' and 'Depositing'. You have several options for how to sort items including 'inventory first'; you can also use withdraw 'All' to fill your inventory quickly or deposit 'All+' to deposit all unequipped items at once. (If you Ctrl+click an item in your inventory, All+ will also ignore that item. This is useful for items that you cannot equip but want to keep in your inventory).
+11.  **Right-Click Menu Extensions** - Right-clicking on MOBs: 'Drops', 'Combat Analysis' and /wiki access. These are new menu options when you right click on mobs. Item Drops shows all items the mob is able to drop (and accurate drop rates). Combat Analysis shows the expected amount of damage that you and the mob will do. Right click on items/mobs allows wiki search. On a player, allows whispering. On inventory items allows you to destroy all similar items and to search wiki. Additionally, this mod will show gathering success rates when used on mining nodes, trees and fishing spots. Also for Furnace, Campfire and Kettle.
+12.  **Magic Damage Interface** - Magic damage does now appear over the enemy. When you cast spells, you will see the amount of damage they do appear over the enemy's' head. Additionally, new keybinds are available for magic spells: 7 8 9 0 as well as the number pad 1 2 3 4.
+13.  **In-Game Wiki** - An in-game wiki will now be available in this menu. You can use the /wiki to browse the games database for items/monsters/vendors to see information like stats drops, vendor availability/prices and craft recipes. There are plenty of options for searching the /wiki (such as by name, by min-skill requirement, by type, etc) to make navigating it and finding what you're looking fore easier. On crafting recipes you can look at crafting formula or learn the formula for later use in the Forge Mod.
+14.  **Miscellaneous Improvements** - Various improvements of the games User Interface. These are 'small' mods that didn't require individual load options. Included at the moment: 1) Indicators for items that will be saved upon death, 2) A mouse-over Toolbar at the top showing various useful information.
+15.  **Chat Extensions** - Adds chat filters and commands. A new chat filter (found in the Filters menu) has been added that blocks 'spam' messages including: 'I think I'm missing something', 'Cannot do that yet', 'You are under attack', 'You feel a bit better', and 'It's a \[object name\]; in addition, when you do /online, your friends will be yellow colored and mods/admins as well with green/orange colors. Another option allows you to enable links in chat. The mod also adds newbie tips shown every 10 minutes (can be disabled from Menu - Game options). Also, you can right-click a player's name in chat window to ignore, add/remove as friend. Also [chat commands](/chat-commands) (/ping, /played. /wiki . . .) are added.
+16.  **Farming Improvements** - Adds the ability to 'queue' [farming](/farming) actions. Queued farming actions (seeding, harvesting and raking) will occur automatically once you are no longer busy with the previous actin. You can Queue one plot at a time or the entire farm, if you like. Additional keybinds include: Ctrl (to queue actions) and Space (to toggle between Active and Paused). Also the Island Deed now sends you on a path straight to the sign for a quick exit.
+
+**REMEMBER**,to undo mods, just refresh your browser or restart your app.

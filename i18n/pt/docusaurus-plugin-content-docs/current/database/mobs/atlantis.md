@@ -1,0 +1,17 @@
+---
+title: "Atlantis"
+---
+> 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/mobs/atlantis">see the English page</a>
+
+## Atlantis
+
+| Name | Combat Level | Health | Aggressive | Drops |
+| --- | --- | --- | --- | --- |
+| Atlantis Golem | 472 | 280 | Yes | Raw White Shark (2%)<br/>Snow Boulder (0.29%)<br/>Sapphire Wand (0.24%)<br/>Dragonstone Gloves (0.24%)<br/>[Relic] Golem Boots (0.24%)<br/>Dragonstone Boots (0.24%)<br/>Feral Shard (0.24%)<br/>Incarnation Crystal (0.24%)<br/>Oblivion Blade (0.24%)<br/>Dragonstone Scythe (0.24%)<br/>Large Potion Of Magic (0.24%)<br/>Chaotic Blade (0.24%)<br/>Repeat Quest Permission (0.15%)<br/>Fate Scepter (0.15%)<br/>Book of Darkness (0.15%)<br/>Cursed Hat (0.14%) |
+| Atlantis Guardian | 448 | 265 | Yes | Raw White Shark (2%)<br/>Snow Boulder (0.29%)<br/>Sapphire Staff (0.24%)<br/>Dragonstone Gloves (0.24%)<br/>Cursed Boots (0.24%)<br/>Dragonstone Boots (0.24%)<br/>Incarnation Shard (0.24%)<br/>Oblivion Blade (0.24%)<br/>Dragonstone Dagger (0.24%)<br/>Incarnation Crystal (0.24%)<br/>Chaotic Blade (0.24%)<br/>Dragonstone Helmet (0.24%)<br/>Repeat Quest Permission (0.15%)<br/>Spectral Scepter (0.15%)<br/>Nephilim Book (0.15%)<br/>Cursed Robe (0.14%) |
+| Electric Mushroom | 202 | 200 | No | Electric Mushroom Spores (19.5%)<br/>Electric Mushroom (7.8%)<br/>Whiland Soul (2.5%)<br/>Snow Boulder (0.21%) |
+| Lord of Atlantis | 487 | 300 | Yes | Raw White Shark (2%)<br/>Snow Boulder (0.28%)<br/>Sapphire Staff (0.24%)<br/>Feral Shard (0.24%)<br/>Feral Crystal (0.24%)<br/>Cursed Robe Bottom (0.24%)<br/>Dragonstone Gloves (0.24%)<br/>Edoylerite Shard (0.24%)<br/>Dragonstone Boots (0.24%)<br/>Oblivion Blade (0.24%)<br/>Chaotic Blade (0.24%)<br/>Landlord Crown (0.24%)<br/>Repeat Quest Permission (0.15%)<br/>Spectral Scepter (0.15%)<br/>Nephilim Book (0.15%)<br/>Dragonstone Blade (0.14%)<br/>War Glaive (0.14%)<br/>Bahamut Blade (0.14%) |
+| Medusa | 441 | 255 | Yes | Magic Rune [Rare] (4.84%)<br/>Empty Superior Vial (4.55%)<br/>Raw Giant Squid (2%)<br/>Uncut High Grade Diamond (0.98%)<br/>Snow Boulder (0.26%)<br/>Flaming Ruby Staff (0.24%)<br/>Anti Dragon Shield (0.23%)<br/>Platinum Diamond Ring (0.23%)<br/>Flamberge (0.23%)<br/>Flaming Sapphire Staff (0.23%) |
+| Obsidian Dragon | 432 | 250 | Yes | Raw White Shark (2%)<br/>Snow Boulder (0.29%)<br/>Sapphire Staff (0.24%)<br/>Feral Shard (0.24%)<br/>Feral Crystal (0.24%)<br/>Dragonstone Gloves (0.24%)<br/>Dragonstone Boots (0.24%)<br/>Oblivion Blade (0.24%)<br/>Chaotic Blade (0.24%)<br/>Landlord Crown (0.24%)<br/>Repeat Quest Permission (0.15%)<br/>Spectral Scepter (0.15%)<br/>Spectral Staff (0.15%)<br/>Cursed Robe (0.14%)<br/>Obsidian Dragon [Egg] (0.05%) |
+| Tomb Guardian | 497 | 350 | Yes | Snow Boulder (0.28%)<br/>Uncut High Grade Jadeite (0.25%)<br/>Gilded Chainmail (0.25%)<br/>Gilded Boots (0.25%)<br/>Steel Scimitar (0.25%)<br/>Steel Scythe (0.25%)<br/>Silver Necklace (0.25%)<br/>High Weapon Enchant Scroll (0.25%)<br/>High Armor Enchant Scroll (0.25%)<br/>High Wings Enchant Scroll (0.24%)<br/>High Jewelry Enchant Scroll (0.24%)<br/>Lightning Wings (0.24%)<br/>Gorgon Wings (0.24%)<br/>Flamberge (0.24%)<br/>Trident (0.24%)<br/>Enchanted Gilded Chainmail (0.24%)<br/>White Gold Sapphire Ring (0.24%)<br/>White Gold Emerald Ring (0.24%)<br/>White Gold Necklace (0.24%)<br/>Ruby Dragon Gloves (0.24%)<br/>Sapphire Gloves (0.24%)<br/>Grendalf Robe (0.24%)<br/>Paladin Shield (0.24%)<br/>Summoning Scroll (0.07%) |
+

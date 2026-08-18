@@ -1,0 +1,15 @@
+---
+title: "Steel Halberd"
+slug: /steel-halberd
+---
+> 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/steel-halberd">see the English page</a>
+
++50 Aim
+
++55 Power
+
+40 Accuracy
+
+Both Hands
+
+Value 13,306

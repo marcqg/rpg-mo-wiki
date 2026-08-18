@@ -1,0 +1,7 @@
+---
+title: "High Wings Enchant Scroll"
+slug: /high-wings-enchant-scroll
+---
+> 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/high-wings-enchant-scroll">see the English page</a>
+
+Value 150,000
