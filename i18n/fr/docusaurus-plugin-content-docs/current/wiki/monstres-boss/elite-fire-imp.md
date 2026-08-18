@@ -1,9 +1,9 @@
 ---
-title: "(Elite) Archdevil 6"
-slug: /elite-archdevil-6
+title: "(Elite) Fire Imp"
+slug: /elite-fire-imp
 ---
 
-> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Archdevil 6** — <a href="/rpg-mo-wiki/elite-archdevil-6">voir la page en anglais</a>
+> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Fire Imp** — <a href="/rpg-mo-wiki/elite-fire-imp">voir la page en anglais</a>
 
 ## Butin
 

@@ -1,9 +1,9 @@
 ---
-title: "(Elite) Fire Imp 3"
-slug: /elite-fire-imp-3
+title: "(Elite) Flaming Giant"
+slug: /elite-flaming-giant
 ---
 
-> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Fire Imp 3** — <a href="/rpg-mo-wiki/elite-fire-imp-3">voir la page en anglais</a>
+> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Flaming Giant** — <a href="/rpg-mo-wiki/elite-flaming-giant">voir la page en anglais</a>
 
 ## Butin
 

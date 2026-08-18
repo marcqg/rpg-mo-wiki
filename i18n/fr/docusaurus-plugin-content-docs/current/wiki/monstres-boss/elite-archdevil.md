@@ -1,9 +1,9 @@
 ---
-title: "(Elite) Archdevil 3"
-slug: /elite-archdevil-3
+title: "(Elite) Archdevil"
+slug: /elite-archdevil
 ---
 
-> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Archdevil 3** — <a href="/rpg-mo-wiki/elite-archdevil-3">voir la page en anglais</a>
+> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Archdevil** — <a href="/rpg-mo-wiki/elite-archdevil">voir la page en anglais</a>
 
 ## Butin
 

@@ -1,9 +1,9 @@
 ---
-title: "(Elite) Fire Viper 1"
-slug: /elite-fire-viper-1
+title: "(Elite) Efreet"
+slug: /elite-efreet
 ---
 
-> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Fire Viper 1** — <a href="/rpg-mo-wiki/elite-fire-viper-1">voir la page en anglais</a>
+> 🇫🇷 Traduction française — nom original (anglais) : **(Elite) Efreet** — <a href="/rpg-mo-wiki/elite-efreet">voir la page en anglais</a>
 
 ## Butin
 
