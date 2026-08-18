@@ -1,9 +1,9 @@
 ---
-title: "Armor"
+title: "Zbroja"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/items/armor">see the English page</a>
 
-## Armor
+## Zbroja
 
 | Name | Price | Stats |
 | --- | --- | --- |

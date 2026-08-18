@@ -1,9 +1,9 @@
 ---
-title: "Mining Routes"
+title: "Trasy górnicze"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/guides/mining-routes">see the English page</a>
 
-## Mining Routes
+## Trasy górnicze
 
 | Material | Level Required | Location | Distance (tiles) | Notes |
 | --- | --- | --- | --- | --- |

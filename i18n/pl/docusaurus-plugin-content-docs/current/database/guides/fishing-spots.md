@@ -1,9 +1,9 @@
 ---
-title: "Fishing Spots"
+title: "Miejsca połowów"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/guides/fishing-spots">see the English page</a>
 
-## Fishing Rod
+## Miejsca połowów
 
 ### Levels 1-20
 

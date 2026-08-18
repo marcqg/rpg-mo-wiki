@@ -1,9 +1,9 @@
 ---
-title: "Wizardry"
+title: "Feitiçaria"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/wizardry">see the English page</a>
 
-## Wizardry
+## Feitiçaria
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

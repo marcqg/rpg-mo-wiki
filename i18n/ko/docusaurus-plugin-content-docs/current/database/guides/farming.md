@@ -1,9 +1,9 @@
 ---
-title: "Farming"
+title: "농업"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/guides/farming">see the English page</a>
 
-## Farming
+## 농업
 
 | Seed | Level | Cost | XP | Time (min) | Grows Into | Sells For | Buy From | Sell To |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

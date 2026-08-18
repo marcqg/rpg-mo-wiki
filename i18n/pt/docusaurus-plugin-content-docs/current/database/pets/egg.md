@@ -1,9 +1,9 @@
 ---
-title: "Egg"
+title: "Ovo"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/pets/egg">see the English page</a>
 
-## Egg
+## Ovo
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

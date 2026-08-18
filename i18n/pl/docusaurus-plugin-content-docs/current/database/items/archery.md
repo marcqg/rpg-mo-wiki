@@ -1,9 +1,9 @@
 ---
-title: "Archery"
+title: "Łucznictwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/items/archery">see the English page</a>
 
-## Archery
+## Łucznictwo
 
 | Name | Price | Stats |
 | --- | --- | --- |

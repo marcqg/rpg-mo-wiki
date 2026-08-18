@@ -1,9 +1,9 @@
 ---
-title: "Rare"
+title: "Rzadki"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/pets/rare">see the English page</a>
 
-## Rare
+## Rzadki
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

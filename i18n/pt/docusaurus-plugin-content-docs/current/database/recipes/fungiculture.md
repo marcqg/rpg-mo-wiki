@@ -1,9 +1,9 @@
 ---
-title: "Fungiculture"
+title: "Fungicultura"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/fungiculture">see the English page</a>
 
-## Fungiculture
+## Fungicultura
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Rare"
+title: "희귈"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/pets/rare">see the English page</a>
 
-## Rare
+## 희귈
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

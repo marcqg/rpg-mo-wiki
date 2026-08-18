@@ -1,9 +1,9 @@
 ---
-title: "Alchemy"
+title: "Alquimia"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/alchemy">see the English page</a>
 
-## Alchemy
+## Alquimia
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

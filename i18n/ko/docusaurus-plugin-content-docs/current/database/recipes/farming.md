@@ -1,9 +1,9 @@
 ---
-title: "Farming"
+title: "농업"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/farming">see the English page</a>
 
-## Farming
+## 농업
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

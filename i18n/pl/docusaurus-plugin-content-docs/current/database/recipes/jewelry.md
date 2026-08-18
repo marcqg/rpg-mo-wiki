@@ -1,9 +1,9 @@
 ---
-title: "Jewelry"
+title: "Złotnictwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/jewelry">see the English page</a>
 
-## Jewelry
+## Złotnictwo
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

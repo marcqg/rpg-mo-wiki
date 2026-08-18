@@ -1,9 +1,9 @@
 ---
-title: "Jewelry"
+title: "보석류"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/jewelry">see the English page</a>
 
-## Jewelry
+## 보석류
 
 | Name | Price | Stats |
 | --- | --- | --- |

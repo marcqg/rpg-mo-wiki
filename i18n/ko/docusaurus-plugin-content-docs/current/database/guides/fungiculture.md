@@ -1,9 +1,9 @@
 ---
-title: "Fungiculture"
+title: "버섯 재배"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/guides/fungiculture">see the English page</a>
 
-## Fungiculture
+## 버섯 재배
 
 | Spore | Level | Cost | XP | Time (min) | Grows Into | Sells For | Spore Vendor | Mushroom Buyer | Growing Locations |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

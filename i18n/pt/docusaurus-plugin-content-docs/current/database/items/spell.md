@@ -1,9 +1,9 @@
 ---
-title: "Spell"
+title: "Magias"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/items/spell">see the English page</a>
 
-## Spell
+## Magias
 
 | Name | Price | Stats |
 | --- | --- | --- |

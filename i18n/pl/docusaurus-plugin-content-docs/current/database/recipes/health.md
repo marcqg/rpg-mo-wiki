@@ -1,9 +1,9 @@
 ---
-title: "Health"
+title: "Zdrowie"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/health">see the English page</a>
 
-## Health
+## Zdrowie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

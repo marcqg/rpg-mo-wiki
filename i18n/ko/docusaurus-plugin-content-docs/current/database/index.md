@@ -1,5 +1,5 @@
 ---
-title: "Database (modb)"
+title: "데이터베이스 (modb)"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/index">see the English page</a>
 

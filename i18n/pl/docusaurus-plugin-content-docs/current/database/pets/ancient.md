@@ -1,9 +1,9 @@
 ---
-title: "Ancient"
+title: "Pradawny"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/pets/ancient">see the English page</a>
 
-## Ancient
+## Pradawny
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

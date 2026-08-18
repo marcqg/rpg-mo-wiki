@@ -1,9 +1,9 @@
 ---
-title: "Mining Routes"
+title: "채광 루트"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/guides/mining-routes">see the English page</a>
 
-## Mining Routes
+## 채광 루트
 
 | Material | Level Required | Location | Distance (tiles) | Notes |
 | --- | --- | --- | --- | --- |

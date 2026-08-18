@@ -1,9 +1,9 @@
 ---
-title: "Spell"
+title: "Czary"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/items/spell">see the English page</a>
 
-## Spell
+## Czary
 
 | Name | Price | Stats |
 | --- | --- | --- |

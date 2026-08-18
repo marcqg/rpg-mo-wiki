@@ -1,9 +1,9 @@
 ---
-title: "World Map"
+title: "Mapa do Mundo"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/guides/world-map">see the English page</a>
 
-## Zones
+## Zonas
 
 Liste des zones de la carte du monde. La carte interactive elle-même (avec navigation visuelle) reste disponible sur le site d'origine.
 

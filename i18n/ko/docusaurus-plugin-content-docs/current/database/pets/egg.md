@@ -1,9 +1,9 @@
 ---
-title: "Egg"
+title: "알"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/pets/egg">see the English page</a>
 
-## Egg
+## 알
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Fishing"
+title: "낙시"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/fishing">see the English page</a>
 
-## Fishing
+## 낙시
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

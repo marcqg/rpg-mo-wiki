@@ -1,9 +1,9 @@
 ---
-title: "Rare"
+title: "Raro"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/pets/rare">see the English page</a>
 
-## Rare
+## Raro
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

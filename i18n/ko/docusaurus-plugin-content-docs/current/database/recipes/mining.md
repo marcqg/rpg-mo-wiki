@@ -1,9 +1,9 @@
 ---
-title: "Mining"
+title: "채광"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/mining">see the English page</a>
 
-## Mining
+## 채광
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

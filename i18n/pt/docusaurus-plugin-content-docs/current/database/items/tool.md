@@ -1,9 +1,9 @@
 ---
-title: "Tool"
+title: "Ferramentas"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/items/tool">see the English page</a>
 
-## Tool
+## Ferramentas
 
 | Name | Price | Stats |
 | --- | --- | --- |

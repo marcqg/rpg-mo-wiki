@@ -1,9 +1,9 @@
 ---
-title: "Fishing Spots"
+title: "Locais de Pesca"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/guides/fishing-spots">see the English page</a>
 
-## Fishing Rod
+## Locais de Pesca
 
 ### Levels 1-20
 

@@ -1,9 +1,9 @@
 ---
-title: "Carpentry"
+title: "Ciesielstwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/carpentry">see the English page</a>
 
-## Carpentry
+## Ciesielstwo
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

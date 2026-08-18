@@ -1,9 +1,9 @@
 ---
-title: "Archery"
+title: "활각술"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/archery">see the English page</a>
 
-## Archery
+## 활각술
 
 | Name | Price | Stats |
 | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "World Map"
+title: "세계 지도"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/guides/world-map">see the English page</a>
 
-## Zones
+## 지역
 
 Liste des zones de la carte du monde. La carte interactive elle-même (avec navigation visuelle) reste disponible sur le site d'origine.
 

@@ -1,9 +1,9 @@
 ---
-title: "Wizardry"
+title: "마법"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/wizardry">see the English page</a>
 
-## Wizardry
+## 마법
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Weapon"
+title: "무기"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/weapon">see the English page</a>
 
-## Weapon
+## 무기
 
 | Name | Price | Stats |
 | --- | --- | --- |

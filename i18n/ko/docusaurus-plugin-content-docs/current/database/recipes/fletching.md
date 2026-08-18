@@ -1,9 +1,9 @@
 ---
-title: "Fletching"
+title: "화습 제작"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/fletching">see the English page</a>
 
-## Fletching
+## 화습 제작
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Alchemy"
+title: "연금술"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/alchemy">see the English page</a>
 
-## Alchemy
+## 연금술
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

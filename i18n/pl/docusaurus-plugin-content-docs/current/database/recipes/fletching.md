@@ -1,9 +1,9 @@
 ---
-title: "Fletching"
+title: "Fletchowanie"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/fletching">see the English page</a>
 
-## Fletching
+## Fletchowanie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

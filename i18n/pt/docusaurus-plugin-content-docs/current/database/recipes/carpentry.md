@@ -1,9 +1,9 @@
 ---
-title: "Carpentry"
+title: "Carpintaria"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/carpentry">see the English page</a>
 
-## Carpentry
+## Carpintaria
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

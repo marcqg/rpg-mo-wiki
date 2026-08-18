@@ -1,9 +1,9 @@
 ---
-title: "Cooking"
+title: "Culinária"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/cooking">see the English page</a>
 
-## Cooking
+## Culinária
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

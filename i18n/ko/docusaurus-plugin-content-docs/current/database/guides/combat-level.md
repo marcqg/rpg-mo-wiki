@@ -1,9 +1,9 @@
 ---
-title: "Combat Level"
+title: "전투 레벨"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/guides/combat-level">see the English page</a>
 
-## Combat Level Formula
+## 전투 레벨 공식
 
 According to bobdylan's [Combat Level Calculator](https://www.rpgmobob.com/cl), Combat Level is calculated from the character's stats (accuracy, strength, defense, health, magic, archery):
 

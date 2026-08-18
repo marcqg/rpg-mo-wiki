@@ -1,9 +1,9 @@
 ---
-title: "Fishing"
+title: "Wędkarstwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/fishing">see the English page</a>
 
-## Fishing
+## Wędkarstwo
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

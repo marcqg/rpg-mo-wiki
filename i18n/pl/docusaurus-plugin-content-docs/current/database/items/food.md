@@ -1,9 +1,9 @@
 ---
-title: "Food"
+title: "Jedzenie"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/items/food">see the English page</a>
 
-## Food
+## Jedzenie
 
 | Name | Price | Stats |
 | --- | --- | --- |

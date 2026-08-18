@@ -1,9 +1,9 @@
 ---
-title: "Combat Level"
+title: "Poziom walki"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/guides/combat-level">see the English page</a>
 
-## Combat Level Formula
+## Poziom walki
 
 According to bobdylan's [Combat Level Calculator](https://www.rpgmobob.com/cl), Combat Level is calculated from the character's stats (accuracy, strength, defense, health, magic, archery):
 

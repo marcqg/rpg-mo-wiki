@@ -1,9 +1,9 @@
 ---
-title: "Forging"
+title: "Kucie"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/forging">see the English page</a>
 
-## Forging
+## Kucie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

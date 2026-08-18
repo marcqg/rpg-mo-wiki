@@ -1,9 +1,9 @@
 ---
-title: "Jewelry"
+title: "Joalheria"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/jewelry">see the English page</a>
 
-## Jewelry
+## Joalheria
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

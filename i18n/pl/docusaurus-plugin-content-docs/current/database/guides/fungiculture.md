@@ -1,9 +1,9 @@
 ---
-title: "Fungiculture"
+title: "Grzybiarstwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/guides/fungiculture">see the English page</a>
 
-## Fungiculture
+## Grzybiarstwo
 
 | Spore | Level | Cost | XP | Time (min) | Grows Into | Sells For | Spore Vendor | Mushroom Buyer | Growing Locations |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Woodcutting"
+title: "베기"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/woodcutting">see the English page</a>
 
-## Woodcutting
+## 베기
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

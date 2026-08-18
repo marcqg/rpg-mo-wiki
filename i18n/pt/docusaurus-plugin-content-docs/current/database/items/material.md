@@ -1,9 +1,9 @@
 ---
-title: "Material"
+title: "Materiais"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/items/material">see the English page</a>
 
-## Material
+## Materiais
 
 | Name | Price | Stats |
 | --- | --- | --- |

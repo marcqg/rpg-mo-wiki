@@ -1,9 +1,9 @@
 ---
-title: "Jewelry"
+title: "보석 세공"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/jewelry">see the English page</a>
 
-## Jewelry
+## 보석 세공
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

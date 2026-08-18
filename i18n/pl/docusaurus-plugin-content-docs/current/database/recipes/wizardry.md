@@ -1,9 +1,9 @@
 ---
-title: "Wizardry"
+title: "Czarodziejstwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/wizardry">see the English page</a>
 
-## Wizardry
+## Czarodziejstwo
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Forging"
+title: "단조"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/forging">see the English page</a>
 
-## Forging
+## 단조
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Fungiculture"
+title: "Grzybiarstwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/fungiculture">see the English page</a>
 
-## Fungiculture
+## Grzybiarstwo
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

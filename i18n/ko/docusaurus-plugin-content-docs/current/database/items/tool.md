@@ -1,9 +1,9 @@
 ---
-title: "Tool"
+title: "도구"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/tool">see the English page</a>
 
-## Tool
+## 도구
 
 | Name | Price | Stats |
 | --- | --- | --- |

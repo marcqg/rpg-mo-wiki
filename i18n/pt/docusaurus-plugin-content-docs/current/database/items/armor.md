@@ -1,9 +1,9 @@
 ---
-title: "Armor"
+title: "Armaduras"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/items/armor">see the English page</a>
 
-## Armor
+## Armaduras
 
 | Name | Price | Stats |
 | --- | --- | --- |

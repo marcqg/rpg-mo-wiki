@@ -1,9 +1,9 @@
 ---
-title: "Archery"
+title: "Archeria"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/items/archery">see the English page</a>
 
-## Archery
+## Archeria
 
 | Name | Price | Stats |
 | --- | --- | --- |

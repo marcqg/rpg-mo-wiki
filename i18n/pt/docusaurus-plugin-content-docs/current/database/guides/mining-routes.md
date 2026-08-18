@@ -1,9 +1,9 @@
 ---
-title: "Mining Routes"
+title: "Rotas de Mineração"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/guides/mining-routes">see the English page</a>
 
-## Mining Routes
+## Rotas de Mineração
 
 | Material | Level Required | Location | Distance (tiles) | Notes |
 | --- | --- | --- | --- | --- |

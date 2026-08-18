@@ -1,9 +1,9 @@
 ---
-title: "Forging"
+title: "Forja"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/forging">see the English page</a>
 
-## Forging
+## Forja
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

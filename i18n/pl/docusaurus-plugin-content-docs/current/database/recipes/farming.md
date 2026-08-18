@@ -1,9 +1,9 @@
 ---
-title: "Farming"
+title: "Rolnictwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/farming">see the English page</a>
 
-## Farming
+## Rolnictwo
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

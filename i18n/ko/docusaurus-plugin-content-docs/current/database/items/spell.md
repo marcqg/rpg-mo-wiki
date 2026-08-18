@@ -1,9 +1,9 @@
 ---
-title: "Spell"
+title: "주문"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/spell">see the English page</a>
 
-## Spell
+## 주문
 
 | Name | Price | Stats |
 | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Legendary"
+title: "전설"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/pets/legendary">see the English page</a>
 
-## Legendary
+## 전설
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

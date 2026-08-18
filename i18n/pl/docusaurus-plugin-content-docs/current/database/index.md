@@ -1,5 +1,5 @@
 ---
-title: "Database (modb)"
+title: "Baza danych (modb)"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/index">see the English page</a>
 

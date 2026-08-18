@@ -1,9 +1,9 @@
 ---
-title: "Woodcutting"
+title: "Rąbanie drewna"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/woodcutting">see the English page</a>
 
-## Woodcutting
+## Rąbanie drewna
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Cooking"
+title: "요리"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/cooking">see the English page</a>
 
-## Cooking
+## 요리
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

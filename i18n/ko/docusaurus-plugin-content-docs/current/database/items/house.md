@@ -1,9 +1,9 @@
 ---
-title: "House"
+title: "집"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/house">see the English page</a>
 
-## House
+## 집
 
 | Name | Price | Stats |
 | --- | --- | --- |

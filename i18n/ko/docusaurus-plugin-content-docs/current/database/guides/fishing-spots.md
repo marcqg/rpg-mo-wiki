@@ -1,9 +1,9 @@
 ---
-title: "Fishing Spots"
+title: "낙시 스폳"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/guides/fishing-spots">see the English page</a>
 
-## Fishing Rod
+## 낙시 스폳
 
 ### Levels 1-20
 

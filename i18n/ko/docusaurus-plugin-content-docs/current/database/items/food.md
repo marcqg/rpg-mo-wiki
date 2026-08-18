@@ -1,9 +1,9 @@
 ---
-title: "Food"
+title: "음식"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/food">see the English page</a>
 
-## Food
+## 음식
 
 | Name | Price | Stats |
 | --- | --- | --- |

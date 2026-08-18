@@ -1,9 +1,9 @@
 ---
-title: "Health"
+title: "체력"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/health">see the English page</a>
 
-## Health
+## 체력
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

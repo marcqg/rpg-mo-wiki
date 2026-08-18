@@ -1,9 +1,9 @@
 ---
-title: "Egg"
+title: "Jajko"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/pets/egg">see the English page</a>
 
-## Egg
+## Jajko
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

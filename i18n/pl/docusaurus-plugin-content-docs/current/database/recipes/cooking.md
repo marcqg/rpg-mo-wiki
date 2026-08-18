@@ -1,9 +1,9 @@
 ---
-title: "Cooking"
+title: "Gotowanie"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/recipes/cooking">see the English page</a>
 
-## Cooking
+## Gotowanie
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

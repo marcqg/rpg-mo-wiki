@@ -1,9 +1,9 @@
 ---
-title: "Armor"
+title: "갑주"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/armor">see the English page</a>
 
-## Armor
+## 갑주
 
 | Name | Price | Stats |
 | --- | --- | --- |

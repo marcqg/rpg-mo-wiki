@@ -1,9 +1,9 @@
 ---
-title: "Pet Item"
+title: "펫 아이템"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/items/pet-item">see the English page</a>
 
-## Pet Item
+## 펫 아이템
 
 | Name | Price | Stats |
 | --- | --- | --- |

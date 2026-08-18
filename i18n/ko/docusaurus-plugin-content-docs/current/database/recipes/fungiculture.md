@@ -1,9 +1,9 @@
 ---
-title: "Fungiculture"
+title: "버섯 재배"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/fungiculture">see the English page</a>
 
-## Fungiculture
+## 버섯 재배
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

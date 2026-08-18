@@ -1,9 +1,9 @@
 ---
-title: "Farming"
+title: "Rolnictwo"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/guides/farming">see the English page</a>
 
-## Farming
+## Rolnictwo
 
 | Seed | Level | Cost | XP | Time (min) | Grows Into | Sells For | Buy From | Sell To |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

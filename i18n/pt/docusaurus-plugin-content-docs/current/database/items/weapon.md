@@ -1,9 +1,9 @@
 ---
-title: "Weapon"
+title: "Armas"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/items/weapon">see the English page</a>
 
-## Weapon
+## Armas
 
 | Name | Price | Stats |
 | --- | --- | --- |

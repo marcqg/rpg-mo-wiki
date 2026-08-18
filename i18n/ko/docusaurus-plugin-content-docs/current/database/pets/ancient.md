@@ -1,9 +1,9 @@
 ---
-title: "Ancient"
+title: "고대"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/pets/ancient">see the English page</a>
 
-## Ancient
+## 고대
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

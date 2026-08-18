@@ -1,9 +1,9 @@
 ---
-title: "Pet Item"
+title: "Przedmioty dla Zwierzaków"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/items/pet-item">see the English page</a>
 
-## Pet Item
+## Przedmioty dla Zwierzaków
 
 | Name | Price | Stats |
 | --- | --- | --- |

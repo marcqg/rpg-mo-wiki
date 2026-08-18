@@ -1,9 +1,9 @@
 ---
-title: "Weapon"
+title: "Broń"
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/database/items/weapon">see the English page</a>
 
-## Weapon
+## Broń
 
 | Name | Price | Stats |
 | --- | --- | --- |

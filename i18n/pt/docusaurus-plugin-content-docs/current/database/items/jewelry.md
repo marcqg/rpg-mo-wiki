@@ -1,9 +1,9 @@
 ---
-title: "Jewelry"
+title: "Joias"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/items/jewelry">see the English page</a>
 
-## Jewelry
+## Joias
 
 | Name | Price | Stats |
 | --- | --- | --- |

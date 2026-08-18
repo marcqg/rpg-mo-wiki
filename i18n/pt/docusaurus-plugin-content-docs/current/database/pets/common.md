@@ -1,9 +1,9 @@
 ---
-title: "Common"
+title: "Comum"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/pets/common">see the English page</a>
 
-## Common
+## Comum
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

@@ -1,9 +1,9 @@
 ---
-title: "Legendary"
+title: "Lendário"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/pets/legendary">see the English page</a>
 
-## Legendary
+## Lendário
 
 | Name | XP Required | Happiness | Breeding Level | Eats |
 | --- | --- | --- | --- | --- |

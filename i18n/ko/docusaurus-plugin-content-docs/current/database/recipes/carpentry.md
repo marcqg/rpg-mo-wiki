@@ -1,9 +1,9 @@
 ---
-title: "Carpentry"
+title: "목공"
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/database/recipes/carpentry">see the English page</a>
 
-## Carpentry
+## 목공
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |

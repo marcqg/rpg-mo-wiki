@@ -1,9 +1,9 @@
 ---
-title: "Woodcutting"
+title: "Lenhador"
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/database/recipes/woodcutting">see the English page</a>
 
-## Woodcutting
+## Lenhador
 
 | Name | Level | XP | Chance | Materials |
 | --- | --- | --- | --- | --- |
