@@ -5,7 +5,7 @@ title: "Tavern"
 
 ## Tavern
 
-| Name | Coordinates | Sells |
+| Nazwa | Współrzędne | Sprzedaje |
 | --- | --- | --- |
-| Tavern Shopkeeper | (43, 55) | Lemonade<br/>Lottery Ticket |
+| Sprzedawca w tawernie *(Tavern Shopkeeper)* | (43, 55) | Lemonade<br/>Lottery Ticket |
 

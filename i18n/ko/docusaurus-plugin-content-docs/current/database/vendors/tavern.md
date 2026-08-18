@@ -5,7 +5,7 @@ title: "Tavern"
 
 ## Tavern
 
-| Name | Coordinates | Sells |
+| 이름 | 좌표 | 판매 |
 | --- | --- | --- |
-| Tavern Shopkeeper | (43, 55) | Lemonade<br/>Lottery Ticket |
+| 선술집 가게 주인 *(Tavern Shopkeeper)* | (43, 55) | Lemonade<br/>Lottery Ticket |
 

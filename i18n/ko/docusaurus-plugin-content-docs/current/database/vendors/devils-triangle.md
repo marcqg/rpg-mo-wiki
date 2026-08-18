@@ -5,7 +5,7 @@ title: "Devil's Triangle"
 
 ## Devil's Triangle
 
-| Name | Coordinates | Sells |
+| 이름 | 좌표 | 판매 |
 | --- | --- | --- |
-| Traitor | (55, 58) | — |
+| 배신자 *(Traitor)* | (55, 58) | — |
 

@@ -5,9 +5,9 @@ title: "Artefato"
 
 ## Artefato
 
-| Name | XP Required | Happiness | Breeding Level | Eats |
+| Nome | XP necessário | Felicidade | Nível de reprodução | Come |
 | --- | --- | --- | --- | --- |
-| Old King Pumpkin [Artifact] | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
-| Rotten King Pumpkin [Artifact] | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
-| Seraph [Artifact] | — | 90 | 1 | Yellow Dust (15%)<br/>Piglet [Common] (15%) |
+| Velho Rei Abóbora [Artefato] *(Old King Pumpkin [Artifact])* | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
+| Abóbora Rei Podre [Artefato] *(Rotten King Pumpkin [Artifact])* | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
+| Serafim [Artefato] *(Seraph [Artifact])* | — | 90 | 1 | Yellow Dust (15%)<br/>Piglet [Common] (15%) |
 

@@ -5,9 +5,9 @@ title: "유물"
 
 ## 유물
 
-| Name | XP Required | Happiness | Breeding Level | Eats |
+| 이름 | 필요 XP | 행복도 | 사육 레벨 | 먹이 |
 | --- | --- | --- | --- | --- |
-| Old King Pumpkin [Artifact] | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
-| Rotten King Pumpkin [Artifact] | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
-| Seraph [Artifact] | — | 90 | 1 | Yellow Dust (15%)<br/>Piglet [Common] (15%) |
+| 늙은 왕 호박 [아티팩트] *(Old King Pumpkin [Artifact])* | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
+| 썩은 왕 호박 [아티팩트] *(Rotten King Pumpkin [Artifact])* | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
+| 세라프 [아티팩트] *(Seraph [Artifact])* | — | 90 | 1 | Yellow Dust (15%)<br/>Piglet [Common] (15%) |
 

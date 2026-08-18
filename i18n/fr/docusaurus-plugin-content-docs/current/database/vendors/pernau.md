@@ -5,7 +5,7 @@ title: "Pernau"
 
 ## Pernau
 
-| Name | Coordinates | Sells |
+| Nom | Coordonnées | Vend |
 | --- | --- | --- |
-| Shopkeeper | (15, 8) | Flaming Emerald Wand<br/>Flaming Amethyst Wand<br/>Overlord Blade<br/>Soul Blade<br/>Freezing Rapier<br/>Amethyst Platemail<br/>Diamond Platemail<br/>Flame Phoenix Platemail<br/>White Gold Amethyst Necklace |
+| Commerçant *(Shopkeeper)* | (15, 8) | Flaming Emerald Wand<br/>Flaming Amethyst Wand<br/>Overlord Blade<br/>Soul Blade<br/>Freezing Rapier<br/>Amethyst Platemail<br/>Diamond Platemail<br/>Flame Phoenix Platemail<br/>White Gold Amethyst Necklace |
 

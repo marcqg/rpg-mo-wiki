@@ -5,7 +5,7 @@ title: "Cathedral"
 
 ## Cathedral
 
-| Name | Coordinates | Sells |
+| Nom | Coordonnées | Vend |
 | --- | --- | --- |
-| Survivor | (45, 9) | Cooked Swordfish<br/>Cooked Lobster |
+| Survivant *(Survivor)* | (45, 9) | Cooked Swordfish<br/>Cooked Lobster |
 

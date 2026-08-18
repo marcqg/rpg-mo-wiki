@@ -5,7 +5,7 @@ title: "Dungeon I"
 
 ## Dungeon I
 
-| Name | Coordinates | Sells |
+| 이름 | 좌표 | 판매 |
 | --- | --- | --- |
-| Party Quest Instructor | (24, 7) | — |
+| 파티 퀘스트 강사 *(Party Quest Instructor)* | (24, 7) | — |
 

@@ -5,7 +5,7 @@ title: "Devil's Triangle"
 
 ## Devil's Triangle
 
-| Name | Coordinates | Sells |
+| Nom | Coordonnées | Vend |
 | --- | --- | --- |
-| Traitor | (55, 58) | — |
+| Traître *(Traitor)* | (55, 58) | — |
 

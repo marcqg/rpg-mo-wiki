@@ -5,7 +5,7 @@ title: "Core Of Knowledge"
 
 ## Core Of Knowledge
 
-| Name | Coordinates | Sells |
+| Nom | Coordonnées | Vend |
 | --- | --- | --- |
-| Road Sign | (64, 53) | — |
+| Panneau de signalisation *(Road Sign)* | (64, 53) | — |
 

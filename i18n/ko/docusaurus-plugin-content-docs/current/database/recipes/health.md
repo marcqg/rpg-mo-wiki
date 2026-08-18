@@ -5,797 +5,797 @@ title: "체력"
 
 ## 체력
 
-| Name | Level | XP | Chance | Materials |
+| 이름 | 레벨 | XP | 확률 | 재료 |
 | --- | --- | --- | --- | --- |
-| 7 Souls Jewel | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| 7 Souls Jewel | 60 | — | 0.02% | 1× Retaliation Key [Rare] |
-| 7 Souls Jewel | 120 | — | 0.04% | 1× Rare Key [Dungeon IV] |
-| 7 Souls Jewel | 120 | — | 0.03% | 1× Rare Key [Heaven] |
-| 7 Souls Jewel | 120 | — | 0.02% | 1× Rare Key [Witches II] |
-| Air Blast Orb | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
-| Air Blast Orb | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| Air Orb | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Amethyst Pants | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Amethyst Platemail | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Amnesia Scepter | 100 | — | 0.01% | 1× Retaliation Key [Common] |
-| Amnesia Scepter | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Amnesia Scepter | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Angel [Rare] | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Angel [Rare] | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Angel Boots | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Angel Boots | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Anti Dragon Shield | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Anti Dragon Shield | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Anti Dragon Shield | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Archangel Wings | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Archdevil Cape | 40 | — | 0.06% | 1× Retaliation Key [Rare] |
-| Archdevil Wings | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Baby Chemosit [Rare] | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Baby Cockatrice [Rare] | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Baby Cockatrice [Rare] | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Bahamut Blade | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Bahamut Blade | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Bahamut Gloves of Archery | 40 | — | 0.06% | 1× Retaliation Key [Rare] |
-| Bahamut Helmet | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Bahamut Helmet | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Beelzebub Boots | 50 | — | 0.06% | 1× Retaliation Key [Rare] |
-| Beelzebub Boots | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| Beelzebub Platemail | 90 | — | 0.01% | 1× Retaliation Key [Common] |
-| Beelzebub Platemail | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Beelzebub Platemail | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Book of Darkness | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Book of Darkness | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Chaotic Blade | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Comet Storm Medallion | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
-| Cooked Baby Whale | 1 | — | 0.01% | — |
-| Cooked Dolphin | 100 | — | 0.2% | — |
-| Cooked Lion Fish | 2 | — | 0.2% | — |
-| Cooked Lobster | 50 | — | 0.2% | — |
-| Cooked Manta Ray | 80 | — | 0.2% | — |
-| Core Cape | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Cursed Boots | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Cut Amethyst | 60 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
-| Cut Amethyst | 60 | — | 0.1% | 1× Rare Key [Dungeon III] |
-| Cut Amethyst | 60 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
-| Cut Amethyst | 60 | — | 0.1% | 1× Rare Key [Clouds] |
-| Cut Amethyst | 60 | — | 0.09% | 1× Rare Key [Witches I] |
-| Cut Amethyst | 60 | — | 0.09% | 1× Rare Key [Hell] |
-| Cut Amethyst | 60 | — | 0.09% | 1× Rare Key [Fellin] |
-| Cut Amethyst | 40 | — | 0.1% | 1× Rare Key [Cesis] |
-| Cut Amethyst | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
-| Cut Amethyst | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
-| Cut Amethyst | 40 | — | 0.08% | 1× Rare Key [Narwa] |
-| Cut Amethyst | 40 | — | 0.08% | 1× Rare Key [Devil's Triangle] |
-| Cut Amethyst | 40 | — | 0.1% | 1× Rare Key [Pernau] |
-| Cut Amethyst | 40 | — | 0.11% | 1× Rare Key [Lost Woods] |
-| Cut Amethyst | 40 | — | 0.1% | 1× Rare Key [Lost Woods] |
-| Cut Amethyst | 20 | — | 0.1% | 1× Rare Key [Walco] |
-| Cut Amethyst | 20 | — | 0.09% | 1× Rare Key [Blood River] |
-| Cut Amethyst | 20 | — | 0.08% | 1× Rare Key [Rakblood] |
-| Cut Amethyst | 20 | — | 0.08% | 1× Rare Key [Moche II] |
-| Cut Amethyst | 20 | — | 0.05% | 1× Rare Key [Reval] |
-| Cut Amethyst | 20 | — | 0.12% | 1× Rare Key [Moche I] |
-| Cut Black Opal | 40 | — | 0.1% | 1× Rare Key [Cesis] |
-| Cut Black Opal | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
-| Cut Black Opal | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
-| Cut Black Opal | 40 | — | 0.1% | 1× Rare Key [Narwa] |
-| Cut Black Opal | 40 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
-| Cut Black Opal | 40 | — | 0.08% | 1× Rare Key [Pernau] |
-| Cut Black Opal | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
-| Cut Black Opal | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
-| Cut Black Opal | 20 | — | 0.08% | 1× Rare Key [Walco] |
-| Cut Black Opal | 20 | — | 0.06% | 1× Rare Key [Blood River] |
-| Cut Black Opal | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Cut Black Opal | 40 | — | 0.1% | 1× Rare Key [Moche II] |
-| Cut Black Opal | 40 | — | 0.08% | 1× Rare Key [Reval] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Walco] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Blood River] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Rakblood] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Moche II] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Reval] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Moche I] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Dorpat] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Dungeon II] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Every Man's Land] |
-| Cut Crystal | 10 | — | 1% | 1× Rare Key [Whiland] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Cesis] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Wittensten] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Narwa] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Pernau] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Lost Woods] |
-| Cut Diamond | 30 | — | 0.1% | 1× Rare Key [Lost Woods] |
-| Cut Diamond | 20 | — | 0.05% | 1× Rare Key [Walco] |
-| Cut Diamond | 20 | — | 0.05% | 1× Rare Key [Blood River] |
-| Cut Diamond | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Cut Diamond | 20 | — | 0.05% | 1× Rare Key [Moche II] |
-| Cut Diamond | 20 | — | 0.05% | 1× Rare Key [Reval] |
-| Cut Diamond | 20 | — | 0.1% | 1× Rare Key [Moche I] |
-| Cut Diamond | 20 | — | 0.1% | 1× Rare Key [Dorpat] |
-| Cut Diamond | 20 | — | 0.1% | 1× Rare Key [Dungeon II] |
-| Cut Diamond | 20 | — | 0.1% | 1× Rare Key [Every Man's Land] |
-| Cut Diamond | 20 | — | 0.1% | 1× Rare Key [Whiland] |
-| Cut Emerald | 10 | — | 0.05% | 1× Rare Key [Walco] |
-| Cut Emerald | 10 | — | 0.05% | 1× Rare Key [Blood River] |
-| Cut Emerald | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Cut Emerald | 10 | — | 0.05% | 1× Rare Key [Moche II] |
-| Cut Emerald | 10 | — | 0.05% | 1× Rare Key [Reval] |
-| Cut Emerald | 10 | — | 0.1% | 1× Rare Key [Moche I] |
-| Cut Emerald | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
-| Cut Emerald | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
-| Cut Emerald | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
-| Cut Emerald | 10 | — | 0.1% | 1× Rare Key [Whiland] |
-| Cut Jadeite | 80 | — | 1% | 1× Rare Key [Dungeon IV] |
-| Cut Jadeite | 80 | — | 1% | 1× Rare Key [Heaven] |
-| Cut Jadeite | 80 | — | 1% | 1× Rare Key [Witches II] |
-| Cut Jadeite | 40 | — | 0.1% | 1× Rare Key [Cesis] |
-| Cut Jadeite | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
-| Cut Jadeite | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
-| Cut Jadeite | 40 | — | 0.12% | 1× Rare Key [Narwa] |
-| Cut Jadeite | 40 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
-| Cut Jadeite | 40 | — | 0.08% | 1× Rare Key [Pernau] |
-| Cut Jadeite | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
-| Cut Jadeite | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
-| Cut Jadeite | 20 | — | 0.08% | 1× Rare Key [Walco] |
-| Cut Jadeite | 20 | — | 0.06% | 1× Rare Key [Blood River] |
-| Cut Jadeite | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Cut Jadeite | 40 | — | 0.1% | 1× Rare Key [Moche II] |
-| Cut Jadeite | 40 | — | 0.09% | 1× Rare Key [Reval] |
-| Cut Ruby | 60 | — | 1% | 1× Rare Key [Ancient Dungeon] |
-| Cut Ruby | 60 | — | 1% | 1× Rare Key [Dungeon III] |
-| Cut Ruby | 60 | — | 1% | 1× Rare Key [Dragon's Lair] |
-| Cut Ruby | 60 | — | 1% | 1× Rare Key [Clouds] |
-| Cut Ruby | 60 | — | 1% | 1× Rare Key [Witches I] |
-| Cut Ruby | 60 | — | 1% | 1× Rare Key [Hell] |
-| Cut Ruby | 60 | — | 1% | 1× Rare Key [Fellin] |
-| Cut Ruby | 10 | — | 0.05% | 1× Rare Key [Walco] |
-| Cut Ruby | 10 | — | 0.05% | 1× Rare Key [Blood River] |
-| Cut Ruby | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Cut Ruby | 10 | — | 0.05% | 1× Rare Key [Moche II] |
-| Cut Ruby | 10 | — | 0.05% | 1× Rare Key [Reval] |
-| Cut Ruby | 10 | — | 0.1% | 1× Rare Key [Moche I] |
-| Cut Ruby | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
-| Cut Ruby | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
-| Cut Ruby | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
-| Cut Ruby | 10 | — | 0.1% | 1× Rare Key [Whiland] |
-| Cut Star Diamond | 110 | — | 0.07% | 1× Rare Key [Dungeon IV] |
-| Cut Star Diamond | 110 | — | 0.05% | 1× Rare Key [Heaven] |
-| Cut Star Diamond | 110 | — | 0.05% | 1× Rare Key [Witches II] |
-| Cut Star Diamond | 110 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Cut Star Diamond | 110 | — | 0.04% | 1× Rare Key [Dungeon III] |
-| Cut Star Diamond | 110 | — | 0.03% | 1× Rare Key [Dragon's Lair] |
-| Dark Knight Helmet | 30 | — | 0.08% | 1× Retaliation Key [Common] |
-| Demigod Boots | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Demigod Hat | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Demonic Crystal | 120 | — | 0.07% | 1× Rare Key [Dungeon IV] |
-| Demonic Crystal | 120 | — | 0.05% | 1× Rare Key [Heaven] |
-| Demonic Crystal | 120 | — | 0.05% | 1× Rare Key [Witches II] |
-| Demonic Magic Book | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Demonic Magic Book | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Destruction Medallion | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Destruction Medallion | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
-| Diamond Platemail | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Diamond Platemail | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Diamond Platemail | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Dinosaur [Rare] | 40 | — | 1% | 1× Retaliation Key [Rare] |
-| Dragon Slayer | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Dragon Slayer | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Dragon Slayer | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Dragon Slayer | 110 | — | 0.05% | 1× Rare Key [Dungeon IV] |
-| Dragon Slayer | 110 | — | 0.05% | 1× Rare Key [Heaven] |
-| Dragon Slayer | 110 | — | 0.05% | 1× Rare Key [Witches II] |
-| Dragon Slayer | 110 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
-| Dragon Slayer | 110 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Dragon Slayer | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Dragon Slayer Axe | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Dragon Slayer Axe | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Dragon Slayer Axe | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Dragon Slayer Axe | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Dragon Soul Shield | 90 | — | 0.01% | 1× Retaliation Key [Common] |
-| Dragon Soul Shield | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Dragon Soul Shield | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Dragon's Blood Longbow | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Dragon's Blood Longbow | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Dragonstone Blade | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Dragonstone Boots | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Dragonstone Helmet | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Dragonstone Pants | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Dragonstone Platemail | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Dragonstone Shield | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Dragonstone Shield | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Earth Orb | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Eclipse Blade | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Eclipse Blade | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Efreet [Rare] | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Emerald Chainmail | 30 | — | 0.09% | 1× Rare Key [Walco] |
-| Emerald Chainmail | 30 | — | 0.09% | 1× Rare Key [Blood River] |
-| Emerald Chainmail | 30 | — | 0.07% | 1× Rare Key [Rakblood] |
-| Emerald Chainmail | 30 | — | 0.07% | 1× Rare Key [Moche II] |
-| Emerald Chainmail | 30 | — | 0.07% | 1× Rare Key [Reval] |
-| Emerald Chainmail | 30 | — | 0.09% | 1× Rare Key [Moche I] |
-| Emerald Chainmail | 30 | — | 0.09% | 1× Rare Key [Dorpat] |
-| Emerald Chainmail | 30 | — | 0.07% | 1× Rare Key [Dungeon II] |
-| Emerald Chainmail | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
-| Emerald Chainmail | 30 | — | 0.05% | 1× Rare Key [Whiland] |
-| Emerald Full Helmet | 30 | — | 0.07% | 1× Rare Key [Walco] |
-| Emerald Full Helmet | 30 | — | 0.07% | 1× Rare Key [Blood River] |
-| Emerald Full Helmet | 30 | — | 0.08% | 1× Rare Key [Rakblood] |
-| Emerald Full Helmet | 30 | — | 0.08% | 1× Rare Key [Moche II] |
-| Emerald Full Helmet | 30 | — | 0.08% | 1× Rare Key [Reval] |
-| Emerald Full Helmet | 30 | — | 0.08% | 1× Rare Key [Moche I] |
-| Emerald Full Helmet | 30 | — | 0.08% | 1× Rare Key [Dorpat] |
-| Emerald Full Helmet | 30 | — | 0.08% | 1× Rare Key [Dungeon II] |
-| Emerald Full Helmet | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
-| Emerald Full Helmet | 30 | — | 0.05% | 1× Rare Key [Whiland] |
-| Emerald Katana | 20 | — | 0.07% | 1× Rare Key [Walco] |
-| Emerald Katana | 20 | — | 0.07% | 1× Rare Key [Blood River] |
-| Emerald Katana | 20 | — | 0.12% | 1× Rare Key [Rakblood] |
-| Emerald Katana | 20 | — | 0.12% | 1× Rare Key [Moche II] |
-| Emerald Katana | 20 | — | 0.12% | 1× Rare Key [Reval] |
-| Emerald Katana | 20 | — | 0.07% | 1× Rare Key [Moche I] |
-| Emerald Katana | 20 | — | 0.07% | 1× Rare Key [Dorpat] |
-| Emerald Katana | 20 | — | 0.07% | 1× Rare Key [Dungeon II] |
-| Emerald Katana | 20 | — | 0.07% | 1× Rare Key [Every Man's Land] |
-| Emerald Katana | 20 | — | 0.05% | 1× Rare Key [Whiland] |
-| Emerald Long Sword | 20 | — | 0.12% | 1× Rare Key [Walco] |
-| Emerald Long Sword | 20 | — | 0.12% | 1× Rare Key [Blood River] |
-| Emerald Long Sword | 20 | — | 0.09% | 1× Rare Key [Rakblood] |
-| Emerald Long Sword | 20 | — | 0.09% | 1× Rare Key [Moche II] |
-| Emerald Long Sword | 20 | — | 0.09% | 1× Rare Key [Reval] |
-| Emerald Long Sword | 20 | — | 0.09% | 1× Rare Key [Moche I] |
-| Emerald Long Sword | 20 | — | 0.09% | 1× Rare Key [Dorpat] |
-| Emerald Long Sword | 20 | — | 0.08% | 1× Rare Key [Dungeon II] |
-| Emerald Long Sword | 20 | — | 0.07% | 1× Rare Key [Every Man's Land] |
-| Emerald Long Sword | 20 | — | 0.05% | 1× Rare Key [Whiland] |
-| Emerald Pants | 30 | — | 0.09% | 1× Rare Key [Walco] |
-| Emerald Pants | 30 | — | 0.09% | 1× Rare Key [Blood River] |
-| Emerald Pants | 30 | — | 0.07% | 1× Rare Key [Rakblood] |
-| Emerald Pants | 30 | — | 0.07% | 1× Rare Key [Moche II] |
-| Emerald Pants | 30 | — | 0.07% | 1× Rare Key [Reval] |
-| Emerald Pants | 30 | — | 0.07% | 1× Rare Key [Moche I] |
-| Emerald Pants | 30 | — | 0.07% | 1× Rare Key [Dorpat] |
-| Emerald Pants | 30 | — | 0.07% | 1× Rare Key [Dungeon II] |
-| Emerald Pants | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
-| Emerald Pants | 30 | — | 0.05% | 1× Rare Key [Whiland] |
-| Emerald Platemail | 30 | — | 0.07% | 1× Rare Key [Walco] |
-| Emerald Platemail | 30 | — | 0.07% | 1× Rare Key [Blood River] |
-| Emerald Platemail | 30 | — | 0.09% | 1× Rare Key [Rakblood] |
-| Emerald Platemail | 30 | — | 0.09% | 1× Rare Key [Moche II] |
-| Emerald Platemail | 30 | — | 0.09% | 1× Rare Key [Reval] |
-| Emerald Platemail | 30 | — | 0.08% | 1× Rare Key [Moche I] |
-| Emerald Platemail | 30 | — | 0.08% | 1× Rare Key [Dorpat] |
-| Emerald Platemail | 30 | — | 0.08% | 1× Rare Key [Dungeon II] |
-| Emerald Platemail | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
-| Emerald Platemail | 30 | — | 0.05% | 1× Rare Key [Whiland] |
-| Emerald Warhammer | 20 | — | 0.08% | 1× Rare Key [Walco] |
-| Emerald Warhammer | 20 | — | 0.08% | 1× Rare Key [Blood River] |
-| Emerald Warhammer | 20 | — | 0.07% | 1× Rare Key [Rakblood] |
-| Emerald Warhammer | 20 | — | 0.07% | 1× Rare Key [Moche II] |
-| Emerald Warhammer | 20 | — | 0.07% | 1× Rare Key [Reval] |
-| Emerald Warhammer | 20 | — | 0.09% | 1× Rare Key [Moche I] |
-| Emerald Warhammer | 20 | — | 0.09% | 1× Rare Key [Dorpat] |
-| Emerald Warhammer | 20 | — | 0.08% | 1× Rare Key [Dungeon II] |
-| Emerald Warhammer | 20 | — | 0.07% | 1× Rare Key [Every Man's Land] |
-| Emerald Warhammer | 20 | — | 0.005% | 1× Rare Key [Whiland] |
-| Enki Cape | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Fate Scepter | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Fate Scepter | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Fire Battle Axe | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Fire Flail | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Fire Flail | 90 | — | 0.04% | 1× Rare Key [Dungeon IV] |
-| Fire Flail | 90 | — | 0.04% | 1× Rare Key [Heaven] |
-| Fire Flail | 90 | — | 0.04% | 1× Rare Key [Witches II] |
-| Fire Flail | 90 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Fire Flail | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Fire Flail | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Fire Flail | 90 | — | 0.05% | 1× Rare Key [Clouds] |
-| Fire Flail | 90 | — | 0.05% | 1× Rare Key [Witches I] |
-| Fire Flail | 90 | — | 0.05% | 1× Rare Key [Hell] |
-| Fire Flail | 90 | — | 0.05% | 1× Rare Key [Fellin] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Dungeon IV] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Heaven] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Witches II] |
-| Fire Helmet | 90 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Clouds] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Witches I] |
-| Fire Helmet | 90 | — | 0.05% | 1× Rare Key [Hell] |
-| Fire Helmet | 90 | — | 0.04% | 1× Rare Key [Fellin] |
-| Fire Orb | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Fire Stone Pants | 90 | — | 0.06% | 1× Rare Key [Dungeon IV] |
-| Fire Stone Pants | 90 | — | 0.06% | 1× Rare Key [Heaven] |
-| Fire Stone Pants | 90 | — | 0.06% | 1× Rare Key [Witches II] |
-| Fire Stone Pants | 90 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Fire Stone Pants | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Fire Stone Pants | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Fire Stone Pants | 90 | — | 0.05% | 1× Rare Key [Clouds] |
-| Fire Stone Pants | 90 | — | 0.05% | 1× Rare Key [Witches I] |
-| Fire Stone Pants | 90 | — | 0.05% | 1× Rare Key [Hell] |
-| Fire Stone Pants | 90 | — | 0.05% | 1× Rare Key [Fellin] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Dungeon IV] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Heaven] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Witches II] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Clouds] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Witches I] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Hell] |
-| Fire Stone Platemail | 90 | — | 0.05% | 1× Rare Key [Fellin] |
-| Flamberge | 60 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
-| Flamberge | 60 | — | 0.1% | 1× Rare Key [Dungeon III] |
-| Flamberge | 60 | — | 0.09% | 1× Rare Key [Dragon's Lair] |
-| Flamberge | 60 | — | 0.09% | 1× Rare Key [Clouds] |
-| Flamberge | 60 | — | 0.09% | 1× Rare Key [Witches I] |
-| Flamberge | 60 | — | 0.09% | 1× Rare Key [Hell] |
-| Flamberge | 60 | — | 0.09% | 1× Rare Key [Fellin] |
-| Flamberge | 60 | — | 0.07% | 1× Rare Key [Cesis] |
-| Flamberge | 60 | — | 0.07% | 1× Rare Key [Wittensten] |
-| Flamberge | 60 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
-| Flamberge | 60 | — | 0.07% | 1× Rare Key [Narwa] |
-| Flamberge | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
-| Flamberge | 60 | — | 0.07% | 1× Rare Key [Pernau] |
-| Flamberge | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
-| Flamberge | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
-| Flame Phoenix Pants | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Flame Phoenix Pants | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Flame Phoenix Platemail | 30 | — | 0.08% | 1× Retaliation Key [Common] |
-| Flaming Amethyst Staff | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Flaming Amethyst Wand | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Flaming Amethyst Wand | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Flaming Ruby Staff | 30 | — | 1% | 1× Retaliation Key [Common] |
-| Freezing Rapier | 50 | — | 0.08% | 1× Rare Key [Cesis] |
-| Freezing Rapier | 50 | — | 0.08% | 1× Rare Key [Wittensten] |
-| Freezing Rapier | 50 | — | 0.08% | 1× Rare Key [Broceliande Forest] |
-| Freezing Rapier | 50 | — | 0.07% | 1× Rare Key [Narwa] |
-| Freezing Rapier | 50 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
-| Freezing Rapier | 50 | — | 0.07% | 1× Rare Key [Pernau] |
-| Freezing Rapier | 50 | — | 0.06% | 1× Rare Key [Lost Woods] |
-| Freezing Rapier | 50 | — | 0.05% | 1× Rare Key [Lost Woods] |
-| Giant Archangel Axe | 90 | — | 0.01% | 1× Retaliation Key [Common] |
-| Giant Archangel Axe | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Giant Archangel Axe | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Golden Apple | 120 | — | 0.06% | 1× Rare Key [Dungeon IV] |
-| Golden Apple | 120 | — | 0.06% | 1× Rare Key [Heaven] |
-| Golden Apple | 120 | — | 0.04% | 1× Rare Key [Witches II] |
-| Golden Crown | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Grendalf Hat | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Grendalf Robe | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Grendalf Robe Bottom | 50 | — | 0.02% | 1× Retaliation Key [Common] |
-| High Armor Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| High Armor Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
-| High Jewelry Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| High Jewelry Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
-| High Weapon Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| High Weapon Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
-| High Wings Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| High Wings Enchant Scroll | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Holy Touch Medallion | 40 | — | 0.05% | 1× Retaliation Key [Rare] |
-| Ice Cape | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Ichor Blade | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Ichor Blade | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Ichor Boots | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Ichor Boots | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Ichor Gloves | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Ichor Gloves | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| Ichor Helmet | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Ichor Pants | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Jewel Extractor | 90 | — | 0.05% | 1× Rare Key [Dungeon IV] |
-| Jewel Extractor | 90 | — | 0.05% | 1× Rare Key [Heaven] |
-| Jewel Extractor | 90 | — | 0.05% | 1× Rare Key [Witches II] |
-| Jewel Extractor | 80 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Jewel Extractor | 80 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Jewel Extractor | 80 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Jewel Extractor | 80 | — | 0.07% | 1× Rare Key [Clouds] |
-| Jewel Extractor | 80 | — | 0.05% | 1× Rare Key [Witches I] |
-| Jewel Extractor | 80 | — | 0.05% | 1× Rare Key [Hell] |
-| Jewel Extractor | 80 | — | 0.05% | 1× Rare Key [Fellin] |
-| Jewel Extractor | 40 | — | 0.1% | 1× Rare Key [Cesis] |
-| Jewel Extractor | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
-| Jewel Extractor | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
-| Jewel Extractor | 40 | — | 0.09% | 1× Rare Key [Narwa] |
-| Jewel Extractor | 40 | — | 0.08% | 1× Rare Key [Devil's Triangle] |
-| Jewel Extractor | 40 | — | 0.07% | 1× Rare Key [Pernau] |
-| Jewel Extractor | 40 | — | 0.07% | 1× Rare Key [Lost Woods] |
-| Jewel Extractor | 40 | — | 0.07% | 1× Rare Key [Lost Woods] |
-| Jewel Extractor | 50 | — | 0.03% | 1× Rare Key [Walco] |
-| Jewel Extractor | 50 | — | 0.02% | 1× Rare Key [Blood River] |
-| Jewel Extractor | 50 | — | 0.01% | 1× Rare Key [Rakblood] |
-| Juggernaut Boots | 70 | — | 0.03% | 1× Retaliation Key [Rare] |
-| King Elemental Dragon Scale Helmet | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| King Elemental Scale Quiver | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| King Elemental Scale Quiver | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| King's Crown | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Kronos Blade | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Landlord Crown | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Large Crystal Ball | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
-| Large Crystal Ball | 80 | — | 0.1% | 1× Rare Key [Heaven] |
-| Large Crystal Ball | 80 | — | 0.1% | 1× Rare Key [Witches II] |
-| Large Crystal Ball | 70 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
-| Large Crystal Ball | 70 | — | 0.11% | 1× Rare Key [Dungeon III] |
-| Large Crystal Ball | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
-| Large Crystal Ball | 70 | — | 0.1% | 1× Rare Key [Clouds] |
-| Large Crystal Ball | 70 | — | 0.08% | 1× Rare Key [Witches I] |
-| Large Crystal Ball | 70 | — | 0.08% | 1× Rare Key [Hell] |
-| Large Crystal Ball | 70 | — | 0.07% | 1× Rare Key [Fellin] |
-| Large Crystal Ball | 70 | — | 0.07% | 1× Rare Key [Cesis] |
-| Large Crystal Ball | 70 | — | 0.07% | 1× Rare Key [Wittensten] |
-| Large Crystal Ball | 70 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
-| Large Crystal Ball | 70 | — | 0.06% | 1× Rare Key [Narwa] |
-| Large Crystal Ball | 70 | — | 0.05% | 1× Rare Key [Devil's Triangle] |
-| Large Fragment | 110 | — | 0.08% | 1× Rare Key [Dungeon IV] |
-| Large Fragment | 110 | — | 0.05% | 1× Rare Key [Heaven] |
-| Large Fragment | 110 | — | 0.05% | 1× Rare Key [Witches II] |
-| Large Fragment | 110 | — | 0.08% | 1× Rare Key [Ancient Dungeon] |
-| Large Fragment | 110 | — | 0.07% | 1× Rare Key [Dungeon III] |
-| Large Fragment | 110 | — | 0.07% | 1× Rare Key [Dragon's Lair] |
-| Light Redwood Shield | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Light Redwood Shield | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| Lightning Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Dungeon IV] |
-| Lightning Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Heaven] |
-| Lightning Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Witches II] |
-| Lightning Feather Bundle [L] | 110 | — | 0.07% | 1× Rare Key [Ancient Dungeon] |
-| Lightning Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Dungeon III] |
-| Lightning Feather Bundle [L] | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Lightning Wings | 70 | — | 0.01% | 1× Retaliation Key [Common] |
-| Lightning Wings | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Lightning Wings | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Lock Pick | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Long Spiked Mace | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Lucifer Helmet | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
-| Lucifer Helmet | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| Lucifer Platemail | 90 | — | 0.01% | 1× Retaliation Key [Common] |
-| Lucifer Platemail | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Lucifer Platemail | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Magic Rune [Ancient] | 30 | — | 0.08% | 1× Retaliation Key [Common] |
-| Medium Crystal Ball | 60 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
-| Medium Crystal Ball | 60 | — | 0.11% | 1× Rare Key [Dungeon III] |
-| Medium Crystal Ball | 60 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
-| Medium Crystal Ball | 60 | — | 0.1% | 1× Rare Key [Clouds] |
-| Medium Crystal Ball | 60 | — | 0.1% | 1× Rare Key [Witches I] |
-| Medium Crystal Ball | 60 | — | 0.1% | 1× Rare Key [Hell] |
-| Medium Crystal Ball | 60 | — | 0.1% | 1× Rare Key [Fellin] |
-| Medium Crystal Ball | 40 | — | 0.12% | 1× Rare Key [Cesis] |
-| Medium Crystal Ball | 40 | — | 0.12% | 1× Rare Key [Wittensten] |
-| Medium Crystal Ball | 40 | — | 0.12% | 1× Rare Key [Broceliande Forest] |
-| Medium Crystal Ball | 40 | — | 0.1% | 1× Rare Key [Narwa] |
-| Medium Crystal Ball | 40 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
-| Medium Crystal Ball | 40 | — | 0.08% | 1× Rare Key [Pernau] |
-| Medium Crystal Ball | 40 | — | 0.1% | 1× Rare Key [Lost Woods] |
-| Medium Crystal Ball | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
-| Medium Crystal Ball | 20 | — | 0.08% | 1× Rare Key [Walco] |
-| Medium Crystal Ball | 20 | — | 0.06% | 1× Rare Key [Blood River] |
-| Medium Crystal Ball | 20 | — | 0.08% | 1× Rare Key [Rakblood] |
-| Medium Crystal Ball | 20 | — | 0.08% | 1× Rare Key [Moche II] |
-| Medium Crystal Ball | 20 | — | 0.05% | 1× Rare Key [Reval] |
-| Medium Crystal Ball | 20 | — | 0.07% | 1× Rare Key [Moche I] |
-| Merlin Robe | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Minigame Scroll | 100 | — | 0.04% | 1× Rare Key [Dungeon IV] |
-| Minigame Scroll | 100 | — | 0.04% | 1× Rare Key [Heaven] |
-| Minigame Scroll | 100 | — | 0.04% | 1× Rare Key [Witches II] |
-| Minigame Scroll | 100 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Minigame Scroll | 100 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Minigame Scroll | 100 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Minigame Scroll | 100 | — | 0.03% | 1× Rare Key [Clouds] |
-| Minigame Scroll | 100 | — | 0.02% | 1× Rare Key [Witches I] |
-| Moon Stone | 90 | — | 0.1% | 1× Rare Key [Dungeon IV] |
-| Moon Stone | 90 | — | 0.1% | 1× Rare Key [Heaven] |
-| Moon Stone | 90 | — | 0.1% | 1× Rare Key [Witches II] |
-| Moon Stone | 80 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
-| Moon Stone | 80 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Moon Stone | 80 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Moon Stone | 80 | — | 0.09% | 1× Rare Key [Clouds] |
-| Moon Stone | 80 | — | 0.07% | 1× Rare Key [Witches I] |
-| Moon Stone | 80 | — | 0.07% | 1× Rare Key [Hell] |
-| Moon Stone | 80 | — | 0.06% | 1× Rare Key [Fellin] |
-| Moon Stone | 80 | — | 0.05% | 1× Rare Key [Cesis] |
-| Moon Stone | 80 | — | 0.04% | 1× Rare Key [Wittensten] |
-| Moon Stone | 80 | — | 0.03% | 1× Rare Key [Broceliande Forest] |
-| Moss Blade | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Moss Blade | 60 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
-| Moss Blade | 60 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Moss Blade | 60 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Moss Blade | 60 | — | 0.05% | 1× Rare Key [Clouds] |
-| Moss Blade | 60 | — | 0.05% | 1× Rare Key [Witches I] |
-| Moss Blade | 60 | — | 0.05% | 1× Rare Key [Hell] |
-| Moss Blade | 60 | — | 0.05% | 1× Rare Key [Fellin] |
-| Moss Blade | 70 | — | 0.07% | 1× Rare Key [Cesis] |
-| Moss Blade | 70 | — | 0.07% | 1× Rare Key [Wittensten] |
-| Moss Blade | 70 | — | 0.06% | 1× Rare Key [Broceliande Forest] |
-| Moss Blade | 70 | — | 0.04% | 1× Rare Key [Narwa] |
-| Moss Blade | 70 | — | 0.03% | 1× Rare Key [Devil's Triangle] |
-| Odin Boots | 50 | — | 0.06% | 1× Retaliation Key [Rare] |
-| Odin Boots | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| Odin Mace | 90 | — | 0.01% | 1× Retaliation Key [Common] |
-| Odin Mace | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Odin Mace | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Orb Of Luck | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Orb Of Luck | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Orb Of Luck | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Phoenix Cape | 30 | — | 0.08% | 1× Retaliation Key [Common] |
-| Phoenix Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Dungeon IV] |
-| Phoenix Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Heaven] |
-| Phoenix Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Witches II] |
-| Phoenix Feather Bundle [L] | 110 | — | 0.07% | 1× Rare Key [Ancient Dungeon] |
-| Phoenix Feather Bundle [L] | 110 | — | 0.06% | 1× Rare Key [Dungeon III] |
-| Phoenix Feather Bundle [L] | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Platinum Amethyst Necklace | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Platinum Amethyst Ring | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Platinum Black Opal Necklace | 70 | — | 0.01% | 1× Retaliation Key [Common] |
-| Platinum Black Opal Necklace | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Platinum Black Opal Necklace | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Platinum Black Opal Ring | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Platinum Diamond Necklace | 30 | — | 0.08% | 1× Retaliation Key [Common] |
-| Platinum Jadeite Necklace | 90 | — | 0.01% | 1× Retaliation Key [Common] |
-| Platinum Jadeite Necklace | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Platinum Jadeite Necklace | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Platinum Jadeite Ring | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Platinum Jadeite Ring | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Platinum Jadeite Ring | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Poseidon's Trident | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Poseidon's Trident | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Poseidon's Trident | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Potion Of Oblivion | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
-| Potion Of Oblivion | 50 | — | 1% | 1× Retaliation Key [Legendary] |
-| Potion Of Preservation | 90 | — | 0.07% | 1× Rare Key [Dungeon IV] |
-| Potion Of Preservation | 90 | — | 0.05% | 1× Rare Key [Heaven] |
-| Potion Of Preservation | 90 | — | 0.05% | 1× Rare Key [Witches II] |
-| Potion Of Preservation | 80 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Potion Of Preservation | 80 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Potion Of Preservation | 80 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Potion Of Preservation | 80 | — | 0.08% | 1× Rare Key [Clouds] |
-| Potion Of Preservation | 80 | — | 0.05% | 1× Rare Key [Witches I] |
-| Potion Of Preservation | 80 | — | 0.05% | 1× Rare Key [Hell] |
-| Potion Of Preservation | 80 | — | 0.05% | 1× Rare Key [Fellin] |
-| Potion Of Preservation | 80 | — | 0.04% | 1× Rare Key [Cesis] |
-| Potion Of Preservation | 80 | — | 0.03% | 1× Rare Key [Wittensten] |
-| Potion Of Preservation | 80 | — | 0.03% | 1× Rare Key [Broceliande Forest] |
-| Redhodium Flint Bundle | 110 | — | 0.05% | 1× Rare Key [Dungeon IV] |
-| Redhodium Flint Bundle | 110 | — | 0.05% | 1× Rare Key [Heaven] |
-| Redhodium Flint Bundle | 110 | — | 0.05% | 1× Rare Key [Witches II] |
-| Redhodium Flint Bundle | 110 | — | 0.07% | 1× Rare Key [Ancient Dungeon] |
-| Redhodium Flint Bundle | 110 | — | 0.06% | 1× Rare Key [Dungeon III] |
-| Redhodium Flint Bundle | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Repeat Quest Permission | 70 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
-| Repeat Quest Permission | 70 | — | 0.1% | 1× Rare Key [Dungeon III] |
-| Repeat Quest Permission | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
-| Repeat Quest Permission | 70 | — | 0.1% | 1× Rare Key [Clouds] |
-| Repeat Quest Permission | 70 | — | 0.08% | 1× Rare Key [Witches I] |
-| Repeat Quest Permission | 70 | — | 0.08% | 1× Rare Key [Hell] |
-| Repeat Quest Permission | 70 | — | 0.08% | 1× Rare Key [Fellin] |
-| Repeat Quest Permission | 70 | — | 0.08% | 1× Rare Key [Cesis] |
-| Repeat Quest Permission | 70 | — | 0.08% | 1× Rare Key [Wittensten] |
-| Repeat Quest Permission | 70 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
-| Repeat Quest Permission | 70 | — | 0.07% | 1× Rare Key [Narwa] |
-| Repeat Quest Permission | 70 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
-| Ridill | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Royal Defender | 30 | — | 0.08% | 1× Retaliation Key [Common] |
-| Royal Knight Helmet | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Ruby Dragon Boots | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Sandstorm Helmet | 60 | — | 0.06% | 1× Retaliation Key [Rare] |
-| Sandstorm Quiver | 90 | — | 0.01% | 1× Retaliation Key [Common] |
-| Sandstorm Quiver | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Sandstorm Quiver | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Sapphire Boots | 60 | — | 0.09% | 1× Rare Key [Cesis] |
-| Sapphire Boots | 60 | — | 0.09% | 1× Rare Key [Wittensten] |
-| Sapphire Boots | 60 | — | 0.09% | 1× Rare Key [Broceliande Forest] |
-| Sapphire Boots | 60 | — | 0.07% | 1× Rare Key [Narwa] |
-| Sapphire Boots | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
-| Sapphire Boots | 60 | — | 0.07% | 1× Rare Key [Pernau] |
-| Sapphire Boots | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
-| Sapphire Boots | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
-| Sapphire Dragon Head | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Sapphire Dragon Head | 50 | — | 0.07% | 1× Rare Key [Cesis] |
-| Sapphire Dragon Head | 50 | — | 0.07% | 1× Rare Key [Wittensten] |
-| Sapphire Dragon Head | 50 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
-| Sapphire Dragon Head | 50 | — | 0.11% | 1× Rare Key [Narwa] |
-| Sapphire Dragon Head | 50 | — | 0.11% | 1× Rare Key [Devil's Triangle] |
-| Sapphire Dragon Head | 50 | — | 0.07% | 1× Rare Key [Pernau] |
-| Sapphire Dragon Head | 50 | — | 0.06% | 1× Rare Key [Lost Woods] |
-| Sapphire Dragon Head | 50 | — | 0.05% | 1× Rare Key [Lost Woods] |
-| Sapphire Dragon Platemail | 60 | — | 0.07% | 1× Rare Key [Cesis] |
-| Sapphire Dragon Platemail | 60 | — | 0.07% | 1× Rare Key [Wittensten] |
-| Sapphire Dragon Platemail | 60 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
-| Sapphire Dragon Platemail | 60 | — | 0.07% | 1× Rare Key [Narwa] |
-| Sapphire Dragon Platemail | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
-| Sapphire Dragon Platemail | 60 | — | 0.07% | 1× Rare Key [Pernau] |
-| Sapphire Dragon Platemail | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
-| Sapphire Dragon Platemail | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
-| Sapphire Halberd | 50 | — | 0.08% | 1× Rare Key [Cesis] |
-| Sapphire Halberd | 50 | — | 0.1% | 1× Rare Key [Wittensten] |
-| Sapphire Halberd | 50 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
-| Sapphire Halberd | 50 | — | 0.09% | 1× Rare Key [Narwa] |
-| Sapphire Halberd | 50 | — | 0.09% | 1× Rare Key [Devil's Triangle] |
-| Sapphire Halberd | 50 | — | 0.07% | 1× Rare Key [Pernau] |
-| Sapphire Halberd | 50 | — | 0.06% | 1× Rare Key [Lost Woods] |
-| Sapphire Halberd | 50 | — | 0.05% | 1× Rare Key [Lost Woods] |
-| Sapphire Long Sword | 60 | — | 0.08% | 1× Rare Key [Cesis] |
-| Sapphire Long Sword | 60 | — | 0.11% | 1× Rare Key [Wittensten] |
-| Sapphire Long Sword | 60 | — | 0.11% | 1× Rare Key [Broceliande Forest] |
-| Sapphire Long Sword | 60 | — | 0.07% | 1× Rare Key [Narwa] |
-| Sapphire Long Sword | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
-| Sapphire Long Sword | 60 | — | 0.07% | 1× Rare Key [Pernau] |
-| Sapphire Long Sword | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
-| Sapphire Long Sword | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
-| Scepter of Darkness | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
-| Scepter of Darkness | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| Shiva Boots | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Shiva Boots | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Shiva Cape | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Shiva Cape | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Skull Longbow | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Small Crystal Ball | 10 | — | 0.05% | 1× Rare Key [Walco] |
-| Small Crystal Ball | 10 | — | 0.05% | 1× Rare Key [Blood River] |
-| Small Crystal Ball | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Small Crystal Ball | 10 | — | 0.05% | 1× Rare Key [Moche II] |
-| Small Crystal Ball | 10 | — | 0.05% | 1× Rare Key [Reval] |
-| Small Crystal Ball | 10 | — | 0.1% | 1× Rare Key [Moche I] |
-| Small Crystal Ball | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
-| Small Crystal Ball | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
-| Small Crystal Ball | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
-| Small Crystal Ball | 10 | — | 0.1% | 1× Rare Key [Whiland] |
-| Soil | 10 | — | 0.05% | 1× Rare Key [Walco] |
-| Soil | 10 | — | 0.05% | 1× Rare Key [Blood River] |
-| Soil | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Soil | 10 | — | 0.05% | 1× Rare Key [Moche II] |
-| Soil | 10 | — | 0.05% | 1× Rare Key [Reval] |
-| Soil | 10 | — | 0.1% | 1× Rare Key [Moche I] |
-| Soil | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
-| Soil | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
-| Soil | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
-| Soil | 10 | — | 0.1% | 1× Rare Key [Whiland] |
-| Spectral Staff | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Spirit Cape | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Spirit Wings | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Staff of Darkness | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Star Diamond Dust Armor | 100 | — | 0.01% | 1× Retaliation Key [Common] |
-| Star Diamond Dust Armor | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Star Diamond Dust Armor | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Star Diamond Dust Boots | 70 | — | 0.01% | 1× Retaliation Key [Common] |
-| Star Diamond Dust Boots | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Star Diamond Dust Boots | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Star Diamond Dust Helmet | 70 | — | 0.01% | 1× Retaliation Key [Common] |
-| Star Diamond Dust Helmet | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Star Diamond Dust Helmet | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Star Diamond Gloves | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Star Diamond Staff | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Statue of Kronos | 50 | — | 0.03% | 1× Retaliation Key [Common] |
-| Steel Harpoon | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Steel Harpoon | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Steel Harpoon | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Stone Of Evolution | 30 | — | 0.05% | 1× Retaliation Key [Common] |
-| Sturdy Redwood Shield | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| Sturdy Redwood Shield | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Summoning Scroll | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
-| Summoning Scroll | 80 | — | 0.1% | 1× Rare Key [Heaven] |
-| Summoning Scroll | 80 | — | 0.1% | 1× Rare Key [Witches II] |
-| Summoning Scroll | 70 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
-| Summoning Scroll | 70 | — | 0.1% | 1× Rare Key [Dungeon III] |
-| Summoning Scroll | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
-| Summoning Scroll | 70 | — | 0.05% | 1× Rare Key [Clouds] |
-| Summoning Scroll | 70 | — | 0.09% | 1× Rare Key [Witches I] |
-| Summoning Scroll | 70 | — | 0.09% | 1× Rare Key [Hell] |
-| Summoning Scroll | 70 | — | 0.09% | 1× Rare Key [Fellin] |
-| Summoning Scroll | 50 | — | 0.09% | 1× Rare Key [Cesis] |
-| Summoning Scroll | 50 | — | 0.09% | 1× Rare Key [Wittensten] |
-| Summoning Scroll | 50 | — | 0.08% | 1× Rare Key [Broceliande Forest] |
-| Summoning Scroll | 50 | — | 0.08% | 1× Rare Key [Narwa] |
-| Summoning Scroll | 50 | — | 0.09% | 1× Rare Key [Devil's Triangle] |
-| Summoning Scroll | 50 | — | 0.09% | 1× Rare Key [Pernau] |
-| Summoning Scroll | 50 | — | 0.08% | 1× Rare Key [Lost Woods] |
-| Summoning Scroll | 50 | — | 0.08% | 1× Rare Key [Lost Woods] |
-| Summoning Scroll | 50 | — | 0.07% | 1× Rare Key [Walco] |
-| Summoning Scroll | 50 | — | 0.06% | 1× Rare Key [Blood River] |
-| Summoning Scroll | 50 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Sunstorm Wings | 40 | — | 0.03% | 1× Retaliation Key [Common] |
-| Superior Armor Enchant Scroll | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Superior Armor Enchant Scroll | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Superior God Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Dungeon IV] |
-| Superior God Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Heaven] |
-| Superior God Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Witches II] |
-| Superior God Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Superior God Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Superior God Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Superior God Potion [Rare] | 100 | — | 0.06% | 1× Rare Key [Clouds] |
-| Superior God Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Witches I] |
-| Superior Jewelry Enchant Scroll | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Superior Jewelry Enchant Scroll | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Superior Magic Pouch | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| Superior Magic Pouch | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Superior Magic Pouch | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Superior Satan Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Dungeon IV] |
-| Superior Satan Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Heaven] |
-| Superior Satan Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Witches II] |
-| Superior Satan Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
-| Superior Satan Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Dungeon III] |
-| Superior Satan Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
-| Superior Satan Potion [Rare] | 100 | — | 0.07% | 1× Rare Key [Clouds] |
-| Superior Satan Potion [Rare] | 100 | — | 0.05% | 1× Rare Key [Witches I] |
-| Superior Weapon Enchant Scroll | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Superior Weapon Enchant Scroll | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Swift Armor | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
-| Swift Armor | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
-| Swift Boots | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Swift Helmet | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Taaffeite Shard | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
-| Taaffeite Shard | 80 | — | 0.1% | 1× Rare Key [Heaven] |
-| Taaffeite Shard | 80 | — | 0.1% | 1× Rare Key [Witches II] |
-| Taaffeite Shard | 60 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
-| Taaffeite Shard | 60 | — | 0.11% | 1× Rare Key [Dungeon III] |
-| Taaffeite Shard | 60 | — | 0.11% | 1× Rare Key [Dragon's Lair] |
-| Taaffeite Shard | 60 | — | 0.11% | 1× Rare Key [Clouds] |
-| Taaffeite Shard | 60 | — | 0.11% | 1× Rare Key [Witches I] |
-| Taaffeite Shard | 60 | — | 0.11% | 1× Rare Key [Hell] |
-| Taaffeite Shard | 60 | — | 0.1% | 1× Rare Key [Fellin] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Cesis] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Wittensten] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Narwa] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Pernau] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Dungeon I] |
-| Taaffeite Shard | 30 | — | 0.1% | 1× Rare Key [Lost Woods] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Walco] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Blood River] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Moche II] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Reval] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Moche I] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Dorpat] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Dungeon II] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Every Man's Land] |
-| Taaffeite Shard | 10 | — | 0.05% | 1× Rare Key [Whiland] |
-| The Devastator | 30 | — | 0.08% | 1× Retaliation Key [Common] |
-| Trident | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Unicorn Blade | 60 | — | 0.02% | 1× Retaliation Key [Common] |
-| Void Longbow | 70 | — | 0.02% | 1× Retaliation Key [Common] |
-| Void Longbow | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
-| Void Longbow | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
-| War Glaive | 80 | — | 0.01% | 1× Retaliation Key [Common] |
-| War Glaive | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
-| War Glaive | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
-| Warrior Trophy | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
-| Warrior Trophy | 80 | — | 0.1% | 1× Rare Key [Heaven] |
-| Warrior Trophy | 80 | — | 0.1% | 1× Rare Key [Witches II] |
-| Warrior Trophy | 70 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
-| Warrior Trophy | 70 | — | 0.1% | 1× Rare Key [Dungeon III] |
-| Warrior Trophy | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
-| Warrior Trophy | 70 | — | 0.08% | 1× Rare Key [Clouds] |
-| Warrior Trophy | 70 | — | 0.09% | 1× Rare Key [Witches I] |
-| Warrior Trophy | 70 | — | 0.09% | 1× Rare Key [Hell] |
-| Warrior Trophy | 70 | — | 0.08% | 1× Rare Key [Fellin] |
-| Warrior Trophy | 50 | — | 0.09% | 1× Rare Key [Cesis] |
-| Warrior Trophy | 50 | — | 0.09% | 1× Rare Key [Wittensten] |
-| Warrior Trophy | 50 | — | 0.09% | 1× Rare Key [Broceliande Forest] |
-| Warrior Trophy | 50 | — | 0.11% | 1× Rare Key [Narwa] |
-| Warrior Trophy | 50 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
-| Warrior Trophy | 50 | — | 0.11% | 1× Rare Key [Pernau] |
-| Warrior Trophy | 50 | — | 0.1% | 1× Rare Key [Lost Woods] |
-| Warrior Trophy | 50 | — | 0.1% | 1× Rare Key [Lost Woods] |
-| Warrior Trophy | 50 | — | 0.07% | 1× Rare Key [Walco] |
-| Warrior Trophy | 50 | — | 0.06% | 1× Rare Key [Blood River] |
-| Warrior Trophy | 50 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Water Orb | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| White Horse [Rare] | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
-| White Horse [Rare] | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Cesis] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Wittensten] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Broceliande Forest] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Narwa] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Devil's Triangle] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Pernau] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Dungeon I] |
-| Yellow Dust | 30 | — | 1% | 1× Rare Key [Lost Woods] |
-| Yellow Dust | 20 | — | 0.05% | 1× Rare Key [Walco] |
-| Yellow Dust | 20 | — | 0.05% | 1× Rare Key [Blood River] |
-| Yellow Dust | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
-| Yellow Dust | 20 | — | 0.05% | 1× Rare Key [Moche II] |
-| Yellow Dust | 20 | — | 0.05% | 1× Rare Key [Reval] |
-| Yellow Dust | 20 | — | 0.1% | 1× Rare Key [Moche I] |
-| Yellow Dust | 20 | — | 0.1% | 1× Rare Key [Dorpat] |
-| Yellow Dust | 20 | — | 0.1% | 1× Rare Key [Dungeon II] |
-| Yellow Dust | 20 | — | 0.1% | 1× Rare Key [Every Man's Land] |
-| Yellow Dust | 20 | — | 0.1% | 1× Rare Key [Whiland] |
+| 7 소울 쥬얼 *(7 Souls Jewel)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 7 소울 쥬얼 *(7 Souls Jewel)* | 60 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 7 소울 쥬얼 *(7 Souls Jewel)* | 120 | — | 0.04% | 1× Rare Key [Dungeon IV] |
+| 7 소울 쥬얼 *(7 Souls Jewel)* | 120 | — | 0.03% | 1× Rare Key [Heaven] |
+| 7 소울 쥬얼 *(7 Souls Jewel)* | 120 | — | 0.02% | 1× Rare Key [Witches II] |
+| 에어 블래스트 오브 *(Air Blast Orb)* | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
+| 에어 블래스트 오브 *(Air Blast Orb)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 에어 오브 *(Air Orb)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 자수정 바지 *(Amethyst Pants)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 자수정 판금갑옷 *(Amethyst Platemail)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 기억상실 홀 *(Amnesia Scepter)* | 100 | — | 0.01% | 1× Retaliation Key [Common] |
+| 기억상실 홀 *(Amnesia Scepter)* | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 기억상실 홀 *(Amnesia Scepter)* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 엔젤[희귀] *(Angel [Rare])* | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 엔젤[희귀] *(Angel [Rare])* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 엔젤부츠 *(Angel Boots)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 엔젤부츠 *(Angel Boots)* | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 안티 드래곤 쉴드 *(Anti Dragon Shield)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 안티 드래곤 쉴드 *(Anti Dragon Shield)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 안티 드래곤 쉴드 *(Anti Dragon Shield)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 대천사 날개 *(Archangel Wings)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 대악마의 망토 *(Archdevil Cape)* | 40 | — | 0.06% | 1× Retaliation Key [Rare] |
+| 대악마 날개 *(Archdevil Wings)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 아기 화학요법 [희귀] *(Baby Chemosit [Rare])* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 아기 코카트리스 [희귀] *(Baby Cockatrice [Rare])* | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 아기 코카트리스 [희귀] *(Baby Cockatrice [Rare])* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 바하무트 블레이드 *(Bahamut Blade)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 바하무트 블레이드 *(Bahamut Blade)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 바하무트 궁술장갑 *(Bahamut Gloves of Archery)* | 40 | — | 0.06% | 1× Retaliation Key [Rare] |
+| 바하무트 헬멧 *(Bahamut Helmet)* | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 바하무트 헬멧 *(Bahamut Helmet)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 벨제불 부츠 *(Beelzebub Boots)* | 50 | — | 0.06% | 1× Retaliation Key [Rare] |
+| 벨제불 부츠 *(Beelzebub Boots)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 벨제불 판금갑옷 *(Beelzebub Platemail)* | 90 | — | 0.01% | 1× Retaliation Key [Common] |
+| 벨제불 판금갑옷 *(Beelzebub Platemail)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 벨제불 판금갑옷 *(Beelzebub Platemail)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 어둠의 책 *(Book of Darkness)* | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 어둠의 책 *(Book of Darkness)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 혼돈의 검 *(Chaotic Blade)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 혜성 폭풍 메달리온 *(Comet Storm Medallion)* | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
+| 요리된 아기 고래 *(Cooked Baby Whale)* | 1 | — | 0.01% | — |
+| 요리된 돌고래 *(Cooked Dolphin)* | 100 | — | 0.2% | — |
+| 요리된 사자 물고기 *(Cooked Lion Fish)* | 2 | — | 0.2% | — |
+| 요리된 랍스터 *(Cooked Lobster)* | 50 | — | 0.2% | — |
+| 요리된 쥐가오리 *(Cooked Manta Ray)* | 80 | — | 0.2% | — |
+| 코어 케이프 *(Core Cape)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 저주받은 장화 *(Cursed Boots)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 컷 자수정 *(Cut Amethyst)* | 60 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
+| 컷 자수정 *(Cut Amethyst)* | 60 | — | 0.1% | 1× Rare Key [Dungeon III] |
+| 컷 자수정 *(Cut Amethyst)* | 60 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
+| 컷 자수정 *(Cut Amethyst)* | 60 | — | 0.1% | 1× Rare Key [Clouds] |
+| 컷 자수정 *(Cut Amethyst)* | 60 | — | 0.09% | 1× Rare Key [Witches I] |
+| 컷 자수정 *(Cut Amethyst)* | 60 | — | 0.09% | 1× Rare Key [Hell] |
+| 컷 자수정 *(Cut Amethyst)* | 60 | — | 0.09% | 1× Rare Key [Fellin] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.1% | 1× Rare Key [Cesis] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.08% | 1× Rare Key [Narwa] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.08% | 1× Rare Key [Devil's Triangle] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.1% | 1× Rare Key [Pernau] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.11% | 1× Rare Key [Lost Woods] |
+| 컷 자수정 *(Cut Amethyst)* | 40 | — | 0.1% | 1× Rare Key [Lost Woods] |
+| 컷 자수정 *(Cut Amethyst)* | 20 | — | 0.1% | 1× Rare Key [Walco] |
+| 컷 자수정 *(Cut Amethyst)* | 20 | — | 0.09% | 1× Rare Key [Blood River] |
+| 컷 자수정 *(Cut Amethyst)* | 20 | — | 0.08% | 1× Rare Key [Rakblood] |
+| 컷 자수정 *(Cut Amethyst)* | 20 | — | 0.08% | 1× Rare Key [Moche II] |
+| 컷 자수정 *(Cut Amethyst)* | 20 | — | 0.05% | 1× Rare Key [Reval] |
+| 컷 자수정 *(Cut Amethyst)* | 20 | — | 0.12% | 1× Rare Key [Moche I] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.1% | 1× Rare Key [Cesis] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.1% | 1× Rare Key [Narwa] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.08% | 1× Rare Key [Pernau] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 20 | — | 0.08% | 1× Rare Key [Walco] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 20 | — | 0.06% | 1× Rare Key [Blood River] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.1% | 1× Rare Key [Moche II] |
+| 컷 블랙 오팔 *(Cut Black Opal)* | 40 | — | 0.08% | 1× Rare Key [Reval] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Walco] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Blood River] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Rakblood] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Moche II] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Reval] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Moche I] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Dorpat] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Dungeon II] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Every Man's Land] |
+| 컷 크리스탈 *(Cut Crystal)* | 10 | — | 1% | 1× Rare Key [Whiland] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Cesis] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Wittensten] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Narwa] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Pernau] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Lost Woods] |
+| 컷 다이아몬드 *(Cut Diamond)* | 30 | — | 0.1% | 1× Rare Key [Lost Woods] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.05% | 1× Rare Key [Walco] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.05% | 1× Rare Key [Blood River] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.05% | 1× Rare Key [Moche II] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.05% | 1× Rare Key [Reval] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.1% | 1× Rare Key [Moche I] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.1% | 1× Rare Key [Dorpat] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.1% | 1× Rare Key [Dungeon II] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.1% | 1× Rare Key [Every Man's Land] |
+| 컷 다이아몬드 *(Cut Diamond)* | 20 | — | 0.1% | 1× Rare Key [Whiland] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.05% | 1× Rare Key [Walco] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.05% | 1× Rare Key [Blood River] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.05% | 1× Rare Key [Moche II] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.05% | 1× Rare Key [Reval] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.1% | 1× Rare Key [Moche I] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
+| 컷 에메랄드 *(Cut Emerald)* | 10 | — | 0.1% | 1× Rare Key [Whiland] |
+| 컷 경옥 *(Cut Jadeite)* | 80 | — | 1% | 1× Rare Key [Dungeon IV] |
+| 컷 경옥 *(Cut Jadeite)* | 80 | — | 1% | 1× Rare Key [Heaven] |
+| 컷 경옥 *(Cut Jadeite)* | 80 | — | 1% | 1× Rare Key [Witches II] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.1% | 1× Rare Key [Cesis] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.12% | 1× Rare Key [Narwa] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.08% | 1× Rare Key [Pernau] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
+| 컷 경옥 *(Cut Jadeite)* | 20 | — | 0.08% | 1× Rare Key [Walco] |
+| 컷 경옥 *(Cut Jadeite)* | 20 | — | 0.06% | 1× Rare Key [Blood River] |
+| 컷 경옥 *(Cut Jadeite)* | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.1% | 1× Rare Key [Moche II] |
+| 컷 경옥 *(Cut Jadeite)* | 40 | — | 0.09% | 1× Rare Key [Reval] |
+| 컷 루비 *(Cut Ruby)* | 60 | — | 1% | 1× Rare Key [Ancient Dungeon] |
+| 컷 루비 *(Cut Ruby)* | 60 | — | 1% | 1× Rare Key [Dungeon III] |
+| 컷 루비 *(Cut Ruby)* | 60 | — | 1% | 1× Rare Key [Dragon's Lair] |
+| 컷 루비 *(Cut Ruby)* | 60 | — | 1% | 1× Rare Key [Clouds] |
+| 컷 루비 *(Cut Ruby)* | 60 | — | 1% | 1× Rare Key [Witches I] |
+| 컷 루비 *(Cut Ruby)* | 60 | — | 1% | 1× Rare Key [Hell] |
+| 컷 루비 *(Cut Ruby)* | 60 | — | 1% | 1× Rare Key [Fellin] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.05% | 1× Rare Key [Walco] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.05% | 1× Rare Key [Blood River] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.05% | 1× Rare Key [Moche II] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.05% | 1× Rare Key [Reval] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.1% | 1× Rare Key [Moche I] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
+| 컷 루비 *(Cut Ruby)* | 10 | — | 0.1% | 1× Rare Key [Whiland] |
+| 컷스타 다이아몬드 *(Cut Star Diamond)* | 110 | — | 0.07% | 1× Rare Key [Dungeon IV] |
+| 컷스타 다이아몬드 *(Cut Star Diamond)* | 110 | — | 0.05% | 1× Rare Key [Heaven] |
+| 컷스타 다이아몬드 *(Cut Star Diamond)* | 110 | — | 0.05% | 1× Rare Key [Witches II] |
+| 컷스타 다이아몬드 *(Cut Star Diamond)* | 110 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 컷스타 다이아몬드 *(Cut Star Diamond)* | 110 | — | 0.04% | 1× Rare Key [Dungeon III] |
+| 컷스타 다이아몬드 *(Cut Star Diamond)* | 110 | — | 0.03% | 1× Rare Key [Dragon's Lair] |
+| 암흑기사 투구 *(Dark Knight Helmet)* | 30 | — | 0.08% | 1× Retaliation Key [Common] |
+| 반신의 장화 *(Demigod Boots)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 반신 모자 *(Demigod Hat)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 악마의 수정 *(Demonic Crystal)* | 120 | — | 0.07% | 1× Rare Key [Dungeon IV] |
+| 악마의 수정 *(Demonic Crystal)* | 120 | — | 0.05% | 1× Rare Key [Heaven] |
+| 악마의 수정 *(Demonic Crystal)* | 120 | — | 0.05% | 1× Rare Key [Witches II] |
+| 악마의 마법서 *(Demonic Magic Book)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 악마의 마법서 *(Demonic Magic Book)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 파괴 메달 *(Destruction Medallion)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 파괴 메달 *(Destruction Medallion)* | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
+| 다이아몬드 판금갑옷 *(Diamond Platemail)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 다이아몬드 판금갑옷 *(Diamond Platemail)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 다이아몬드 판금갑옷 *(Diamond Platemail)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 공룡 [희귀] *(Dinosaur [Rare])* | 40 | — | 1% | 1× Retaliation Key [Rare] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 110 | — | 0.05% | 1× Rare Key [Dungeon IV] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 110 | — | 0.05% | 1× Rare Key [Heaven] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 110 | — | 0.05% | 1× Rare Key [Witches II] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 110 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 110 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 드래곤 슬레이어 *(Dragon Slayer)* | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 드래곤 슬레이어 액스 *(Dragon Slayer Axe)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 드래곤 슬레이어 액스 *(Dragon Slayer Axe)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 드래곤 슬레이어 액스 *(Dragon Slayer Axe)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 드래곤 슬레이어 액스 *(Dragon Slayer Axe)* | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 드래곤 소울 쉴드 *(Dragon Soul Shield)* | 90 | — | 0.01% | 1× Retaliation Key [Common] |
+| 드래곤 소울 쉴드 *(Dragon Soul Shield)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 드래곤 소울 쉴드 *(Dragon Soul Shield)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 드래곤 블러드 장궁 *(Dragon's Blood Longbow)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 드래곤 블러드 장궁 *(Dragon's Blood Longbow)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 드래곤스톤 블레이드 *(Dragonstone Blade)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 드래곤스톤 부츠 *(Dragonstone Boots)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 드래곤스톤 헬멧 *(Dragonstone Helmet)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 드래곤스톤 바지 *(Dragonstone Pants)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 드래곤스톤 판금갑옷 *(Dragonstone Platemail)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 드래곤스톤 쉴드 *(Dragonstone Shield)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 드래곤스톤 쉴드 *(Dragonstone Shield)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 지구 오브 *(Earth Orb)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 이클립스 블레이드 *(Eclipse Blade)* | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 이클립스 블레이드 *(Eclipse Blade)* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 이프리트 [희귀] *(Efreet [Rare])* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.09% | 1× Rare Key [Walco] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.09% | 1× Rare Key [Blood River] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.07% | 1× Rare Key [Rakblood] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.07% | 1× Rare Key [Moche II] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.07% | 1× Rare Key [Reval] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.09% | 1× Rare Key [Moche I] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.09% | 1× Rare Key [Dorpat] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.07% | 1× Rare Key [Dungeon II] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
+| 에메랄드 사슬갑옷 *(Emerald Chainmail)* | 30 | — | 0.05% | 1× Rare Key [Whiland] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.07% | 1× Rare Key [Walco] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.07% | 1× Rare Key [Blood River] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.08% | 1× Rare Key [Rakblood] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.08% | 1× Rare Key [Moche II] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.08% | 1× Rare Key [Reval] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.08% | 1× Rare Key [Moche I] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.08% | 1× Rare Key [Dorpat] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.08% | 1× Rare Key [Dungeon II] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
+| 에메랄드 풀 헬멧 *(Emerald Full Helmet)* | 30 | — | 0.05% | 1× Rare Key [Whiland] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.07% | 1× Rare Key [Walco] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.07% | 1× Rare Key [Blood River] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.12% | 1× Rare Key [Rakblood] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.12% | 1× Rare Key [Moche II] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.12% | 1× Rare Key [Reval] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.07% | 1× Rare Key [Moche I] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.07% | 1× Rare Key [Dorpat] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.07% | 1× Rare Key [Dungeon II] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.07% | 1× Rare Key [Every Man's Land] |
+| 에메랄드 카타나 *(Emerald Katana)* | 20 | — | 0.05% | 1× Rare Key [Whiland] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.12% | 1× Rare Key [Walco] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.12% | 1× Rare Key [Blood River] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.09% | 1× Rare Key [Rakblood] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.09% | 1× Rare Key [Moche II] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.09% | 1× Rare Key [Reval] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.09% | 1× Rare Key [Moche I] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.09% | 1× Rare Key [Dorpat] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.08% | 1× Rare Key [Dungeon II] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.07% | 1× Rare Key [Every Man's Land] |
+| 에메랄드 롱소드 *(Emerald Long Sword)* | 20 | — | 0.05% | 1× Rare Key [Whiland] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.09% | 1× Rare Key [Walco] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.09% | 1× Rare Key [Blood River] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.07% | 1× Rare Key [Rakblood] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.07% | 1× Rare Key [Moche II] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.07% | 1× Rare Key [Reval] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.07% | 1× Rare Key [Moche I] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.07% | 1× Rare Key [Dorpat] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.07% | 1× Rare Key [Dungeon II] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
+| 에메랄드 바지 *(Emerald Pants)* | 30 | — | 0.05% | 1× Rare Key [Whiland] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.07% | 1× Rare Key [Walco] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.07% | 1× Rare Key [Blood River] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.09% | 1× Rare Key [Rakblood] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.09% | 1× Rare Key [Moche II] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.09% | 1× Rare Key [Reval] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.08% | 1× Rare Key [Moche I] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.08% | 1× Rare Key [Dorpat] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.08% | 1× Rare Key [Dungeon II] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.07% | 1× Rare Key [Every Man's Land] |
+| 에메랄드 판금갑옷 *(Emerald Platemail)* | 30 | — | 0.05% | 1× Rare Key [Whiland] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.08% | 1× Rare Key [Walco] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.08% | 1× Rare Key [Blood River] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.07% | 1× Rare Key [Rakblood] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.07% | 1× Rare Key [Moche II] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.07% | 1× Rare Key [Reval] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.09% | 1× Rare Key [Moche I] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.09% | 1× Rare Key [Dorpat] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.08% | 1× Rare Key [Dungeon II] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.07% | 1× Rare Key [Every Man's Land] |
+| 에메랄드 워해머 *(Emerald Warhammer)* | 20 | — | 0.005% | 1× Rare Key [Whiland] |
+| 엔키 케이프 *(Enki Cape)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 운명의 홀 *(Fate Scepter)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 운명의 홀 *(Fate Scepter)* | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 소방 전투 도끼 *(Fire Battle Axe)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 불 도리깨 *(Fire Flail)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.04% | 1× Rare Key [Dungeon IV] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.04% | 1× Rare Key [Heaven] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.04% | 1× Rare Key [Witches II] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.05% | 1× Rare Key [Clouds] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.05% | 1× Rare Key [Witches I] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.05% | 1× Rare Key [Hell] |
+| 불 도리깨 *(Fire Flail)* | 90 | — | 0.05% | 1× Rare Key [Fellin] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Dungeon IV] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Heaven] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Witches II] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Clouds] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Witches I] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.05% | 1× Rare Key [Hell] |
+| 소방 헬멧 *(Fire Helmet)* | 90 | — | 0.04% | 1× Rare Key [Fellin] |
+| 불의 구체 *(Fire Orb)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.06% | 1× Rare Key [Dungeon IV] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.06% | 1× Rare Key [Heaven] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.06% | 1× Rare Key [Witches II] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.05% | 1× Rare Key [Clouds] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.05% | 1× Rare Key [Witches I] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.05% | 1× Rare Key [Hell] |
+| 파이어 스톤 팬츠 *(Fire Stone Pants)* | 90 | — | 0.05% | 1× Rare Key [Fellin] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Dungeon IV] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Heaven] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Witches II] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Clouds] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Witches I] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Hell] |
+| 불의 돌 판금갑옷 *(Fire Stone Platemail)* | 90 | — | 0.05% | 1× Rare Key [Fellin] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.1% | 1× Rare Key [Dungeon III] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.09% | 1× Rare Key [Dragon's Lair] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.09% | 1× Rare Key [Clouds] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.09% | 1× Rare Key [Witches I] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.09% | 1× Rare Key [Hell] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.09% | 1× Rare Key [Fellin] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.07% | 1× Rare Key [Cesis] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.07% | 1× Rare Key [Wittensten] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.07% | 1× Rare Key [Narwa] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.07% | 1× Rare Key [Pernau] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
+| 플랑베르주 *(Flamberge)* | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
+| 불꽃 피닉스 바지 *(Flame Phoenix Pants)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 불꽃 피닉스 바지 *(Flame Phoenix Pants)* | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 불꽃 피닉스 판금갑옷 *(Flame Phoenix Platemail)* | 30 | — | 0.08% | 1× Retaliation Key [Common] |
+| 불타는 자수정 지팡이 *(Flaming Amethyst Staff)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 불타는 자수정 지팡이 *(Flaming Amethyst Wand)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 불타는 자수정 지팡이 *(Flaming Amethyst Wand)* | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 불타는 루비 지팡이 *(Flaming Ruby Staff)* | 30 | — | 1% | 1× Retaliation Key [Common] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.08% | 1× Rare Key [Cesis] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.08% | 1× Rare Key [Wittensten] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.08% | 1× Rare Key [Broceliande Forest] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.07% | 1× Rare Key [Narwa] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.07% | 1× Rare Key [Pernau] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.06% | 1× Rare Key [Lost Woods] |
+| 프리징 레이피어 *(Freezing Rapier)* | 50 | — | 0.05% | 1× Rare Key [Lost Woods] |
+| 거대 대천사 도끼 *(Giant Archangel Axe)* | 90 | — | 0.01% | 1× Retaliation Key [Common] |
+| 거대 대천사 도끼 *(Giant Archangel Axe)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 거대 대천사 도끼 *(Giant Archangel Axe)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 황금사과 *(Golden Apple)* | 120 | — | 0.06% | 1× Rare Key [Dungeon IV] |
+| 황금사과 *(Golden Apple)* | 120 | — | 0.06% | 1× Rare Key [Heaven] |
+| 황금사과 *(Golden Apple)* | 120 | — | 0.04% | 1× Rare Key [Witches II] |
+| 골든 크라운 *(Golden Crown)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 그렌달프 모자 *(Grendalf Hat)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 그렌달프 로브 *(Grendalf Robe)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 그렌달프 로브 하의 *(Grendalf Robe Bottom)* | 50 | — | 0.02% | 1× Retaliation Key [Common] |
+| 하이 아머 인챈트 스크롤 *(High Armor Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 하이 아머 인챈트 스크롤 *(High Armor Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 하이 주얼리 인챈트 스크롤 *(High Jewelry Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 하이 주얼리 인챈트 스크롤 *(High Jewelry Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 고급 무기 인챈트 스크롤 *(High Weapon Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 고급 무기 인챈트 스크롤 *(High Weapon Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 하이윙 인챈트 스크롤 *(High Wings Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 하이윙 인챈트 스크롤 *(High Wings Enchant Scroll)* | 40 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 신성한 손길 메달리온 *(Holy Touch Medallion)* | 40 | — | 0.05% | 1× Retaliation Key [Rare] |
+| 아이스 케이프 *(Ice Cape)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 아이커 블레이드 *(Ichor Blade)* | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 아이커 블레이드 *(Ichor Blade)* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 아이코르 부츠 *(Ichor Boots)* | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 아이코르 부츠 *(Ichor Boots)* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 아이코르 장갑 *(Ichor Gloves)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 아이코르 장갑 *(Ichor Gloves)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 아이코르 투구 *(Ichor Helmet)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 아이코르 바지 *(Ichor Pants)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 보석 추출기 *(Jewel Extractor)* | 90 | — | 0.05% | 1× Rare Key [Dungeon IV] |
+| 보석 추출기 *(Jewel Extractor)* | 90 | — | 0.05% | 1× Rare Key [Heaven] |
+| 보석 추출기 *(Jewel Extractor)* | 90 | — | 0.05% | 1× Rare Key [Witches II] |
+| 보석 추출기 *(Jewel Extractor)* | 80 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 보석 추출기 *(Jewel Extractor)* | 80 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 보석 추출기 *(Jewel Extractor)* | 80 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 보석 추출기 *(Jewel Extractor)* | 80 | — | 0.07% | 1× Rare Key [Clouds] |
+| 보석 추출기 *(Jewel Extractor)* | 80 | — | 0.05% | 1× Rare Key [Witches I] |
+| 보석 추출기 *(Jewel Extractor)* | 80 | — | 0.05% | 1× Rare Key [Hell] |
+| 보석 추출기 *(Jewel Extractor)* | 80 | — | 0.05% | 1× Rare Key [Fellin] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.1% | 1× Rare Key [Cesis] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.1% | 1× Rare Key [Wittensten] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.09% | 1× Rare Key [Narwa] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.08% | 1× Rare Key [Devil's Triangle] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.07% | 1× Rare Key [Pernau] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.07% | 1× Rare Key [Lost Woods] |
+| 보석 추출기 *(Jewel Extractor)* | 40 | — | 0.07% | 1× Rare Key [Lost Woods] |
+| 보석 추출기 *(Jewel Extractor)* | 50 | — | 0.03% | 1× Rare Key [Walco] |
+| 보석 추출기 *(Jewel Extractor)* | 50 | — | 0.02% | 1× Rare Key [Blood River] |
+| 보석 추출기 *(Jewel Extractor)* | 50 | — | 0.01% | 1× Rare Key [Rakblood] |
+| 거대괴수 장화 *(Juggernaut Boots)* | 70 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 왕의 정령 용 비늘 투구 *(King Elemental Dragon Scale Helmet)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 킹 엘리멘탈 비늘 화살통 *(King Elemental Scale Quiver)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 킹 엘리멘탈 비늘 화살통 *(King Elemental Scale Quiver)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 왕의 왕관 *(King's Crown)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 크로노스 블레이드 *(Kronos Blade)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 집주인 왕관 *(Landlord Crown)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 80 | — | 0.1% | 1× Rare Key [Heaven] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 80 | — | 0.1% | 1× Rare Key [Witches II] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.11% | 1× Rare Key [Dungeon III] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.1% | 1× Rare Key [Clouds] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.08% | 1× Rare Key [Witches I] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.08% | 1× Rare Key [Hell] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.07% | 1× Rare Key [Fellin] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.07% | 1× Rare Key [Cesis] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.07% | 1× Rare Key [Wittensten] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.06% | 1× Rare Key [Narwa] |
+| 대형 수정구슬 *(Large Crystal Ball)* | 70 | — | 0.05% | 1× Rare Key [Devil's Triangle] |
+| 큰 조각 *(Large Fragment)* | 110 | — | 0.08% | 1× Rare Key [Dungeon IV] |
+| 큰 조각 *(Large Fragment)* | 110 | — | 0.05% | 1× Rare Key [Heaven] |
+| 큰 조각 *(Large Fragment)* | 110 | — | 0.05% | 1× Rare Key [Witches II] |
+| 큰 조각 *(Large Fragment)* | 110 | — | 0.08% | 1× Rare Key [Ancient Dungeon] |
+| 큰 조각 *(Large Fragment)* | 110 | — | 0.07% | 1× Rare Key [Dungeon III] |
+| 큰 조각 *(Large Fragment)* | 110 | — | 0.07% | 1× Rare Key [Dragon's Lair] |
+| 라이트 레드우드 쉴드 *(Light Redwood Shield)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 라이트 레드우드 쉴드 *(Light Redwood Shield)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 번개 깃털 묶음 [L] *(Lightning Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Dungeon IV] |
+| 번개 깃털 묶음 [L] *(Lightning Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Heaven] |
+| 번개 깃털 묶음 [L] *(Lightning Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Witches II] |
+| 번개 깃털 묶음 [L] *(Lightning Feather Bundle [L])* | 110 | — | 0.07% | 1× Rare Key [Ancient Dungeon] |
+| 번개 깃털 묶음 [L] *(Lightning Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Dungeon III] |
+| 번개 깃털 묶음 [L] *(Lightning Feather Bundle [L])* | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 번개 날개 *(Lightning Wings)* | 70 | — | 0.01% | 1× Retaliation Key [Common] |
+| 번개 날개 *(Lightning Wings)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 번개 날개 *(Lightning Wings)* | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 자물쇠 따기 *(Lock Pick)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 긴 스파이크 메이스 *(Long Spiked Mace)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 루시퍼 헬멧 *(Lucifer Helmet)* | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
+| 루시퍼 헬멧 *(Lucifer Helmet)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 루시퍼 플레이트메일 *(Lucifer Platemail)* | 90 | — | 0.01% | 1× Retaliation Key [Common] |
+| 루시퍼 플레이트메일 *(Lucifer Platemail)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 루시퍼 플레이트메일 *(Lucifer Platemail)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 마법의 룬[고대] *(Magic Rune [Ancient])* | 30 | — | 0.08% | 1× Retaliation Key [Common] |
+| 중간 수정구 *(Medium Crystal Ball)* | 60 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
+| 중간 수정구 *(Medium Crystal Ball)* | 60 | — | 0.11% | 1× Rare Key [Dungeon III] |
+| 중간 수정구 *(Medium Crystal Ball)* | 60 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
+| 중간 수정구 *(Medium Crystal Ball)* | 60 | — | 0.1% | 1× Rare Key [Clouds] |
+| 중간 수정구 *(Medium Crystal Ball)* | 60 | — | 0.1% | 1× Rare Key [Witches I] |
+| 중간 수정구 *(Medium Crystal Ball)* | 60 | — | 0.1% | 1× Rare Key [Hell] |
+| 중간 수정구 *(Medium Crystal Ball)* | 60 | — | 0.1% | 1× Rare Key [Fellin] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.12% | 1× Rare Key [Cesis] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.12% | 1× Rare Key [Wittensten] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.12% | 1× Rare Key [Broceliande Forest] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.1% | 1× Rare Key [Narwa] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.08% | 1× Rare Key [Pernau] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.1% | 1× Rare Key [Lost Woods] |
+| 중간 수정구 *(Medium Crystal Ball)* | 40 | — | 0.08% | 1× Rare Key [Lost Woods] |
+| 중간 수정구 *(Medium Crystal Ball)* | 20 | — | 0.08% | 1× Rare Key [Walco] |
+| 중간 수정구 *(Medium Crystal Ball)* | 20 | — | 0.06% | 1× Rare Key [Blood River] |
+| 중간 수정구 *(Medium Crystal Ball)* | 20 | — | 0.08% | 1× Rare Key [Rakblood] |
+| 중간 수정구 *(Medium Crystal Ball)* | 20 | — | 0.08% | 1× Rare Key [Moche II] |
+| 중간 수정구 *(Medium Crystal Ball)* | 20 | — | 0.05% | 1× Rare Key [Reval] |
+| 중간 수정구 *(Medium Crystal Ball)* | 20 | — | 0.07% | 1× Rare Key [Moche I] |
+| 멀린 로브 *(Merlin Robe)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.04% | 1× Rare Key [Dungeon IV] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.04% | 1× Rare Key [Heaven] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.04% | 1× Rare Key [Witches II] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.03% | 1× Rare Key [Clouds] |
+| 미니게임 스크롤 *(Minigame Scroll)* | 100 | — | 0.02% | 1× Rare Key [Witches I] |
+| 문스톤 *(Moon Stone)* | 90 | — | 0.1% | 1× Rare Key [Dungeon IV] |
+| 문스톤 *(Moon Stone)* | 90 | — | 0.1% | 1× Rare Key [Heaven] |
+| 문스톤 *(Moon Stone)* | 90 | — | 0.1% | 1× Rare Key [Witches II] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.09% | 1× Rare Key [Clouds] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.07% | 1× Rare Key [Witches I] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.07% | 1× Rare Key [Hell] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.06% | 1× Rare Key [Fellin] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.05% | 1× Rare Key [Cesis] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.04% | 1× Rare Key [Wittensten] |
+| 문스톤 *(Moon Stone)* | 80 | — | 0.03% | 1× Rare Key [Broceliande Forest] |
+| 모스 블레이드 *(Moss Blade)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 모스 블레이드 *(Moss Blade)* | 60 | — | 0.06% | 1× Rare Key [Ancient Dungeon] |
+| 모스 블레이드 *(Moss Blade)* | 60 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 모스 블레이드 *(Moss Blade)* | 60 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 모스 블레이드 *(Moss Blade)* | 60 | — | 0.05% | 1× Rare Key [Clouds] |
+| 모스 블레이드 *(Moss Blade)* | 60 | — | 0.05% | 1× Rare Key [Witches I] |
+| 모스 블레이드 *(Moss Blade)* | 60 | — | 0.05% | 1× Rare Key [Hell] |
+| 모스 블레이드 *(Moss Blade)* | 60 | — | 0.05% | 1× Rare Key [Fellin] |
+| 모스 블레이드 *(Moss Blade)* | 70 | — | 0.07% | 1× Rare Key [Cesis] |
+| 모스 블레이드 *(Moss Blade)* | 70 | — | 0.07% | 1× Rare Key [Wittensten] |
+| 모스 블레이드 *(Moss Blade)* | 70 | — | 0.06% | 1× Rare Key [Broceliande Forest] |
+| 모스 블레이드 *(Moss Blade)* | 70 | — | 0.04% | 1× Rare Key [Narwa] |
+| 모스 블레이드 *(Moss Blade)* | 70 | — | 0.03% | 1× Rare Key [Devil's Triangle] |
+| 오딘 부츠 *(Odin Boots)* | 50 | — | 0.06% | 1× Retaliation Key [Rare] |
+| 오딘 부츠 *(Odin Boots)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 오딘 메이스 *(Odin Mace)* | 90 | — | 0.01% | 1× Retaliation Key [Common] |
+| 오딘 메이스 *(Odin Mace)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 오딘 메이스 *(Odin Mace)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 행운의 오브 *(Orb Of Luck)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 행운의 오브 *(Orb Of Luck)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 행운의 오브 *(Orb Of Luck)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 피닉스 케이프 *(Phoenix Cape)* | 30 | — | 0.08% | 1× Retaliation Key [Common] |
+| 불사조 깃털 묶음 [L] *(Phoenix Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Dungeon IV] |
+| 불사조 깃털 묶음 [L] *(Phoenix Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Heaven] |
+| 불사조 깃털 묶음 [L] *(Phoenix Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Witches II] |
+| 불사조 깃털 묶음 [L] *(Phoenix Feather Bundle [L])* | 110 | — | 0.07% | 1× Rare Key [Ancient Dungeon] |
+| 불사조 깃털 묶음 [L] *(Phoenix Feather Bundle [L])* | 110 | — | 0.06% | 1× Rare Key [Dungeon III] |
+| 불사조 깃털 묶음 [L] *(Phoenix Feather Bundle [L])* | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 백금 자수정 목걸이 *(Platinum Amethyst Necklace)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 백금 자수정 반지 *(Platinum Amethyst Ring)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 플래티넘 블랙 오팔 목걸이 *(Platinum Black Opal Necklace)* | 70 | — | 0.01% | 1× Retaliation Key [Common] |
+| 플래티넘 블랙 오팔 목걸이 *(Platinum Black Opal Necklace)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 플래티넘 블랙 오팔 목걸이 *(Platinum Black Opal Necklace)* | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 플래티넘 블랙 오팔 반지 *(Platinum Black Opal Ring)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 플래티넘 다이아몬드 목걸이 *(Platinum Diamond Necklace)* | 30 | — | 0.08% | 1× Retaliation Key [Common] |
+| 백금 경옥 목걸이 *(Platinum Jadeite Necklace)* | 90 | — | 0.01% | 1× Retaliation Key [Common] |
+| 백금 경옥 목걸이 *(Platinum Jadeite Necklace)* | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 백금 경옥 목걸이 *(Platinum Jadeite Necklace)* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 백금 경옥 반지 *(Platinum Jadeite Ring)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 백금 경옥 반지 *(Platinum Jadeite Ring)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 백금 경옥 반지 *(Platinum Jadeite Ring)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 포세이돈의 삼지창 *(Poseidon's Trident)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 포세이돈의 삼지창 *(Poseidon's Trident)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 포세이돈의 삼지창 *(Poseidon's Trident)* | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 망각의 물약 *(Potion Of Oblivion)* | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
+| 망각의 물약 *(Potion Of Oblivion)* | 50 | — | 1% | 1× Retaliation Key [Legendary] |
+| 보존의 물약 *(Potion Of Preservation)* | 90 | — | 0.07% | 1× Rare Key [Dungeon IV] |
+| 보존의 물약 *(Potion Of Preservation)* | 90 | — | 0.05% | 1× Rare Key [Heaven] |
+| 보존의 물약 *(Potion Of Preservation)* | 90 | — | 0.05% | 1× Rare Key [Witches II] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.08% | 1× Rare Key [Clouds] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.05% | 1× Rare Key [Witches I] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.05% | 1× Rare Key [Hell] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.05% | 1× Rare Key [Fellin] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.04% | 1× Rare Key [Cesis] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.03% | 1× Rare Key [Wittensten] |
+| 보존의 물약 *(Potion Of Preservation)* | 80 | — | 0.03% | 1× Rare Key [Broceliande Forest] |
+| Redhodium 부싯돌 묶음 *(Redhodium Flint Bundle)* | 110 | — | 0.05% | 1× Rare Key [Dungeon IV] |
+| Redhodium 부싯돌 묶음 *(Redhodium Flint Bundle)* | 110 | — | 0.05% | 1× Rare Key [Heaven] |
+| Redhodium 부싯돌 묶음 *(Redhodium Flint Bundle)* | 110 | — | 0.05% | 1× Rare Key [Witches II] |
+| Redhodium 부싯돌 묶음 *(Redhodium Flint Bundle)* | 110 | — | 0.07% | 1× Rare Key [Ancient Dungeon] |
+| Redhodium 부싯돌 묶음 *(Redhodium Flint Bundle)* | 110 | — | 0.06% | 1× Rare Key [Dungeon III] |
+| Redhodium 부싯돌 묶음 *(Redhodium Flint Bundle)* | 110 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.1% | 1× Rare Key [Dungeon III] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.1% | 1× Rare Key [Clouds] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.08% | 1× Rare Key [Witches I] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.08% | 1× Rare Key [Hell] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.08% | 1× Rare Key [Fellin] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.08% | 1× Rare Key [Cesis] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.08% | 1× Rare Key [Wittensten] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.07% | 1× Rare Key [Narwa] |
+| 반복 퀘스트 권한 *(Repeat Quest Permission)* | 70 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
+| 리딜 *(Ridill)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 로얄 디펜더 *(Royal Defender)* | 30 | — | 0.08% | 1× Retaliation Key [Common] |
+| 왕실 기사 투구 *(Royal Knight Helmet)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 루비 드래곤 부츠 *(Ruby Dragon Boots)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 모래폭풍 투구 *(Sandstorm Helmet)* | 60 | — | 0.06% | 1× Retaliation Key [Rare] |
+| 모래폭풍 화살통 *(Sandstorm Quiver)* | 90 | — | 0.01% | 1× Retaliation Key [Common] |
+| 모래폭풍 화살통 *(Sandstorm Quiver)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 모래폭풍 화살통 *(Sandstorm Quiver)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.09% | 1× Rare Key [Cesis] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.09% | 1× Rare Key [Wittensten] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.09% | 1× Rare Key [Broceliande Forest] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.07% | 1× Rare Key [Narwa] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.07% | 1× Rare Key [Pernau] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
+| 사파이어 부츠 *(Sapphire Boots)* | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.07% | 1× Rare Key [Cesis] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.07% | 1× Rare Key [Wittensten] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.11% | 1× Rare Key [Narwa] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.11% | 1× Rare Key [Devil's Triangle] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.07% | 1× Rare Key [Pernau] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.06% | 1× Rare Key [Lost Woods] |
+| 사파이어 드래곤 헤드 *(Sapphire Dragon Head)* | 50 | — | 0.05% | 1× Rare Key [Lost Woods] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.07% | 1× Rare Key [Cesis] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.07% | 1× Rare Key [Wittensten] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.07% | 1× Rare Key [Broceliande Forest] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.07% | 1× Rare Key [Narwa] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.07% | 1× Rare Key [Pernau] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
+| 사파이어 드래곤 판금갑옷 *(Sapphire Dragon Platemail)* | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.08% | 1× Rare Key [Cesis] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.1% | 1× Rare Key [Wittensten] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.09% | 1× Rare Key [Narwa] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.09% | 1× Rare Key [Devil's Triangle] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.07% | 1× Rare Key [Pernau] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.06% | 1× Rare Key [Lost Woods] |
+| 사파이어 미늘창 *(Sapphire Halberd)* | 50 | — | 0.05% | 1× Rare Key [Lost Woods] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.08% | 1× Rare Key [Cesis] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.11% | 1× Rare Key [Wittensten] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.11% | 1× Rare Key [Broceliande Forest] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.07% | 1× Rare Key [Narwa] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.07% | 1× Rare Key [Devil's Triangle] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.07% | 1× Rare Key [Pernau] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.06% | 1× Rare Key [Lost Woods] |
+| 사파이어 롱소드 *(Sapphire Long Sword)* | 60 | — | 0.05% | 1× Rare Key [Lost Woods] |
+| 어둠의 홀 *(Scepter of Darkness)* | 50 | — | 0.05% | 1× Retaliation Key [Rare] |
+| 어둠의 홀 *(Scepter of Darkness)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 시바 부츠 *(Shiva Boots)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 시바 부츠 *(Shiva Boots)* | 70 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 시바 케이프 *(Shiva Cape)* | 110 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 시바 케이프 *(Shiva Cape)* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 해골 장궁 *(Skull Longbow)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.05% | 1× Rare Key [Walco] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.05% | 1× Rare Key [Blood River] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.05% | 1× Rare Key [Moche II] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.05% | 1× Rare Key [Reval] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.1% | 1× Rare Key [Moche I] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
+| 작은 수정구슬 *(Small Crystal Ball)* | 10 | — | 0.1% | 1× Rare Key [Whiland] |
+| 토양 *(Soil)* | 10 | — | 0.05% | 1× Rare Key [Walco] |
+| 토양 *(Soil)* | 10 | — | 0.05% | 1× Rare Key [Blood River] |
+| 토양 *(Soil)* | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 토양 *(Soil)* | 10 | — | 0.05% | 1× Rare Key [Moche II] |
+| 토양 *(Soil)* | 10 | — | 0.05% | 1× Rare Key [Reval] |
+| 토양 *(Soil)* | 10 | — | 0.1% | 1× Rare Key [Moche I] |
+| 토양 *(Soil)* | 10 | — | 0.1% | 1× Rare Key [Dorpat] |
+| 토양 *(Soil)* | 10 | — | 0.1% | 1× Rare Key [Dungeon II] |
+| 토양 *(Soil)* | 10 | — | 0.1% | 1× Rare Key [Every Man's Land] |
+| 토양 *(Soil)* | 10 | — | 0.1% | 1× Rare Key [Whiland] |
+| 스펙트럼 지팡이 *(Spectral Staff)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 스피릿 케이프 *(Spirit Cape)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 영혼 날개 *(Spirit Wings)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 어둠의 지팡이 *(Staff of Darkness)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 스타 다이아몬드 더스트 아머 *(Star Diamond Dust Armor)* | 100 | — | 0.01% | 1× Retaliation Key [Common] |
+| 스타 다이아몬드 더스트 아머 *(Star Diamond Dust Armor)* | 100 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 스타 다이아몬드 더스트 아머 *(Star Diamond Dust Armor)* | 100 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 스타 다이아몬드 더스트 부츠 *(Star Diamond Dust Boots)* | 70 | — | 0.01% | 1× Retaliation Key [Common] |
+| 스타 다이아몬드 더스트 부츠 *(Star Diamond Dust Boots)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 스타 다이아몬드 더스트 부츠 *(Star Diamond Dust Boots)* | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 스타 다이아몬드 더스트 헬멧 *(Star Diamond Dust Helmet)* | 70 | — | 0.01% | 1× Retaliation Key [Common] |
+| 스타 다이아몬드 더스트 헬멧 *(Star Diamond Dust Helmet)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 스타 다이아몬드 더스트 헬멧 *(Star Diamond Dust Helmet)* | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 스타 다이아몬드 장갑 *(Star Diamond Gloves)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 스타 다이아몬드 스태프 *(Star Diamond Staff)* | 120 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 크로노스의 동상 *(Statue of Kronos)* | 50 | — | 0.03% | 1× Retaliation Key [Common] |
+| 강철작살 *(Steel Harpoon)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 강철작살 *(Steel Harpoon)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 강철작살 *(Steel Harpoon)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 진화의 돌 *(Stone Of Evolution)* | 30 | — | 0.05% | 1× Retaliation Key [Common] |
+| 튼튼한 삼나무 방패 *(Sturdy Redwood Shield)* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 튼튼한 삼나무 방패 *(Sturdy Redwood Shield)* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 소환서 *(Summoning Scroll)* | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
+| 소환서 *(Summoning Scroll)* | 80 | — | 0.1% | 1× Rare Key [Heaven] |
+| 소환서 *(Summoning Scroll)* | 80 | — | 0.1% | 1× Rare Key [Witches II] |
+| 소환서 *(Summoning Scroll)* | 70 | — | 0.1% | 1× Rare Key [Ancient Dungeon] |
+| 소환서 *(Summoning Scroll)* | 70 | — | 0.1% | 1× Rare Key [Dungeon III] |
+| 소환서 *(Summoning Scroll)* | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
+| 소환서 *(Summoning Scroll)* | 70 | — | 0.05% | 1× Rare Key [Clouds] |
+| 소환서 *(Summoning Scroll)* | 70 | — | 0.09% | 1× Rare Key [Witches I] |
+| 소환서 *(Summoning Scroll)* | 70 | — | 0.09% | 1× Rare Key [Hell] |
+| 소환서 *(Summoning Scroll)* | 70 | — | 0.09% | 1× Rare Key [Fellin] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.09% | 1× Rare Key [Cesis] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.09% | 1× Rare Key [Wittensten] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.08% | 1× Rare Key [Broceliande Forest] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.08% | 1× Rare Key [Narwa] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.09% | 1× Rare Key [Devil's Triangle] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.09% | 1× Rare Key [Pernau] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.08% | 1× Rare Key [Lost Woods] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.08% | 1× Rare Key [Lost Woods] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.07% | 1× Rare Key [Walco] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.06% | 1× Rare Key [Blood River] |
+| 소환서 *(Summoning Scroll)* | 50 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 태양폭풍 날개 *(Sunstorm Wings)* | 40 | — | 0.03% | 1× Retaliation Key [Common] |
+| 슈페리어 아머 인챈트 스크롤 *(Superior Armor Enchant Scroll)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 슈페리어 아머 인챈트 스크롤 *(Superior Armor Enchant Scroll)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Dungeon IV] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Heaven] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Witches II] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.06% | 1× Rare Key [Clouds] |
+| 상급 신의 물약 [희귀] *(Superior God Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Witches I] |
+| 슈페리어 주얼리 인챈트 스크롤 *(Superior Jewelry Enchant Scroll)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 슈페리어 주얼리 인챈트 스크롤 *(Superior Jewelry Enchant Scroll)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 슈페리어 매직 파우치 *(Superior Magic Pouch)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 슈페리어 매직 파우치 *(Superior Magic Pouch)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 슈페리어 매직 파우치 *(Superior Magic Pouch)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Dungeon IV] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Heaven] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Witches II] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Ancient Dungeon] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Dungeon III] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Dragon's Lair] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.07% | 1× Rare Key [Clouds] |
+| 슈페리어 사탄 포션 [레어] *(Superior Satan Potion [Rare])* | 100 | — | 0.05% | 1× Rare Key [Witches I] |
+| 최고급 무기 인챈트 스크롤 *(Superior Weapon Enchant Scroll)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 최고급 무기 인챈트 스크롤 *(Superior Weapon Enchant Scroll)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 스위프트 아머 *(Swift Armor)* | 70 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 스위프트 아머 *(Swift Armor)* | 60 | — | 0.04% | 1× Retaliation Key [Legendary] |
+| 스위프트 부츠 *(Swift Boots)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 스위프트 헬멧 *(Swift Helmet)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 태페이트 파편 *(Taaffeite Shard)* | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
+| 태페이트 파편 *(Taaffeite Shard)* | 80 | — | 0.1% | 1× Rare Key [Heaven] |
+| 태페이트 파편 *(Taaffeite Shard)* | 80 | — | 0.1% | 1× Rare Key [Witches II] |
+| 태페이트 파편 *(Taaffeite Shard)* | 60 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
+| 태페이트 파편 *(Taaffeite Shard)* | 60 | — | 0.11% | 1× Rare Key [Dungeon III] |
+| 태페이트 파편 *(Taaffeite Shard)* | 60 | — | 0.11% | 1× Rare Key [Dragon's Lair] |
+| 태페이트 파편 *(Taaffeite Shard)* | 60 | — | 0.11% | 1× Rare Key [Clouds] |
+| 태페이트 파편 *(Taaffeite Shard)* | 60 | — | 0.11% | 1× Rare Key [Witches I] |
+| 태페이트 파편 *(Taaffeite Shard)* | 60 | — | 0.11% | 1× Rare Key [Hell] |
+| 태페이트 파편 *(Taaffeite Shard)* | 60 | — | 0.1% | 1× Rare Key [Fellin] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Cesis] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Wittensten] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Broceliande Forest] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Narwa] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Pernau] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Dungeon I] |
+| 태페이트 파편 *(Taaffeite Shard)* | 30 | — | 0.1% | 1× Rare Key [Lost Woods] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Walco] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Blood River] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Moche II] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Reval] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Moche I] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Dorpat] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Dungeon II] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Every Man's Land] |
+| 태페이트 파편 *(Taaffeite Shard)* | 10 | — | 0.05% | 1× Rare Key [Whiland] |
+| 데바스테이터 *(The Devastator)* | 30 | — | 0.08% | 1× Retaliation Key [Common] |
+| 삼지창 *(Trident)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 유니콘 블레이드 *(Unicorn Blade)* | 60 | — | 0.02% | 1× Retaliation Key [Common] |
+| 공허의 장궁 *(Void Longbow)* | 70 | — | 0.02% | 1× Retaliation Key [Common] |
+| 공허의 장궁 *(Void Longbow)* | 60 | — | 0.03% | 1× Retaliation Key [Rare] |
+| 공허의 장궁 *(Void Longbow)* | 50 | — | 0.05% | 1× Retaliation Key [Legendary] |
+| 전쟁 글레이브 *(War Glaive)* | 80 | — | 0.01% | 1× Retaliation Key [Common] |
+| 전쟁 글레이브 *(War Glaive)* | 80 | — | 0.02% | 1× Retaliation Key [Rare] |
+| 전쟁 글레이브 *(War Glaive)* | 80 | — | 0.02% | 1× Retaliation Key [Legendary] |
+| 전사 트로피 *(Warrior Trophy)* | 80 | — | 0.1% | 1× Rare Key [Dungeon IV] |
+| 전사 트로피 *(Warrior Trophy)* | 80 | — | 0.1% | 1× Rare Key [Heaven] |
+| 전사 트로피 *(Warrior Trophy)* | 80 | — | 0.1% | 1× Rare Key [Witches II] |
+| 전사 트로피 *(Warrior Trophy)* | 70 | — | 0.11% | 1× Rare Key [Ancient Dungeon] |
+| 전사 트로피 *(Warrior Trophy)* | 70 | — | 0.1% | 1× Rare Key [Dungeon III] |
+| 전사 트로피 *(Warrior Trophy)* | 70 | — | 0.1% | 1× Rare Key [Dragon's Lair] |
+| 전사 트로피 *(Warrior Trophy)* | 70 | — | 0.08% | 1× Rare Key [Clouds] |
+| 전사 트로피 *(Warrior Trophy)* | 70 | — | 0.09% | 1× Rare Key [Witches I] |
+| 전사 트로피 *(Warrior Trophy)* | 70 | — | 0.09% | 1× Rare Key [Hell] |
+| 전사 트로피 *(Warrior Trophy)* | 70 | — | 0.08% | 1× Rare Key [Fellin] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.09% | 1× Rare Key [Cesis] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.09% | 1× Rare Key [Wittensten] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.09% | 1× Rare Key [Broceliande Forest] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.11% | 1× Rare Key [Narwa] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.1% | 1× Rare Key [Devil's Triangle] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.11% | 1× Rare Key [Pernau] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.1% | 1× Rare Key [Lost Woods] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.1% | 1× Rare Key [Lost Woods] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.07% | 1× Rare Key [Walco] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.06% | 1× Rare Key [Blood River] |
+| 전사 트로피 *(Warrior Trophy)* | 50 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 물구슬 *(Water Orb)* | 110 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 백마 [희귀] *(White Horse [Rare])* | 90 | — | 0.01% | 1× Retaliation Key [Rare] |
+| 백마 [희귀] *(White Horse [Rare])* | 90 | — | 0.01% | 1× Retaliation Key [Legendary] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Cesis] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Wittensten] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Broceliande Forest] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Narwa] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Devil's Triangle] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Pernau] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Dungeon I] |
+| 황사 *(Yellow Dust)* | 30 | — | 1% | 1× Rare Key [Lost Woods] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.05% | 1× Rare Key [Walco] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.05% | 1× Rare Key [Blood River] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.05% | 1× Rare Key [Rakblood] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.05% | 1× Rare Key [Moche II] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.05% | 1× Rare Key [Reval] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.1% | 1× Rare Key [Moche I] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.1% | 1× Rare Key [Dorpat] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.1% | 1× Rare Key [Dungeon II] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.1% | 1× Rare Key [Every Man's Land] |
+| 황사 *(Yellow Dust)* | 20 | — | 0.1% | 1× Rare Key [Whiland] |
 

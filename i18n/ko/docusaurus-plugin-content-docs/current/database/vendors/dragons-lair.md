@@ -5,7 +5,7 @@ title: "Dragon's Lair"
 
 ## Dragon's Lair
 
-| Name | Coordinates | Sells |
+| 이름 | 좌표 | 판매 |
 | --- | --- | --- |
-| Dragons Breeding Master | (53, 47) | Deragonite [Common]<br/>Lionhead Dragon [Common]<br/>Horntail [Common]<br/>Fire Heart Dragon [Common]<br/>Lava Dragon [Common]<br/>Crystal Dragon [Common]<br/>Flaming Dragon [Common]<br/>Undead Dragon [Common]<br/>White Belly Dragon [Common] |
+| 드래곤 브리딩 마스터 *(Dragons Breeding Master)* | (53, 47) | Deragonite [Common]<br/>Lionhead Dragon [Common]<br/>Horntail [Common]<br/>Fire Heart Dragon [Common]<br/>Lava Dragon [Common]<br/>Crystal Dragon [Common]<br/>Flaming Dragon [Common]<br/>Undead Dragon [Common]<br/>White Belly Dragon [Common] |
 

@@ -5,7 +5,7 @@ title: "Dungeon I"
 
 ## Dungeon I
 
-| Name | Coordinates | Sells |
+| Nome | Coordenadas | Vende |
 | --- | --- | --- |
-| Party Quest Instructor | (24, 7) | — |
+| Instrutor de Party Quest *(Party Quest Instructor)* | (24, 7) | — |
 

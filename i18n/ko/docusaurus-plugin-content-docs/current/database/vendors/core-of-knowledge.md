@@ -5,7 +5,7 @@ title: "Core Of Knowledge"
 
 ## Core Of Knowledge
 
-| Name | Coordinates | Sells |
+| 이름 | 좌표 | 판매 |
 | --- | --- | --- |
-| Road Sign | (64, 53) | — |
+| 도로 표지판 *(Road Sign)* | (64, 53) | — |
 
