@@ -67,6 +67,14 @@ npm start       # serveur de dev avec rechargement à chaud
 npm run build   # build statique de production dans build/
 ```
 
+Après le clone, activer le hook git `pre-push` qui vérifie le build avant chaque push :
+
+```bash
+git config core.hooksPath .githooks
+```
+
+Ce hook lance `docusaurus build --locale en` automatiquement avant tout `git push` et bloque le push en cas d'erreur (liens cassés, erreur MDX, etc.).
+
 ## Indexation CodeGraph (IA)
 
 Ce dépôt est indexé avec [CodeGraph](https://github.com/colbymchenry/codegraph), un outil qui construit un graphe de la structure du code et du contenu pour le rendre directement explorable par des agents IA (ex: Claude, Copilot, ou tout assistant basé sur un MCP). Cela permet à une IA de naviguer dans les pages du wiki, de comprendre l'organisation des données et de répondre à des questions précises sur le jeu à partir du contenu de ce repo.
