@@ -1,199 +1,200 @@
 ---
-title: "Fishing Spots"
+title: "Spots de Pêche"
 ---
-> 🇫🇷 Traduction française — nom original (anglais) : **Fishing Spots** — <a href="/rpg-mo-wiki/database/guides/fishing-spots">voir la page en anglais</a>
 
-## Fishing Rod
+> 🇫🇷 Traduction française — nom original (anglais) : **Fishing Spots** — <a href="/rpg-mo-wiki/database/guides/fishing-spots">voir la page en anglais</a>
 
-### Levels 1-20
+## Canne à pêche
 
-| Location | Coordinates | Optimal | Notes |
+### Niveaux 1-20
+
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Cesis in Town | 51,64 | Yes | — |
-| Dorpat Docks | 6,13 | Yes | easier for low level, but Cesis spot is closer to chest. |
-| Dorpat Docks | 16,8 | No | — |
-| Dorpat Docks | 91,33 | No | — |
-| Dorpat Docks | 5,71 | No | — |
-| Narwa | 43,38 | No | — |
-| Reval | 74,28 | No | — |
-| Whiland | 44,62 | No | — |
-| Rakblood | 46,79 | No | — |
-| Fellin Island | 87,31 | No | — |
-| Poseidon's Illusion Guild | 14,19 | No | — |
-| Poseidon's Illusion Guild | 13,13 | No | — |
-| Poseidon's Illusion Guild | 17,14 | No | — |
-| Poseidon's Illusion Guild | 20,16 | No | — |
+| Cesis en ville | 51,64 | Oui | — |
+| Dorpat Docks | 6,13 | Oui | Plus facile pour les bas niveaux, mais le spot de Césis est plus près d'un coffre. |
+| Dorpat Docks | 16,8 | Non | — |
+| Dorpat Docks | 91,33 | Non | — |
+| Dorpat Docks | 5,71 | Non | — |
+| Narwa | 43,38 | Non | — |
+| Reval | 74,28 | Non | — |
+| Whiland | 44,62 | Non | — |
+| Rakblood | 46,79 | Non | — |
+| Fellin Island | 87,31 | Non | — |
+| Poseidon's Illusion Guild | 14,19 | Non | — |
+| Poseidon's Illusion Guild | 13,13 | Non | — |
+| Poseidon's Illusion Guild | 17,14 | Non | — |
+| Poseidon's Illusion Guild | 20,16 | Non | — |
 
-### Levels 30-47
+### Niveaux 30-47
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Cesis in town | 51,65 | Yes | — |
-| Whiland Short Bridge | 40,54 | No | — |
-| Whiland Long Bridge | 46,51 | No | — |
-| Whiland Short Bridge | 41,53 | No | — |
-| Rakblood | 38,89 | No | — |
-| Rakblood | 40,91 | No | — |
-| Rakblood | 42,89 | No | — |
+| Cesis en ville | 51,65 | Oui | — |
+| Whiland Short Bridge | 40,54 | Non | — |
+| Whiland Long Bridge | 46,51 | Non | — |
+| Whiland Short Bridge | 41,53 | Non | — |
+| Rakblood | 38,89 | Non | — |
+| Rakblood | 40,91 | Non | — |
+| Rakblood | 42,89 | Non | — |
 
-## Fishing Net
+## Filet de pêche
 
-### Levels 5
+### Niveau 5
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Dorpat | 35,7 | Yes | — |
-| Dorpat | 32,5 | No | — |
-| Dorpat | 61,6 | No | — |
-| Dorpat | 47,93 | No | — |
-| Dorpat | 13,95 | No | — |
-| Dorpat | 4,53 | No | — |
-| Dorpat | 44,53 | No | — |
-| Reval | 70,19 | No | — |
-| Reval | 70,26 | No | — |
-| Reval | 81,22 | No | — |
-| Cesis | 19,29 | No | — |
-| Cesis | 23,27 | No | — |
-| Cesis | 20,28 | No | — |
-| Cesis | 23,28 | No | — |
-| Ancient Dungeon | 21,83 | No | — |
-| Rakblood | 21,83 | No | — |
-| Lost Woods | 21,83 | No | — |
-| Fellin Island | 88,36 | No | — |
-| Broceliande Forest | 42,88 | No | — |
-| Poseidon's Illusion Guild | 8,30 | No | — |
+| Dorpat | 35,7 | Oui | — |
+| Dorpat | 32,5 | Non | — |
+| Dorpat | 61,6 | Non | — |
+| Dorpat | 47,93 | Non | — |
+| Dorpat | 13,95 | Non | — |
+| Dorpat | 4,53 | Non | — |
+| Dorpat | 44,53 | Non | — |
+| Reval | 70,19 | Non | — |
+| Reval | 70,26 | Non | — |
+| Reval | 81,22 | Non | — |
+| Cesis | 19,29 | Non | — |
+| Cesis | 23,27 | Non | — |
+| Cesis | 20,28 | Non | — |
+| Cesis | 23,28 | Non | — |
+| Ancient Dungeon | 21,83 | Non | — |
+| Rakblood | 21,83 | Non | — |
+| Lost Woods | 21,83 | Non | — |
+| Fellin Island | 88,36 | Non | — |
+| Broceliande Forest | 42,88 | Non | — |
+| Poseidon's Illusion Guild | 8,30 | Non | — |
 
-### Levels 23-25
+### Niveaux 23-25
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Whiland near Small Bridge | 33,52 | Yes | The spot in the Fishing Guild is closer to a chest, but you need 80 fishing to get into the guild. |
-| Fellin Island in Fishing Guild | 33,51 | No | — |
+| Whiland près du petit pont | 33,52 | Oui | Le spot de la Guilde de pêche est plus près d'un coffre, mais il faut 80 en pêche pour y accéder. |
+| Fellin Island (Fishing Guild) | 33,51 | Non | — |
 
-### Levels 40-43
+### Niveaux 40-43
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Cesis | 67,46 | Yes | — |
-| Lost Woods | 79,43 | No | — |
+| Cesis | 67,46 | Oui | — |
+| Lost Woods | 79,43 | Non | — |
 
-### Levels 70-85
+### Niveaux 70-85
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Ancient Dungeon near Town | 35,83 | Yes | — |
-| Broceliande Forest | 42,89 | No | — |
+| Ancient Dungeon près de la ville | 35,83 | Oui | — |
+| Broceliande Forest | 42,89 | Non | — |
 
 ## Cage
 
-### Levels 35-43
+### Niveaux 35-43
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Dungeon I under Dorpat | 17,24 | Yes | — |
-| Dungeon I under Dorpat | 21,9 | No | — |
-| Dungeon I under Dorpat near Hydras | 38,7 | No | — |
-| Dungeon I under Dorpat near Hydras | 44,7 | No | — |
-| Dungeon I under Dorpat | 19,25 | No | — |
-| Dungeon I under Dorpat | 25,9 | No | — |
-| Dungeon I under Dorpat | 17,24 | No | — |
-| Dungeon I under Dorpat | 18,26 | No | — |
-| Dungeon I under Dorpat | 21,14 | No | — |
-| Dungeon I under Dorpat | 25,9 | No | — |
-| Dungeon I | 21,16 | No | — |
-| Fellin Island | 85,32 | No | — |
-| Fellin Island | 13,52 | No | — |
-| Fellin Island | 15,52 | No | — |
-| Poseidon's Illusion Guild | 12,27 | No | — |
+| Dungeon I sous Dorpat | 17,24 | Oui | — |
+| Dungeon I sous Dorpat | 21,9 | Non | — |
+| Dungeon I sous Dorpat près des Hydres | 38,7 | Non | — |
+| Dungeon I sous Dorpat près des Hydres | 44,7 | Non | — |
+| Dungeon I sous Dorpat | 19,25 | Non | — |
+| Dungeon I sous Dorpat | 25,9 | Non | — |
+| Dungeon I sous Dorpat | 17,24 | Non | — |
+| Dungeon I sous Dorpat | 18,26 | Non | — |
+| Dungeon I sous Dorpat | 21,14 | Non | — |
+| Dungeon I sous Dorpat | 25,9 | Non | — |
+| Dungeon I | 21,16 | Non | — |
+| Fellin Island | 85,32 | Non | — |
+| Fellin Island | 13,52 | Non | — |
+| Fellin Island | 15,52 | Non | — |
+| Poseidon's Illusion Guild | 12,27 | Non | — |
 
-### Levels 48-65
+### Niveaux 48-65
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Lost Woods | 83,43 | Yes | — |
+| Lost Woods | 83,43 | Oui | — |
 
-## Wooden Harpoon
+## Harpon en bois
 
-### Levels 50-55
+### Niveaux 50-55
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Ancient Dungeon near Town | 36,88 | Yes | — |
-| Narwa | 61,53 | No | — |
+| Ancient Dungeon près de la ville | 36,88 | Oui | — |
+| Narwa | 61,53 | Non | — |
 
-### Levels 58-60
+### Niveaux 58-60
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Fellin Island in Fishing Guild | 88,27 | Yes | — |
-| Dorpat | 28,72 | No | — |
-| Narwa | 78,14 | No | — |
-| Pernau | 90,10 | No | — |
-| Pernau | 94,12 | No | — |
-| Cesis | 46,70 | No | — |
-| Poseidon's Illusion Guild | 9,24 | No | — |
+| Fellin Island (Fishing Guild) | 88,27 | Oui | — |
+| Dorpat | 28,72 | Non | — |
+| Narwa | 78,14 | Non | — |
+| Pernau | 90,10 | Non | — |
+| Pernau | 94,12 | Non | — |
+| Cesis | 46,70 | Non | — |
+| Poseidon's Illusion Guild | 9,24 | Non | — |
 
-## Steel Harpoon
+## Harpon en acier
 
-### Levels 63-73
+### Niveaux 63-73
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Dorpat | 81,90 | Yes | bank @ Dorpat Outpost |
-| Fellin Island | 13,71 | No | — |
-| Fellin Island | 87,81 | No | — |
-| Fellin Island | 14,69 | No | — |
-| Fellin Island | 14,72 | No | — |
-| Fellin Island | 16,72 | No | — |
-| Fellin Island | 85,84 | No | — |
-| Fellin Island | 86,82 | No | — |
-| Fellin Island | 87,82 | No | — |
-| Broceliande Forest | 40,93 | No | — |
-| Broceliande Forest | 41,92 | No | — |
-| Poseidon's Illusion Guild | 6,23 | No | — |
-| Poseidon's Illusion Guild | 7,33 | No | — |
-| Witches I | 15,56 | No | — |
-| Witches I | 82,42 | No | — |
-| Narwa | 91,13 | No | — |
-| Narwa | 92,13 | No | — |
-| Narwa | 92,15 | No | — |
-| Narwa | 95,11 | No | — |
-| Narwa | 95,15 | No | — |
+| Dorpat | 81,90 | Oui | banque @ Dorpat Outpost |
+| Fellin Island | 13,71 | Non | — |
+| Fellin Island | 87,81 | Non | — |
+| Fellin Island | 14,69 | Non | — |
+| Fellin Island | 14,72 | Non | — |
+| Fellin Island | 16,72 | Non | — |
+| Fellin Island | 85,84 | Non | — |
+| Fellin Island | 86,82 | Non | — |
+| Fellin Island | 87,82 | Non | — |
+| Broceliande Forest | 40,93 | Non | — |
+| Broceliande Forest | 41,92 | Non | — |
+| Poseidon's Illusion Guild | 6,23 | Non | — |
+| Poseidon's Illusion Guild | 7,33 | Non | — |
+| Witches I | 15,56 | Non | — |
+| Witches I | 82,42 | Non | — |
+| Narwa | 91,13 | Non | — |
+| Narwa | 92,13 | Non | — |
+| Narwa | 92,15 | Non | — |
+| Narwa | 95,11 | Non | — |
+| Narwa | 95,15 | Non | — |
 
-### Levels 75-95
+### Niveaux 75-95
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Fellin Island | 15,69 | Yes | Will need to navigate around Level 62 Nagas |
-| Fellin Island | 12,71 | No | — |
-| Fellin Island | 13,69 | No | — |
+| Fellin Island | 15,69 | Oui | Attention aux Nagas de niveau 62 |
+| Fellin Island | 12,71 | Non | — |
+| Fellin Island | 13,69 | Non | — |
 
-## Iron Fishing Rod
+## Canne à pêche en fer
 
-### Levels 65-80
+### Niveaux 65-80
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Fellin Island in Fishing Guild | 89,31 | Yes | — |
-| Whiland Long Bridge | 46,54 | No | — |
-| Whiland Long Bridge | 49,52 | No | — |
+| Fellin Island (Fishing Guild) | 89,31 | Oui | — |
+| Whiland Long Bridge | 46,54 | Non | — |
+| Whiland Long Bridge | 49,52 | Non | — |
 
-## Poseidon's Trident
+## Trident de Poséidon
 
-### Levels 95-103
+### Niveaux 95-103
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Ancient Dungeon | 34,87 | Yes | — |
-| Witches I | 9,83 | No | — |
-| Witches I | 65,40 | No | — |
-| Witches I | 67,37 | No | — |
+| Ancient Dungeon | 34,87 | Oui | — |
+| Witches I | 9,83 | Non | — |
+| Witches I | 65,40 | Non | — |
+| Witches I | 67,37 | Non | — |
 
-### Levels 106-120
+### Niveaux 106-120
 
-| Location | Coordinates | Optimal | Notes |
+| Emplacement | Coordonnées | Optimal | Notes |
 | --- | --- | --- | --- |
-| Lost Woods | 70,45 | Yes | Will have to kill one level 45 Bear, and navigate around others. Bank in Whiland. |
-| Rakblood | 77,73 | Yes | Not very close to chest, and will have to navigate around mobs as high as lvl 108. |
-| Poseidon's Illusion Guild | 13,39 | No | — |
-| Poseidon's Illusion Guild | 17,39 | No | — |
+| Lost Woods | 70,45 | Oui | Tuer un ours de niveau 45, éviter les autres. Banque à Whiland. |
+| Rakblood | 77,73 | Oui | Loin du coffre, monstres jusqu'au niveau 108. |
+| Poseidon's Illusion Guild | 13,39 | Non | — |
+| Poseidon's Illusion Guild | 17,39 | Non | — |

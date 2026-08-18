@@ -1,53 +1,53 @@
 ---
-title: "World Map"
+title: "Carte du monde"
 ---
-> 🇫🇷 Traduction française — nom original (anglais) : **World Map** — <a href="/rpg-mo-wiki/database/guides/world-map">voir la page en anglais</a>
+
+> 🇫🇷 Traduction française — nom original (anglais) : **World Map** — <a href="/rpg-mo-wiki/database/guides/world-map">voir la page en anglais</a>
 
 ## Zones
 
-Liste des zones de la carte du monde. La carte interactive elle-même (avec navigation visuelle) reste disponible sur le site d'origine.
+Liste des zones de la carte du monde. La carte interactive (avec navigation visuelle) reste disponible sur [rpgmobob.com](https://www.rpgmobob.com/).
 
-| Zone | See also |
+| Zone | Voir aussi |
 | --- | --- |
-| Ancient Dungeon | [Monsters in Ancient Dungeon](/database/mobs/ancient-dungeon) |
-| Atlantis | [Monsters in Atlantis](/database/mobs/atlantis) |
-| Blood River | [Monsters in Blood River](/database/mobs/blood-river) |
-| Broceliande Forest | [Monsters in Broceliande Forest](/database/mobs/broceliande-forest) |
-| Cathedral | [Monsters in Cathedral](/database/mobs/cathedral) |
-| Cesis | [Monsters in Cesis](/database/mobs/cesis) |
-| Clouds | [Monsters in Clouds](/database/mobs/clouds) |
-| Core of Knowledge | [Monsters in Core of Knowledge](/database/mobs/core-of-knowledge) |
-| Devil's Triangle | [Monsters in Devil's Triangle](/database/mobs/devils-triangle) |
-| Dorpat | [Monsters in Dorpat](/database/mobs/dorpat) |
-| Dragon's Lair | [Monsters in Dragon's Lair](/database/mobs/dragons-lair) |
-| Dungeon I | [Monsters in Dungeon I](/database/mobs/dungeon-i) |
-| Dungeon II | [Monsters in Dungeon II](/database/mobs/dungeon-ii) |
-| Dungeon III | [Monsters in Dungeon III](/database/mobs/dungeon-iii) |
-| Dungeon IV | [Monsters in Dungeon IV](/database/mobs/dungeon-iv) |
-| Every Man's Land | [Monsters in Every Man's Land](/database/mobs/every-mans-land) |
+| Ancient Dungeon | [Monstres de Ancient Dungeon](/database/mobs/ancient-dungeon) |
+| Atlantis | [Monstres de Atlantis](/database/mobs/atlantis) |
+| Blood River | [Monstres de Blood River](/database/mobs/blood-river) |
+| Broceliande Forest | [Monstres de Broceliande Forest](/database/mobs/broceliande-forest) |
+| Cathedral | [Monstres de Cathedral](/database/mobs/cathedral) |
+| Cesis | [Monstres de Cesis](/database/mobs/cesis) |
+| Clouds | [Monstres de Clouds](/database/mobs/clouds) |
+| Core of Knowledge | [Monstres de Core of Knowledge](/database/mobs/core-of-knowledge) |
+| Devil's Triangle | [Monstres de Devil's Triangle](/database/mobs/devils-triangle) |
+| Dorpat | [Monstres de Dorpat](/database/mobs/dorpat) |
+| Dragon's Lair | [Monstres de Dragon's Lair](/database/mobs/dragons-lair) |
+| Dungeon I | [Monstres de Dungeon I](/database/mobs/dungeon-i) |
+| Dungeon II | [Monstres de Dungeon II](/database/mobs/dungeon-ii) |
+| Dungeon III | [Monstres de Dungeon III](/database/mobs/dungeon-iii) |
+| Dungeon IV | [Monstres de Dungeon IV](/database/mobs/dungeon-iv) |
+| Every Man's Land | [Monstres de Every Man's Land](/database/mobs/every-mans-land) |
 | Fellin Island | — |
-| Fire Tower | [Monsters in Fire Tower](/database/mobs/fire-tower) |
-| Heaven | [Monsters in Heaven](/database/mobs/heaven) |
-| Hell | [Monsters in Hell](/database/mobs/hell) |
-| Ice Tower | [Monsters in Ice Tower](/database/mobs/ice-tower) |
-| Lost Relic | [Monsters in Lost Relic](/database/mobs/lost-relic) |
-| Lost Woods | [Monsters in Lost Woods](/database/mobs/lost-woods) |
-| Moche I | [Monsters in Moche I](/database/mobs/moche-i) |
-| Moche II | [Monsters in Moche II](/database/mobs/moche-ii) |
-| Narwa | [Monsters in Narwa](/database/mobs/narwa) |
-| Nature Tower | [Monsters in Nature Tower](/database/mobs/nature-tower) |
-| No Man's Dungeon | [Monsters in No Man's Dungeon](/database/mobs/no-mans-dungeon) |
-| No Man's Land | [Monsters in No Man's Land](/database/mobs/no-mans-land) |
-| Pernau | [Monsters in Pernau](/database/mobs/pernau) |
-| Purgatory | [Monsters in Purgatory](/database/mobs/purgatory) |
-| Rakblood | [Monsters in Rakblood](/database/mobs/rakblood) |
-| Reval | [Monsters in Reval](/database/mobs/reval) |
-| Star of Knowledge | [Monsters in Star of Knowledge](/database/mobs/star-of-knowledge) |
-| Tutorial Island | [Monsters in Tutorial Island](/database/mobs/tutorial-island) |
-| Void I | [Monsters in Void I](/database/mobs/void-i) |
-| Walco | [Monsters in Walco](/database/mobs/walco) |
-| Whiland | [Monsters in Whiland](/database/mobs/whiland) |
-| Witches I | [Monsters in Witches I](/database/mobs/witches-i) |
-| Witches II | [Monsters in Witches II](/database/mobs/witches-ii) |
-| Wittensten | [Monsters in Wittensten](/database/mobs/wittensten) |
-
+| Fire Tower | [Monstres de Fire Tower](/database/mobs/fire-tower) |
+| Heaven | [Monstres de Heaven](/database/mobs/heaven) |
+| Hell | [Monstres de Hell](/database/mobs/hell) |
+| Ice Tower | [Monstres de Ice Tower](/database/mobs/ice-tower) |
+| Lost Relic | [Monstres de Lost Relic](/database/mobs/lost-relic) |
+| Lost Woods | [Monstres de Lost Woods](/database/mobs/lost-woods) |
+| Moche I | [Monstres de Moche I](/database/mobs/moche-i) |
+| Moche II | [Monstres de Moche II](/database/mobs/moche-ii) |
+| Narwa | [Monstres de Narwa](/database/mobs/narwa) |
+| Nature Tower | [Monstres de Nature Tower](/database/mobs/nature-tower) |
+| No Man's Dungeon | [Monstres de No Man's Dungeon](/database/mobs/no-mans-dungeon) |
+| No Man's Land | [Monstres de No Man's Land](/database/mobs/no-mans-land) |
+| Pernau | [Monstres de Pernau](/database/mobs/pernau) |
+| Purgatory | [Monstres de Purgatory](/database/mobs/purgatory) |
+| Rakblood | [Monstres de Rakblood](/database/mobs/rakblood) |
+| Reval | [Monstres de Reval](/database/mobs/reval) |
+| Star of Knowledge | [Monstres de Star of Knowledge](/database/mobs/star-of-knowledge) |
+| Tutorial Island | [Monstres de Tutorial Island](/database/mobs/tutorial-island) |
+| Void I | [Monstres de Void I](/database/mobs/void-i) |
+| Walco | [Monstres de Walco](/database/mobs/walco) |
+| Whiland | [Monstres de Whiland](/database/mobs/whiland) |
+| Witches I | [Monstres de Witches I](/database/mobs/witches-i) |
+| Witches II | [Monstres de Witches II](/database/mobs/witches-ii) |
+| Wittensten | [Monstres de Wittensten](/database/mobs/wittensten) |

@@ -1,11 +1,12 @@
 ---
-title: "Fungiculture"
+title: "Fongi culture"
 ---
-> 🇫🇷 Traduction française — nom original (anglais) : **Fungiculture** — <a href="/rpg-mo-wiki/database/guides/fungiculture">voir la page en anglais</a>
 
-## Fungiculture
+> 🇫🇷 Traduction française — nom original (anglais) : **Fungiculture** — <a href="/rpg-mo-wiki/database/guides/fungiculture">voir la page en anglais</a>
 
-| Spore | Level | Cost | XP | Time (min) | Grows Into | Sells For | Spore Vendor | Mushroom Buyer | Growing Locations |
+## Fungi culture
+
+| Spore | Niveau | Coût | XP | Durée (min) | Produit | Prix de vente | Vendeur de spores | Acheteur de champignons | Emplacements de culture |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Hen of the Woods Mushroom Spores | 1 | 5 | 5 | 3 | Hen of the Woods Mushroom | — | Dorpat Farmer | — | Reval (13) |
 | Shaggy Mane Mushroom Spores | 5 | 35 | 11 | 6 | Shaggy Mane Mushroom | — | Dorpat Farmer | — | Moche I (10) |
@@ -31,4 +32,3 @@ title: "Fungiculture"
 | Parasol Mushroom Spores | 105 | — | 250 | 50 | Parasol Mushroom | — | — | — | Star Of Knowledge (25) |
 | Black Trumpet Mushroom Spores | 110 | — | 280 | 55 | Black Trumpet Mushroom | — | — | — | Void I (22) |
 | Electric Mushroom Spores | 115 | — | 320 | 55 | Electric Mushroom | — | — | — | Atlantis (20) |
-

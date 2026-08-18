@@ -1,36 +1,37 @@
 ---
-title: "Mining Routes"
+title: "Routes de Minage"
 ---
-> 🇫🇷 Traduction française — nom original (anglais) : **Mining Routes** — <a href="/rpg-mo-wiki/database/guides/mining-routes">voir la page en anglais</a>
 
-## Mining Routes
+> 🇫🇷 Traduction française — nom original (anglais) : **Mining Routes** — <a href="/rpg-mo-wiki/database/guides/mining-routes">voir la page en anglais</a>
 
-| Material | Level Required | Location | Distance (tiles) | Notes |
+## Routes de Minage
+
+| Matériau | Niveau requis | Emplacement | Distance (cases) | Notes |
 | --- | --- | --- | --- | --- |
 | Sand | 1 | Reval | 41 | — |
 | Copper | 1 | Dungeon I | 36 | — |
 | Tin | 1 | Dungeon I | 26 | — |
 | Clay | 1 | Dungeon I | 25 | — |
 | Iron | 25 | Dungeon I | 44 | — |
-| Silver (ore) | 25 | No Man's Land | 38 | — |
-| Silver (vein) | 25 | Dorpat | 62 | — |
-| Coal (vein) | 40 | Reval | 144 | — |
-| Coal (vein) | 40 | Mining Guild | 58 | Requires mining level 65 + Mining Guild Permit |
-| Gold (ore) | 45 | No Man's Land | 40 | Route A: must block a CL53 knight 3 times |
-| Gold (ore) | 45 | No Man's Land | 55 | Route B: no combat |
-| Gold (vein) | 45 | Reval | 97 | Must kill 1× CL58 fire viper |
-| Kaolinite | 50 | Dungeon I | 80 | Requires CL45 |
-| Kaolinite | 50 | Jewelry Guild | 99 | Requires jewelry level 60 + Jewelry Guild Permit |
-| White Gold (ore) | 55 | No Man's Land | 52 | — |
-| White Gold (ore) | 55 | Heaven | 28 | Must kill 2× CL159 gray-robed Gandalf |
-| White Gold (vein) | 55 | Rakblood | 112 | Requires CL46, must kill 1× CL26 bronze golem |
-| Azurite (ore) | 60 | No Man's Land | 84 | Must block a CL30 knight apprentice 3 times |
-| Azurite (ore) | 60 | Hell | 80 | Requires CL135, must kill 1× CL95 great devil |
-| Azurite (vein) | 60 | Devil's Triangle | 148 | Requires CL70; must block CL115 skeleton assassin ×3 and CL210 skull summoner ×3. Route: up → down |
-| Platinum (ore) | 75 | No Man's Land | 80 | Must block a CL30 knight apprentice 3 times |
-| Platinum (vein) | 75 | Devil's Triangle | 156 | Requires CL70; must block CL115 skeleton assassin ×3. Route: down → up → up → up → down |
-| Redhodium (ore) | 90 | Devil's Triangle | 186 | Route 1 (Walco → DT): must block CL115 skeleton assassin ×3. Route: down → up → down → down → down → up. No fighting needed at CL115+ |
-| Redhodium (ore) | 90 | Devil's Triangle | 185 | Route 2: down → down → up → down → down. No fighting needed at CL150+ |
-| Redhodium (vein) | 90 | No Man's Land | — | Can drop a Pluto Permit here; the spot where miners are most commonly killed |
+| Silver (minerai) | 25 | No Man's Land | 38 | — |
+| Silver (veine) | 25 | Dorpat | 62 | — |
+| Coal (veine) | 40 | Reval | 144 | — |
+| Coal (veine) | 40 | Mining Guild | 58 | Nécessite niveau minage 65 + Permis de la Guilde des Mineurs |
+| Gold (minerai) | 45 | No Man's Land | 40 | Route A : bloquer un chevalier NC53 trois fois |
+| Gold (minerai) | 45 | No Man's Land | 55 | Route B : sans combat |
+| Gold (veine) | 45 | Reval | 97 | Tuer 1× vipère de feu NC58 |
+| Kaolinite | 50 | Dungeon I | 80 | Nécessite NC45 |
+| Kaolinite | 50 | Jewelry Guild | 99 | Nécessite niveau bijouterie 60 + Permis de la Guilde de Bijouterie |
+| White Gold (minerai) | 55 | No Man's Land | 52 | — |
+| White Gold (minerai) | 55 | Heaven | 28 | Tuer 2× Gandalf à robe grise NC159 |
+| White Gold (veine) | 55 | Rakblood | 112 | Nécessite NC46, tuer 1× golem de bronze NC26 |
+| Azurite (minerai) | 60 | No Man's Land | 84 | Bloquer un apprenti chevalier NC30 trois fois |
+| Azurite (minerai) | 60 | Hell | 80 | Nécessite NC135, tuer 1× grand démon NC95 |
+| Azurite (veine) | 60 | Devil's Triangle | 148 | Nécessite NC70 ; bloquer assassin squelette NC115 ×3 et invocateur de crânes NC210 ×3. Route : haut → bas |
+| Platinum (minerai) | 75 | No Man's Land | 80 | Bloquer un apprenti chevalier NC30 trois fois |
+| Platinum (veine) | 75 | Devil's Triangle | 156 | Nécessite NC70 ; bloquer assassin squelette NC115 ×3. Route : bas → haut → haut → haut → bas |
+| Redhodium (minerai) | 90 | Devil's Triangle | 186 | Route 1 (Walco → DT) : bloquer assassin squelette NC115 ×3. Route : bas → haut → bas → bas → bas → haut. Aucun combat nécessaire à NC115+ |
+| Redhodium (minerai) | 90 | Devil's Triangle | 185 | Route 2 : bas → bas → haut → bas → bas. Aucun combat nécessaire à NC150+ |
+| Redhodium (veine) | 90 | No Man's Land | — | On peut y trouver un Permis Pluton ; l'endroit où les mineurs se font le plus souvent tuer |
 
-*CL = Combat Level. « Ore » et « vein » distinguent deux gisements différents du même minerai mentionnés séparément dans le guide d'origine.*
+*NC = Niveau de Combat. « Minerai » et « veine » désignent deux gisements différents du même matériau.*

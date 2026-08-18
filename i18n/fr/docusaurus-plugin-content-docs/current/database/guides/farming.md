@@ -1,11 +1,12 @@
 ---
 title: "Farming"
 ---
-> 🇫🇷 Traduction française — nom original (anglais) : **Farming** — <a href="/rpg-mo-wiki/database/guides/farming">voir la page en anglais</a>
+
+> 🇫🇷 Traduction française — nom original (anglais) : **Farming** — <a href="/rpg-mo-wiki/database/guides/farming">voir la page en anglais</a>
 
 ## Farming
 
-| Seed | Level | Cost | XP | Time (min) | Grows Into | Sells For | Buy From | Sell To |
+| Graine | Niveau | Coût | XP | Durée (min) | Produit | Prix de vente | Achat chez | Vendu à |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Grass Seed | 1 | 2 | 5 | 3 | Grass | 5 | Dorpat Farmer | Dorpat Farmer |
 | Green Leaf Seed | 1 | 6 | 5 | 3 | Green Leaf | 5 | Dorpat Farmer | Reval Alchemist |
@@ -48,4 +49,3 @@ title: "Farming"
 | Lightning Tree Seed | 100 | 7500 | 250 | 50 | Lightning Cotton | — | Wandering Farmer | — |
 | Golden Apple Tree Seed | 110 | — | 320 | 60 | Golden Apple | — | — | — |
 | Phoenix Tree Seed | 120 | 10000 | 450 | 75 | Phoenix Cotton | — | Wandering Farmer | — |
-
