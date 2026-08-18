@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Atual",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Wiki (Fandom)": {
@@ -8,7 +8,7 @@
     "description": "The label for category 'Wiki (Fandom)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-monstres-boss": {
-    "message": "Monstres & Boss",
+    "message": "Monstros & Chefões",
     "description": "The label for category 'Monstres & Boss' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-pets": {
@@ -16,47 +16,47 @@
     "description": "The label for category 'Pets' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-pnj": {
-    "message": "PNJ",
+    "message": "NPCs",
     "description": "The label for category 'PNJ' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-nourriture": {
-    "message": "Nourriture",
+    "message": "Alimentação",
     "description": "The label for category 'Nourriture' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-equipement": {
-    "message": "Équipement",
+    "message": "Equipamento",
     "description": "The label for category 'Équipement' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-collecte": {
-    "message": "Collecte",
+    "message": "Coleta",
     "description": "The label for category 'Collecte' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-competences": {
-    "message": "Compétences",
+    "message": "Habilidades",
     "description": "The label for category 'Compétences' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-autres": {
-    "message": "Autres",
+    "message": "Outros",
     "description": "The label for category 'Autres' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Database (modb)": {
-    "message": "Database (modb)",
+    "message": "Banco de dados (modb)",
     "description": "The label for category 'Database (modb)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Items": {
-    "message": "Items",
+    "message": "Itens",
     "description": "The label for category 'Items' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Recipes": {
-    "message": "Recipes",
+    "message": "Receitas",
     "description": "The label for category 'Recipes' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Mobs": {
-    "message": "Mobs",
+    "message": "Monstros",
     "description": "The label for category 'Mobs' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Vendors": {
-    "message": "Vendors",
+    "message": "Vendedores",
     "description": "The label for category 'Vendors' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.database-pets": {
@@ -64,7 +64,7 @@
     "description": "The label for category 'Pets' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Guides (rpgmobob.com)": {
-    "message": "Guides (rpgmobob.com)",
+    "message": "Guias (rpgmobob.com)",
     "description": "The label for category 'Guides (rpgmobob.com)' in sidebar 'tutorialSidebar'"
   }
 }

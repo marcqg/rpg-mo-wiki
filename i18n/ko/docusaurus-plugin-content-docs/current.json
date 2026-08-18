@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "현재",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Wiki (Fandom)": {
@@ -8,63 +8,63 @@
     "description": "The label for category 'Wiki (Fandom)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-monstres-boss": {
-    "message": "Monstres & Boss",
+    "message": "몬스터 & 보스",
     "description": "The label for category 'Monstres & Boss' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-pets": {
-    "message": "Pets",
+    "message": "펫",
     "description": "The label for category 'Pets' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-pnj": {
-    "message": "PNJ",
+    "message": "NPC",
     "description": "The label for category 'PNJ' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-nourriture": {
-    "message": "Nourriture",
+    "message": "음식",
     "description": "The label for category 'Nourriture' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-equipement": {
-    "message": "Équipement",
+    "message": "장비",
     "description": "The label for category 'Équipement' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-collecte": {
-    "message": "Collecte",
+    "message": "채집",
     "description": "The label for category 'Collecte' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-competences": {
-    "message": "Compétences",
+    "message": "스킬",
     "description": "The label for category 'Compétences' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-autres": {
-    "message": "Autres",
+    "message": "기타",
     "description": "The label for category 'Autres' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Database (modb)": {
-    "message": "Database (modb)",
+    "message": "데이터베이스 (modb)",
     "description": "The label for category 'Database (modb)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Items": {
-    "message": "Items",
+    "message": "아이템",
     "description": "The label for category 'Items' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Recipes": {
-    "message": "Recipes",
+    "message": "레시피",
     "description": "The label for category 'Recipes' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Mobs": {
-    "message": "Mobs",
+    "message": "몬스터",
     "description": "The label for category 'Mobs' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Vendors": {
-    "message": "Vendors",
+    "message": "상인",
     "description": "The label for category 'Vendors' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.database-pets": {
-    "message": "Pets",
+    "message": "펫",
     "description": "The label for category 'Pets' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Guides (rpgmobob.com)": {
-    "message": "Guides (rpgmobob.com)",
+    "message": "가이드 (rpgmobob.com)",
     "description": "The label for category 'Guides (rpgmobob.com)' in sidebar 'tutorialSidebar'"
   }
 }

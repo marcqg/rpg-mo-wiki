@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Aktualna",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Wiki (Fandom)": {
@@ -8,63 +8,63 @@
     "description": "The label for category 'Wiki (Fandom)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-monstres-boss": {
-    "message": "Monstres & Boss",
+    "message": "Potwory i Bossowie",
     "description": "The label for category 'Monstres & Boss' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-pets": {
-    "message": "Pets",
+    "message": "Zwierzaki",
     "description": "The label for category 'Pets' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-pnj": {
-    "message": "PNJ",
+    "message": "NPC",
     "description": "The label for category 'PNJ' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-nourriture": {
-    "message": "Nourriture",
+    "message": "Jedzenie",
     "description": "The label for category 'Nourriture' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-equipement": {
-    "message": "Équipement",
+    "message": "Ekwipunek",
     "description": "The label for category 'Équipement' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-collecte": {
-    "message": "Collecte",
+    "message": "Zbieranie",
     "description": "The label for category 'Collecte' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-competences": {
-    "message": "Compétences",
+    "message": "Umiejętności",
     "description": "The label for category 'Compétences' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.wiki-autres": {
-    "message": "Autres",
+    "message": "Inne",
     "description": "The label for category 'Autres' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Database (modb)": {
-    "message": "Database (modb)",
+    "message": "Baza danych (modb)",
     "description": "The label for category 'Database (modb)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Items": {
-    "message": "Items",
+    "message": "Przedmioty",
     "description": "The label for category 'Items' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Recipes": {
-    "message": "Recipes",
+    "message": "Przepisy",
     "description": "The label for category 'Recipes' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Mobs": {
-    "message": "Mobs",
+    "message": "Potwory",
     "description": "The label for category 'Mobs' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Vendors": {
-    "message": "Vendors",
+    "message": "Sprzedawcy",
     "description": "The label for category 'Vendors' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.database-pets": {
-    "message": "Pets",
+    "message": "Zwierzaki",
     "description": "The label for category 'Pets' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Guides (rpgmobob.com)": {
-    "message": "Guides (rpgmobob.com)",
+    "message": "Poradniki (rpgmobob.com)",
     "description": "The label for category 'Guides (rpgmobob.com)' in sidebar 'tutorialSidebar'"
   }
 }

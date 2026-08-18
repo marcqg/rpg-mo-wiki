@@ -40,23 +40,23 @@
     "description": "The label for category 'Autres' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Database (modb)": {
-    "message": "Database (modb)",
+    "message": "Base de données (modb)",
     "description": "The label for category 'Database (modb)' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Items": {
-    "message": "Items",
+    "message": "Objets",
     "description": "The label for category 'Items' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Recipes": {
-    "message": "Recipes",
+    "message": "Recettes",
     "description": "The label for category 'Recipes' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Mobs": {
-    "message": "Mobs",
+    "message": "Monstres",
     "description": "The label for category 'Mobs' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Vendors": {
-    "message": "Vendors",
+    "message": "Marchands",
     "description": "The label for category 'Vendors' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.database-pets": {
