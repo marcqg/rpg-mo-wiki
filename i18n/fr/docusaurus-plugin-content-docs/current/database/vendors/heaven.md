@@ -1,0 +1,14 @@
+---
+title: "Heaven"
+---
+> 🇫🇷 Traduction française — nom original (anglais) : **Heaven** — <a href="/rpg-mo-wiki/database/vendors/heaven">voir la page en anglais</a>
+
+## Heaven
+
+| Name | Coordinates | Sells |
+| --- | --- | --- |
+| Heaven Jeweler | (59, 11) | Chisel<br/>Jewelry Guild Permission<br/>Taaffeite Shard<br/>Platinum Bar<br/>Platinum Chunk<br/>Uncut High Grade Sapphire<br/>Cut Sapphire<br/>Uncut High Grade Emerald<br/>Cut Emerald<br/>Uncut High Grade Ruby<br/>Cut Ruby<br/>Uncut High Grade Diamond<br/>Cut Diamond<br/>Uncut High Grade Amethyst<br/>Cut Amethyst<br/>Uncut High Grade Black Opal<br/>Cut Black Opal<br/>Uncut High Grade Jadeite<br/>Cut Jadeite<br/>Platinum Ring<br/>Platinum Necklace<br/>Platinum Sapphire Ring<br/>Platinum Emerald Ring<br/>Platinum Ruby Ring<br/>Platinum Diamond Ring<br/>Platinum Black Opal Ring<br/>Platinum Amethyst Ring<br/>Platinum Jadeite Ring<br/>Platinum Sapphire Necklace<br/>Platinum Emerald Necklace<br/>Platinum Ruby Necklace<br/>Platinum Diamond Necklace<br/>Platinum Amethyst Necklace<br/>Platinum Black Opal Necklace<br/>Platinum Jadeite Necklace<br/>Enchanted Platinum Sapphire Ring<br/>Platinum Sapphire Ring [R]<br/>Enchanted Platinum Sapphire Ring [R]<br/>Enchanted Platinum Emerald Ring<br/>Platinum Emerald Ring [R]<br/>Enchanted Platinum Emerald Ring [R]<br/>Enchanted Platinum Ruby Ring<br/>Platinum Ruby Ring [R]<br/>Enchanted Platinum Ruby Ring [R]<br/>Enchanted Platinum Diamond Ring<br/>Platinum Diamond Ring [R]<br/>Enchanted Platinum Diamond Ring [R]<br/>Enchanted Platinum Amethyst Ring<br/>Platinum Amethyst Ring [R]<br/>Enchanted Platinum Amethyst Ring [R]<br/>Enchanted Platinum Black Opal Ring<br/>Enchanted Platinum Jadeite Ring<br/>Enchanted Platinum Sapphire Necklace<br/>Enchanted Platinum Emerald Necklace<br/>Enchanted Platinum Ruby Necklace<br/>Enchanted Platinum Diamond Necklace<br/>Enchanted Platinum Amethyst Necklace<br/>Enchanted Platinum Black Opal Necklace<br/>Enchanted Platinum Jadeite Necklace |
+| Heaven Magic Crafter | (62, 13) | Jute Fabric<br/>Silk Fabric<br/>Needle<br/>Thread |
+| Heaven Potion Master | (61, 19) | Large Potion Of Cooking<br/>Large Potion Of Cooking [Rare]<br/>Large Potion Of Mining<br/>Large Potion Of Mining [Rare]<br/>Large Potion Of Archery<br/>Large Potion Of Archery [Rare]<br/>Large Potion Of Fishing<br/>Large Potion Of Fishing [Rare]<br/>Large Potion Of Woodcutting<br/>Large Potion Of Woodcutting [Rare]<br/>Large Potion Of Defense<br/>Large Potion Of Defense [Rare]<br/>Large Potion Of Faith<br/>Large Potion Of Faith [Rare]<br/>Large Potion Of Magic<br/>Large Potion Of Magic [Rare]<br/>Large Potion Of Strength<br/>Large Potion Of Strength [Rare]<br/>Large Potion Of Accuracy<br/>Large Potion Of Accuracy [Rare] |
+| Heaven Weapon Merchant | (57, 19) | Enchanted Freezing Rapier<br/>Enchanted Moss Blade<br/>Enchanted Dragon Slayer<br/>Enchanted Iron Battle Hammer<br/>Enchanted Hrunting<br/>Enchanted Devastator |
+
