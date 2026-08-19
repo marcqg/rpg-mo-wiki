@@ -234,7 +234,8 @@ async function generateRecipes(recipes, itemById) {
   const stats = {};
   let pageCount = 0;
   for (const [skill, list] of bySkill) {
-    list.sort((a, b) => (a.n ?? '').localeCompare(b.n ?? ''));
+    // Tri par niveau ASC, puis par nom alphabétique si même niveau
+    list.sort((a, b) => (a.level ?? 0) - (b.level ?? 0) || (a.n ?? '').localeCompare(b.n ?? ''));
 
     // ── Déduplication + fusion des sources ──────────────────────────────────
     // Clé = (id, level, xp, min_chance, max_chance) — même recette
