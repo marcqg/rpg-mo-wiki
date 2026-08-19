@@ -6,7 +6,7 @@ slug: /christmas-fence
 
 ## Christmas Fence
 
-The Christmas Fence originating from the [Christmas Event 2019](/christmas-events#Christmas_Event_2019). An island Christmas decoration, it functions as a normal fence used in [Breeding](/breeding).
+The Christmas Fence originating from the [Christmas Event 2019](/christmas-events#christmas-event-2019). An island Christmas decoration, it functions as a normal fence used in [Breeding](/breeding).
 
 | Level | Name | Ingredients | Min%/Max% |
 | --- | --- | --- | --- |

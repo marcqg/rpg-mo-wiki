@@ -203,7 +203,7 @@ After the testing of animated gear in the Halloween Event preceding this one, ma
 
 This year we saw the return of Snow Boulders and their related recipes, +3 armor sets, weapons, and an OP pet.
 
-After the MOS Royal Poodle Spring 2023, the Christmas Sled was another pet with high speed and 24 inventory slots. It was a revamp of the Santa's Sleigh (see [Christmas 2016](/christmas-events#Christmas_Event_2016)).
+After the MOS Royal Poodle Spring 2023, the Christmas Sled was another pet with high speed and 24 inventory slots. It was a revamp of the Santa's Sleigh (see [Christmas 2016](/christmas-events#christmas-event-2016)).
 
 Also added to the game, though not necessarily a Christmas Item, was beeswax, harvested from Beehives in Whiland, and is still gatherable today.
 

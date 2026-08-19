@@ -4,11 +4,11 @@ slug: /alchemy
 ---
 > 🇧🇷 Versão em Português — <a href="/rpg-mo-wiki/alchemy">see the English page</a>
 
-Alchemy is used to create [potions](/alchemy#Potions) and some reagents for other skills. [Potions](/alchemy#Potions) temporarily raise the level of their designated skill by a certain percentage of the base value of that skill. [Potions](/alchemy#Potions) cannot be used to equip armor or weapons. You can use a Farming Potion to equip seeds above your skill level if the Small Potion of Farming raises your level high enough. NOTE: Rake all soil before using potion to plant to give you the longest planting time. Trick: Use Farming Queue in Queueing mode, equip one lower level seed then click each plot to load queue with 'Plant'. Load inv with Small Potion of Farming and your higher level seeds. Click potion, equip the seed then press 'Spacebar' to 'Plant',
+Alchemy is used to create [potions](/alchemy#potions) and some reagents for other skills. [Potions](/alchemy#potions) temporarily raise the level of their designated skill by a certain percentage of the base value of that skill. [Potions](/alchemy#potions) cannot be used to equip armor or weapons. You can use a Farming Potion to equip seeds above your skill level if the Small Potion of Farming raises your level high enough. NOTE: Rake all soil before using potion to plant to give you the longest planting time. Trick: Use Farming Queue in Queueing mode, equip one lower level seed then click each plot to load queue with 'Plant'. Load inv with Small Potion of Farming and your higher level seeds. Click potion, equip the seed then press 'Spacebar' to 'Plant',
 
 Filling vials with water requires a water well: [![Water Well](https://static.wikia.nocookie.net/rpg-mo/images/c/ce/Water_Well.gif/revision/latest?cb=20141004135601)](/water-well)These are located in most towns.
 
-Mixing the ingredients for [potions](/alchemy#Potions) requires no special location. Just select the ingredients in your [Inventory](/inventory) and you will begin making [potions](/alchemy#Potions). Potion making is an auto-process so once you start you will continue making [potions](/alchemy#Potions) until you run out of ingredients or vials.
+Mixing the ingredients for [potions](/alchemy#potions) requires no special location. Just select the ingredients in your [Inventory](/inventory) and you will begin making [potions](/alchemy#potions). Potion making is an auto-process so once you start you will continue making [potions](/alchemy#potions) until you run out of ingredients or vials.
 
 ## Recipes
 
@@ -31,7 +31,7 @@ All vial recipes only require 2 sand [![Sand-0](https://static.wikia.nocookie.ne
 
 ### **Potions**
 
-NOTE: [Potions](/alchemy#Potions) are temporary and boost your stats by the % shown. Potion power diminishes at one point per minute so a potion that gives you +5 [Strength](/strength) lasts one minute and becomes +4 [Strength](/strength) for one minute continuing to decrease until the effects wear off. [Potions](/alchemy#Potions) cannot be used to meet equipment requirements. Using two does not increase the boost time or power level.
+NOTE: [Potions](/alchemy#potions) are temporary and boost your stats by the % shown. Potion power diminishes at one point per minute so a potion that gives you +5 [Strength](/strength) lasts one minute and becomes +4 [Strength](/strength) for one minute continuing to decrease until the effects wear off. [Potions](/alchemy#potions) cannot be used to meet equipment requirements. Using two does not increase the boost time or power level.
 
 [![Divider](https://static.wikia.nocookie.net/rpg-mo/images/c/c1/Divider.png/revision/latest?cb=20150304101413)](https://static.wikia.nocookie.net/rpg-mo/images/c/c1/Divider.png/revision/latest?cb=20150304101413)
 

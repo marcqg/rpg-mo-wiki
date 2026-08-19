@@ -14,7 +14,7 @@ Avant de commencer l'élevage, il est recommandé de monter ta compétence d'él
 Leurs petits sont :
 
 *   Royal Donkey \[Common\] (58% de chance ; peut être vendu 31 140 pièces)
-*   Undead Donkey \[Rare\] ([chance](/success-chance#Reduced_rate) de 4,2% ; 39 886 pièces).
+*   Undead Donkey \[Rare\] ([chance](/success-chance#reduced-rate) de 4,2% ; 39 886 pièces).
 
 Ensuite, tu auras besoin de :
 

@@ -42,7 +42,7 @@ Comme ce sont les familiers de départ les plus courants, je les liste en premie
 
 ## Autres familiers
 
-Certains familiers sont des butins de monstres. Certains peuvent évoluer en montant de niveau grâce à l'EXP gagnée, tandis que d'autres familiers « naissent » du croisement (breeding) de deux familiers différents, et d'autres encore ne sont disponibles qu'à l'achat de [MOS](/mos-market) (ou sur le [Marché](/market-guide)), alors qu'Angry Witch (L) peut être créé avec la [Marmite de cuisine](/cooking#Kettle) ou Diablo (L) et Flame Phoenix (R) via la [Forge](/forging).
+Certains familiers sont des butins de monstres. Certains peuvent évoluer en montant de niveau grâce à l'EXP gagnée, tandis que d'autres familiers « naissent » du croisement (breeding) de deux familiers différents, et d'autres encore ne sont disponibles qu'à l'achat de [MOS](/mos-market) (ou sur le [Marché](/market-guide)), alors qu'Angry Witch (L) peut être créé avec la [Marmite de cuisine](/cooking#2-kettle) ou Diablo (L) et Flame Phoenix (R) via la [Forge](/forging).
 
 Actuellement, tous les familiers nécessitent la compétence (statistique) Santé pour être utilisés/équipés, et si la plupart des familiers n'ajoutent pas de bonus d'Archerie ni de Vitesse, la plupart d'entre eux (sauf trois) ajoutent au moins 1 emplacement d'inventaire ou plus.
 

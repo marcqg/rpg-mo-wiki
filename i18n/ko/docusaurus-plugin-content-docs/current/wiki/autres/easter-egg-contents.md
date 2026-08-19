@@ -4,7 +4,7 @@ slug: /easter-egg-contents
 ---
 > 🇰🇷 한국어 버전 — <a href="/rpg-mo-wiki/easter-egg-contents">see the English page</a>
 
-The Easter Eggs were added with the [2016 Easter Event](/easter-events#Easter_Event_2016). Working like presents, their drop tables have changed over the years, this is the current drop table as of 2025.
+The Easter Eggs were added with the [2016 Easter Event](/easter-events#easter-event-2016). Working like presents, their drop tables have changed over the years, this is the current drop table as of 2025.
 
 ## [![Easter Egg (Common)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)Easter Egg \[Common\][![Easter Egg (Common)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)
 

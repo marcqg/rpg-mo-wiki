@@ -13,7 +13,7 @@ Before starting breeding, it is recommended to level up your breeding skill to l
 Their offspring are:
 
 *   Royal Donkey \[Common\] (58% chance; can be sold for 31,140 coins)
-*   Undead Donkey \[Rare\] (4.2% [chance](/success-chance#Reduced_rate); 39,886 coins).
+*   Undead Donkey \[Rare\] (4.2% [chance](/success-chance#reduced-rate); 39,886 coins).
 
 After that, you will need:
 

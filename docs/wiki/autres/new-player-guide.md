@@ -90,7 +90,7 @@ Exceptions to speeding through Tutorial Island are as follows:
 
 ## Dorpat
 
-After you complete [Tutorial Island](/tutorial-island) you will find yourself in [Dorpat](/dorpat). Once there, all game options are available to you. You can start doing [combat](/skills#Combat), [gathering](/skills#Gathering), or [crafting](/skills#Crafting).
+After you complete [Tutorial Island](/tutorial-island) you will find yourself in [Dorpat](/dorpat). Once there, all game options are available to you. You can start doing [combat](/skills#combat), [gathering](/skills#gathering), or [crafting](/skills#crafting).
 
 *   It's worth noting that even if you might think that it's cheapest to do everything all by yourself-- it is not. It is best to specialize early on.
 

@@ -204,7 +204,7 @@ Après le test des équipements animés lors de l'événement d'Halloween préc�
 
 Cette année marque le retour des Snow Boulder et de leurs recettes associées, avec des ensembles d'armure +3, des armes, et un familier très puissant (OP).
 
-Après le Royal Poodle MOS du printemps 2023, le Christmas Sled fut un autre familier à haute vitesse avec 24 emplacements d'inventaire. C'était une refonte du Santa's Sleigh (voir [Christmas 2016](/christmas-events#Christmas_Event_2016)).
+Après le Royal Poodle MOS du printemps 2023, le Christmas Sled fut un autre familier à haute vitesse avec 24 emplacements d'inventaire. C'était une refonte du Santa's Sleigh (voir [Christmas 2016](/christmas-events#christmas-event-2016)).
 
 A également été ajouté au jeu, bien que ce ne soit pas nécessairement un objet de Noël, la cire d'abeille (beeswax), récoltée dans les ruches de Whiland, et toujours récoltable aujourd'hui.
 

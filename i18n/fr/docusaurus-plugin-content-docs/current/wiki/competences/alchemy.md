@@ -5,11 +5,11 @@ slug: /alchemy
 
 > 🇫🇷 Traduction française — nom original (anglais) : **Alchemy** — <a href="/rpg-mo-wiki/alchemy">voir la page en anglais</a>
 
-L'Alchimie sert à créer des [potions](/alchemy#Potions) et certains réactifs pour d'autres compétences. Les [potions](/alchemy#Potions) augmentent temporairement le niveau de leur compétence désignée d'un certain pourcentage de sa valeur de base. Les [potions](/alchemy#Potions) ne peuvent pas être utilisées pour équiper une armure ou une arme. Tu peux utiliser une Potion d'Agriculture pour équiper des graines au-dessus de ton niveau de compétence si la Small Potion of Farming augmente suffisamment ton niveau. NOTE : ratisse toute la terre avant d'utiliser la potion pour planter, afin d'avoir le plus long temps de plantation possible. Astuce : utilise la Farming Queue en mode Queuing, équipe une graine de niveau inférieur puis clique sur chaque parcelle pour charger la file avec 'Plant'. Charge ton inventaire avec la Small Potion of Farming et tes graines de niveau supérieur. Clique sur la potion, équipe la graine puis appuie sur 'Espace' pour 'Planter'.
+L'Alchimie sert à créer des [potions](/alchemy#potions) et certains réactifs pour d'autres compétences. Les [potions](/alchemy#potions) augmentent temporairement le niveau de leur compétence désignée d'un certain pourcentage de sa valeur de base. Les [potions](/alchemy#potions) ne peuvent pas être utilisées pour équiper une armure ou une arme. Tu peux utiliser une Potion d'Agriculture pour équiper des graines au-dessus de ton niveau de compétence si la Small Potion of Farming augmente suffisamment ton niveau. NOTE : ratisse toute la terre avant d'utiliser la potion pour planter, afin d'avoir le plus long temps de plantation possible. Astuce : utilise la Farming Queue en mode Queuing, équipe une graine de niveau inférieur puis clique sur chaque parcelle pour charger la file avec 'Plant'. Charge ton inventaire avec la Small Potion of Farming et tes graines de niveau supérieur. Clique sur la potion, équipe la graine puis appuie sur 'Espace' pour 'Planter'.
 
 Remplir des fioles d'eau nécessite un puits : [![Water Well](https://static.wikia.nocookie.net/rpg-mo/images/c/ce/Water_Well.gif/revision/latest?cb=20141004135601)](/water-well)On en trouve dans la plupart des villes.
 
-Mélanger les ingrédients pour les [potions](/alchemy#Potions) ne nécessite aucun emplacement spécial. Sélectionne simplement les ingrédients dans ton [Inventaire](/inventory) et tu commenceras à fabriquer des [potions](/alchemy#Potions). La fabrication de potions est un processus automatique : une fois lancé, tu continueras à fabriquer des [potions](/alchemy#Potions) jusqu'à épuisement des ingrédients ou des fioles.
+Mélanger les ingrédients pour les [potions](/alchemy#potions) ne nécessite aucun emplacement spécial. Sélectionne simplement les ingrédients dans ton [Inventaire](/inventory) et tu commenceras à fabriquer des [potions](/alchemy#potions). La fabrication de potions est un processus automatique : une fois lancé, tu continueras à fabriquer des [potions](/alchemy#potions) jusqu'à épuisement des ingrédients ou des fioles.
 
 ## Recettes
 
@@ -32,7 +32,7 @@ Toutes les recettes de fioles nécessitent seulement 2 sable [![Sand-0](https://
 
 ### **Potions**
 
-NOTE : les [potions](/alchemy#Potions) sont temporaires et augmentent tes statistiques du pourcentage indiqué. La puissance de la potion diminue d'un point par minute, donc une potion qui te donne +5 [Force](/strength) dure une minute puis passe à +4 [Force](/strength) pour une minute, continuant à diminuer jusqu'à disparition des effets. Les [potions](/alchemy#Potions) ne peuvent pas être utilisées pour remplir les conditions d'équipement. En utiliser deux n'augmente ni la durée ni la puissance du bonus.
+NOTE : les [potions](/alchemy#potions) sont temporaires et augmentent tes statistiques du pourcentage indiqué. La puissance de la potion diminue d'un point par minute, donc une potion qui te donne +5 [Force](/strength) dure une minute puis passe à +4 [Force](/strength) pour une minute, continuant à diminuer jusqu'à disparition des effets. Les [potions](/alchemy#potions) ne peuvent pas être utilisées pour remplir les conditions d'équipement. En utiliser deux n'augmente ni la durée ni la puissance du bonus.
 
 [![Divider](https://static.wikia.nocookie.net/rpg-mo/images/c/c1/Divider.png/revision/latest?cb=20150304101413)](https://static.wikia.nocookie.net/rpg-mo/images/c/c1/Divider.png/revision/latest?cb=20150304101413)
 

@@ -5,7 +5,7 @@ slug: /boss-abyss-vampire
 
 > 🇫🇷 Traduction française — nom original (anglais) : **-BOSS- Abyss Vampire** — <a href="/rpg-mo-wiki/boss-abyss-vampire">voir la page en anglais</a>
 
-Le \[BOSS\] Abyss Vampire est un boss errant sur la carte de Wittensten. Il a été ajouté de façon permanente au jeu, avec le \[BOSS\] Abyss Vampire Lord et une refonte de [Wittensten](/wittensten), lors de l'[évènement d'Halloween 2024](/halloween-events#Halloween_Event_2024).
+Le \[BOSS\] Abyss Vampire est un boss errant sur la carte de Wittensten. Il a été ajouté de façon permanente au jeu, avec le \[BOSS\] Abyss Vampire Lord et une refonte de [Wittensten](/wittensten), lors de l'[évènement d'Halloween 2024](/halloween-events#halloween-event-2024).
 
 | [![Loot Crate](https://static.wikia.nocookie.net/rpg-mo/images/e/ec/Loot_Crate.png/revision/latest?cb=20170831095927)](https://static.wikia.nocookie.net/rpg-mo/images/e/ec/Loot_Crate.png/revision/latest?cb=20170831095927) **Butin** [![Loot Crate](https://static.wikia.nocookie.net/rpg-mo/images/e/ec/Loot_Crate.png/revision/latest?cb=20170831095927)](https://static.wikia.nocookie.net/rpg-mo/images/e/ec/Loot_Crate.png/revision/latest?cb=20170831095927) |
 | --- |

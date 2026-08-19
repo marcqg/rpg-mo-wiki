@@ -71,4 +71,4 @@ Retire des sorts d'une pochette ou d'un livre au coffre ouvert en cliquant sur c
 
 ## Armes
 
-Pour une liste des armes (bâtons et baguettes, pas les pochettes), voir [Weapon List/Magic](/weapon-list#Magic).
+Pour une liste des armes (bâtons et baguettes, pas les pochettes), voir [Weapon List/Magic](/weapon-list#magic-weapons).

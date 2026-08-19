@@ -93,7 +93,7 @@ Voici les exceptions pour ne pas se précipiter sur Tutorial Island :
 
 ## Dorpat
 
-Après avoir terminé [Tutorial Island](/tutorial-island), tu te retrouveras à [Dorpat](/dorpat). Une fois là-bas, toutes les options du jeu te sont accessibles. Tu peux commencer à faire du [combat](/skills#Combat), de la [récolte](/skills#Gathering), ou de l'[artisanat](/skills#Crafting).
+Après avoir terminé [Tutorial Island](/tutorial-island), tu te retrouveras à [Dorpat](/dorpat). Une fois là-bas, toutes les options du jeu te sont accessibles. Tu peux commencer à faire du [combat](/skills#combat), de la [récolte](/skills#gathering), ou de l'[artisanat](/skills#crafting).
 
 *   Il est bon de noter que même si tu pourrais penser que c'est plus économique de tout faire toi-même — ce n'est pas le cas. Il est préférable de se spécialiser tôt.
 

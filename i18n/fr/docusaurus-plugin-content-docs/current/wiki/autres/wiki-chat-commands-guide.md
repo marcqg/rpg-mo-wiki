@@ -9,7 +9,7 @@ slug: /wiki-chat-commands-guide
 
 Pour en savoir plus sur quelque chose, vous pouvez souvent le faire depuis le jeu, en le recherchant avec la commande /wiki. Plutôt que de cliquer lentement à travers les différentes options de la fenêtre du wiki, vous pouvez rapidement remplir chaque champ en tapant /wiki \[champ1\] \[champ2\] etc. dans la fenêtre de chat. C'est particulièrement utile lorsque vous avez souvent besoin de rechercher des informations.
 
-N'hésitez pas à passer directement à quelques [commandes vraiment utiles](/wiki-chat-commands-guide#Hiyocchi.27s_personal_favorite_commands).
+N'hésitez pas à passer directement à quelques [commandes vraiment utiles](/wiki-chat-commands-guide#hiyocchis-personal-favorite-commands).
 
 ### Précisez d'abord quel type d'information vous recherchez.
 

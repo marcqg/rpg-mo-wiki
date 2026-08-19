@@ -26,7 +26,7 @@ slug: /scavenger-hunt
 
 ### 1\. Is this a race?  How many people can get an item?
 
-This is not a race.  Think of the loot crate like a [chest](/chest)\-- there's one loot crate per location but everyone can use it.  If you follow all of the steps in the [event outline section](#Event_outline), you get an item.  So does everyone else who follows the above steps.
+This is not a race.  Think of the loot crate like a [chest](/chest)\-- there's one loot crate per location but everyone can use it.  If you follow all of the steps in the [event outline section](#event-outline---type-event-in-chat-for-current-timer-until-chest-announce), you get an item.  So does everyone else who follows the above steps.
 
   
 

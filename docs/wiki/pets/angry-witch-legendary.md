@@ -6,4 +6,4 @@ slug: /angry-witch-legendary
 | --- | --- | --- | --- | --- |
 | Power:<br/>0 | Aim:<br/>0 | Armor:<br/>0 | Magic:<br/>45 | Speed:<br/>0 |
 
-The Angry Witch pet is created with [Level 1 Kettle Recipe](/cooking#Kettle_Recipe).
+The Angry Witch pet is created with [Level 1 Kettle Recipe](/cooking#2-kettle).

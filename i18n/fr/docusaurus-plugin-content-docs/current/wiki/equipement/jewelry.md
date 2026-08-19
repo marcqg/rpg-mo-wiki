@@ -170,7 +170,7 @@ Les bijoux raffinés sont désignés par \[R\] après le nom et ont des statisti
 ### **Processus pour bijoux enchantés + raffinés**
 
 1.  Enchante la bague ou le collier de base avec un Jewelry Enchant Scroll.
-2.  Raffine la bague ou le collier _Enchanté_ en utilisant un [Forging Hammer](/forging-hammer) et une [Anvil](/anvil) pour combiner la bague/le collier _Enchanté_ avec des gemmes [Cut](#Gems_and_Bars) raffinées, comme [Cut Jadeite \[R\]](#Gems_and_Bars) ou [Cut Diamond \[R\]](#Gems_and_Bars).
+2.  Raffine la bague ou le collier _Enchanté_ en utilisant un [Forging Hammer](/forging-hammer) et une [Anvil](/anvil) pour combiner la bague/le collier _Enchanté_ avec des gemmes [Cut](#gems-and-bars) raffinées, comme [Cut Jadeite \[R\]](#gems-and-bars) ou [Cut Diamond \[R\]](#gems-and-bars).
     *   Les gemmes taillées raffinées peuvent être obtenues auprès d'autres joueurs via le Market ou en enchantant des gemmes taillées avec des Jewelry Enchant Scrolls.
 3.  Enchante la bague/le collier nouvellement raffiné pour avoir une chance d'obtenir une bague/un collier Enchanté + Raffiné, comme un Enchanted Platinum Jadeite Ring \[R\].
 
@@ -184,7 +184,7 @@ Les bijoux raffinés sont désignés par \[R\] après le nom et ont des statisti
 
 ### **Représentation visuelle du processus de raffinage**
 
-Pour une représentation visuelle du processus de raffinage, voir [Jewelry - Picture Pages](/jewelry-picture-pages#Refined_Process).
+Pour une représentation visuelle du processus de raffinage, voir [Jewelry - Picture Pages](/jewelry-picture-pages#refined-process).
 
 ### **Bagues**
 

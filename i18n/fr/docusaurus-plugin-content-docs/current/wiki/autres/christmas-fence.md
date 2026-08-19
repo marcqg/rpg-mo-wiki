@@ -7,7 +7,7 @@ slug: /christmas-fence
 
 ## Christmas Fence
 
-Le Christmas Fence est originaire de l'[événement de Noël 2019](/christmas-events#Christmas_Event_2019). Décoration d'île de Noël, elle fonctionne comme une clôture normale utilisée en [Élevage (Breeding)](/breeding).
+Le Christmas Fence est originaire de l'[événement de Noël 2019](/christmas-events#christmas-event-2019). Décoration d'île de Noël, elle fonctionne comme une clôture normale utilisée en [Élevage (Breeding)](/breeding).
 
 | Niveau | Nom | Ingrédients | Min%/Max% |
 | --- | --- | --- | --- |

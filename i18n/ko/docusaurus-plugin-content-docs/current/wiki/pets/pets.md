@@ -43,7 +43,7 @@ As these are the most common new player pet I am listing them first. 1st level d
   
 Other Pets
 
-Some pets are drops from mobs. Some can evolve with leveling up from you gaining EXP while other pets are "born" from cross breeding two different pets and still others are only available with [MOS purchases](/mos-market) (or on the [Market](/market-guide)), while Angry Witch (L) can be created with [Cooking Kettle](/cooking#Kettle) or Diablo (L) and Flame Phoenix (R) through [Forging](/forging).
+Some pets are drops from mobs. Some can evolve with leveling up from you gaining EXP while other pets are "born" from cross breeding two different pets and still others are only available with [MOS purchases](/mos-market) (or on the [Market](/market-guide)), while Angry Witch (L) can be created with [Cooking Kettle](/cooking#2-kettle) or Diablo (L) and Flame Phoenix (R) through [Forging](/forging).
 
 Currently all pets require Health skill (stat) to use/equip and while most pets do not add Archery bonuses or Speed bonuses, most pets (except three) add at least 1 or more inventory slots.
 

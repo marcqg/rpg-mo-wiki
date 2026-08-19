@@ -8,7 +8,7 @@ slug: /wiki-chat-commands-guide
 
 To find out more about something, you can often do it on the wiki, by searching it with the /wiki command. Instead of slowly clicking through the various options on the wiki window, you can quickly fill in each box by typing /wiki \[box1\] \[box2\] etcetc in the chat box. This is especially useful when you often need to search up information.
 
-Feel free to skip right to some actually [useful commands](/wiki-chat-commands-guide#Hiyocchi.27s_personal_favorite_commands).
+Feel free to skip right to some actually [useful commands](/wiki-chat-commands-guide#hiyocchis-personal-favorite-commands).
 
 ### Specify what kind of information you need in the first blank.
 

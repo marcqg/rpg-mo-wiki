@@ -4,7 +4,7 @@ slug: /rose-seed
 ---
 > 🇵🇱 Wersja polska — <a href="/rpg-mo-wiki/rose-seed">see the English page</a>
 
-Template:Infobox Seed **Rose Seeds** are a [specialty seed](/farming#Specialty_Seeds) used in [Farming](/farming) to grow Roses.
+Template:Infobox Seed **Rose Seeds** are a [specialty seed](/farming#specialty-seeds) used in [Farming](/farming) to grow Roses.
 
 ## Dropped by
 

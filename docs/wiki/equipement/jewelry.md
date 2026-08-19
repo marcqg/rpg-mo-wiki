@@ -167,7 +167,7 @@ Refined jewelry is designated with \[R\] after the name and has higher stats tha
 ### **Process for Enchanted + Refined Jewelry**
 
 1.  Enchant base ring or necklace with a Jewelry Enchant Scroll.
-2.  Refine the _Enchanted_ ring or necklace by using a [Forging Hammer](/forging-hammer) and an [Anvil](/anvil) to combine the _Enchanted_ ring/necklace with refined [Cut](#Gems_and_Bars) gems, such as [Cut Jadeite \[R\]](#Gems_and_Bars) or [Cut Diamond \[R\]](#Gems_and_Bars).
+2.  Refine the _Enchanted_ ring or necklace by using a [Forging Hammer](/forging-hammer) and an [Anvil](/anvil) to combine the _Enchanted_ ring/necklace with refined [Cut](#gems-and-bars) gems, such as [Cut Jadeite \[R\]](#gems-and-bars) or [Cut Diamond \[R\]](#gems-and-bars).
     *   Refined Cut gems can be acquired from other players via the Market or by enchanting cut gems using Jewelry Enchant Scrolls.
 3.  Enchant the newly refined ring/necklace for a chance to get an Enchanted + Refined ring/necklace, such as Enchanted Platinum Jadeite Ring \[R\].
 
@@ -181,7 +181,7 @@ Refined jewelry is designated with \[R\] after the name and has higher stats tha
 
 ### **Visual Workflow of Refining Process**
 
-For a visual representation of the refining process, see [Jewelry - Picture Pages](/jewelry-picture-pages#Refined_Process).
+For a visual representation of the refining process, see [Jewelry - Picture Pages](/jewelry-picture-pages#refined-process).
 
 ### **Rings**
 

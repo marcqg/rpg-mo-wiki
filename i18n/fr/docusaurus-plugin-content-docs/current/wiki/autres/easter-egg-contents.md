@@ -5,7 +5,7 @@ slug: /easter-egg-contents
 
 > 🇫🇷 Traduction française — nom original (anglais) : **Easter Egg Contents** — <a href="/rpg-mo-wiki/easter-egg-contents">voir la page en anglais</a>
 
-Les Easter Eggs ont été ajoutés avec l'[Easter Event 2016](/easter-events#Easter_Event_2016). Fonctionnant comme des présents, leurs tables de butin ont changé au fil des années ; voici la table de butin actuelle en date de 2025.
+Les Easter Eggs ont été ajoutés avec l'[Easter Event 2016](/easter-events#easter-event-2016). Fonctionnant comme des présents, leurs tables de butin ont changé au fil des années ; voici la table de butin actuelle en date de 2025.
 
 ## [![Easter Egg (Common)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)Easter Egg \[Common\][![Easter Egg (Common)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)](https://static.wikia.nocookie.net/rpg-mo/images/0/0f/Easter_Egg_%28Common%29.png/revision/latest?cb=20250424161946)
 

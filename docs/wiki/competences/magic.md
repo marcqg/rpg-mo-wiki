@@ -68,4 +68,4 @@ Remove spells from a pouch or book at open chest by clicking each spell in the p
 
 ## Weapons
 
-For a list of weapons (staffs and wands, not pouches), see [Weapon List/Magic](/weapon-list#Magic).
+For a list of weapons (staffs and wands, not pouches), see [Weapon List/Magic](/weapon-list#magic-weapons).

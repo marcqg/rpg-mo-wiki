@@ -9,4 +9,4 @@ slug: /angry-witch-legendary
 | --- | --- | --- | --- | --- |
 | Puissance :<br/>0 | Précision :<br/>0 | Armure :<br/>0 | Magie :<br/>45 | Vitesse :<br/>0 |
 
-Le familier Angry Witch est créé avec la [Recette de Marmite niveau 1](/cooking#Kettle_Recipe).
+Le familier Angry Witch est créé avec la [Recette de Marmite niveau 1](/cooking#2-kettle).
