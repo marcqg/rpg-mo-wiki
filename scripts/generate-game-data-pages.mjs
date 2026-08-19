@@ -234,21 +234,39 @@ async function generateRecipes(recipes, itemById) {
   const stats = {};
   let pageCount = 0;
   for (const [skill, list] of bySkill) {
-    stats[skill] = list.length;
     list.sort((a, b) => (a.n ?? '').localeCompare(b.n ?? ''));
+
+    // ── Déduplication + fusion des sources ──────────────────────────────────
+    // Clé = (id, level, xp, min_chance, max_chance) — même recette
+    // Si plusieurs entrées partagent la même clé mais ont des `object` différents
+    // → on fusionne en une seule ligne avec "Source A / Source B"
+    // Si toutes les colonnes sont identiques → on garde une seule entrée
+    const merged = new Map();
+    for (const r of list) {
+      const key = `${r.id}|${r.level}|${r.xp}|${r.min_chance}|${r.max_chance}`;
+      if (!merged.has(key)) {
+        merged.set(key, { ...r, _objects: new Set([r.object || '']) });
+      } else {
+        if (r.object) merged.get(key)._objects.add(r.object);
+      }
+    }
+    const deduped = [...merged.values()];
+    stats[skill] = deduped.length;
+
     const label = skill.charAt(0).toUpperCase() + skill.slice(1);
-    const rows = list.map((r) => {
+    const rows = deduped.map((r) => {
       const chance = r.min_chance === r.max_chance
         ? `${r.min_chance}%` : `${r.min_chance}–${r.max_chance}%`;
       const materials = (r.matts || [])
         .map((m) => `${m.c}× ${itemById.get(Number(m.id)) ?? `#${m.id}`}`).join('\n');
-      return [itemIcon(r.id, r.n), r.n ?? '—', r.level ?? '—', r.xp ?? '—', chance, materials];
+      const source = [...r._objects].filter(Boolean).sort().join(' / ') || '—';
+      return [itemIcon(r.id, r.n), r.n ?? '—', r.level ?? '—', r.xp ?? '—', chance, source, materials];
     });
-    const body = `## ${label}\n\n${table(['Icon','Name','Level','XP','Chance','Materials'], rows)}\n`;
+    const body = `## ${label}\n\n${table(['Icon','Name','Level','XP','Chance','Source','Materials'], rows)}\n`;
     await writePage(dir, skill, label, body);
     pageCount++;
   }
-  console.log(`  recipes: ${pageCount} pages (${recipes.length} entrées)`);
+  console.log(`  recipes: ${pageCount} pages (${recipes.length} entrées → ${Object.values(stats).reduce((a,b)=>a+b,0)} après dédup)`);
   return stats;
 }
 

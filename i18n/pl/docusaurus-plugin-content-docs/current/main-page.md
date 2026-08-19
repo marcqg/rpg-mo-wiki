@@ -79,21 +79,21 @@ Link do gry: [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 | Artifact | 3 | [→](/game-data/pets/artifact) |
 | Egg | 70 | [→](/game-data/pets/egg) |
 
-### 📖 Receptury — 3,065 receptur
+### 📖 Receptury — 2,431 receptur
 
 | Umiejętność | Liczba | Przeglądaj |
 | --- | --- | --- |
-| Forging | 721 | [→](/game-data/recipes/forging) |
-| Fletching | 365 | [→](/game-data/recipes/fletching) |
-| Wizardry | 363 | [→](/game-data/recipes/wizardry) |
-| Alchemy | 349 | [→](/game-data/recipes/alchemy) |
-| Mining | 331 | [→](/game-data/recipes/mining) |
-| Jewelry | 235 | [→](/game-data/recipes/jewelry) |
-| Carpentry | 207 | [→](/game-data/recipes/carpentry) |
-| Fishing | 129 | [→](/game-data/recipes/fishing) |
+| Forging | 537 | [→](/game-data/recipes/forging) |
+| Fletching | 307 | [→](/game-data/recipes/fletching) |
+| Wizardry | 309 | [→](/game-data/recipes/wizardry) |
+| Alchemy | 250 | [→](/game-data/recipes/alchemy) |
+| Mining | 158 | [→](/game-data/recipes/mining) |
+| Jewelry | 201 | [→](/game-data/recipes/jewelry) |
+| Carpentry | 206 | [→](/game-data/recipes/carpentry) |
+| Fishing | 103 | [→](/game-data/recipes/fishing) |
 | Cooking | 118 | [→](/game-data/recipes/cooking) |
-| Woodcutting | 93 | [→](/game-data/recipes/woodcutting) |
-| Farming | 61 | [→](/game-data/recipes/farming) |
+| Woodcutting | 91 | [→](/game-data/recipes/woodcutting) |
+| Farming | 58 | [→](/game-data/recipes/farming) |
 | Fungiculture | 48 | [→](/game-data/recipes/fungiculture) |
 | Breeding | 45 | [→](/game-data/recipes/breeding) |
 

@@ -24,6 +24,7 @@ HEADERS_FR = {
     'Breeding Level': "Niveau d'élevage", 'Eats': 'Mange',
     'Level': 'Niveau', 'XP': 'XP', 'Chance': 'Chance',
     'Materials': 'Matériaux', 'Yes': 'Oui', 'No': 'Non',
+    'Source': 'Source',
     'Parent 1': 'Parent 1', 'Parent 2': 'Parent 2',
     'Duration': 'Durée', 'Offspring (Chances)': 'Descendants (Chances)',
 }

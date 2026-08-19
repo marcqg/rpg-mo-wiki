@@ -13,7 +13,7 @@ Mis à jour en exécutant `node scripts/fetch-game-data.mjs` puis `node scripts/
 | [Items](./items/armor) | 5,587 objets | Armor · Weapon · Material · Jewelry · Pet Item · Archery · House · Food · Tool · Spell |
 | [Mobs](./mobs/dorpat) | 904 ennemis | 46 zones |
 | [Pets](./pets/common) | 495 compagnons | Common · Rare · Legendary · Ancient · Artifact · Egg |
-| [Recipes](./recipes/forging) | 3,065 formules | Forging · Alchemy · Fletching · Wizardry · Mining · Carpentry · Jewelry · Fishing · Cooking · Farming · Woodcutting · Fungiculture · Breeding |
+| [Recipes](./recipes/forging) | 2,431 formules | Forging · Alchemy · Fletching · Wizardry · Mining · Carpentry · Jewelry · Fishing · Cooking · Farming · Woodcutting · Fungiculture · Breeding |
 
 Voir [Sources et remerciements](/sources) pour l'attribution complète.
 
