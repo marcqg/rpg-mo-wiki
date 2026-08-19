@@ -28,3 +28,65 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* ── Sortable / Filterable Tables ───────────────────────────────────────── */
+
+.sortable-table-wrapper {
+  margin: 1rem 0 1.5rem;
+}
+
+.sortable-search-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.sortable-search-input {
+  flex: 1;
+  max-width: 360px;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.sortable-search-input:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 2px rgba(46, 133, 85, 0.2);
+}
+
+.sortable-counter {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+  white-space: nowrap;
+}
+
+.sortable-table-scroll {
+  overflow-x: auto;
+}
+
+/* En-têtes triables */
+.sortable-th {
+  user-select: none;
+  white-space: nowrap;
+}
+
+.sortable-th:hover {
+  background: var(--ifm-color-emphasis-100);
+}
+
+.sort-indicator {
+  font-size: 0.75em;
+  margin-left: 0.2em;
+  color: var(--ifm-color-primary);
+}
+
+/* Lignes filtrées */
+article table tr[style*="display: none"] {
+  display: none !important;
+}
