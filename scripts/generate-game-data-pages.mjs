@@ -60,10 +60,11 @@ function mobIcon(id, name) {
   return '—';
 }
 
-async function writeCategoryJson(dir, label, position) {
+async function writeCategoryJson(dir, label, position, key) {
   await mkdir(dir, { recursive: true });
+  const data = key ? { label, position, key } : { label, position };
   await writeFile(path.join(dir, '_category_.json'),
-    JSON.stringify({ label, position }, null, 2) + '\n');
+    JSON.stringify(data, null, 2) + '\n');
 }
 async function writePage(dir, slug, title, body) {
   const fm = ['---', `title: ${JSON.stringify(title)}`, '---', ''].join('\n');
@@ -129,7 +130,7 @@ function petRarity(petName) {
 
 async function generateItems(items) {
   const dir = path.join(OUT_DIR, 'items');
-  await writeCategoryJson(dir, 'Items', 2);
+  await writeCategoryJson(dir, 'Items', 2, 'game-data-items');
   const byCategory = new Map();
   for (const it of items) {
     const cat = ITEM_CATEGORIES[it.t] ?? `Unknown (${it.t})`;
@@ -154,7 +155,7 @@ async function generateItems(items) {
 
 async function generateMobs(mobs, itemById) {
   const dir = path.join(OUT_DIR, 'mobs');
-  await writeCategoryJson(dir, 'Mobs', 3);
+  await writeCategoryJson(dir, 'Mobs', 3, 'game-data-mobs');
   const byZone = new Map();
   for (const m of mobs) {
     const locs = Object.keys(m.locations || {});
@@ -193,7 +194,7 @@ async function generateMobs(mobs, itemById) {
 
 async function generatePets(pets, itemById) {
   const dir = path.join(OUT_DIR, 'pets');
-  await writeCategoryJson(dir, 'Pets', 4);
+  await writeCategoryJson(dir, 'Pets', 4, 'game-data-pets');
   const byRarity = new Map();
   for (const p of pets) {
     const rarity = petRarity(p.n);
@@ -223,7 +224,7 @@ async function generatePets(pets, itemById) {
 
 async function generateRecipes(recipes, itemById) {
   const dir = path.join(OUT_DIR, 'recipes');
-  await writeCategoryJson(dir, 'Recipes', 5);
+  await writeCategoryJson(dir, 'Recipes', 5, 'game-data-recipes');
   const bySkill = new Map();
   for (const r of recipes) {
     const skill = (r.skill || 'Other').toLowerCase();
@@ -401,6 +402,12 @@ const I18N_CATEGORY_LABELS = {
   pt: { 'game-data': 'Dados do Jogo',  items: 'Itens',      mobs: 'Monstros', pets: 'Pets',     recipes: 'Receitas' },
 };
 const CATEGORY_POSITIONS = { 'game-data': 4, items: 2, mobs: 3, pets: 4, recipes: 5 };
+const CATEGORY_KEYS = {
+  items:   'game-data-items',
+  mobs:    'game-data-mobs',
+  pets:    'game-data-pets',
+  recipes: 'game-data-recipes',
+};
 
 async function generateI18nCategories() {
   const i18nBase = path.join(ROOT, 'i18n');
@@ -410,9 +417,11 @@ async function generateI18nCategories() {
         ? path.join(i18nBase, locale, 'docusaurus-plugin-content-docs', 'current', 'game-data')
         : path.join(i18nBase, locale, 'docusaurus-plugin-content-docs', 'current', 'game-data', folder);
       await mkdir(dir, { recursive: true });
+      const key = CATEGORY_KEYS[folder];
+      const data = { label, position: CATEGORY_POSITIONS[folder], ...(key ? { key } : {}) };
       await writeFile(
         path.join(dir, '_category_.json'),
-        JSON.stringify({ label, position: CATEGORY_POSITIONS[folder] }, null, 2) + '\n',
+        JSON.stringify(data, null, 2) + '\n',
       );
     }
     console.log(`  ✅ i18n/${locale}/game-data/ (${Object.keys(labels).length} catégories)`);

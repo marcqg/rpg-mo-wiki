@@ -1,4 +1,5 @@
 {
   "label": "펫",
-  "position": 4
+  "position": 4,
+  "key": "game-data-pets"
 }

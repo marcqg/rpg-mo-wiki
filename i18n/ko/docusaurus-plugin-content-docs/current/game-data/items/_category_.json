@@ -1,4 +1,5 @@
 {
   "label": "아이템",
-  "position": 2
+  "position": 2,
+  "key": "game-data-items"
 }

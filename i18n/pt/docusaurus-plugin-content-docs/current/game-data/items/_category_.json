@@ -1,4 +1,5 @@
 {
   "label": "Itens",
-  "position": 2
+  "position": 2,
+  "key": "game-data-items"
 }

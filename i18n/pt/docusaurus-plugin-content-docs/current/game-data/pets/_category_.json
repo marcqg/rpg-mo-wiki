@@ -1,4 +1,5 @@
 {
   "label": "Pets",
-  "position": 4
+  "position": 4,
+  "key": "game-data-pets"
 }

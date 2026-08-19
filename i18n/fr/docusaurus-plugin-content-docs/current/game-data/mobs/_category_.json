@@ -1,4 +1,5 @@
 {
   "label": "Monstres",
-  "position": 3
+  "position": 3,
+  "key": "game-data-mobs"
 }

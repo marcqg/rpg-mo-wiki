@@ -1,4 +1,5 @@
 {
   "label": "Receptury",
-  "position": 5
+  "position": 5,
+  "key": "game-data-recipes"
 }
