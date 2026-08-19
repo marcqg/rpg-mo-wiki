@@ -77,13 +77,13 @@ Link do jogo: [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 | Artifact | 3 | [→](/game-data/pets/artifact) |
 | Egg | 70 | [→](/game-data/pets/egg) |
 
-### 📖 Receitas — 2,860 fórmulas
+### 📖 Receitas — 3,593 fórmulas
 
 | Habilidade | Entradas | Ver |
 | --- | --- | --- |
-| Forging | 538 | [→](/game-data/recipes/forging) |
-| Fletching | 307 | [→](/game-data/recipes/fletching) |
-| Wizardry | 309 | [→](/game-data/recipes/wizardry) |
+| Forging | 871 | [→](/game-data/recipes/forging) |
+| Fletching | 459 | [→](/game-data/recipes/fletching) |
+| Wizardry | 557 | [→](/game-data/recipes/wizardry) |
 | Alchemy | 328 | [→](/game-data/recipes/alchemy) |
 | Mining | 168 | [→](/game-data/recipes/mining) |
 | Jewelry | 232 | [→](/game-data/recipes/jewelry) |

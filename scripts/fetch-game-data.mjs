@@ -385,7 +385,50 @@ async function main() {
     }
   }
 
-  // Pet Breeds & Families
+  // ── FORGE_FORMULAS ──────────────────────────────────────────────────────
+  // Structure: { 0:{item_id, level, chance, pattern:[[id,...],[id,...],...], fletching_level?, wizardry_level?}, ... }
+  // pattern = grille de craft (colonnes × rangées), -1 = case vide
+  // skill = 'forging', 'fletching' ou 'wizardry' selon le champ _level présent
+  // materials = comptage de chaque ID positif dans toute la grille
+  if (sandbox.FORGE_FORMULAS) {
+    for (const f of Object.values(sandbox.FORGE_FORMULAS)) {
+      if (!f?.item_id) continue;
+      const itemDef = sandbox.item_base?.[f.item_id];
+      const itemName = itemDef?.name || `#${f.item_id}`;
+
+      // Déterminer le skill
+      const skill = f.fletching_level ? 'fletching'
+                  : f.wizardry_level  ? 'wizardry'
+                  : 'forging';
+      const level = f.level ?? f.fletching_level ?? f.wizardry_level ?? 1;
+
+      // Compter les matériaux dans la grille pattern
+      const counts = {};
+      for (const col of (f.pattern || [])) {
+        for (const id of (Array.isArray(col) ? col : [col])) {
+          if (id >= 0) counts[id] = (counts[id] || 0) + 1;
+        }
+      }
+      const matts = Object.entries(counts).map(([id, c]) => ({ id: Number(id), c }));
+
+      const key = `${f.item_id}|${skill}|${level}`;
+      if (recipeIdSet.has(key)) continue;
+      recipeIdSet.add(key);
+      recipesList.push({
+        id: f.item_id,
+        n: itemName,
+        skill,
+        level,
+        xp: f.xp || 0,
+        min_chance: Math.round((f.chance || 1) * 100),
+        max_chance: Math.round((f.chance || 1) * 100),
+        matts,
+        object: 'Anvil',
+      });
+    }
+  }
+
+
   const petBreeds = sandbox.Mods?.Wikimd?.pet_breeds || [];
   const petFamily = sandbox.Mods?.Wikimd?.pet_family || {};
 

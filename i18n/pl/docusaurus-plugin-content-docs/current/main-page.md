@@ -79,13 +79,13 @@ Link do gry: [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 | Artifact | 3 | [→](/game-data/pets/artifact) |
 | Egg | 70 | [→](/game-data/pets/egg) |
 
-### 📖 Receptury — 2,860 receptur
+### 📖 Receptury — 3,593 receptur
 
 | Umiejętność | Liczba | Przeglądaj |
 | --- | --- | --- |
-| Forging | 538 | [→](/game-data/recipes/forging) |
-| Fletching | 307 | [→](/game-data/recipes/fletching) |
-| Wizardry | 309 | [→](/game-data/recipes/wizardry) |
+| Forging | 871 | [→](/game-data/recipes/forging) |
+| Fletching | 459 | [→](/game-data/recipes/fletching) |
+| Wizardry | 557 | [→](/game-data/recipes/wizardry) |
 | Alchemy | 328 | [→](/game-data/recipes/alchemy) |
 | Mining | 168 | [→](/game-data/recipes/mining) |
 | Jewelry | 232 | [→](/game-data/recipes/jewelry) |
