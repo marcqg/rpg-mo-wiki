@@ -6,13 +6,13 @@ title: "Wizardry"
 | Icon | Name | Level | XP | Chance | Source | Materials |
 | --- | --- | --- | --- | --- | --- | --- |
 | ![7 Souls Gloves Of Magic](/img/items/1705.png) | 7 Souls Gloves Of Magic | 99 | 0 | 100% | Anvil | — |
-| ![Air Blast](/img/items/418.png) | Air Blast | 60 | 75 | 100% | Air Altar | — |
+| ![Air Blast](/img/items/418.png) | Air Blast | 60 | 75 | 50% | Air Altar | 1× Jute Fabric |
 | ![Air Blast Orb](/img/items/1629.png) | Air Blast Orb | 1 | 0 | 100% | Anvil | — |
-| ![Air Bolt](/img/items/403.png) | Air Bolt | 13 | 6 | 100% | Air Altar | — |
+| ![Air Bolt](/img/items/403.png) | Air Bolt | 13 | 6 | 70% | Air Altar | 1× Cotton Fabric |
 | ![Air Bolt Medallion](/img/items/992.png) | Air Bolt Medallion | 25 | 0 | 100% | Anvil | — |
-| ![Air Missile](/img/items/408.png) | Air Missile | 23 | 27 | 100% | Air Altar | — |
+| ![Air Missile](/img/items/408.png) | Air Missile | 23 | 27 | 60% | Air Altar | 1× Bamboo Fabric |
 | ![Air Orb](/img/items/1340.png) | Air Orb | 94 | 0 | 100% | Anvil | — |
-| ![Air Wave](/img/items/413.png) | Air Wave | 38 | 51 | 100% | Air Altar | — |
+| ![Air Wave](/img/items/413.png) | Air Wave | 38 | 51 | 50% | Air Altar | 1× Flannel Fabric |
 | ![Amethyst Gloves of Magic](/img/items/1770.png) | Amethyst Gloves of Magic | 75 | 0 | 100% | Anvil | — |
 | ![Amethyst Staff](/img/items/442.png) | Amethyst Staff | 55 | 0 | 100% | Anvil | — |
 | ![Amethyst Wand](/img/items/432.png) | Amethyst Wand | 52 | 0 | 100% | Anvil | — |
@@ -22,14 +22,14 @@ title: "Wizardry"
 | ![Battlemage Hat](/img/items/457.png) | Battlemage Hat | 37 | 0 | 100% | Anvil | — |
 | ![Battlemage Robe](/img/items/455.png) | Battlemage Robe | 47 | 0 | 100% | Anvil | — |
 | ![Battlemage Robe Bottom](/img/items/481.png) | Battlemage Robe Bottom | 42 | 0 | 100% | Anvil | — |
-| ![Blizzard](/img/items/459.png) | Blizzard | 79 | 94 | 100% | Blizzard Altar | — |
+| ![Blizzard](/img/items/459.png) | Blizzard | 79 | 94 | 70% | Blizzard Altar | 1× Silk Fabric |
 | ![Blizzard Medallion](/img/items/1363.png) | Blizzard Medallion | 80 | 0 | 100% | Anvil | — |
 | ![Blood Pouch [M]](/img/items/5164.png) | Blood Pouch [M] | 76 | 0 | 100% | Anvil | — |
 | ![Blood Pouch [S]](/img/items/5163.png) | Blood Pouch [S] | 76 | 0 | 100% | Anvil | — |
 | ![Cactus Staff](/img/items/435.png) | Cactus Staff | 10 | 0 | 100% | Anvil | — |
 | ![Cactus Wand](/img/items/423.png) | Cactus Wand | 7 | 0 | 100% | Anvil | — |
 | ![Cesis Teleport](/img/items/598.png) | Cesis Teleport | 70 | 0 | 100% | Anvil | — |
-| ![Comet Storm](/img/items/1800.png) | Comet Storm | 110 | 119 | 100% | Fire Altar | — |
+| ![Comet Storm](/img/items/1800.png) | Comet Storm | 110 | 119 | 50% | Fire Altar | 4× Silk Fabric |
 | ![Comet Storm Medallion](/img/items/1807.png) | Comet Storm Medallion | 80 | 0 | 100% | Anvil | — |
 | ![Cursed Book](/img/items/1680.png) | Cursed Book | 1 | 0 | 100% | Anvil | — |
 | ![Cursed Gloves Of Magic](/img/items/1690.png) | Cursed Gloves Of Magic | 90 | 0 | 100% | Anvil | — |
@@ -48,13 +48,13 @@ title: "Wizardry"
 | ![Diamond Gloves Of Magic](/img/items/588.png) | Diamond Gloves Of Magic | 80 | 0 | 100% | Anvil | — |
 | ![Dorpat Teleport](/img/items/348.png) | Dorpat Teleport | 24 | 0 | 100% | Anvil | — |
 | ![Dragonstone Gloves of Magic](/img/items/1710.png) | Dragonstone Gloves of Magic | 94 | 0 | 100% | Anvil | — |
-| ![Earth Blast](/img/items/419.png) | Earth Blast | 65 | 81 | 100% | Earth Altar | — |
+| ![Earth Blast](/img/items/419.png) | Earth Blast | 65 | 81 | 50% | Earth Altar | 1× Jute Fabric |
 | ![Earth Blast Orb](/img/items/1631.png) | Earth Blast Orb | 1 | 0 | 100% | Anvil | — |
-| ![Earth Bolt](/img/items/404.png) | Earth Bolt | 15 | 9 | 100% | Earth Altar | — |
+| ![Earth Bolt](/img/items/404.png) | Earth Bolt | 15 | 9 | 70% | Earth Altar | 1× Cotton Fabric |
 | ![Earth Bolt Medallion](/img/items/994.png) | Earth Bolt Medallion | 25 | 0 | 100% | Anvil | — |
-| ![Earth Missile](/img/items/410.png) | Earth Missile | 28 | 33 | 100% | Earth Altar | — |
+| ![Earth Missile](/img/items/410.png) | Earth Missile | 28 | 33 | 60% | Earth Altar | 1× Bamboo Fabric |
 | ![Earth Orb](/img/items/1341.png) | Earth Orb | 110 | 0 | 100% | Anvil | — |
-| ![Earth Wave](/img/items/414.png) | Earth Wave | 42 | 57 | 100% | Earth Altar | — |
+| ![Earth Wave](/img/items/414.png) | Earth Wave | 42 | 57 | 50% | Earth Altar | 1× Flannel Fabric |
 | ![Eclipse Gloves of Magic](/img/items/1715.png) | Eclipse Gloves of Magic | 115 | 0 | 100% | Anvil | — |
 | ![Eclipse Scepter](/img/items/1649.png) | Eclipse Scepter | 115 | 0 | 100% | Anvil | — |
 | ![Eclipse Staff](/img/items/1667.png) | Eclipse Staff | 115 | 0 | 100% | Anvil | — |
@@ -97,13 +97,13 @@ title: "Wizardry"
 | ![Feral Robe Bottom](/img/items/3603.png) | Feral Robe Bottom | 131 | 0 | 100% | Anvil | — |
 | ![Feral Scepter](/img/items/3728.png) | Feral Scepter | 133 | 0 | 100% | Anvil | — |
 | ![Feral Staff](/img/items/3736.png) | Feral Staff | 135 | 0 | 100% | Anvil | — |
-| ![Fire Blast](/img/items/421.png) | Fire Blast | 72 | 84 | 100% | Fire Altar | — |
+| ![Fire Blast](/img/items/421.png) | Fire Blast | 72 | 84 | 50% | Fire Altar | 1× Jute Fabric |
 | ![Fire Blast Orb](/img/items/1635.png) | Fire Blast Orb | 1 | 0 | 100% | Anvil | — |
-| ![Fire Bolt](/img/items/406.png) | Fire Bolt | 19 | 15 | 100% | Fire Altar | — |
+| ![Fire Bolt](/img/items/406.png) | Fire Bolt | 19 | 15 | 70% | Fire Altar | 1× Cotton Fabric |
 | ![Fire Bolt Medallion](/img/items/996.png) | Fire Bolt Medallion | 25 | 0 | 100% | Anvil | — |
-| ![Fire Missile](/img/items/411.png) | Fire Missile | 30 | 36 | 100% | Fire Altar | — |
+| ![Fire Missile](/img/items/411.png) | Fire Missile | 30 | 36 | 60% | Fire Altar | 1× Bamboo Fabric |
 | ![Fire Orb](/img/items/1342.png) | Fire Orb | 115 | 0 | 100% | Anvil | — |
-| ![Fire Wave](/img/items/416.png) | Fire Wave | 50 | 60 | 100% | Fire Altar | — |
+| ![Fire Wave](/img/items/416.png) | Fire Wave | 50 | 60 | 50% | Fire Altar | 1× Flannel Fabric |
 | ![Flaming Amethyst Staff](/img/items/470.png) | Flaming Amethyst Staff | 80 | 0 | 100% | Anvil | — |
 | ![Flaming Amethyst Wand](/img/items/465.png) | Flaming Amethyst Wand | 77 | 0 | 100% | Anvil | — |
 | ![Flaming Emerald Staff](/img/items/468.png) | Flaming Emerald Staff | 70 | 0 | 100% | Anvil | — |
@@ -111,13 +111,13 @@ title: "Wizardry"
 | ![Flaming Ruby Staff](/img/items/469.png) | Flaming Ruby Staff | 75 | 0 | 100% | Anvil | — |
 | ![Flaming Sapphire Staff](/img/items/467.png) | Flaming Sapphire Staff | 65 | 0 | 100% | Anvil | — |
 | ![Flaming Sapphire Wand](/img/items/462.png) | Flaming Sapphire Wand | 62 | 0 | 100% | Anvil | — |
-| ![Flash Blast](/img/items/417.png) | Flash Blast | 55 | 72 | 100% | Flash Altar | — |
+| ![Flash Blast](/img/items/417.png) | Flash Blast | 55 | 72 | 50% | Flash Altar | 1× Jute Fabric |
 | ![Flash Blast Orb](/img/items/1627.png) | Flash Blast Orb | 1 | 0 | 100% | Anvil | — |
-| ![Flash Bolt](/img/items/402.png) | Flash Bolt | 10 | 3 | 100% | Flash Altar | — |
+| ![Flash Bolt](/img/items/402.png) | Flash Bolt | 10 | 3 | 70% | Flash Altar | 1× Cotton Fabric |
 | ![Flash Bolt Medallion](/img/items/993.png) | Flash Bolt Medallion | 25 | 0 | 100% | Anvil | — |
-| ![Flash Missile](/img/items/407.png) | Flash Missile | 20 | 24 | 100% | Flash Altar | — |
-| ![Flash Wave](/img/items/412.png) | Flash Wave | 34 | 48 | 100% | Flash Altar | — |
-| ![Freezing Touch](/img/items/1803.png) | Freezing Touch | 110 | 115 | 100% | Blizzard Altar | — |
+| ![Flash Missile](/img/items/407.png) | Flash Missile | 20 | 24 | 60% | Flash Altar | 1× Bamboo Fabric |
+| ![Flash Wave](/img/items/412.png) | Flash Wave | 34 | 48 | 50% | Flash Altar | 1× Flannel Fabric |
+| ![Freezing Touch](/img/items/1803.png) | Freezing Touch | 110 | 115 | 50% | Blizzard Altar | 4× Silk Fabric |
 | ![Freezing Touch Medallion](/img/items/1806.png) | Freezing Touch Medallion | 80 | 0 | 100% | Anvil | — |
 | ![Gilded Pouch [M]](/img/items/5155.png) | Gilded Pouch [M] | 76 | 0 | 100% | Anvil | — |
 | ![Gilded Pouch [S]](/img/items/5154.png) | Gilded Pouch [S] | 76 | 0 | 100% | Anvil | — |
@@ -128,7 +128,7 @@ title: "Wizardry"
 | ![Grendalf Robe Bottom](/img/items/483.png) | Grendalf Robe Bottom | 90 | 0 | 100% | Anvil | — |
 | ![Holy Pouch [M]](/img/items/5158.png) | Holy Pouch [M] | 76 | 0 | 100% | Anvil | — |
 | ![Holy Pouch [S]](/img/items/5157.png) | Holy Pouch [S] | 76 | 0 | 100% | Anvil | — |
-| ![Holy Touch](/img/items/1801.png) | Holy Touch | 98 | 108 | 100% | Flash Altar | — |
+| ![Holy Touch](/img/items/1801.png) | Holy Touch | 98 | 108 | 50% | Flash Altar | 4× Silk Fabric |
 | ![Holy Touch Medallion](/img/items/1804.png) | Holy Touch Medallion | 80 | 0 | 100% | Anvil | — |
 | ![Ichor Gloves of Magic](/img/items/1700.png) | Ichor Gloves of Magic | 90 | 0 | 100% | Anvil | — |
 | ![Incarnation Cape](/img/items/4722.png) | Incarnation Cape | 127 | 0 | 100% | Anvil | — |
@@ -180,7 +180,7 @@ title: "Wizardry"
 | ![Lunar Pouch [L]](/img/items/5205.png) | Lunar Pouch [L] | 1 | 0 | 100% | Anvil | — |
 | ![Lunar Pouch [M]](/img/items/5204.png) | Lunar Pouch [M] | 1 | 0 | 100% | Anvil | — |
 | ![Lunar Pouch [S]](/img/items/5203.png) | Lunar Pouch [S] | 1 | 0 | 100% | Anvil | — |
-| ![Mark of Death](/img/items/1802.png) | Mark of Death | 105 | 112 | 100% | Poisoned Altar | — |
+| ![Mark of Death](/img/items/1802.png) | Mark of Death | 105 | 112 | 50% | Poisoned Altar | 4× Silk Fabric |
 | ![Mark of Death Medallion](/img/items/1805.png) | Mark of Death Medallion | 80 | 0 | 100% | Anvil | — |
 | ![Medium Air Pouch](/img/items/3221.png) | Medium Air Pouch | 32 | 0 | 100% | Anvil | — |
 | ![Medium Air Pouch [S]](/img/items/3256.png) | Medium Air Pouch [S] | 32 | 0 | 100% | Anvil | — |
@@ -200,7 +200,7 @@ title: "Wizardry"
 | ![Merlin Hat](/img/items/450.png) | Merlin Hat | 65 | 0 | 100% | Anvil | — |
 | ![Merlin Robe](/img/items/456.png) | Merlin Robe | 75 | 0 | 100% | Anvil | — |
 | ![Merlin Robe Bottom](/img/items/482.png) | Merlin Robe Bottom | 70 | 0 | 100% | Anvil | — |
-| ![Meteor Storm](/img/items/461.png) | Meteor Storm | 90 | 99 | 100% | Fire Altar | — |
+| ![Meteor Storm](/img/items/461.png) | Meteor Storm | 90 | 99 | 50% | Fire Altar | 2× Silk Fabric |
 | ![Meteor Storm Medallion](/img/items/1808.png) | Meteor Storm Medallion | 80 | 0 | 100% | Anvil | — |
 | ![Misery Staff +6](/img/items/1049.png) | Misery Staff +6 | 1 | 0 | 100% | Anvil | — |
 | ![Monk Gloves of Magic +4](/img/items/1756.png) | Monk Gloves of Magic +4 | 1 | 0 | 100% | Anvil | — |
@@ -223,7 +223,7 @@ title: "Wizardry"
 | ![Oracle Hat](/img/items/1786.png) | Oracle Hat | 120 | 0 | 100% | Anvil | — |
 | ![Oracle Robe](/img/items/1790.png) | Oracle Robe | 120 | 0 | 100% | Anvil | — |
 | ![Oracle Robe Bottom](/img/items/1782.png) | Oracle Robe Bottom | 120 | 0 | 100% | Anvil | — |
-| ![Poison Rain](/img/items/458.png) | Poison Rain | 75 | 93 | 100% | Poisoned Altar | — |
+| ![Poison Rain](/img/items/458.png) | Poison Rain | 75 | 93 | 70% | Poisoned Altar | 1× Silk Fabric |
 | ![Poison Rain Medallion](/img/items/1362.png) | Poison Rain Medallion | 80 | 0 | 100% | Anvil | — |
 | ![Rakblood Teleport](/img/items/351.png) | Rakblood Teleport | 65 | 0 | 100% | Anvil | — |
 | ![Redemption Cape](/img/items/4720.png) | Redemption Cape | 122 | 0 | 100% | Anvil | — |
@@ -291,13 +291,13 @@ title: "Wizardry"
 | ![Superior Water Pouch](/img/items/3228.png) | Superior Water Pouch | 83 | 0 | 100% | Anvil | — |
 | ![Superior Water Pouch [M]](/img/items/3269.png) | Superior Water Pouch [M] | 83 | 0 | 100% | Anvil | — |
 | ![Superior Water Pouch [S]](/img/items/3268.png) | Superior Water Pouch [S] | 83 | 0 | 100% | Anvil | — |
-| ![Water Blast](/img/items/420.png) | Water Blast | 70 | 78 | 100% | Water Altar | — |
+| ![Water Blast](/img/items/420.png) | Water Blast | 70 | 78 | 50% | Water Altar | 1× Jute Fabric |
 | ![Water Blast Orb](/img/items/1633.png) | Water Blast Orb | 1 | 0 | 100% | Anvil | — |
-| ![Water Bolt](/img/items/405.png) | Water Bolt | 17 | 12 | 100% | Water Altar | — |
+| ![Water Bolt](/img/items/405.png) | Water Bolt | 17 | 12 | 70% | Water Altar | 1× Cotton Fabric |
 | ![Water Bolt Medallion](/img/items/995.png) | Water Bolt Medallion | 25 | 0 | 100% | Anvil | — |
-| ![Water Missile](/img/items/409.png) | Water Missile | 26 | 30 | 100% | Water Altar | — |
+| ![Water Missile](/img/items/409.png) | Water Missile | 26 | 30 | 60% | Water Altar | 1× Bamboo Fabric |
 | ![Water Orb](/img/items/1343.png) | Water Orb | 100 | 0 | 100% | Anvil | — |
-| ![Water Wave](/img/items/415.png) | Water Wave | 46 | 54 | 100% | Water Altar | — |
+| ![Water Wave](/img/items/415.png) | Water Wave | 46 | 54 | 50% | Water Altar | 1× Flannel Fabric |
 | ![Whiland Teleport](/img/items/350.png) | Whiland Teleport | 55 | 0 | 100% | Anvil | — |
 | ![Witch Boots](/img/items/1070.png) | Witch Boots | 17 | 0 | 100% | Anvil | — |
 | ![Witch Cape](/img/items/2644.png) | Witch Cape | 30 | 0 | 100% | Anvil | — |
@@ -311,7 +311,7 @@ title: "Wizardry"
 | ![Wizard Robe Bottom](/img/items/479.png) | Wizard Robe Bottom | 5 | 0 | 100% | Anvil | — |
 | ![Wooden Staff](/img/items/434.png) | Wooden Staff | 3 | 0 | 100% | Anvil | — |
 | ![Wooden Wand](/img/items/422.png) | Wooden Wand | 1 | 0 | 100% | Anvil | — |
-| ![Wrath of Destruction](/img/items/3310.png) | Wrath of Destruction | 120 | 122 | 100% | Destruction Altar | — |
-| ![Zeus Rage](/img/items/460.png) | Zeus Rage | 84 | 96 | 100% | Flash Altar | — |
+| ![Wrath of Destruction](/img/items/3310.png) | Wrath of Destruction | 120 | 122 | 60% | Destruction Altar | 4× Silk Fabric |
+| ![Zeus Rage](/img/items/460.png) | Zeus Rage | 84 | 96 | 50% | Flash Altar | 2× Silk Fabric |
 | ![Zeus Rage Medallion](/img/items/1809.png) | Zeus Rage Medallion | 80 | 0 | 100% | Anvil | — |
 

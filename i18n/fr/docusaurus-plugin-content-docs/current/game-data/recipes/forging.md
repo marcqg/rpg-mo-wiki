@@ -46,7 +46,7 @@ title: "Forge"
 | ![Apple Costume Box](/img/items/4705.png) | Apple Costume Box | 1 | 0 | 100% | Anvil | — |
 | ![Archangel Wings](/img/items/359.png) | Archangel Wings | 1 | 0 | 100% | Anvil | — |
 | ![Archdevil Wings](/img/items/360.png) | Archdevil Wings | 1 | 0 | 100% | Anvil | — |
-| ![Azurite Bar](/img/items/384.png) | Azurite Bar | 65 | 140 | 100% | Furnace | — |
+| ![Azurite Bar](/img/items/384.png) | Azurite Bar | 65 | 140 | 50% | Furnace | 4× Azure Ore |
 | ![Azurite Watering Can](/img/items/1877.png) | Azurite Watering Can | 65 | 0 | 100% | Anvil | — |
 | ![Baby Cupid [Legendary]](/img/items/891.png) | Baby Cupid [Legendary] | 1 | 0 | 100% | Anvil | — |
 | ![Bahamut Gloves of Accuracy](/img/items/1695.png) | Bahamut Gloves of Accuracy | 90 | 0 | 100% | Anvil | — |
@@ -66,7 +66,7 @@ title: "Forge"
 | ![Blood Crystal Staff](/img/items/4671.png) | Blood Crystal Staff | 70 | 0 | 100% | Anvil | — |
 | ![Blood Crystal Sword](/img/items/4661.png) | Blood Crystal Sword | 70 | 0 | 100% | Anvil | — |
 | ![Blood Giant Sword](/img/items/4665.png) | Blood Giant Sword | 70 | 0 | 100% | Anvil | — |
-| ![Blood Iron Bar](/img/items/4675.png) | Blood Iron Bar | 70 | 750 | 100% | Furnace | — |
+| ![Blood Iron Bar](/img/items/4675.png) | Blood Iron Bar | 70 | 750 | 30% | Furnace | 3× Blood Crystal<br/>3× Blood Shard<br/>1× Blood Iron |
 | ![Blood Leaf Sword](/img/items/4667.png) | Blood Leaf Sword | 70 | 0 | 100% | Anvil | — |
 | ![Blood Pike Sword](/img/items/4669.png) | Blood Pike Sword | 70 | 0 | 100% | Anvil | — |
 | ![Blood Soul Sword](/img/items/4663.png) | Blood Soul Sword | 70 | 0 | 100% | Anvil | — |
@@ -78,7 +78,7 @@ title: "Forge"
 | ![Bone Helmet](/img/items/366.png) | Bone Helmet | 13 | 0 | 100% | Anvil | — |
 | ![Bone Long Sword](/img/items/799.png) | Bone Long Sword | 11 | 0 | 100% | Anvil | — |
 | ![Bone Shield](/img/items/801.png) | Bone Shield | 15 | 0 | 100% | Anvil | — |
-| ![Bronze Bar](/img/items/34.png) | Bronze Bar | 1 | 10 | 100% | Furnace | — |
+| ![Bronze Bar](/img/items/34.png) | Bronze Bar | 1 | 10 | 80% | Furnace | 1× Copper<br/>1× Tin |
 | ![Bronze Battle Axe](/img/items/41.png) | Bronze Battle Axe | 17 | 0 | 100% | Anvil | — |
 | ![Bronze Boots](/img/items/27.png) | Bronze Boots | 8 | 0 | 100% | Anvil | — |
 | ![Bronze Chainmail](/img/items/40.png) | Bronze Chainmail | 12 | 0 | 100% | Anvil | — |
@@ -134,7 +134,7 @@ title: "Forge"
 | ![Dracula Cape +1](/img/items/4421.png) | Dracula Cape +1 | 1 | 0 | 100% | Anvil | — |
 | ![Dragon Slayer](/img/items/365.png) | Dragon Slayer | 1 | 0 | 100% | Anvil | — |
 | ![Dragon Slayer Axe](/img/items/2732.png) | Dragon Slayer Axe | 1 | 0 | 100% | Anvil | — |
-| ![Dragonstone Bar](/img/items/1448.png) | Dragonstone Bar | 90 | 300 | 100% | Furnace | — |
+| ![Dragonstone Bar](/img/items/1448.png) | Dragonstone Bar | 90 | 300 | 30% | Furnace | 8× Dragonstone Ore |
 | ![Dragonstone Blade](/img/items/1453.png) | Dragonstone Blade | 110 | 0 | 100% | Anvil | — |
 | ![Dragonstone Boots](/img/items/1582.png) | Dragonstone Boots | 96 | 0 | 100% | Anvil | — |
 | ![Dragonstone Crystal Knife](/img/items/5552.png) | Dragonstone Crystal Knife | 60 | 0 | 100% | Anvil | — |
@@ -162,7 +162,8 @@ title: "Forge"
 | ![Eclipse Pants](/img/items/1504.png) | Eclipse Pants | 115 | 0 | 100% | Anvil | — |
 | ![Eclipse Platemail](/img/items/1480.png) | Eclipse Platemail | 115 | 0 | 100% | Anvil | — |
 | ![Eclipse Shield](/img/items/1471.png) | Eclipse Shield | 115 | 0 | 100% | Anvil | — |
-| ![Edoylerite Bar](/img/items/3586.png) | Edoylerite Bar | 120 | 600 | 100% | Furnace / Magma Furnace | — |
+| ![Edoylerite Bar](/img/items/3586.png) | Edoylerite Bar | 120 | 600 | 30% | Furnace | 10× Edoylerite Ore<br/>4× Sequoia Log |
+| ![Edoylerite Bar](/img/items/3586.png) | Edoylerite Bar | 120 | 600 | 35% | Magma Furnace | 8× Edoylerite Ore<br/>4× Sequoia Log |
 | ![Edoylerite Blade](/img/items/3698.png) | Edoylerite Blade | 138 | 0 | 100% | Anvil | — |
 | ![Edoylerite Boots](/img/items/3565.png) | Edoylerite Boots | 135 | 0 | 100% | Anvil | — |
 | ![Edoylerite Gloves](/img/items/5443.png) | Edoylerite Gloves | 135 | 0 | 100% | Anvil | — |
@@ -189,9 +190,9 @@ title: "Forge"
 | ![Emerald Platemail](/img/items/934.png) | Emerald Platemail | 40 | 0 | 100% | Anvil | — |
 | ![Emerald Sabre](/img/items/940.png) | Emerald Sabre | 39 | 0 | 100% | Anvil | — |
 | ![Emerald Warhammer](/img/items/944.png) | Emerald Warhammer | 45 | 0 | 100% | Anvil | — |
-| ![Empty Large Vial](/img/items/246.png) | Empty Large Vial | 1 | 3 | 100% | Furnace | — |
-| ![Empty Medium Vial](/img/items/247.png) | Empty Medium Vial | 1 | 1 | 100% | Furnace | — |
-| ![Empty Superior Vial](/img/items/248.png) | Empty Superior Vial | 1 | 6 | 100% | Furnace | — |
+| ![Empty Large Vial](/img/items/246.png) | Empty Large Vial | 1 | 3 | 100% | Furnace | 3× Empty Medium Vial |
+| ![Empty Medium Vial](/img/items/247.png) | Empty Medium Vial | 1 | 1 | 100% | Furnace | 3× Empty Small Vial |
+| ![Empty Superior Vial](/img/items/248.png) | Empty Superior Vial | 1 | 6 | 100% | Furnace | 3× Empty Large Vial |
 | ![Enchanted 7 Souls Box](/img/items/2886.png) | Enchanted 7 Souls Box | 1 | 0 | 100% | Anvil | — |
 | ![Enchanted Bahamut Box](/img/items/2884.png) | Enchanted Bahamut Box | 1 | 0 | 100% | Anvil | — |
 | ![Enchanted Beelzebub Box](/img/items/4328.png) | Enchanted Beelzebub Box | 1 | 0 | 100% | Anvil | — |
@@ -263,7 +264,7 @@ title: "Forge"
 | ![Fire Flail](/img/items/666.png) | Fire Flail | 90 | 0 | 100% | Anvil | — |
 | ![Fire Full Helmet](/img/items/665.png) | Fire Full Helmet | 88 | 0 | 100% | Anvil | — |
 | ![Fire Helmet](/img/items/664.png) | Fire Helmet | 80 | 0 | 100% | Anvil | — |
-| ![Fire Stone Bar](/img/items/658.png) | Fire Stone Bar | 80 | 250 | 100% | Furnace | — |
+| ![Fire Stone Bar](/img/items/658.png) | Fire Stone Bar | 80 | 250 | 40% | Furnace | 6× Fire Stone Chunk |
 | ![Fire Stone Boots](/img/items/3413.png) | Fire Stone Boots | 80 | 0 | 100% | Anvil | — |
 | ![Fire Stone Crystal Knife](/img/items/5551.png) | Fire Stone Crystal Knife | 50 | 0 | 100% | Anvil | — |
 | ![Fire Stone Pants](/img/items/3391.png) | Fire Stone Pants | 86 | 0 | 100% | Anvil | — |
@@ -293,7 +294,7 @@ title: "Forge"
 | ![Gravedigger Outfit Box](/img/items/5394.png) | Gravedigger Outfit Box | 1 | 0 | 100% | Anvil | — |
 | ![Gray Pyjama Costume Box](/img/items/4197.png) | Gray Pyjama Costume Box | 1 | 0 | 100% | Anvil | — |
 | ![Great Present](/img/items/765.png) | Great Present | 1 | 0 | 100% | Anvil | — |
-| ![Heart Bar](/img/items/3061.png) | Heart Bar | 1 | 10 | 100% | Furnace | — |
+| ![Heart Bar](/img/items/3061.png) | Heart Bar | 1 | 10 | 100% | Furnace | 1× Feather of Heart |
 | ![Heart Costume Box](/img/items/4138.png) | Heart Costume Box | 1 | 0 | 100% | Anvil | — |
 | ![Heart Shaped Costume Box](/img/items/4344.png) | Heart Shaped Costume Box | 1 | 0 | 100% | Anvil | — |
 | ![Hexer Box](/img/items/3471.png) | Hexer Box | 1 | 0 | 100% | Anvil | — |
@@ -333,7 +334,7 @@ title: "Forge"
 | ![Incarnation Platemail](/img/items/3543.png) | Incarnation Platemail | 127 | 0 | 100% | Anvil | — |
 | ![Incarnation Shield](/img/items/3702.png) | Incarnation Shield | 129 | 0 | 100% | Anvil | — |
 | ![Invisible Set Box](/img/items/3771.png) | Invisible Set Box | 1 | 0 | 100% | Anvil | — |
-| ![Iron Bar](/img/items/50.png) | Iron Bar | 20 | 20 | 100% | Furnace | — |
+| ![Iron Bar](/img/items/50.png) | Iron Bar | 20 | 20 | 50% | Furnace | 2× Iron Ore |
 | ![Iron Battle Axe](/img/items/18.png) | Iron Battle Axe | 34 | 0 | 100% | Anvil | — |
 | ![Iron Battle Hammer](/img/items/62.png) | Iron Battle Hammer | 38 | 0 | 100% | Anvil | — |
 | ![Iron Boots](/img/items/52.png) | Iron Boots | 26 | 0 | 100% | Anvil | — |
@@ -398,14 +399,14 @@ title: "Forge"
 | ![Nephilim Wings](/img/items/953.png) | Nephilim Wings | 1 | 0 | 100% | Anvil | — |
 | ![Night Love Plate Outfit Box](/img/items/5521.png) | Night Love Plate Outfit Box | 1 | 0 | 100% | Anvil | — |
 | ![Ninja Outfit Box](/img/items/4024.png) | Ninja Outfit Box | 1 | 0 | 100% | Anvil | — |
-| ![Obsidian Bar](/img/items/5482.png) | Obsidian Bar | 135 | 1000 | 100% | Magma Furnace | — |
+| ![Obsidian Bar](/img/items/5482.png) | Obsidian Bar | 135 | 1000 | 20% | Magma Furnace | 16× Obsidian Chunk<br/>4× Ember Log |
 | ![Obsidian Blade](/img/items/4575.png) | Obsidian Blade | 143 | 0 | 100% | Anvil | — |
 | ![Obsidian Boots](/img/items/3573.png) | Obsidian Boots | 140 | 0 | 100% | Anvil | — |
-| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 550 | 100% | Magma Furnace | — |
-| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 580 | 100% | Magma Furnace | — |
-| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 720 | 100% | Magma Furnace | — |
-| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 850 | 100% | Magma Furnace | — |
-| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 1000 | 100% | Magma Furnace | — |
+| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 550 | 30% | Magma Furnace | 1× Corrupted Obsidian Chunk<br/>1× Low Quality Charon Obol |
+| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 580 | 40% | Magma Furnace | 1× Corrupted Obsidian Chunk<br/>1× Medium Quality Charon Obol |
+| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 720 | 50% | Magma Furnace | 1× Corrupted Obsidian Chunk<br/>1× High Quality Charon Obol |
+| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 850 | 60% | Magma Furnace | 1× Corrupted Obsidian Chunk<br/>1× Superior Quality Charon Obol |
+| ![Obsidian Chunk](/img/items/5481.png) | Obsidian Chunk | 120 | 1000 | 70% | Magma Furnace | 1× Corrupted Obsidian Chunk<br/>1× Ancient Quality Charon Obol |
 | ![Obsidian Crystal Knife](/img/items/5554.png) | Obsidian Crystal Knife | 80 | 0 | 100% | Anvil | — |
 | ![Obsidian Gloves](/img/items/5449.png) | Obsidian Gloves | 140 | 0 | 100% | Anvil | — |
 | ![Obsidian Gloves of Accuracy](/img/items/5454.png) | Obsidian Gloves of Accuracy | 140 | 0 | 100% | Anvil | — |
@@ -494,7 +495,7 @@ title: "Forge"
 | ![Star Diamond Platemail](/img/items/1482.png) | Star Diamond Platemail | 120 | 0 | 100% | Anvil | — |
 | ![Star Diamond Shield](/img/items/1473.png) | Star Diamond Shield | 120 | 0 | 100% | Anvil | — |
 | ![Statue of Kronos](/img/items/904.png) | Statue of Kronos | 95 | 0 | 100% | Anvil | — |
-| ![Steel Bar](/img/items/291.png) | Steel Bar | 40 | 30 | 100% | Furnace | — |
+| ![Steel Bar](/img/items/291.png) | Steel Bar | 40 | 30 | 40% | Furnace | 1× Iron Ore<br/>1× Coal |
 | ![Steel Battle Axe](/img/items/140.png) | Steel Battle Axe | 54 | 0 | 100% | Anvil | — |
 | ![Steel Battle Hammer](/img/items/139.png) | Steel Battle Hammer | 58 | 0 | 100% | Anvil | — |
 | ![Steel Boots](/img/items/339.png) | Steel Boots | 44 | 0 | 100% | Anvil | — |

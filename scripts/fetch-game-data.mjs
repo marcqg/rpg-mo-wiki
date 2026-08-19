@@ -271,24 +271,59 @@ async function main() {
   }
   objectsList.sort((a, b) => a.id - b.id);
 
-  // Recipes (from Wikimd formulas and skill tables)
+  // Recipes — depuis object_base[X].params.results (vraies recettes avec ingrédients)
+  // Chaque object_base (Anvil, Furnace, Campfire...) a params.results = liste de recettes
+  // Structure : { requires:[itemId,...], skill:"forging", returns:[{id, level, xp, base_chance, consumes:[{id,count}]}] }
   const recipesList = [];
+  const EXCLUDED_RECIPE_SKILLS = new Set(['health', '']); // "health" = coffres/loot, pas de crafting
+  const objectBase = sandbox.object_base || [];
+  for (const obj of objectBase) {
+    if (!obj?.params?.results) continue;
+    const objectName = obj.name || '';
+    for (const result of obj.params.results) {
+      if (!result?.returns) continue;
+      const skill = (result.skill || '').toLowerCase();
+      if (EXCLUDED_RECIPE_SKILLS.has(skill)) continue;
+      for (const ret of result.returns) {
+        const itemId  = ret.id;
+        const itemDef = sandbox.item_base?.[itemId];
+        const itemName = itemDef?.name || `#${itemId}`;
+        const matts = (ret.consumes || []).map((c) => ({ id: c.id, c: c.count || 1 }));
+        const chance = ret.base_chance != null ? Math.round(ret.base_chance * 100) : 100;
+        recipesList.push({
+          id: itemId,
+          n: itemName,
+          skill,
+          level: ret.level || 1,
+          xp: ret.xp || 0,
+          min_chance: chance,
+          max_chance: chance,
+          matts,
+          object: objectName,
+        });
+      }
+    }
+  }
+
+  // Compléter avec Wikimd.formulas (recettes forge/anvil sans ingrédients dans object_base)
+  const recipeIdSet = new Set(recipesList.map((r) => `${r.id}|${(r.skill||'').toLowerCase()}|${r.level}`));
   if (sandbox.Mods?.Wikimd?.formulas) {
     for (const k in sandbox.Mods.Wikimd.formulas) {
       const f = sandbox.Mods.Wikimd.formulas[k];
       if (!f) continue;
+      const skill = (f.skill || '').toLowerCase();
+      if (EXCLUDED_RECIPE_SKILLS.has(skill)) continue;
+      const key = `${f.id}|${skill}|${f.level || 1}`;
+      if (recipeIdSet.has(key)) continue; // déjà extrait de object_base
       recipesList.push({
         id: f.id,
         n: f.name || f.result?.name,
-        skill: f.skill,
+        skill,
         level: f.level || 1,
         xp: f.xp || 0,
         min_chance: f.min_chance ?? f.chance ?? 100,
         max_chance: f.max_chance ?? f.chance ?? 100,
-        matts: (f.matts || f.materials || []).map((m) => ({
-          id: m.id,
-          c: m.c || m.count || 1,
-        })),
+        matts: (f.matts || f.materials || []).map((m) => ({ id: m.id, c: m.c || m.count || 1 })),
         object: f.object?.name,
         tool: f.tool,
       });

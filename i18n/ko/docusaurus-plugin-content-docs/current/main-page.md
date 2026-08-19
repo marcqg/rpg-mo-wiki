@@ -77,21 +77,21 @@ sidebar_position: 1
 | Artifact | 3 | [→](/game-data/pets/artifact) |
 | Egg | 70 | [→](/game-data/pets/egg) |
 
-### 📖 레시피 — 2,431개 공식
+### 📖 레시피 — 2,595개 공식
 
 | 스킬 | 수량 | 보기 |
 | --- | --- | --- |
-| Forging | 537 | [→](/game-data/recipes/forging) |
+| Forging | 538 | [→](/game-data/recipes/forging) |
 | Fletching | 307 | [→](/game-data/recipes/fletching) |
 | Wizardry | 309 | [→](/game-data/recipes/wizardry) |
-| Alchemy | 250 | [→](/game-data/recipes/alchemy) |
-| Mining | 158 | [→](/game-data/recipes/mining) |
-| Jewelry | 201 | [→](/game-data/recipes/jewelry) |
+| Alchemy | 328 | [→](/game-data/recipes/alchemy) |
+| Mining | 168 | [→](/game-data/recipes/mining) |
+| Jewelry | 232 | [→](/game-data/recipes/jewelry) |
 | Carpentry | 206 | [→](/game-data/recipes/carpentry) |
-| Fishing | 103 | [→](/game-data/recipes/fishing) |
+| Fishing | 114 | [→](/game-data/recipes/fishing) |
 | Cooking | 118 | [→](/game-data/recipes/cooking) |
-| Woodcutting | 91 | [→](/game-data/recipes/woodcutting) |
-| Farming | 58 | [→](/game-data/recipes/farming) |
+| Woodcutting | 93 | [→](/game-data/recipes/woodcutting) |
+| Farming | 89 | [→](/game-data/recipes/farming) |
 | Fungiculture | 48 | [→](/game-data/recipes/fungiculture) |
 | Breeding | 45 | [→](/game-data/recipes/breeding) |
 
