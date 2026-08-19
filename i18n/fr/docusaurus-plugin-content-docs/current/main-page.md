@@ -89,7 +89,7 @@ Le jeu se joue depuis quasiment n'importe quel navigateur compatible HTML5, via 
 | Artifact | 3 | [→](/game-data/pets/artifact) |
 | Egg | 70 | [→](/game-data/pets/egg) |
 
-### 📖 Recettes — 2,595 formules d'artisanat
+### 📖 Recettes — 2,860 formules d'artisanat
 
 | Compétence | Entrées | Voir |
 | --- | --- | --- |
@@ -99,7 +99,7 @@ Le jeu se joue depuis quasiment n'importe quel navigateur compatible HTML5, via 
 | Alchemy | 328 | [→](/game-data/recipes/alchemy) |
 | Mining | 168 | [→](/game-data/recipes/mining) |
 | Jewelry | 232 | [→](/game-data/recipes/jewelry) |
-| Carpentry | 206 | [→](/game-data/recipes/carpentry) |
+| Carpentry | 471 | [→](/game-data/recipes/carpentry) |
 | Fishing | 114 | [→](/game-data/recipes/fishing) |
 | Cooking | 118 | [→](/game-data/recipes/cooking) |
 | Woodcutting | 93 | [→](/game-data/recipes/woodcutting) |

@@ -86,7 +86,7 @@ It can be played from almost any web browser that supports HTML 5, from a variet
 | Artifact | 3 | [→](/game-data/pets/artifact) |
 | Egg | 70 | [→](/game-data/pets/egg) |
 
-### 📖 Recipes — 2,595 crafting formulas
+### 📖 Recipes — 2,860 crafting formulas
 
 | Skill | Entries | Browse |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ It can be played from almost any web browser that supports HTML 5, from a variet
 | Alchemy | 328 | [→](/game-data/recipes/alchemy) |
 | Mining | 168 | [→](/game-data/recipes/mining) |
 | Jewelry | 232 | [→](/game-data/recipes/jewelry) |
-| Carpentry | 206 | [→](/game-data/recipes/carpentry) |
+| Carpentry | 471 | [→](/game-data/recipes/carpentry) |
 | Fishing | 114 | [→](/game-data/recipes/fishing) |
 | Cooking | 118 | [→](/game-data/recipes/cooking) |
 | Woodcutting | 93 | [→](/game-data/recipes/woodcutting) |

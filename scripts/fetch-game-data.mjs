@@ -330,6 +330,61 @@ async function main() {
     }
   }
 
+  // ── CARPENTRY_FORMULAS ───────────────────────────────────────────────────
+  // Structure: { floors:[{item_id, level, consumes:[{id,count}]}], walls:[...], furniture:[...], ... }
+  if (sandbox.CARPENTRY_FORMULAS) {
+    for (const category of Object.values(sandbox.CARPENTRY_FORMULAS)) {
+      if (!Array.isArray(category)) continue;
+      for (const f of category) {
+        if (!f?.item_id) continue;
+        const itemDef = sandbox.item_base?.[f.item_id];
+        const itemName = itemDef?.name || `#${f.item_id}`;
+        const matts = (f.consumes || []).map((c) => ({ id: c.id, c: c.count || 1 }));
+        const key = `${f.item_id}|carpentry|${f.level || 1}`;
+        if (recipeIdSet.has(key)) continue;
+        recipeIdSet.add(key);
+        recipesList.push({
+          id: f.item_id,
+          n: itemName,
+          skill: 'carpentry',
+          level: f.level || 1,
+          xp: 0,
+          min_chance: 100,
+          max_chance: 100,
+          matts,
+          object: 'Carpentry',
+        });
+      }
+    }
+  }
+
+  // ── FLETCHING_FORMULAS ───────────────────────────────────────────────────
+  // Structure: { 0:{item_id, level, chance, pattern:[metal_id, wood_id, feather_id]}, ... }
+  // pattern = [metal, wood, feather] — les 3 composants nécessaires pour fabriquer la flèche
+  if (sandbox.FLETCHING_FORMULAS) {
+    for (const f of Object.values(sandbox.FLETCHING_FORMULAS)) {
+      if (!f?.item_id) continue;
+      const itemDef = sandbox.item_base?.[f.item_id];
+      const itemName = itemDef?.name || `#${f.item_id}`;
+      // pattern = [metal_id, wood_id, feather_id] → 1× chaque ingrédient
+      const matts = (f.pattern || []).map((id) => ({ id, c: 1 }));
+      const key = `${f.item_id}|fletching|${f.level || 1}`;
+      if (recipeIdSet.has(key)) continue;
+      recipeIdSet.add(key);
+      recipesList.push({
+        id: f.item_id,
+        n: itemName,
+        skill: 'fletching',
+        level: f.level || 1,
+        xp: 0,
+        min_chance: Math.round((f.chance || 1) * 100),
+        max_chance: Math.round((f.chance || 1) * 100),
+        matts,
+        object: 'Fletching Table',
+      });
+    }
+  }
+
   // Pet Breeds & Families
   const petBreeds = sandbox.Mods?.Wikimd?.pet_breeds || [];
   const petFamily = sandbox.Mods?.Wikimd?.pet_family || {};

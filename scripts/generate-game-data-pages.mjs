@@ -248,7 +248,13 @@ async function generateRecipes(recipes, itemById) {
       if (!merged.has(key)) {
         merged.set(key, { ...r, _objects: new Set([r.object || '']) });
       } else {
-        if (r.object) merged.get(key)._objects.add(r.object);
+        const existing = merged.get(key);
+        if (r.object) existing._objects.add(r.object);
+        // Préférer l'entrée qui a des ingrédients sur celle qui n'en a pas
+        if ((!existing.matts || existing.matts.length === 0) && r.matts && r.matts.length > 0) {
+          const savedObjects = existing._objects;
+          merged.set(key, { ...r, _objects: savedObjects });
+        }
       }
     }
     const deduped = [...merged.values()];
