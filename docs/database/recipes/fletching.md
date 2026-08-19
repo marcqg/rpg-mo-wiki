@@ -3,371 +3,371 @@ title: "Fletching"
 ---
 ## Fletching
 
-| Name | Level | XP | Chance | Materials |
-| --- | --- | --- | --- | --- |
-| 7 Souls Gloves Of Archery | 99 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× 7 Souls Gloves |
-| 7 Souls Gloves Of Archery | 99 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× 7 Souls Gloves |
-| 7 Souls Gloves Of Archery | 99 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× 7 Souls Gloves |
-| 7 Souls Gloves Of Archery | 99 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× 7 Souls Gloves |
-| Amethyst Dragon's Blood Lightning Arrow | 115 | 113 | 1% | 1× Cut Amethyst<br/>1× Dragon's Blood Log<br/>1× Lightning Feather |
-| Amethyst Gloves of Archery | 75 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Amethyst Gloves |
-| Amethyst Gloves of Archery | 75 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Amethyst Gloves |
-| Amethyst Gloves of Archery | 75 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Amethyst Gloves |
-| Amethyst Gloves of Archery | 75 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Amethyst Gloves |
-| Amethyst Void Lightning Arrow | 107 | 109 | 1% | 1× Cut Amethyst<br/>1× Void Log<br/>1× Lightning Feather |
-| Archdevil Cape | 1 | 40 | 0.15% | 1× Low Wings Enchant Scroll<br/>2× Devil Cape |
-| Archdevil Cape | 1 | 80 | 0.25% | 1× Medium Wings Enchant Scroll<br/>2× Devil Cape |
-| Archdevil Cape | 1 | 120 | 0.35% | 1× High Wings Enchant Scroll<br/>2× Devil Cape |
-| Archdevil Cape | 1 | 150 | 0.5% | 1× Superior Wings Enchant Scroll<br/>2× Devil Cape |
-| Azurite Blue Palm Angel Arrow | 66 | 71 | 1% | 1× Azurite Bar<br/>1× Blue Palm Log<br/>1× Angel Feather |
-| Azurite Blue Palm Arrow | 62 | 66 | 1% | 1× Azurite Bar<br/>1× Blue Palm Log<br/>1× Feather |
-| Azurite Blue Palm Devil Arrow | 70 | 71 | 1% | 1× Azurite Bar<br/>1× Blue Palm Log<br/>1× Devil Feather |
-| Azurite Blue Palm Ice Arrow | 74 | 77 | 1% | 1× Azurite Bar<br/>1× Blue Palm Log<br/>1× Ice Feather |
-| Azurite Dragon's Blood Angel Arrow | 108 | 85 | 1% | 1× Azurite Bar<br/>1× Dragon's Blood Log<br/>1× Angel Feather |
-| Azurite Dragon's Blood Arrow | 105 | 80 | 1% | 1× Azurite Bar<br/>1× Dragon's Blood Log<br/>1× Feather |
-| Azurite Dragon's Blood Devil Arrow | 111 | 85 | 1% | 1× Azurite Bar<br/>1× Dragon's Blood Log<br/>1× Devil Feather |
-| Azurite Dragon's Blood Ice Arrow | 114 | 91 | 1% | 1× Azurite Bar<br/>1× Dragon's Blood Log<br/>1× Ice Feather |
-| Azurite Dragon's Blood Lightning Arrow | 115 | 93 | 1% | 1× Azurite Bar<br/>1× Dragon's Blood Log<br/>1× Lightning Feather |
-| Azurite Dragon's Blood Phoenix Arrow | 115 | 95 | 1% | 1× Azurite Bar<br/>1× Dragon's Blood Log<br/>1× Phoenix Feather |
-| Azurite Magic Oak Angel Arrow | 79 | 77 | 1% | 1× Azurite Bar<br/>1× Magic Oak Log<br/>1× Angel Feather |
-| Azurite Magic Oak Arrow | 76 | 72 | 1% | 1× Azurite Bar<br/>1× Magic Oak Log<br/>1× Feather |
-| Azurite Magic Oak Devil Arrow | 82 | 77 | 1% | 1× Azurite Bar<br/>1× Magic Oak Log<br/>1× Devil Feather |
-| Azurite Magic Oak Ice Arrow | 85 | 83 | 1% | 1× Azurite Bar<br/>1× Magic Oak Log<br/>1× Ice Feather |
-| Azurite Magic Oak Lightning Arrow | 88 | 85 | 1% | 1× Azurite Bar<br/>1× Magic Oak Log<br/>1× Lightning Feather |
-| Azurite Maple Angel Arrow | 47 | 64 | 1% | 1× Azurite Bar<br/>1× Maple Log<br/>1× Angel Feather |
-| Azurite Maple Arrow | 43 | 59 | 1% | 1× Azurite Bar<br/>1× Maple Log<br/>1× Feather |
-| Azurite Maple Devil Arrow | 51 | 64 | 1% | 1× Azurite Bar<br/>1× Maple Log<br/>1× Devil Feather |
-| Azurite Spirit Angel Arrow | 55 | 68 | 1% | 1× Azurite Bar<br/>1× Spirit Log<br/>1× Angel Feather |
-| Azurite Spirit Arrow | 52 | 63 | 1% | 1× Azurite Bar<br/>1× Spirit Log<br/>1× Feather |
-| Azurite Spirit Devil Arrow | 58 | 68 | 1% | 1× Azurite Bar<br/>1× Spirit Log<br/>1× Devil Feather |
-| Azurite Spirit Ice Arrow | 61 | 74 | 1% | 1× Azurite Bar<br/>1× Spirit Log<br/>1× Ice Feather |
-| Azurite Void Angel Arrow | 95 | 81 | 1% | 1× Azurite Bar<br/>1× Void Log<br/>1× Angel Feather |
-| Azurite Void Arrow | 91 | 76 | 1% | 1× Azurite Bar<br/>1× Void Log<br/>1× Feather |
-| Azurite Void Devil Arrow | 99 | 81 | 1% | 1× Azurite Bar<br/>1× Void Log<br/>1× Devil Feather |
-| Azurite Void Ice Arrow | 103 | 87 | 1% | 1× Azurite Bar<br/>1× Void Log<br/>1× Ice Feather |
-| Azurite Void Lightning Arrow | 107 | 89 | 1% | 1× Azurite Bar<br/>1× Void Log<br/>1× Lightning Feather |
-| Bahamut Gloves of Archery | 90 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Bahamut Gloves |
-| Bahamut Gloves of Archery | 90 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Bahamut Gloves |
-| Bahamut Gloves of Archery | 90 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Bahamut Gloves |
-| Bahamut Gloves of Archery | 90 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Bahamut Gloves |
-| Black Opal Dragon's Blood Lightning Arrow | 115 | 118 | 1% | 1× Cut Black Opal<br/>1× Dragon's Blood Log<br/>1× Lightning Feather |
-| Black Opal Void Lightning Arrow | 108 | 114 | 1% | 1× Cut Black Opal<br/>1× Void Log<br/>1× Lightning Feather |
-| Blue Palm Longbow | 72 | 425 | 0.3% | 4× Sapphire Horn<br/>7× Blue Palm Log<br/>1× Flannel Fabric |
-| Blue Palm Shortbow | 67 | 315 | 0.3% | 3× Sapphire Horn<br/>5× Blue Palm Log<br/>1× Flannel Fabric |
-| Blue Palm Stick | 60 | 30 | 0.7% | 1× Blue Palm Log |
-| Bone Dust Armor | 19 | 68 | 0.5% | 4× Orc Leather<br/>4× Human Bones |
-| Bone Dust Boots | 10 | 34 | 0.5% | 2× Orc Leather<br/>2× Human Bones |
-| Bone Dust Helmet | 11 | 39 | 0.5% | 3× Orc Leather<br/>2× Human Bones |
-| Bone Dust Pants | 14 | 44 | 0.5% | 4× Orc Leather<br/>2× Human Bones |
-| Bronze Cactus Arrow | 10 | 18 | 1% | 1× Bronze Bar<br/>1× Cactus Wood<br/>1× Feather |
-| Bronze Fir Arrow | 1 | 16 | 1% | 1× Bronze Bar<br/>1× Fir Log<br/>1× Feather |
-| Bronze Oak Angel Arrow | 25 | 24 | 1% | 1× Bronze Bar<br/>1× Oak Log<br/>1× Angel Feather |
-| Bronze Oak Arrow | 20 | 19 | 1% | 1× Bronze Bar<br/>1× Oak Log<br/>1× Feather |
-| Bronze Oak Devil Arrow | 29 | 24 | 1% | 1× Bronze Bar<br/>1× Oak Log<br/>1× Devil Feather |
-| Cactus Longbow | 18 | 54 | 0.3% | 1× Cotton Fabric<br/>7× Cactus Wood |
-| Cactus Shortbow | 15 | 40 | 0.5% | 1× Cotton Fabric<br/>5× Cactus Wood |
-| Cactus Stick | 10 | 7 | 0.7% | 1× Cactus Wood |
-| Cape Of Raguel | 105 | 0 | 0.5% | 1× Raguel the archangel [Legendary]<br/>2× Mark of Raguel |
-| Crystal Blue Palm Angel Arrow | 65 | 56 | 1% | 1× Cut Crystal<br/>1× Blue Palm Log<br/>1× Angel Feather |
-| Crystal Blue Palm Arrow | 61 | 51 | 1% | 1× Cut Crystal<br/>1× Blue Palm Log<br/>1× Feather |
-| Crystal Blue Palm Devil Arrow | 69 | 56 | 1% | 1× Cut Crystal<br/>1× Blue Palm Log<br/>1× Devil Feather |
-| Crystal Blue Palm Ice Arrow | 73 | 62 | 1% | 1× Cut Crystal<br/>1× Blue Palm Log<br/>1× Ice Feather |
-| Crystal Magic Oak Angel Arrow | 78 | 62 | 1% | 1× Cut Crystal<br/>1× Magic Oak Log<br/>1× Angel Feather |
-| Crystal Magic Oak Arrow | 75 | 57 | 1% | 1× Cut Crystal<br/>1× Magic Oak Log<br/>1× Feather |
-| Crystal Magic Oak Devil Arrow | 81 | 62 | 1% | 1× Cut Crystal<br/>1× Magic Oak Log<br/>1× Devil Feather |
-| Crystal Magic Oak Ice Arrow | 84 | 68 | 1% | 1× Cut Crystal<br/>1× Magic Oak Log<br/>1× Ice Feather |
-| Crystal Magic Oak Lightning Arrow | 87 | 70 | 1% | 1× Cut Crystal<br/>1× Magic Oak Log<br/>1× Lightning Feather |
-| Crystal Maple Angel Arrow | 46 | 49 | 1% | 1× Cut Crystal<br/>1× Maple Log<br/>1× Angel Feather |
-| Crystal Maple Arrow | 42 | 44 | 1% | 1× Cut Crystal<br/>1× Maple Log<br/>1× Feather |
-| Crystal Maple Devil Arrow | 50 | 49 | 1% | 1× Cut Crystal<br/>1× Maple Log<br/>1× Devil Feather |
-| Crystal Oak Angel Arrow | 28 | 44 | 1% | 1× Cut Crystal<br/>1× Oak Log<br/>1× Angel Feather |
-| Crystal Oak Arrow | 24 | 39 | 1% | 1× Cut Crystal<br/>1× Oak Log<br/>1× Feather |
-| Crystal Oak Devil Arrow | 32 | 44 | 1% | 1× Cut Crystal<br/>1× Oak Log<br/>1× Devil Feather |
-| Crystal Spirit Angel Arrow | 54 | 53 | 1% | 1× Cut Crystal<br/>1× Spirit Log<br/>1× Angel Feather |
-| Crystal Spirit Arrow | 51 | 48 | 1% | 1× Cut Crystal<br/>1× Spirit Log<br/>1× Feather |
-| Crystal Spirit Devil Arrow | 57 | 53 | 1% | 1× Cut Crystal<br/>1× Spirit Log<br/>1× Devil Feather |
-| Crystal Spirit Ice Arrow | 60 | 59 | 1% | 1× Cut Crystal<br/>1× Spirit Log<br/>1× Ice Feather |
-| Crystal Void Angel Arrow | 94 | 66 | 1% | 1× Cut Crystal<br/>1× Void Log<br/>1× Angel Feather |
-| Crystal Void Arrow | 90 | 61 | 1% | 1× Cut Crystal<br/>1× Void Log<br/>1× Feather |
-| Crystal Void Devil Arrow | 98 | 66 | 1% | 1× Cut Crystal<br/>1× Void Log<br/>1× Devil Feather |
-| Crystal Void Ice Arrow | 102 | 72 | 1% | 1× Cut Crystal<br/>1× Void Log<br/>1× Ice Feather |
-| Crystal Void Lightning Arrow | 106 | 74 | 1% | 1× Cut Crystal<br/>1× Void Log<br/>1× Lightning Feather |
-| Crystal Willow Angel Arrow | 35 | 46 | 1% | 1× Cut Crystal<br/>1× Willow Log<br/>1× Angel Feather |
-| Crystal Willow Arrow | 32 | 41 | 1% | 1× Cut Crystal<br/>1× Willow Log<br/>1× Feather |
-| Crystal Willow Devil Arrow | 38 | 46 | 1% | 1× Cut Crystal<br/>1× Willow Log<br/>1× Devil Feather |
-| Cursed Gloves Of Archery | 90 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Cursed Gloves |
-| Cursed Gloves Of Archery | 90 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Cursed Gloves |
-| Cursed Gloves Of Archery | 90 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Cursed Gloves |
-| Cursed Gloves Of Archery | 90 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Cursed Gloves |
-| Diamond Blue Palm Ice Arrow | 74 | 87 | 1% | 1× Cut Diamond<br/>1× Blue Palm Log<br/>1× Ice Feather |
-| Diamond Dragon's Blood Ice Arrow | 114 | 101 | 1% | 1× Cut Diamond<br/>1× Dragon's Blood Log<br/>1× Ice Feather |
-| Diamond Dust Armor | 79 | 548 | 0.3% | 4× Cut Diamond<br/>4× Ruby Dragon Scale |
-| Diamond Dust Boots | 80 | 261 | 0.3% | 3× Cut Diamond<br/>1× Ruby Dragon Scale |
-| Diamond Dust Helmet | 73 | 336 | 0.3% | 3× Cut Diamond<br/>2× Ruby Dragon Scale |
-| Diamond Dust Pants | 76 | 398 | 0.3% | 4× Cut Diamond<br/>2× Ruby Dragon Scale |
-| Diamond Gloves Of Archery | 80 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Diamond Gloves<br/>1× Cut Crystal |
-| Diamond Gloves Of Archery | 80 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Diamond Gloves<br/>1× Cut Crystal |
-| Diamond Gloves Of Archery | 80 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Diamond Gloves<br/>1× Cut Crystal |
-| Diamond Gloves Of Archery | 80 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Diamond Gloves<br/>1× Cut Crystal |
-| Diamond Magic Oak Ice Arrow | 85 | 93 | 1% | 1× Cut Diamond<br/>1× Magic Oak Log<br/>1× Ice Feather |
-| Diamond Void Ice Arrow | 103 | 97 | 1% | 1× Cut Diamond<br/>1× Void Log<br/>1× Ice Feather |
-| Dragon's Blood Longbow | 110 | 1008 | 0.3% | 5× Cut Diamond<br/>4× Elemental Dragon Scale<br/>7× Dragon's Blood Log |
-| Dragon's Blood Shortbow | 106 | 980 | 0.3% | 5× Cut Diamond<br/>5× Elemental Dragon Scale<br/>5× Dragon's Blood Log |
-| Dragonstone Dragon's Blood Angel Arrow | 110 | 115 | 1% | 1× Dragonstone Bar<br/>1× Dragon's Blood Log<br/>1× Angel Feather |
-| Dragonstone Dragon's Blood Arrow | 107 | 110 | 1% | 1× Dragonstone Bar<br/>1× Dragon's Blood Log<br/>1× Feather |
-| Dragonstone Dragon's Blood Devil Arrow | 113 | 115 | 1% | 1× Dragonstone Bar<br/>1× Dragon's Blood Log<br/>1× Devil Feather |
-| Dragonstone Dragon's Blood Ice Arrow | 115 | 121 | 1% | 1× Dragonstone Bar<br/>1× Dragon's Blood Log<br/>1× Ice Feather |
-| Dragonstone Dragon's Blood Lightning Arrow | 115 | 123 | 1% | 1× Dragonstone Bar<br/>1× Dragon's Blood Log<br/>1× Lightning Feather |
-| Dragonstone Dragon's Blood Phoenix Arrow | 116 | 125 | 1% | 1× Dragonstone Bar<br/>1× Dragon's Blood Log<br/>1× Phoenix Feather |
-| Dragonstone Gloves of Archery | 94 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Dragonstone Gloves |
-| Dragonstone Gloves of Archery | 94 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Dragonstone Gloves |
-| Dragonstone Gloves of Archery | 94 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Dragonstone Gloves |
-| Dragonstone Gloves of Archery | 94 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Dragonstone Gloves |
-| Dragonstone Void Angel Arrow | 97 | 111 | 1% | 1× Dragonstone Bar<br/>1× Void Log<br/>1× Angel Feather |
-| Dragonstone Void Arrow | 93 | 106 | 1% | 1× Dragonstone Bar<br/>1× Void Log<br/>1× Feather |
-| Dragonstone Void Devil Arrow | 101 | 111 | 1% | 1× Dragonstone Bar<br/>1× Void Log<br/>1× Devil Feather |
-| Dragonstone Void Ice Arrow | 105 | 117 | 1% | 1× Dragonstone Bar<br/>1× Void Log<br/>1× Ice Feather |
-| Dragonstone Void Lightning Arrow | 109 | 119 | 1% | 1× Dragonstone Bar<br/>1× Void Log<br/>1× Lightning Feather |
-| Eclipse Gloves of Archery | 115 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Eclipse Gloves |
-| Eclipse Gloves of Archery | 115 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Eclipse Gloves |
-| Eclipse Gloves of Archery | 115 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Eclipse Gloves |
-| Eclipse Gloves of Archery | 115 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Eclipse Gloves |
-| Edoylerite Dust Cape | 137 | 1220 | 0.25% | 2× Thread<br/>3× Edoylerite Bar<br/>3× Edoylerite Shard<br/>2× Edoylerite Crystal |
-| Edoylerite Gloves of Archery | 135 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Edoylerite Gloves |
-| Edoylerite Gloves of Archery | 135 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Edoylerite Gloves |
-| Edoylerite Gloves of Archery | 135 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Edoylerite Gloves |
-| Edoylerite Gloves of Archery | 135 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Edoylerite Gloves |
-| Elemental Dragon Scale Armor | 89 | 640 | 0.2% | 8× Elemental Dragon Scale |
-| Elemental Dragon Scale Boots | 90 | 320 | 0.2% | 4× Elemental Dragon Scale |
-| Elemental Dragon Scale Helmet | 83 | 400 | 0.2% | 5× Elemental Dragon Scale |
-| Elemental Dragon Scale Pants | 86 | 480 | 0.2% | 6× Elemental Dragon Scale |
-| Elemental Dragon Scale Quiver | 96 | 640 | 0.2% | 8× Elemental Dragon Scale |
-| Emerald Blue Palm Angel Arrow | 66 | 66 | 1% | 1× Cut Emerald<br/>1× Blue Palm Log<br/>1× Angel Feather |
-| Emerald Blue Palm Devil Arrow | 70 | 66 | 1% | 1× Cut Emerald<br/>1× Blue Palm Log<br/>1× Devil Feather |
-| Emerald Dragon Scale Armor | 29 | 120 | 0.6% | 2× Emerald Dragon Scale<br/>6× Beast Leather |
-| Emerald Dragon Scale Boots | 30 | 80 | 0.6% | 2× Emerald Dragon Scale<br/>2× Beast Leather |
-| Emerald Dragon Scale Helmet | 26 | 90 | 0.7% | 2× Emerald Dragon Scale<br/>3× Beast Leather |
-| Emerald Dragon Scale Pants | 28 | 100 | 0.6% | 2× Emerald Dragon Scale<br/>4× Beast Leather |
-| Emerald Magic Oak Angel Arrow | 79 | 72 | 1% | 1× Cut Emerald<br/>1× Magic Oak Log<br/>1× Angel Feather |
-| Emerald Magic Oak Devil Arrow | 82 | 72 | 1% | 1× Cut Emerald<br/>1× Magic Oak Log<br/>1× Devil Feather |
-| Emerald Maple Angel Arrow | 47 | 59 | 1% | 1× Cut Emerald<br/>1× Maple Log<br/>1× Angel Feather |
-| Emerald Maple Devil Arrow | 51 | 59 | 1% | 1× Cut Emerald<br/>1× Maple Log<br/>1× Devil Feather |
-| Emerald Scale Quiver | 32 | 120 | 0.6% | 2× Emerald Dragon Scale<br/>6× Beast Leather |
-| Emerald Spirit Angel Arrow | 55 | 63 | 1% | 1× Cut Emerald<br/>1× Spirit Log<br/>1× Angel Feather |
-| Emerald Spirit Devil Arrow | 58 | 63 | 1% | 1× Cut Emerald<br/>1× Spirit Log<br/>1× Devil Feather |
-| Emerald Void Angel Arrow | 95 | 76 | 1% | 1× Cut Emerald<br/>1× Void Log<br/>1× Angel Feather |
-| Emerald Void Devil Arrow | 99 | 76 | 1% | 1× Cut Emerald<br/>1× Void Log<br/>1× Devil Feather |
-| Ender Gloves of Archery | 145 | 115 | 0.25% | 2× Magic Rune [Common]<br/>1× Cut Crystal [R]<br/>1× Ender Gloves |
-| Ender Gloves of Archery | 145 | 195 | 0.45% | 2× Magic Rune [Rare]<br/>1× Cut Crystal [R]<br/>1× Ender Gloves |
-| Ender Gloves of Archery | 145 | 275 | 0.65% | 2× Magic Rune [Legendary]<br/>1× Cut Crystal [R]<br/>1× Ender Gloves |
-| Ender Gloves of Archery | 145 | 335 | 0.85% | 2× Magic Rune [Ancient]<br/>1× Cut Crystal [R]<br/>1× Ender Gloves |
-| Feral Dust Cape | 132 | 1120 | 0.25% | 2× Thread<br/>3× Edoylerite Bar<br/>3× Feral Shard<br/>2× Feral Crystal |
-| Feral Gloves of Archery | 130 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Feral Gloves |
-| Feral Gloves of Archery | 130 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Feral Gloves |
-| Feral Gloves of Archery | 130 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Feral Gloves |
-| Feral Gloves of Archery | 130 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Feral Gloves |
-| Fir Longbow | 5 | 40 | 0.3% | 7× Fir Log<br/>1× Cotton Fabric |
-| Fir Shortbow | 1 | 30 | 0.5% | 5× Fir Log<br/>1× Cotton Fabric |
-| Fir Stick | 1 | 5 | 0.7% | 1× Fir Log |
-| Fire Cape | 30 | 390 | 0.5% | 5× Cut Ruby<br/>6× Gold Bar |
-| Fire Stone Blue Palm Angel Arrow | 67 | 86 | 1% | 1× Fire Stone Bar<br/>1× Blue Palm Log<br/>1× Angel Feather |
-| Fire Stone Blue Palm Arrow | 63 | 81 | 1% | 1× Fire Stone Bar<br/>1× Blue Palm Log<br/>1× Feather |
-| Fire Stone Blue Palm Devil Arrow | 71 | 86 | 1% | 1× Fire Stone Bar<br/>1× Blue Palm Log<br/>1× Devil Feather |
-| Fire Stone Blue Palm Ice Arrow | 75 | 92 | 1% | 1× Fire Stone Bar<br/>1× Blue Palm Log<br/>1× Ice Feather |
-| Fire Stone Dragon's Blood Angel Arrow | 109 | 100 | 1% | 1× Fire Stone Bar<br/>1× Dragon's Blood Log<br/>1× Angel Feather |
-| Fire Stone Dragon's Blood Arrow | 106 | 95 | 1% | 1× Fire Stone Bar<br/>1× Dragon's Blood Log<br/>1× Feather |
-| Fire Stone Dragon's Blood Devil Arrow | 112 | 100 | 1% | 1× Fire Stone Bar<br/>1× Dragon's Blood Log<br/>1× Devil Feather |
-| Fire Stone Dragon's Blood Ice Arrow | 115 | 106 | 1% | 1× Fire Stone Bar<br/>1× Dragon's Blood Log<br/>1× Ice Feather |
-| Fire Stone Dragon's Blood Lightning Arrow | 115 | 108 | 1% | 1× Fire Stone Bar<br/>1× Dragon's Blood Log<br/>1× Lightning Feather |
-| Fire Stone Dragon's Blood Phoenix Arrow | 115 | 110 | 1% | 1× Fire Stone Bar<br/>1× Dragon's Blood Log<br/>1× Phoenix Feather |
-| Fire Stone Magic Oak Angel Arrow | 80 | 92 | 1% | 1× Fire Stone Bar<br/>1× Magic Oak Log<br/>1× Angel Feather |
-| Fire Stone Magic Oak Arrow | 77 | 87 | 1% | 1× Fire Stone Bar<br/>1× Magic Oak Log<br/>1× Feather |
-| Fire Stone Magic Oak Devil Arrow | 83 | 92 | 1% | 1× Fire Stone Bar<br/>1× Magic Oak Log<br/>1× Devil Feather |
-| Fire Stone Magic Oak Ice Arrow | 86 | 98 | 1% | 1× Fire Stone Bar<br/>1× Magic Oak Log<br/>1× Ice Feather |
-| Fire Stone Magic Oak Lightning Arrow | 89 | 100 | 1% | 1× Fire Stone Bar<br/>1× Magic Oak Log<br/>1× Lightning Feather |
-| Fire Stone Void Angel Arrow | 96 | 96 | 1% | 1× Fire Stone Bar<br/>1× Void Log<br/>1× Angel Feather |
-| Fire Stone Void Arrow | 92 | 91 | 1% | 1× Fire Stone Bar<br/>1× Void Log<br/>1× Feather |
-| Fire Stone Void Devil Arrow | 100 | 96 | 1% | 1× Fire Stone Bar<br/>1× Void Log<br/>1× Devil Feather |
-| Fire Stone Void Ice Arrow | 104 | 102 | 1% | 1× Fire Stone Bar<br/>1× Void Log<br/>1× Ice Feather |
-| Fire Stone Void Lightning Arrow | 108 | 104 | 1% | 1× Fire Stone Bar<br/>1× Void Log<br/>1× Lightning Feather |
-| Firelord Gloves of Archery +4 | 1 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Firelord Gloves +3<br/>1× Cut Crystal |
-| Firelord Gloves of Archery +4 | 1 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Firelord Gloves +3<br/>1× Cut Crystal |
-| Firelord Gloves of Archery +4 | 1 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Firelord Gloves +3<br/>1× Cut Crystal |
-| Firelord Gloves of Archery +4 | 1 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Firelord Gloves +3<br/>1× Cut Crystal |
-| Flame Phoenix Dust Armor | 59 | 420 | 0.7% | 7× Cut Ruby<br/>1× Phoenix Feather Bundle [S] |
-| Flame Phoenix Dust Boots | 60 | 180 | 0.7% | 3× Cut Ruby<br/>1× Phoenix Feather Bundle [S] |
-| Flame Phoenix Dust Helmet | 53 | 240 | 0.7% | 4× Cut Ruby<br/>1× Phoenix Feather Bundle [S] |
-| Flame Phoenix Dust Pants | 56 | 300 | 0.7% | 5× Cut Ruby<br/>1× Phoenix Feather Bundle [S] |
-| Flame Phoenix Quiver | 74 | 420 | 0.7% | 7× Cut Ruby<br/>1× Phoenix Feather Bundle [S] |
-| Flaming Dragon Armor | 99 | 480 | 0.3% | 6× Elemental Dragon Scale<br/>2× Phoenix Feather Bundle [S] |
-| Flaming Dragon Boots | 95 | 160 | 0.3% | 2× Elemental Dragon Scale<br/>2× Phoenix Feather Bundle [S] |
-| Flaming Dragon Helmet | 93 | 240 | 0.3% | 3× Elemental Dragon Scale<br/>2× Phoenix Feather Bundle [S] |
-| Flaming Dragon Longbow | 112 | 0 | 0.6% | 1× Void Longbow<br/>1× Dragon's Blood Longbow |
-| Flaming Dragon Pants | 96 | 320 | 0.3% | 4× Elemental Dragon Scale<br/>2× Phoenix Feather Bundle [S] |
-| Flaming Dragon Quiver | 100 | 480 | 0.3% | 6× Elemental Dragon Scale<br/>2× Phoenix Feather Bundle [S] |
-| Flaming Dragon Shortbow | 111 | 0 | 0.6% | 1× Void Shortbow<br/>1× Dragon's Blood Shortbow |
-| Hard Leather Armor | 24 | 60 | 0.7% | 4× Beast Leather<br/>4× Orc Leather |
-| Hard Leather Boots | 20 | 30 | 0.7% | 2× Beast Leather<br/>2× Orc Leather |
-| Hard Leather Helmet | 22 | 35 | 0.5% | 2× Beast Leather<br/>3× Orc Leather |
-| Hard Leather Pants | 14 | 50 | 0.5% | 4× Beast Leather<br/>2× Orc Leather |
-| Hard Leather Quiver | 26 | 65 | 0.7% | 5× Beast Leather<br/>3× Orc Leather |
-| Heart Piercing Arrow | 10 | 87 | 1% | 1× Heart Bar<br/>1× Magic Oak Log<br/>1× Feather of Heart |
-| Ice Cape | 55 | 890 | 0.3% | 10× Golden Dragon Scale<br/>6× Cut Amethyst |
-| Ichor Gloves of Archery | 90 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Ichor Gloves |
-| Ichor Gloves of Archery | 90 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Ichor Gloves |
-| Ichor Gloves of Archery | 90 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Ichor Gloves |
-| Ichor Gloves of Archery | 90 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Ichor Gloves |
-| Incarnation Dust Cape | 127 | 1020 | 0.25% | 2× Thread<br/>3× Edoylerite Bar<br/>3× Incarnation Shard<br/>2× Incarnation Crystal |
-| Incarnation Gloves of Archery | 125 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Incarnation Gloves |
-| Incarnation Gloves of Archery | 125 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Incarnation Gloves |
-| Incarnation Gloves of Archery | 125 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Incarnation Gloves |
-| Incarnation Gloves of Archery | 125 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Incarnation Gloves |
-| Iron Cactus Arrow | 14 | 28 | 1% | 1× Iron Bar<br/>1× Cactus Wood<br/>1× Feather |
-| Iron Fir Arrow | 5 | 26 | 1% | 1× Iron Bar<br/>1× Fir Log<br/>1× Feather |
-| Iron Maple Angel Arrow | 44 | 39 | 1% | 1× Iron Bar<br/>1× Maple Log<br/>1× Angel Feather |
-| Iron Maple Arrow | 40 | 34 | 1% | 1× Iron Bar<br/>1× Maple Log<br/>1× Feather |
-| Iron Maple Devil Arrow | 48 | 39 | 1% | 1× Iron Bar<br/>1× Maple Log<br/>1× Devil Feather |
-| Iron Oak Angel Arrow | 26 | 34 | 1% | 1× Iron Bar<br/>1× Oak Log<br/>1× Angel Feather |
-| Iron Oak Arrow | 22 | 29 | 1% | 1× Iron Bar<br/>1× Oak Log<br/>1× Feather |
-| Iron Oak Devil Arrow | 30 | 34 | 1% | 1× Iron Bar<br/>1× Oak Log<br/>1× Devil Feather |
-| Iron Willow Angel Arrow | 33 | 36 | 1% | 1× Iron Bar<br/>1× Willow Log<br/>1× Angel Feather |
-| Iron Willow Arrow | 30 | 31 | 1% | 1× Iron Bar<br/>1× Willow Log<br/>1× Feather |
-| Iron Willow Devil Arrow | 36 | 36 | 1% | 1× Iron Bar<br/>1× Willow Log<br/>1× Devil Feather |
-| King Elemental Dragon Scale Armor | 110 | 680 | 0.6% | 4× King Elemental Dragon Scale<br/>4× Moon Stone |
-| King Elemental Dragon Scale Boots | 105 | 340 | 0.6% | 1× King Elemental Dragon Scale<br/>3× Moon Stone |
-| King Elemental Dragon Scale Helmet | 106 | 425 | 0.6% | 2× King Elemental Dragon Scale<br/>3× Moon Stone |
-| King Elemental Dragon Scale Pants | 107 | 510 | 0.6% | 2× King Elemental Dragon Scale<br/>4× Moon Stone |
-| King Elemental Scale Quiver | 106 | 680 | 0.6% | 4× King Elemental Dragon Scale<br/>4× Moon Stone |
-| Magic Oak Longbow | 88 | 770 | 0.5% | 6× Ruby Dragon Scale<br/>7× Magic Oak Log<br/>2× Jute Fabric |
-| Magic Oak Shortbow | 83 | 540 | 0.35% | 4× Ruby Dragon Scale<br/>5× Magic Oak Log<br/>2× Jute Fabric |
-| Magic Oak Stick | 75 | 40 | 0.7% | 1× Magic Oak Log |
-| Maple Longbow | 48 | 221 | 0.3% | 4× Emerald Dragon Scale<br/>1× Bamboo Fabric<br/>7× Maple Log |
-| Maple Shortbow | 45 | 165 | 0.3% | 3× Emerald Dragon Scale<br/>1× Bamboo Fabric<br/>5× Maple Log |
-| Maple Stick | 40 | 13 | 0.7% | 1× Maple Log |
-| Oak Longbow | 28 | 182 | 0.35% | 2× Cut Sapphire<br/>1× Bamboo Fabric<br/>9× Oak Log |
-| Oak Shortbow | 25 | 100 | 0.55% | 1× Cut Sapphire<br/>1× Bamboo Fabric<br/>5× Oak Log |
-| Oak Stick | 20 | 8 | 0.7% | 1× Oak Log |
-| Obsidian Dust Cape | 142 | 9000 | 0.35% | 3× Dimensional Crystal |
-| Obsidian Gloves of Archery | 140 | 115 | 0.25% | 2× Magic Rune [Common]<br/>1× Cut Crystal [R]<br/>1× Obsidian Gloves |
-| Obsidian Gloves of Archery | 140 | 195 | 0.45% | 2× Magic Rune [Rare]<br/>1× Cut Crystal [R]<br/>1× Obsidian Gloves |
-| Obsidian Gloves of Archery | 140 | 275 | 0.65% | 2× Magic Rune [Legendary]<br/>1× Cut Crystal [R]<br/>1× Obsidian Gloves |
-| Obsidian Gloves of Archery | 140 | 335 | 0.85% | 2× Magic Rune [Ancient]<br/>1× Cut Crystal [R]<br/>1× Obsidian Gloves |
-| Orc Leather Armor | 9 | 40 | 0.5% | 8× Orc Leather |
-| Orc Leather Boots | 5 | 20 | 0.5% | 4× Orc Leather |
-| Orc Leather Helmet | 6 | 25 | 0.5% | 5× Orc Leather |
-| Orc Leather Pants | 7 | 30 | 0.5% | 6× Orc Leather |
-| Orc Leather Quiver | 12 | 40 | 0.5% | 8× Orc Leather |
-| Quiver Of Bone Dust | 20 | 61 | 0.5% | 5× Orc Leather<br/>3× Human Bones |
-| Quiver Of Diamond Dust | 88 | 548 | 0.3% | 4× Cut Diamond<br/>4× Ruby Dragon Scale |
-| Quiver Of Star Diamond Dust | 113 | 700 | 0.1% | 1× Phoenix Feather Bundle [S]<br/>7× Cut Star Diamond |
-| Redemption Dust Armor | 122 | 700 | 0.25% | 1× Phoenix Feather Bundle [S]<br/>7× Cut Star Diamond |
-| Redemption Dust Boots | 120 | 400 | 0.25% | 1× Phoenix Feather Bundle [S]<br/>4× Cut Star Diamond |
-| Redemption Dust Cape | 122 | 920 | 0.25% | 2× Thread<br/>3× Edoylerite Bar<br/>3× Redemption Shard<br/>2× Redemption Crystal |
-| Redemption Dust Helmet | 121 | 400 | 0.25% | 1× Phoenix Feather Bundle [S]<br/>4× Cut Star Diamond |
-| Redemption Dust Pants | 121 | 500 | 0.25% | 1× Phoenix Feather Bundle [S]<br/>5× Cut Star Diamond |
-| Redemption Gloves of Archery | 120 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Redemption Gloves |
-| Redemption Gloves of Archery | 120 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Redemption Gloves |
-| Redemption Gloves of Archery | 120 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Redemption Gloves |
-| Redemption Gloves of Archery | 120 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Redemption Gloves |
-| Redemption Longbow | 125 | 1096 | 0.25% | 5× Redemption Shard<br/>3× Redemption Crystal<br/>4× Sequoia Log |
-| Redemption Shortbow | 123 | 1070 | 0.25% | 3× Redemption Shard<br/>4× Redemption Crystal<br/>5× Sequoia Log |
-| Ruby Blue Palm Ice Arrow | 73 | 82 | 1% | 1× Cut Ruby<br/>1× Blue Palm Log<br/>1× Ice Feather |
-| Ruby Dragon Cape | 58 | 600 | 0.4% | 2× Ruby Horn<br/>6× Ruby Dragon Scale |
-| Ruby Dragon Gloves Of Archery | 75 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Ruby Dragon Gloves<br/>1× Cut Crystal |
-| Ruby Dragon Gloves Of Archery | 75 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Ruby Dragon Gloves<br/>1× Cut Crystal |
-| Ruby Dragon Gloves Of Archery | 75 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Ruby Dragon Gloves<br/>1× Cut Crystal |
-| Ruby Dragon Gloves Of Archery | 75 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Ruby Dragon Gloves<br/>1× Cut Crystal |
-| Ruby Dragon Scale Armor | 69 | 600 | 0.1% | 8× Ruby Dragon Scale |
-| Ruby Dragon Scale Boots | 70 | 225 | 0.1% | 3× Ruby Dragon Scale<br/>1× Phoenix Feather Bundle [S] |
-| Ruby Dragon Scale Helmet | 63 | 300 | 0.1% | 4× Ruby Dragon Scale<br/>1× Phoenix Feather Bundle [S] |
-| Ruby Dragon Scale Pants | 66 | 375 | 0.1% | 5× Ruby Dragon Scale<br/>1× Phoenix Feather Bundle [S] |
-| Ruby Dragon's Blood Ice Arrow | 113 | 96 | 1% | 1× Cut Ruby<br/>1× Dragon's Blood Log<br/>1× Ice Feather |
-| Ruby Magic Oak Ice Arrow | 84 | 88 | 1% | 1× Cut Ruby<br/>1× Magic Oak Log<br/>1× Ice Feather |
-| Ruby Scale Quiver | 82 | 600 | 0.1% | 8× Ruby Dragon Scale |
-| Ruby Void Ice Arrow | 102 | 92 | 1% | 1× Cut Ruby<br/>1× Void Log<br/>1× Ice Feather |
-| Saint Dragon Cape | 98 | 0 | 0.4% | 1× Saint Dragon [Legendary]<br/>1× Ice Cape |
-| Sandstorm Armor | 115 | 640 | 0.5% | 1× Phoenix Feather Bundle [S]<br/>4× Moon Stone<br/>3× Cut Star Diamond |
-| Sandstorm Boots | 110 | 255 | 0.5% | 1× Phoenix Feather Bundle [S]<br/>3× Moon Stone |
-| Sandstorm Helmet | 113 | 255 | 0.5% | 2× Phoenix Feather Bundle [S]<br/>3× Moon Stone |
-| Sandstorm Pants | 114 | 340 | 0.6% | 2× Phoenix Feather Bundle [S]<br/>4× Moon Stone |
-| Sandstorm Quiver | 110 | 640 | 0.5% | 1× Phoenix Feather Bundle [S]<br/>4× Moon Stone<br/>3× Cut Star Diamond |
-| Sapphire Blue Palm Angel Arrow | 65 | 61 | 1% | 1× Cut Sapphire<br/>1× Blue Palm Log<br/>1× Angel Feather |
-| Sapphire Blue Palm Devil Arrow | 69 | 61 | 1% | 1× Cut Sapphire<br/>1× Blue Palm Log<br/>1× Devil Feather |
-| Sapphire Dragon Scale Armor | 49 | 400 | 0.5% | 2× Sapphire Horn<br/>6× Sapphire Dragon Scale |
-| Sapphire Dragon Scale Boots | 50 | 200 | 0.5% | 1× Sapphire Horn<br/>3× Sapphire Dragon Scale |
-| Sapphire Dragon Scale Helmet | 43 | 250 | 0.5% | 2× Sapphire Horn<br/>3× Sapphire Dragon Scale |
-| Sapphire Dragon Scale Pants | 46 | 300 | 0.5% | 2× Sapphire Horn<br/>4× Sapphire Dragon Scale |
-| Sapphire Dragon Scale Quiver | 62 | 400 | 0.5% | 2× Sapphire Horn<br/>6× Sapphire Dragon Scale |
-| Sapphire Gloves Of Archery | 68 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Sapphire Gloves<br/>1× Cut Crystal |
-| Sapphire Gloves Of Archery | 68 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Sapphire Gloves<br/>1× Cut Crystal |
-| Sapphire Gloves Of Archery | 68 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Sapphire Gloves<br/>1× Cut Crystal |
-| Sapphire Gloves Of Archery | 68 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Sapphire Gloves<br/>1× Cut Crystal |
-| Sapphire Magic Oak Angel Arrow | 78 | 67 | 1% | 1× Cut Sapphire<br/>1× Magic Oak Log<br/>1× Angel Feather |
-| Sapphire Magic Oak Devil Arrow | 81 | 67 | 1% | 1× Cut Sapphire<br/>1× Magic Oak Log<br/>1× Devil Feather |
-| Sapphire Maple Angel Arrow | 46 | 54 | 1% | 1× Cut Sapphire<br/>1× Maple Log<br/>1× Angel Feather |
-| Sapphire Maple Devil Arrow | 50 | 54 | 1% | 1× Cut Sapphire<br/>1× Maple Log<br/>1× Devil Feather |
-| Sapphire Spirit Angel Arrow | 54 | 58 | 1% | 1× Cut Sapphire<br/>1× Spirit Log<br/>1× Angel Feather |
-| Sapphire Spirit Devil Arrow | 57 | 58 | 1% | 1× Cut Sapphire<br/>1× Spirit Log<br/>1× Devil Feather |
-| Sapphire Void Angel Arrow | 94 | 71 | 1% | 1× Cut Sapphire<br/>1× Void Log<br/>1× Angel Feather |
-| Sapphire Void Devil Arrow | 98 | 71 | 1% | 1× Cut Sapphire<br/>1× Void Log<br/>1× Devil Feather |
-| Shadow Cape | 100 | 680 | 0.5% | 8× Cut Black Opal<br/>1× Rubysoul Dragon [Legendary] |
-| Sharp Web Pellet | 25 | 0 | 0.9% | 2× Web Pellet |
-| Silver-Steel Armor | 39 | 340 | 0.3% | 4× Sapphire Dragon Scale<br/>4× Steel Bar |
-| Silver-Steel Boots | 40 | 185 | 0.3% | 3× Sapphire Dragon Scale<br/>1× Steel Bar |
-| Silver-Steel Helmet | 33 | 205 | 0.3% | 2× Sapphire Dragon Scale<br/>3× Steel Bar |
-| Silver-Steel Pants | 36 | 240 | 0.2% | 2× Sapphire Dragon Scale<br/>4× Steel Bar |
-| Silver-Steel Quiver | 50 | 325 | 0.3% | 3× Sapphire Dragon Scale<br/>5× Steel Bar |
-| Snowball | 10 | 3 | 1% | 1× Snowball<br/>1× Snowball<br/>1× Snowball |
-| Spider Web Arrow | 25 | 24 | 1% | 1× Sharp Web Pellet<br/>1× Web Pellet<br/>1× Spider Web |
-| Spirit Longbow | 58 | 296 | 0.3% | 4× Emerald Dragon Scale<br/>7× Spirit Log<br/>1× Flannel Fabric |
-| Spirit of Archer | 10 | 200 | 0.8% | 8× Spirit Fragment |
-| Spirit of Archer +1 | 20 | 120 | 0.8% | 4× Spirit of Archer |
-| Spirit of Archer +2 | 40 | 140 | 0.8% | 4× Spirit of Archer +1 |
-| Spirit of Archer +3 | 50 | 120 | 0.8% | 3× Spirit of Archer +2 |
-| Spirit of Archer +4 | 70 | 150 | 0.8% | 3× Spirit of Archer +3 |
-| Spirit Shortbow | 55 | 220 | 0.3% | 3× Emerald Dragon Scale<br/>5× Spirit Log<br/>1× Flannel Fabric |
-| Spirit Stick | 50 | 23 | 0.7% | 1× Spirit Log |
-| Star Diamond Dust Armor | 120 | 700 | 0.1% | 1× Phoenix Feather Bundle [S]<br/>7× Cut Star Diamond |
-| Star Diamond Dust Boots | 115 | 400 | 0.1% | 1× Phoenix Feather Bundle [S]<br/>4× Cut Star Diamond |
-| Star Diamond Dust Helmet | 116 | 400 | 0.1% | 1× Phoenix Feather Bundle [S]<br/>4× Cut Star Diamond |
-| Star Diamond Dust Pants | 118 | 500 | 0.1% | 1× Phoenix Feather Bundle [S]<br/>5× Cut Star Diamond |
-| Star Diamond Gloves Of Archery | 120 | 70 | 0.25% | 1× Magic Rune [Common]<br/>1× Cut Crystal<br/>1× Star Diamond Gloves |
-| Star Diamond Gloves Of Archery | 120 | 110 | 0.45% | 1× Magic Rune [Rare]<br/>1× Cut Crystal<br/>1× Star Diamond Gloves |
-| Star Diamond Gloves Of Archery | 120 | 150 | 0.65% | 1× Magic Rune [Legendary]<br/>1× Cut Crystal<br/>1× Star Diamond Gloves |
-| Star Diamond Gloves Of Archery | 120 | 180 | 0.85% | 1× Magic Rune [Ancient]<br/>1× Cut Crystal<br/>1× Star Diamond Gloves |
-| Star Diamond Longbow | 119 | 1166 | 0.1% | 2× Silk Fabric<br/>9× Cut Star Diamond<br/>4× Dragon's Blood Log |
-| Star Diamond Shortbow | 114 | 1120 | 0.1% | 2× Silk Fabric<br/>8× Cut Star Diamond<br/>5× Dragon's Blood Log |
-| Steel Blue Palm Angel Arrow | 64 | 56 | 1% | 1× Steel Bar<br/>1× Blue Palm Log<br/>1× Angel Feather |
-| Steel Blue Palm Arrow | 60 | 51 | 1% | 1× Steel Bar<br/>1× Blue Palm Log<br/>1× Feather |
-| Steel Blue Palm Devil Arrow | 68 | 56 | 1% | 1× Steel Bar<br/>1× Blue Palm Log<br/>1× Devil Feather |
-| Steel Blue Palm Ice Arrow | 72 | 62 | 1% | 1× Steel Bar<br/>1× Blue Palm Log<br/>1× Ice Feather |
-| Steel Cactus Arrow | 16 | 38 | 1% | 1× Steel Bar<br/>1× Cactus Wood<br/>1× Feather |
-| Steel Maple Angel Arrow | 45 | 49 | 1% | 1× Steel Bar<br/>1× Maple Log<br/>1× Angel Feather |
-| Steel Maple Arrow | 41 | 44 | 1% | 1× Steel Bar<br/>1× Maple Log<br/>1× Feather |
-| Steel Maple Devil Arrow | 49 | 49 | 1% | 1× Steel Bar<br/>1× Maple Log<br/>1× Devil Feather |
-| Steel Oak Angel Arrow | 27 | 44 | 1% | 1× Steel Bar<br/>1× Oak Log<br/>1× Angel Feather |
-| Steel Oak Arrow | 23 | 39 | 1% | 1× Steel Bar<br/>1× Oak Log<br/>1× Feather |
-| Steel Oak Devil Arrow | 31 | 44 | 1% | 1× Steel Bar<br/>1× Oak Log<br/>1× Devil Feather |
-| Steel Spirit Angel Arrow | 53 | 53 | 1% | 1× Steel Bar<br/>1× Spirit Log<br/>1× Angel Feather |
-| Steel Spirit Arrow | 50 | 48 | 1% | 1× Steel Bar<br/>1× Spirit Log<br/>1× Feather |
-| Steel Spirit Devil Arrow | 56 | 53 | 1% | 1× Steel Bar<br/>1× Spirit Log<br/>1× Devil Feather |
-| Steel Spirit Ice Arrow | 59 | 59 | 1% | 1× Steel Bar<br/>1× Spirit Log<br/>1× Ice Feather |
-| Steel Willow Angel Arrow | 34 | 46 | 1% | 1× Steel Bar<br/>1× Willow Log<br/>1× Angel Feather |
-| Steel Willow Arrow | 31 | 41 | 1% | 1× Steel Bar<br/>1× Willow Log<br/>1× Feather |
-| Steel Willow Devil Arrow | 37 | 46 | 1% | 1× Steel Bar<br/>1× Willow Log<br/>1× Devil Feather |
-| Swift Armor | 105 | 660 | 0.7% | 4× Elemental Dragon Scale<br/>4× Moon Stone |
-| Swift Boots | 100 | 335 | 0.7% | 1× Elemental Dragon Scale<br/>3× Moon Stone |
-| Swift Helmet | 103 | 415 | 0.7% | 2× Elemental Dragon Scale<br/>3× Moon Stone |
-| Swift Pants | 104 | 500 | 0.7% | 2× Elemental Dragon Scale<br/>4× Moon Stone |
-| Swift Quiver | 104 | 660 | 0.7% | 4× Elemental Dragon Scale<br/>4× Moon Stone |
-| Underworld Cape | 90 | 0 | 0.5% | 1× Underworld Steed [Legendary]<br/>1× Nightmare Orb |
-| Valentine's Shortbow | 1 | 80 | 0.3% | 4× Iron Bar<br/>12× Feather of Heart |
-| Valentine's Shortbow | 1 | 160 | 0.5% | 4× Redhodium Bar<br/>12× Feather of Heart |
-| Void Longbow | 99 | 646 | 0.3% | 5× Cut Diamond<br/>3× Phoenix Feather Bundle [S]<br/>7× Void Log |
-| Void Shortbow | 95 | 488 | 0.3% | 4× Cut Diamond<br/>2× Phoenix Feather Bundle [S]<br/>5× Void Log |
-| Void Stick | 90 | 48 | 0.7% | 1× Void Log |
-| Web Pellet | 25 | 9 | 0.9% | 3× Spider Web |
-| Wild Egg | 200 | 3 | 1% | 1× Wild Egg<br/>1× Wild Egg<br/>1× Wild Egg |
-| Willow Longbow | 38 | 200 | 0.3% | 4× Emerald Dragon Scale<br/>1× Bamboo Fabric<br/>7× Willow Log |
-| Willow Shortbow | 35 | 150 | 0.4% | 3× Emerald Dragon Scale<br/>1× Bamboo Fabric<br/>5× Willow Log |
+| Icon | Name | Level | XP | Chance | Materials |
+| --- | --- | --- | --- | --- | --- |
+| ![7 Souls Gloves Of Archery](/img/items/2578.png) | 7 Souls Gloves Of Archery | 99 | 0 | 100% | — |
+| ![7 Souls Gloves Of Archery](/img/items/2578.png) | 7 Souls Gloves Of Archery | 99 | 0 | 100% | — |
+| ![7 Souls Gloves Of Archery](/img/items/2578.png) | 7 Souls Gloves Of Archery | 99 | 0 | 100% | — |
+| ![7 Souls Gloves Of Archery](/img/items/2578.png) | 7 Souls Gloves Of Archery | 99 | 0 | 100% | — |
+| — | Amethyst Dragon's Blood Lightning Arrow | 115 | 0 | 100% | — |
+| ![Amethyst Gloves of Archery](/img/items/2546.png) | Amethyst Gloves of Archery | 75 | 0 | 100% | — |
+| ![Amethyst Gloves of Archery](/img/items/2546.png) | Amethyst Gloves of Archery | 75 | 0 | 100% | — |
+| ![Amethyst Gloves of Archery](/img/items/2546.png) | Amethyst Gloves of Archery | 75 | 0 | 100% | — |
+| ![Amethyst Gloves of Archery](/img/items/2546.png) | Amethyst Gloves of Archery | 75 | 0 | 100% | — |
+| — | Amethyst Void Lightning Arrow | 107 | 0 | 100% | — |
+| ![Archdevil Cape](/img/items/2514.png) | Archdevil Cape | 1 | 0 | 100% | — |
+| ![Archdevil Cape](/img/items/2514.png) | Archdevil Cape | 1 | 0 | 100% | — |
+| ![Archdevil Cape](/img/items/2514.png) | Archdevil Cape | 1 | 0 | 100% | — |
+| ![Archdevil Cape](/img/items/2514.png) | Archdevil Cape | 1 | 0 | 100% | — |
+| — | Azurite Blue Palm Angel Arrow | 66 | 0 | 100% | — |
+| — | Azurite Blue Palm Arrow | 62 | 0 | 100% | — |
+| — | Azurite Blue Palm Devil Arrow | 70 | 0 | 100% | — |
+| — | Azurite Blue Palm Ice Arrow | 74 | 0 | 100% | — |
+| — | Azurite Dragon's Blood Angel Arrow | 108 | 0 | 100% | — |
+| — | Azurite Dragon's Blood Arrow | 105 | 0 | 100% | — |
+| — | Azurite Dragon's Blood Devil Arrow | 111 | 0 | 100% | — |
+| — | Azurite Dragon's Blood Ice Arrow | 114 | 0 | 100% | — |
+| — | Azurite Dragon's Blood Lightning Arrow | 115 | 0 | 100% | — |
+| — | Azurite Dragon's Blood Phoenix Arrow | 115 | 0 | 100% | — |
+| — | Azurite Magic Oak Angel Arrow | 79 | 0 | 100% | — |
+| — | Azurite Magic Oak Arrow | 76 | 0 | 100% | — |
+| — | Azurite Magic Oak Devil Arrow | 82 | 0 | 100% | — |
+| — | Azurite Magic Oak Ice Arrow | 85 | 0 | 100% | — |
+| — | Azurite Magic Oak Lightning Arrow | 88 | 0 | 100% | — |
+| — | Azurite Maple Angel Arrow | 47 | 0 | 100% | — |
+| — | Azurite Maple Arrow | 43 | 0 | 100% | — |
+| — | Azurite Maple Devil Arrow | 51 | 0 | 100% | — |
+| — | Azurite Spirit Angel Arrow | 55 | 0 | 100% | — |
+| — | Azurite Spirit Arrow | 52 | 0 | 100% | — |
+| — | Azurite Spirit Devil Arrow | 58 | 0 | 100% | — |
+| — | Azurite Spirit Ice Arrow | 61 | 0 | 100% | — |
+| — | Azurite Void Angel Arrow | 95 | 0 | 100% | — |
+| — | Azurite Void Arrow | 91 | 0 | 100% | — |
+| — | Azurite Void Devil Arrow | 99 | 0 | 100% | — |
+| — | Azurite Void Ice Arrow | 103 | 0 | 100% | — |
+| — | Azurite Void Lightning Arrow | 107 | 0 | 100% | — |
+| ![Bahamut Gloves of Archery](/img/items/2576.png) | Bahamut Gloves of Archery | 90 | 0 | 100% | — |
+| ![Bahamut Gloves of Archery](/img/items/2576.png) | Bahamut Gloves of Archery | 90 | 0 | 100% | — |
+| ![Bahamut Gloves of Archery](/img/items/2576.png) | Bahamut Gloves of Archery | 90 | 0 | 100% | — |
+| ![Bahamut Gloves of Archery](/img/items/2576.png) | Bahamut Gloves of Archery | 90 | 0 | 100% | — |
+| — | Black Opal Dragon's Blood Lightning Arrow | 115 | 0 | 100% | — |
+| — | Black Opal Void Lightning Arrow | 108 | 0 | 100% | — |
+| ![Blue Palm Longbow](/img/items/2087.png) | Blue Palm Longbow | 72 | 0 | 100% | — |
+| ![Blue Palm Shortbow](/img/items/2085.png) | Blue Palm Shortbow | 67 | 0 | 100% | — |
+| ![Blue Palm Stick](/img/items/3344.png) | Blue Palm Stick | 60 | 0 | 100% | — |
+| ![Bone Dust Armor](/img/items/2241.png) | Bone Dust Armor | 19 | 0 | 100% | — |
+| ![Bone Dust Boots](/img/items/2253.png) | Bone Dust Boots | 10 | 0 | 100% | — |
+| ![Bone Dust Helmet](/img/items/2235.png) | Bone Dust Helmet | 11 | 0 | 100% | — |
+| ![Bone Dust Pants](/img/items/2247.png) | Bone Dust Pants | 14 | 0 | 100% | — |
+| — | Bronze Cactus Arrow | 10 | 0 | 100% | — |
+| — | Bronze Fir Arrow | 1 | 0 | 100% | — |
+| — | Bronze Oak Angel Arrow | 25 | 0 | 100% | — |
+| — | Bronze Oak Arrow | 20 | 0 | 100% | — |
+| — | Bronze Oak Devil Arrow | 29 | 0 | 100% | — |
+| ![Cactus Longbow](/img/items/2067.png) | Cactus Longbow | 18 | 0 | 100% | — |
+| ![Cactus Shortbow](/img/items/2065.png) | Cactus Shortbow | 15 | 0 | 100% | — |
+| ![Cactus Stick](/img/items/3335.png) | Cactus Stick | 10 | 0 | 100% | — |
+| ![Cape Of Raguel](/img/items/2526.png) | Cape Of Raguel | 105 | 0 | 100% | — |
+| — | Crystal Blue Palm Angel Arrow | 65 | 0 | 100% | — |
+| — | Crystal Blue Palm Arrow | 61 | 0 | 100% | — |
+| — | Crystal Blue Palm Devil Arrow | 69 | 0 | 100% | — |
+| — | Crystal Blue Palm Ice Arrow | 73 | 0 | 100% | — |
+| — | Crystal Magic Oak Angel Arrow | 78 | 0 | 100% | — |
+| — | Crystal Magic Oak Arrow | 75 | 0 | 100% | — |
+| — | Crystal Magic Oak Devil Arrow | 81 | 0 | 100% | — |
+| — | Crystal Magic Oak Ice Arrow | 84 | 0 | 100% | — |
+| — | Crystal Magic Oak Lightning Arrow | 87 | 0 | 100% | — |
+| — | Crystal Maple Angel Arrow | 46 | 0 | 100% | — |
+| — | Crystal Maple Arrow | 42 | 0 | 100% | — |
+| — | Crystal Maple Devil Arrow | 50 | 0 | 100% | — |
+| — | Crystal Oak Angel Arrow | 28 | 0 | 100% | — |
+| — | Crystal Oak Arrow | 24 | 0 | 100% | — |
+| — | Crystal Oak Devil Arrow | 32 | 0 | 100% | — |
+| — | Crystal Spirit Angel Arrow | 54 | 0 | 100% | — |
+| — | Crystal Spirit Arrow | 51 | 0 | 100% | — |
+| — | Crystal Spirit Devil Arrow | 57 | 0 | 100% | — |
+| — | Crystal Spirit Ice Arrow | 60 | 0 | 100% | — |
+| — | Crystal Void Angel Arrow | 94 | 0 | 100% | — |
+| — | Crystal Void Arrow | 90 | 0 | 100% | — |
+| — | Crystal Void Devil Arrow | 98 | 0 | 100% | — |
+| — | Crystal Void Ice Arrow | 102 | 0 | 100% | — |
+| — | Crystal Void Lightning Arrow | 106 | 0 | 100% | — |
+| — | Crystal Willow Angel Arrow | 35 | 0 | 100% | — |
+| — | Crystal Willow Arrow | 32 | 0 | 100% | — |
+| — | Crystal Willow Devil Arrow | 38 | 0 | 100% | — |
+| ![Cursed Gloves Of Archery](/img/items/2575.png) | Cursed Gloves Of Archery | 90 | 0 | 100% | — |
+| ![Cursed Gloves Of Archery](/img/items/2575.png) | Cursed Gloves Of Archery | 90 | 0 | 100% | — |
+| ![Cursed Gloves Of Archery](/img/items/2575.png) | Cursed Gloves Of Archery | 90 | 0 | 100% | — |
+| ![Cursed Gloves Of Archery](/img/items/2575.png) | Cursed Gloves Of Archery | 90 | 0 | 100% | — |
+| — | Diamond Blue Palm Ice Arrow | 74 | 0 | 100% | — |
+| — | Diamond Dragon's Blood Ice Arrow | 114 | 0 | 100% | — |
+| ![Diamond Dust Armor](/img/items/2173.png) | Diamond Dust Armor | 79 | 0 | 100% | — |
+| ![Diamond Dust Boots](/img/items/2225.png) | Diamond Dust Boots | 80 | 0 | 100% | — |
+| ![Diamond Dust Helmet](/img/items/2147.png) | Diamond Dust Helmet | 73 | 0 | 100% | — |
+| ![Diamond Dust Pants](/img/items/2199.png) | Diamond Dust Pants | 76 | 0 | 100% | — |
+| ![Diamond Gloves Of Archery](/img/items/2547.png) | Diamond Gloves Of Archery | 80 | 0 | 100% | — |
+| ![Diamond Gloves Of Archery](/img/items/2547.png) | Diamond Gloves Of Archery | 80 | 0 | 100% | — |
+| ![Diamond Gloves Of Archery](/img/items/2547.png) | Diamond Gloves Of Archery | 80 | 0 | 100% | — |
+| ![Diamond Gloves Of Archery](/img/items/2547.png) | Diamond Gloves Of Archery | 80 | 0 | 100% | — |
+| — | Diamond Magic Oak Ice Arrow | 85 | 0 | 100% | — |
+| — | Diamond Void Ice Arrow | 103 | 0 | 100% | — |
+| ![Dragon's Blood Longbow](/img/items/2106.png) | Dragon's Blood Longbow | 110 | 0 | 100% | — |
+| ![Dragon's Blood Shortbow](/img/items/2104.png) | Dragon's Blood Shortbow | 106 | 0 | 100% | — |
+| — | Dragonstone Dragon's Blood Angel Arrow | 110 | 0 | 100% | — |
+| — | Dragonstone Dragon's Blood Arrow | 107 | 0 | 100% | — |
+| — | Dragonstone Dragon's Blood Devil Arrow | 113 | 0 | 100% | — |
+| — | Dragonstone Dragon's Blood Ice Arrow | 115 | 0 | 100% | — |
+| — | Dragonstone Dragon's Blood Lightning Arrow | 115 | 0 | 100% | — |
+| — | Dragonstone Dragon's Blood Phoenix Arrow | 116 | 0 | 100% | — |
+| ![Dragonstone Gloves of Archery](/img/items/2579.png) | Dragonstone Gloves of Archery | 94 | 0 | 100% | — |
+| ![Dragonstone Gloves of Archery](/img/items/2579.png) | Dragonstone Gloves of Archery | 94 | 0 | 100% | — |
+| ![Dragonstone Gloves of Archery](/img/items/2579.png) | Dragonstone Gloves of Archery | 94 | 0 | 100% | — |
+| ![Dragonstone Gloves of Archery](/img/items/2579.png) | Dragonstone Gloves of Archery | 94 | 0 | 100% | — |
+| — | Dragonstone Void Angel Arrow | 97 | 0 | 100% | — |
+| — | Dragonstone Void Arrow | 93 | 0 | 100% | — |
+| — | Dragonstone Void Devil Arrow | 101 | 0 | 100% | — |
+| — | Dragonstone Void Ice Arrow | 105 | 0 | 100% | — |
+| — | Dragonstone Void Lightning Arrow | 109 | 0 | 100% | — |
+| ![Eclipse Gloves of Archery](/img/items/2580.png) | Eclipse Gloves of Archery | 115 | 0 | 100% | — |
+| ![Eclipse Gloves of Archery](/img/items/2580.png) | Eclipse Gloves of Archery | 115 | 0 | 100% | — |
+| ![Eclipse Gloves of Archery](/img/items/2580.png) | Eclipse Gloves of Archery | 115 | 0 | 100% | — |
+| ![Eclipse Gloves of Archery](/img/items/2580.png) | Eclipse Gloves of Archery | 115 | 0 | 100% | — |
+| ![Edoylerite Dust Cape](/img/items/4686.png) | Edoylerite Dust Cape | 137 | 0 | 100% | — |
+| ![Edoylerite Gloves of Archery](/img/items/5447.png) | Edoylerite Gloves of Archery | 135 | 0 | 100% | — |
+| ![Edoylerite Gloves of Archery](/img/items/5447.png) | Edoylerite Gloves of Archery | 135 | 0 | 100% | — |
+| ![Edoylerite Gloves of Archery](/img/items/5447.png) | Edoylerite Gloves of Archery | 135 | 0 | 100% | — |
+| ![Edoylerite Gloves of Archery](/img/items/5447.png) | Edoylerite Gloves of Archery | 135 | 0 | 100% | — |
+| ![Elemental Dragon Scale Armor](/img/items/2175.png) | Elemental Dragon Scale Armor | 89 | 0 | 100% | — |
+| ![Elemental Dragon Scale Boots](/img/items/2227.png) | Elemental Dragon Scale Boots | 90 | 0 | 100% | — |
+| ![Elemental Dragon Scale Helmet](/img/items/2149.png) | Elemental Dragon Scale Helmet | 83 | 0 | 100% | — |
+| ![Elemental Dragon Scale Pants](/img/items/2201.png) | Elemental Dragon Scale Pants | 86 | 0 | 100% | — |
+| ![Elemental Dragon Scale Quiver](/img/items/2054.png) | Elemental Dragon Scale Quiver | 96 | 0 | 100% | — |
+| — | Emerald Blue Palm Angel Arrow | 66 | 0 | 100% | — |
+| — | Emerald Blue Palm Devil Arrow | 70 | 0 | 100% | — |
+| ![Emerald Dragon Scale Armor](/img/items/2161.png) | Emerald Dragon Scale Armor | 29 | 0 | 100% | — |
+| ![Emerald Dragon Scale Boots](/img/items/2213.png) | Emerald Dragon Scale Boots | 30 | 0 | 100% | — |
+| ![Emerald Dragon Scale Helmet](/img/items/2135.png) | Emerald Dragon Scale Helmet | 26 | 0 | 100% | — |
+| ![Emerald Dragon Scale Pants](/img/items/2187.png) | Emerald Dragon Scale Pants | 28 | 0 | 100% | — |
+| — | Emerald Magic Oak Angel Arrow | 79 | 0 | 100% | — |
+| — | Emerald Magic Oak Devil Arrow | 82 | 0 | 100% | — |
+| — | Emerald Maple Angel Arrow | 47 | 0 | 100% | — |
+| — | Emerald Maple Devil Arrow | 51 | 0 | 100% | — |
+| ![Emerald Scale Quiver](/img/items/2040.png) | Emerald Scale Quiver | 32 | 0 | 100% | — |
+| — | Emerald Spirit Angel Arrow | 55 | 0 | 100% | — |
+| — | Emerald Spirit Devil Arrow | 58 | 0 | 100% | — |
+| — | Emerald Void Angel Arrow | 95 | 0 | 100% | — |
+| — | Emerald Void Devil Arrow | 99 | 0 | 100% | — |
+| ![Ender Gloves of Archery](/img/items/5459.png) | Ender Gloves of Archery | 145 | 0 | 100% | — |
+| ![Ender Gloves of Archery](/img/items/5459.png) | Ender Gloves of Archery | 145 | 0 | 100% | — |
+| ![Ender Gloves of Archery](/img/items/5459.png) | Ender Gloves of Archery | 145 | 0 | 100% | — |
+| ![Ender Gloves of Archery](/img/items/5459.png) | Ender Gloves of Archery | 145 | 0 | 100% | — |
+| ![Feral Dust Cape](/img/items/4684.png) | Feral Dust Cape | 132 | 0 | 100% | — |
+| ![Feral Gloves of Archery](/img/items/5441.png) | Feral Gloves of Archery | 130 | 0 | 100% | — |
+| ![Feral Gloves of Archery](/img/items/5441.png) | Feral Gloves of Archery | 130 | 0 | 100% | — |
+| ![Feral Gloves of Archery](/img/items/5441.png) | Feral Gloves of Archery | 130 | 0 | 100% | — |
+| ![Feral Gloves of Archery](/img/items/5441.png) | Feral Gloves of Archery | 130 | 0 | 100% | — |
+| ![Fir Longbow](/img/items/2063.png) | Fir Longbow | 5 | 0 | 100% | — |
+| ![Fir Shortbow](/img/items/2034.png) | Fir Shortbow | 1 | 0 | 100% | — |
+| ![Fir Stick](/img/items/3334.png) | Fir Stick | 1 | 0 | 100% | — |
+| ![Fire Cape](/img/items/2502.png) | Fire Cape | 30 | 0 | 100% | — |
+| — | Fire Stone Blue Palm Angel Arrow | 67 | 0 | 100% | — |
+| — | Fire Stone Blue Palm Arrow | 63 | 0 | 100% | — |
+| — | Fire Stone Blue Palm Devil Arrow | 71 | 0 | 100% | — |
+| — | Fire Stone Blue Palm Ice Arrow | 75 | 0 | 100% | — |
+| — | Fire Stone Dragon's Blood Angel Arrow | 109 | 0 | 100% | — |
+| — | Fire Stone Dragon's Blood Arrow | 106 | 0 | 100% | — |
+| — | Fire Stone Dragon's Blood Devil Arrow | 112 | 0 | 100% | — |
+| — | Fire Stone Dragon's Blood Ice Arrow | 115 | 0 | 100% | — |
+| — | Fire Stone Dragon's Blood Lightning Arrow | 115 | 0 | 100% | — |
+| — | Fire Stone Dragon's Blood Phoenix Arrow | 115 | 0 | 100% | — |
+| — | Fire Stone Magic Oak Angel Arrow | 80 | 0 | 100% | — |
+| — | Fire Stone Magic Oak Arrow | 77 | 0 | 100% | — |
+| — | Fire Stone Magic Oak Devil Arrow | 83 | 0 | 100% | — |
+| — | Fire Stone Magic Oak Ice Arrow | 86 | 0 | 100% | — |
+| — | Fire Stone Magic Oak Lightning Arrow | 89 | 0 | 100% | — |
+| — | Fire Stone Void Angel Arrow | 96 | 0 | 100% | — |
+| — | Fire Stone Void Arrow | 92 | 0 | 100% | — |
+| — | Fire Stone Void Devil Arrow | 100 | 0 | 100% | — |
+| — | Fire Stone Void Ice Arrow | 104 | 0 | 100% | — |
+| — | Fire Stone Void Lightning Arrow | 108 | 0 | 100% | — |
+| ![Firelord Gloves of Archery +4](/img/items/2548.png) | Firelord Gloves of Archery +4 | 1 | 0 | 100% | — |
+| ![Firelord Gloves of Archery +4](/img/items/2548.png) | Firelord Gloves of Archery +4 | 1 | 0 | 100% | — |
+| ![Firelord Gloves of Archery +4](/img/items/2548.png) | Firelord Gloves of Archery +4 | 1 | 0 | 100% | — |
+| ![Firelord Gloves of Archery +4](/img/items/2548.png) | Firelord Gloves of Archery +4 | 1 | 0 | 100% | — |
+| ![Flame Phoenix Dust Armor](/img/items/2169.png) | Flame Phoenix Dust Armor | 59 | 0 | 100% | — |
+| ![Flame Phoenix Dust Boots](/img/items/2221.png) | Flame Phoenix Dust Boots | 60 | 0 | 100% | — |
+| ![Flame Phoenix Dust Helmet](/img/items/2143.png) | Flame Phoenix Dust Helmet | 53 | 0 | 100% | — |
+| ![Flame Phoenix Dust Pants](/img/items/2195.png) | Flame Phoenix Dust Pants | 56 | 0 | 100% | — |
+| ![Flame Phoenix Quiver](/img/items/2048.png) | Flame Phoenix Quiver | 74 | 0 | 100% | — |
+| ![Flaming Dragon Armor](/img/items/2243.png) | Flaming Dragon Armor | 99 | 0 | 100% | — |
+| ![Flaming Dragon Boots](/img/items/2255.png) | Flaming Dragon Boots | 95 | 0 | 100% | — |
+| ![Flaming Dragon Helmet](/img/items/2237.png) | Flaming Dragon Helmet | 93 | 0 | 100% | — |
+| ![Flaming Dragon Longbow](/img/items/2110.png) | Flaming Dragon Longbow | 112 | 0 | 100% | — |
+| ![Flaming Dragon Pants](/img/items/2249.png) | Flaming Dragon Pants | 96 | 0 | 100% | — |
+| ![Flaming Dragon Quiver](/img/items/2125.png) | Flaming Dragon Quiver | 100 | 0 | 100% | — |
+| ![Flaming Dragon Shortbow](/img/items/2108.png) | Flaming Dragon Shortbow | 111 | 0 | 100% | — |
+| ![Hard Leather Armor](/img/items/2159.png) | Hard Leather Armor | 24 | 0 | 100% | — |
+| ![Hard Leather Boots](/img/items/2211.png) | Hard Leather Boots | 20 | 0 | 100% | — |
+| ![Hard Leather Helmet](/img/items/2133.png) | Hard Leather Helmet | 22 | 0 | 100% | — |
+| ![Hard Leather Pants](/img/items/2185.png) | Hard Leather Pants | 14 | 0 | 100% | — |
+| ![Hard Leather Quiver](/img/items/2038.png) | Hard Leather Quiver | 26 | 0 | 100% | — |
+| — | Heart Piercing Arrow | 10 | 0 | 100% | — |
+| ![Ice Cape](/img/items/2510.png) | Ice Cape | 55 | 0 | 100% | — |
+| ![Ichor Gloves of Archery](/img/items/2577.png) | Ichor Gloves of Archery | 90 | 0 | 100% | — |
+| ![Ichor Gloves of Archery](/img/items/2577.png) | Ichor Gloves of Archery | 90 | 0 | 100% | — |
+| ![Ichor Gloves of Archery](/img/items/2577.png) | Ichor Gloves of Archery | 90 | 0 | 100% | — |
+| ![Ichor Gloves of Archery](/img/items/2577.png) | Ichor Gloves of Archery | 90 | 0 | 100% | — |
+| ![Incarnation Dust Cape](/img/items/4682.png) | Incarnation Dust Cape | 127 | 0 | 100% | — |
+| ![Incarnation Gloves of Archery](/img/items/5435.png) | Incarnation Gloves of Archery | 125 | 0 | 100% | — |
+| ![Incarnation Gloves of Archery](/img/items/5435.png) | Incarnation Gloves of Archery | 125 | 0 | 100% | — |
+| ![Incarnation Gloves of Archery](/img/items/5435.png) | Incarnation Gloves of Archery | 125 | 0 | 100% | — |
+| ![Incarnation Gloves of Archery](/img/items/5435.png) | Incarnation Gloves of Archery | 125 | 0 | 100% | — |
+| — | Iron Cactus Arrow | 14 | 0 | 100% | — |
+| — | Iron Fir Arrow | 5 | 0 | 100% | — |
+| — | Iron Maple Angel Arrow | 44 | 0 | 100% | — |
+| — | Iron Maple Arrow | 40 | 0 | 100% | — |
+| — | Iron Maple Devil Arrow | 48 | 0 | 100% | — |
+| — | Iron Oak Angel Arrow | 26 | 0 | 100% | — |
+| — | Iron Oak Arrow | 22 | 0 | 100% | — |
+| — | Iron Oak Devil Arrow | 30 | 0 | 100% | — |
+| — | Iron Willow Angel Arrow | 33 | 0 | 100% | — |
+| — | Iron Willow Arrow | 30 | 0 | 100% | — |
+| — | Iron Willow Devil Arrow | 36 | 0 | 100% | — |
+| ![King Elemental Dragon Scale Armor](/img/items/2179.png) | King Elemental Dragon Scale Armor | 110 | 0 | 100% | — |
+| ![King Elemental Dragon Scale Boots](/img/items/2231.png) | King Elemental Dragon Scale Boots | 105 | 0 | 100% | — |
+| ![King Elemental Dragon Scale Helmet](/img/items/2153.png) | King Elemental Dragon Scale Helmet | 106 | 0 | 100% | — |
+| ![King Elemental Dragon Scale Pants](/img/items/2205.png) | King Elemental Dragon Scale Pants | 107 | 0 | 100% | — |
+| ![King Elemental Scale Quiver](/img/items/2058.png) | King Elemental Scale Quiver | 106 | 0 | 100% | — |
+| ![Magic Oak Longbow](/img/items/2091.png) | Magic Oak Longbow | 88 | 0 | 100% | — |
+| ![Magic Oak Shortbow](/img/items/2089.png) | Magic Oak Shortbow | 83 | 0 | 100% | — |
+| ![Magic Oak Stick](/img/items/3345.png) | Magic Oak Stick | 75 | 0 | 100% | — |
+| ![Maple Longbow](/img/items/2079.png) | Maple Longbow | 48 | 0 | 100% | — |
+| ![Maple Shortbow](/img/items/2077.png) | Maple Shortbow | 45 | 0 | 100% | — |
+| ![Maple Stick](/img/items/3337.png) | Maple Stick | 40 | 0 | 100% | — |
+| ![Oak Longbow](/img/items/2071.png) | Oak Longbow | 28 | 0 | 100% | — |
+| ![Oak Shortbow](/img/items/2069.png) | Oak Shortbow | 25 | 0 | 100% | — |
+| ![Oak Stick](/img/items/3336.png) | Oak Stick | 20 | 0 | 100% | — |
+| ![Obsidian Dust Cape](/img/items/4688.png) | Obsidian Dust Cape | 142 | 0 | 100% | — |
+| ![Obsidian Gloves of Archery](/img/items/5453.png) | Obsidian Gloves of Archery | 140 | 0 | 100% | — |
+| ![Obsidian Gloves of Archery](/img/items/5453.png) | Obsidian Gloves of Archery | 140 | 0 | 100% | — |
+| ![Obsidian Gloves of Archery](/img/items/5453.png) | Obsidian Gloves of Archery | 140 | 0 | 100% | — |
+| ![Obsidian Gloves of Archery](/img/items/5453.png) | Obsidian Gloves of Archery | 140 | 0 | 100% | — |
+| ![Orc Leather Armor](/img/items/2157.png) | Orc Leather Armor | 9 | 0 | 100% | — |
+| ![Orc Leather Boots](/img/items/2209.png) | Orc Leather Boots | 5 | 0 | 100% | — |
+| ![Orc Leather Helmet](/img/items/2131.png) | Orc Leather Helmet | 6 | 0 | 100% | — |
+| ![Orc Leather Pants](/img/items/2183.png) | Orc Leather Pants | 7 | 0 | 100% | — |
+| ![Orc Leather Quiver](/img/items/2036.png) | Orc Leather Quiver | 12 | 0 | 100% | — |
+| ![Quiver Of Bone Dust](/img/items/2123.png) | Quiver Of Bone Dust | 20 | 0 | 100% | — |
+| ![Quiver Of Diamond Dust](/img/items/2052.png) | Quiver Of Diamond Dust | 88 | 0 | 100% | — |
+| ![Quiver Of Star Diamond Dust](/img/items/2060.png) | Quiver Of Star Diamond Dust | 113 | 0 | 100% | — |
+| ![Redemption Dust Armor](/img/items/3637.png) | Redemption Dust Armor | 122 | 0 | 100% | — |
+| ![Redemption Dust Boots](/img/items/3641.png) | Redemption Dust Boots | 120 | 0 | 100% | — |
+| ![Redemption Dust Cape](/img/items/4680.png) | Redemption Dust Cape | 122 | 0 | 100% | — |
+| ![Redemption Dust Helmet](/img/items/3635.png) | Redemption Dust Helmet | 121 | 0 | 100% | — |
+| ![Redemption Dust Pants](/img/items/3639.png) | Redemption Dust Pants | 121 | 0 | 100% | — |
+| ![Redemption Gloves of Archery](/img/items/5429.png) | Redemption Gloves of Archery | 120 | 0 | 100% | — |
+| ![Redemption Gloves of Archery](/img/items/5429.png) | Redemption Gloves of Archery | 120 | 0 | 100% | — |
+| ![Redemption Gloves of Archery](/img/items/5429.png) | Redemption Gloves of Archery | 120 | 0 | 100% | — |
+| ![Redemption Gloves of Archery](/img/items/5429.png) | Redemption Gloves of Archery | 120 | 0 | 100% | — |
+| ![Redemption Longbow](/img/items/3710.png) | Redemption Longbow | 125 | 0 | 100% | — |
+| ![Redemption Shortbow](/img/items/3708.png) | Redemption Shortbow | 123 | 0 | 100% | — |
+| — | Ruby Blue Palm Ice Arrow | 73 | 0 | 100% | — |
+| ![Ruby Dragon Cape](/img/items/2506.png) | Ruby Dragon Cape | 58 | 0 | 100% | — |
+| ![Ruby Dragon Gloves Of Archery](/img/items/2545.png) | Ruby Dragon Gloves Of Archery | 75 | 0 | 100% | — |
+| ![Ruby Dragon Gloves Of Archery](/img/items/2545.png) | Ruby Dragon Gloves Of Archery | 75 | 0 | 100% | — |
+| ![Ruby Dragon Gloves Of Archery](/img/items/2545.png) | Ruby Dragon Gloves Of Archery | 75 | 0 | 100% | — |
+| ![Ruby Dragon Gloves Of Archery](/img/items/2545.png) | Ruby Dragon Gloves Of Archery | 75 | 0 | 100% | — |
+| ![Ruby Dragon Scale Armor](/img/items/2171.png) | Ruby Dragon Scale Armor | 69 | 0 | 100% | — |
+| ![Ruby Dragon Scale Boots](/img/items/2223.png) | Ruby Dragon Scale Boots | 70 | 0 | 100% | — |
+| ![Ruby Dragon Scale Helmet](/img/items/2145.png) | Ruby Dragon Scale Helmet | 63 | 0 | 100% | — |
+| ![Ruby Dragon Scale Pants](/img/items/2197.png) | Ruby Dragon Scale Pants | 66 | 0 | 100% | — |
+| — | Ruby Dragon's Blood Ice Arrow | 113 | 0 | 100% | — |
+| — | Ruby Magic Oak Ice Arrow | 84 | 0 | 100% | — |
+| ![Ruby Scale Quiver](/img/items/2050.png) | Ruby Scale Quiver | 82 | 0 | 100% | — |
+| — | Ruby Void Ice Arrow | 102 | 0 | 100% | — |
+| ![Saint Dragon Cape](/img/items/2522.png) | Saint Dragon Cape | 98 | 0 | 100% | — |
+| ![Sandstorm Armor](/img/items/2245.png) | Sandstorm Armor | 115 | 0 | 100% | — |
+| ![Sandstorm Boots](/img/items/2257.png) | Sandstorm Boots | 110 | 0 | 100% | — |
+| ![Sandstorm Helmet](/img/items/2239.png) | Sandstorm Helmet | 113 | 0 | 100% | — |
+| ![Sandstorm Pants](/img/items/2251.png) | Sandstorm Pants | 114 | 0 | 100% | — |
+| ![Sandstorm Quiver](/img/items/2127.png) | Sandstorm Quiver | 110 | 0 | 100% | — |
+| — | Sapphire Blue Palm Angel Arrow | 65 | 0 | 100% | — |
+| — | Sapphire Blue Palm Devil Arrow | 69 | 0 | 100% | — |
+| ![Sapphire Dragon Scale Armor](/img/items/2165.png) | Sapphire Dragon Scale Armor | 49 | 0 | 100% | — |
+| ![Sapphire Dragon Scale Boots](/img/items/2217.png) | Sapphire Dragon Scale Boots | 50 | 0 | 100% | — |
+| ![Sapphire Dragon Scale Helmet](/img/items/2139.png) | Sapphire Dragon Scale Helmet | 43 | 0 | 100% | — |
+| ![Sapphire Dragon Scale Pants](/img/items/2191.png) | Sapphire Dragon Scale Pants | 46 | 0 | 100% | — |
+| ![Sapphire Dragon Scale Quiver](/img/items/2044.png) | Sapphire Dragon Scale Quiver | 62 | 0 | 100% | — |
+| ![Sapphire Gloves Of Archery](/img/items/2544.png) | Sapphire Gloves Of Archery | 68 | 0 | 100% | — |
+| ![Sapphire Gloves Of Archery](/img/items/2544.png) | Sapphire Gloves Of Archery | 68 | 0 | 100% | — |
+| ![Sapphire Gloves Of Archery](/img/items/2544.png) | Sapphire Gloves Of Archery | 68 | 0 | 100% | — |
+| ![Sapphire Gloves Of Archery](/img/items/2544.png) | Sapphire Gloves Of Archery | 68 | 0 | 100% | — |
+| — | Sapphire Magic Oak Angel Arrow | 78 | 0 | 100% | — |
+| — | Sapphire Magic Oak Devil Arrow | 81 | 0 | 100% | — |
+| — | Sapphire Maple Angel Arrow | 46 | 0 | 100% | — |
+| — | Sapphire Maple Devil Arrow | 50 | 0 | 100% | — |
+| — | Sapphire Spirit Angel Arrow | 54 | 0 | 100% | — |
+| — | Sapphire Spirit Devil Arrow | 57 | 0 | 100% | — |
+| — | Sapphire Void Angel Arrow | 94 | 0 | 100% | — |
+| — | Sapphire Void Devil Arrow | 98 | 0 | 100% | — |
+| ![Shadow Cape](/img/items/2520.png) | Shadow Cape | 100 | 0 | 100% | — |
+| ![Sharp Web Pellet](/img/items/3190.png) | Sharp Web Pellet | 25 | 0 | 100% | — |
+| ![Silver-Steel Armor](/img/items/2163.png) | Silver-Steel Armor | 39 | 0 | 100% | — |
+| ![Silver-Steel Boots](/img/items/2215.png) | Silver-Steel Boots | 40 | 0 | 100% | — |
+| ![Silver-Steel Helmet](/img/items/2137.png) | Silver-Steel Helmet | 33 | 0 | 100% | — |
+| ![Silver-Steel Pants](/img/items/2189.png) | Silver-Steel Pants | 36 | 0 | 100% | — |
+| ![Silver-Steel Quiver](/img/items/2042.png) | Silver-Steel Quiver | 50 | 0 | 100% | — |
+| — | Snowball | 10 | 0 | 100% | — |
+| — | Spider Web Arrow | 25 | 0 | 100% | — |
+| ![Spirit Longbow](/img/items/2083.png) | Spirit Longbow | 58 | 0 | 100% | — |
+| ![Spirit of Archer](/img/items/3315.png) | Spirit of Archer | 10 | 0 | 100% | — |
+| ![Spirit of Archer +1](/img/items/3316.png) | Spirit of Archer +1 | 20 | 0 | 100% | — |
+| ![Spirit of Archer +2](/img/items/3317.png) | Spirit of Archer +2 | 40 | 0 | 100% | — |
+| ![Spirit of Archer +3](/img/items/3318.png) | Spirit of Archer +3 | 50 | 0 | 100% | — |
+| ![Spirit of Archer +4](/img/items/3319.png) | Spirit of Archer +4 | 70 | 0 | 100% | — |
+| ![Spirit Shortbow](/img/items/2081.png) | Spirit Shortbow | 55 | 0 | 100% | — |
+| ![Spirit Stick](/img/items/3338.png) | Spirit Stick | 50 | 0 | 100% | — |
+| ![Star Diamond Dust Armor](/img/items/2181.png) | Star Diamond Dust Armor | 120 | 0 | 100% | — |
+| ![Star Diamond Dust Boots](/img/items/2233.png) | Star Diamond Dust Boots | 115 | 0 | 100% | — |
+| ![Star Diamond Dust Helmet](/img/items/2155.png) | Star Diamond Dust Helmet | 116 | 0 | 100% | — |
+| ![Star Diamond Dust Pants](/img/items/2207.png) | Star Diamond Dust Pants | 118 | 0 | 100% | — |
+| ![Star Diamond Gloves Of Archery](/img/items/2581.png) | Star Diamond Gloves Of Archery | 120 | 0 | 100% | — |
+| ![Star Diamond Gloves Of Archery](/img/items/2581.png) | Star Diamond Gloves Of Archery | 120 | 0 | 100% | — |
+| ![Star Diamond Gloves Of Archery](/img/items/2581.png) | Star Diamond Gloves Of Archery | 120 | 0 | 100% | — |
+| ![Star Diamond Gloves Of Archery](/img/items/2581.png) | Star Diamond Gloves Of Archery | 120 | 0 | 100% | — |
+| ![Star Diamond Longbow](/img/items/2121.png) | Star Diamond Longbow | 119 | 0 | 100% | — |
+| ![Star Diamond Shortbow](/img/items/2120.png) | Star Diamond Shortbow | 114 | 0 | 100% | — |
+| — | Steel Blue Palm Angel Arrow | 64 | 0 | 100% | — |
+| — | Steel Blue Palm Arrow | 60 | 0 | 100% | — |
+| — | Steel Blue Palm Devil Arrow | 68 | 0 | 100% | — |
+| — | Steel Blue Palm Ice Arrow | 72 | 0 | 100% | — |
+| — | Steel Cactus Arrow | 16 | 0 | 100% | — |
+| — | Steel Maple Angel Arrow | 45 | 0 | 100% | — |
+| — | Steel Maple Arrow | 41 | 0 | 100% | — |
+| — | Steel Maple Devil Arrow | 49 | 0 | 100% | — |
+| — | Steel Oak Angel Arrow | 27 | 0 | 100% | — |
+| — | Steel Oak Arrow | 23 | 0 | 100% | — |
+| — | Steel Oak Devil Arrow | 31 | 0 | 100% | — |
+| — | Steel Spirit Angel Arrow | 53 | 0 | 100% | — |
+| — | Steel Spirit Arrow | 50 | 0 | 100% | — |
+| — | Steel Spirit Devil Arrow | 56 | 0 | 100% | — |
+| — | Steel Spirit Ice Arrow | 59 | 0 | 100% | — |
+| — | Steel Willow Angel Arrow | 34 | 0 | 100% | — |
+| — | Steel Willow Arrow | 31 | 0 | 100% | — |
+| — | Steel Willow Devil Arrow | 37 | 0 | 100% | — |
+| ![Swift Armor](/img/items/2177.png) | Swift Armor | 105 | 0 | 100% | — |
+| ![Swift Boots](/img/items/2229.png) | Swift Boots | 100 | 0 | 100% | — |
+| ![Swift Helmet](/img/items/2151.png) | Swift Helmet | 103 | 0 | 100% | — |
+| ![Swift Pants](/img/items/2203.png) | Swift Pants | 104 | 0 | 100% | — |
+| ![Swift Quiver](/img/items/2056.png) | Swift Quiver | 104 | 0 | 100% | — |
+| ![Underworld Cape](/img/items/2518.png) | Underworld Cape | 90 | 0 | 100% | — |
+| ![Valentine's Shortbow](/img/items/3059.png) | Valentine's Shortbow | 1 | 0 | 100% | — |
+| ![Valentine's Shortbow](/img/items/3059.png) | Valentine's Shortbow | 1 | 0 | 100% | — |
+| ![Void Longbow](/img/items/2102.png) | Void Longbow | 99 | 0 | 100% | — |
+| ![Void Shortbow](/img/items/2100.png) | Void Shortbow | 95 | 0 | 100% | — |
+| ![Void Stick](/img/items/3346.png) | Void Stick | 90 | 0 | 100% | — |
+| ![Web Pellet](/img/items/3189.png) | Web Pellet | 25 | 0 | 100% | — |
+| — | Wild Egg | 200 | 0 | 100% | — |
+| ![Willow Longbow](/img/items/2075.png) | Willow Longbow | 38 | 0 | 100% | — |
+| ![Willow Shortbow](/img/items/2073.png) | Willow Shortbow | 35 | 0 | 100% | — |
 

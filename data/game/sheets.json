@@ -1,0 +1,437 @@
+{
+  "1": {
+    "url": "sheet/dgiso32_anvil.png",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "2": {
+    "url": "sheet/ground.png",
+    "tile_width": 54,
+    "tile_height": 34
+  },
+  "3": {
+    "url": "sheet/townactions.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "4": {
+    "url": "sheet/gui.png",
+    "tile_width": 854,
+    "tile_height": 28
+  },
+  "5": {
+    "url": "sheet/dgweapon32.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "6": {
+    "url": "sheet/dg_armor32.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "7": {
+    "url": "sheet/dg_food32.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "8": {
+    "url": "sheet/tools.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "9": {
+    "url": "sheet/fish_new32.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "10": {
+    "url": "sheet/dgmisc32.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "11": {
+    "url": "sheet/dg_jewls32.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "12": {
+    "url": "sheet/big_stuff.png",
+    "tile_width": 54,
+    "tile_height": 156
+  },
+  "13": {
+    "url": "sheet/dg_dragon32.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "14": {
+    "url": "sheet/dg_monster732.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "15": {
+    "url": "sheet/dg_uniques32.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "16": {
+    "url": "sheet/alchemyitems2.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "17": {
+    "url": "sheet/dg_monster532.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "18": {
+    "url": "sheet/dg_monster332.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "19": {
+    "url": "sheet/wearable/heads.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "20": {
+    "url": "sheet/wearable/facial_hair.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "21": {
+    "url": "sheet/wearable/bodys.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "22": {
+    "url": "sheet/wearable/pants.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "23": {
+    "url": "sheet/wearable/capes.png",
+    "tile_width": 64,
+    "tile_height": 64
+  },
+  "24": {
+    "url": "sheet/wearable/left_hands.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "25": {
+    "url": "sheet/wearable/right_hands.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "26": {
+    "url": "sheet/wearable/shields.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "27": {
+    "url": "sheet/wearable/weapons.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "28": {
+    "url": "sheet/wearable/helmets.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "29": {
+    "url": "sheet/wearable/boots.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "30": {
+    "url": "sheet/magic.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "31": {
+    "url": "sheet/mspell.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "32": {
+    "url": "sheet/sicos.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "33": {
+    "url": "sheet/mweapons.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "34": {
+    "url": "sheet/animals.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "35": {
+    "url": "sheet/newworld2.png",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "36": {
+    "url": "sheet/ground_tops.png",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "37": {
+    "url": "sheet/boss.png",
+    "tile_width": 64,
+    "tile_height": 96
+  },
+  "38": {
+    "url": "sheet/pets.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "39": {
+    "url": "sheet/pots_crates.png",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "40": {
+    "url": "sheet/big_pyramid.png",
+    "tile_width": 576,
+    "tile_height": 335
+  },
+  "41": {
+    "url": "sheet/house.png",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "42": {
+    "url": "sheet/house_inv.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "43": {
+    "url": "sheet/farming_products.png",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "44": {
+    "url": "sheet/wearable/weapons2h.png",
+    "tile_width": 46,
+    "tile_height": 46
+  },
+  "45": {
+    "url": "sheet/halloween.png",
+    "tile_width": 64,
+    "tile_height": 96
+  },
+  "46": {
+    "url": "sheet/ground2.png",
+    "tile_width": 54,
+    "tile_height": 34
+  },
+  "47": {
+    "url": "sheet/cathedral.png",
+    "tile_width": 596,
+    "tile_height": 544
+  },
+  "48": {
+    "url": "sheet/newworld3.gif",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "49": {
+    "url": "sheet/boss2.png",
+    "tile_width": 64,
+    "tile_height": 96
+  },
+  "50": {
+    "url": "sheet/boss3.png",
+    "tile_width": 64,
+    "tile_height": 96
+  },
+  "51": {
+    "url": "sheet/boss4.png",
+    "tile_width": 64,
+    "tile_height": 96
+  },
+  "52": {
+    "url": "sheet/dgmisc2.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "53": {
+    "url": "sheet/dgmisc3.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "54": {
+    "url": "sheet/dgmisc4.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "55": {
+    "url": "sheet/dgmisc5.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "56": {
+    "url": "sheet/dg_armor2.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "57": {
+    "url": "sheet/dgweapon2.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "58": {
+    "url": "sheet/wearable/left_hands_female.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "59": {
+    "url": "sheet/wearable/right_hands_female.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "60": {
+    "url": "sheet/arrows.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "61": {
+    "url": "sheet/wearable/arrows.gif",
+    "tile_width": 20,
+    "tile_height": 20
+  },
+  "62": {
+    "url": "sheet/archery.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "63": {
+    "url": "sheet/wearable/archery.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "64": {
+    "url": "sheet/house_inv2.gif",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "65": {
+    "url": "sheet/boss5.png",
+    "tile_width": 64,
+    "tile_height": 96
+  },
+  "66": {
+    "url": "sheet/box_sets.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "67": {
+    "url": "sheet/wearable/bodys_f.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "68": {
+    "url": "sheet/wearable/pants_f.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "69": {
+    "url": "sheet/wearable/helmets_f.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "70": {
+    "url": "sheet/farming_products2.gif",
+    "tile_width": 54,
+    "tile_height": 49
+  },
+  "71": {
+    "url": "sheet/dg_monster2.png",
+    "tile_width": 46,
+    "tile_height": 46
+  },
+  "72": {
+    "url": "sheet/cn_map.gif",
+    "tile_width": 196,
+    "tile_height": 324
+  },
+  "73": {
+    "url": "sheet/water_bubbles.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "74": {
+    "url": "sheet/purgatory_anim1.png",
+    "tile_width": 20,
+    "tile_height": 48
+  },
+  "75": {
+    "url": "sheet/purgatory_anim2.png",
+    "tile_width": 40,
+    "tile_height": 29
+  },
+  "76": {
+    "url": "sheet/sand_anim.png",
+    "tile_width": 39,
+    "tile_height": 9
+  },
+  "77": {
+    "url": "sheet/leaf_anim.png",
+    "tile_width": 40,
+    "tile_height": 43
+  },
+  "78": {
+    "url": "sheet/snow_anim.png",
+    "tile_width": 43,
+    "tile_height": 37
+  },
+  "79": {
+    "url": "sheet/rat_anim.png",
+    "tile_width": 32,
+    "tile_height": 22
+  },
+  "80": {
+    "url": "sheet/lava_anim.png",
+    "tile_width": 40,
+    "tile_height": 28
+  },
+  "81": {
+    "url": "sheet/pixie_anim.png",
+    "tile_width": 54,
+    "tile_height": 40
+  },
+  "82": {
+    "url": "sheet/mushroom_anim.png",
+    "tile_width": 35,
+    "tile_height": 27
+  },
+  "83": {
+    "url": "sheet/wearable/left_hands2.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "84": {
+    "url": "sheet/wearable/right_hands2.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "85": {
+    "url": "sheet/wearable/left_hands2_female.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "86": {
+    "url": "sheet/wearable/right_hands2_female.png",
+    "tile_width": 32,
+    "tile_height": 32
+  },
+  "87": {
+    "url": "sheet/embers_anim.png",
+    "tile_width": 37,
+    "tile_height": 44
+  }
+}

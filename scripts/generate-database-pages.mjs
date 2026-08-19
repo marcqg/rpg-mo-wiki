@@ -1,15 +1,18 @@
 #!/usr/bin/env node
-// Génère des pages Markdown groupées par sous-catégorie à partir des données
-// extraites de modb.rpgmobob.com (voir scripts/fetch-modb.mjs) dans
-// data/modb/*.json, vers docs/database/.
+// generate-database-pages.mjs
+// Génère des pages Markdown enrichies avec icônes et données complètes
+// à partir des données extraites du jeu (data/game/ et data/modb/) vers docs/database/.
 
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import path from 'node:path';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
-const DATA_DIR = path.join(ROOT, 'data', 'modb');
+const DATA_GAME_DIR = path.join(ROOT, 'data', 'game');
+const DATA_MODB_DIR = path.join(ROOT, 'data', 'modb');
 const OUT_DIR = path.join(ROOT, 'docs', 'database');
-const MODB_URL = 'https://modb.rpgmobob.com/#/';
+const STATIC_DIR = path.join(ROOT, 'static');
+
 const MAX_ROWS_PER_PAGE = Infinity;
 
 function slugify(str) {
@@ -21,8 +24,6 @@ function slugify(str) {
     .replace(/(^-|-$)/g, '');
 }
 
-// Même logique d'échappement MDX que scripts/fetch-wiki.mjs : `<` et `{`
-// cassent la compilation MDX de Docusaurus s'ils ne sont pas échappés.
 const BR_PLACEHOLDER = '@@BR@@';
 function mdxSafe(value) {
   return String(value)
@@ -63,20 +64,34 @@ async function writeCategoryJson(dir, label, position, key) {
   await writeFile(path.join(dir, '_category_.json'), JSON.stringify(json, null, 2) + '\n');
 }
 
-// L'attribution à la source (modb) vit sur docs/sources.md, pas sur chaque
-// page individuelle.
 async function writePage(dir, slug, title, body) {
   const frontmatter = ['---', `title: ${JSON.stringify(title)}`, '---', ''].join('\n');
+  await mkdir(dir, { recursive: true });
   await writeFile(path.join(dir, `${slug}.md`), frontmatter + body + '\n', 'utf-8');
 }
 
-async function loadAll() {
-  const names = ['items', 'recipes', 'mobs', 'vendors', 'pets'];
-  const data = {};
-  for (const name of names) {
-    data[name] = JSON.parse(await readFile(path.join(DATA_DIR, `${name}.json`), 'utf-8'));
+async function loadJson(fileName) {
+  const gamePath = path.join(DATA_GAME_DIR, fileName);
+  const modbPath = path.join(DATA_MODB_DIR, fileName);
+  if (existsSync(gamePath)) {
+    return JSON.parse(await readFile(gamePath, 'utf-8'));
   }
-  return data;
+  if (existsSync(modbPath)) {
+    return JSON.parse(await readFile(modbPath, 'utf-8'));
+  }
+  return [];
+}
+
+async function loadAll() {
+  const [items, recipes, mobs, vendors, pets, petBreeds] = await Promise.all([
+    loadJson('items.json'),
+    loadJson('recipes.json'),
+    loadJson('mobs.json'),
+    loadJson('vendors.json'),
+    loadJson('pets.json'),
+    loadJson('pet_breeds.json'),
+  ]);
+  return { items, recipes, mobs, vendors, pets, petBreeds };
 }
 
 const ITEM_CATEGORIES = {
@@ -92,21 +107,89 @@ const ITEM_CATEGORIES = {
   9: 'Archery',
 };
 
-// Clés de `params` à ne pas afficher telles quelles dans la colonne Stats
-// (détails d'implémentation internes au client du jeu, pas utiles côté wiki).
+const ITEM_SLOTS = {
+  0: 'Helmet',
+  1: 'Cape',
+  2: 'Chest',
+  3: 'Right Hand',
+  4: 'Left Hand',
+  5: 'Gloves',
+  6: 'Boots',
+  7: 'Amulet',
+  8: 'Ring',
+  9: 'None',
+  10: 'Magic',
+  11: 'Pants',
+  12: 'Pet',
+  16: 'Key',
+  20: 'Arrow',
+  21: 'Spirit',
+};
+
 const STATS_EXCLUDE = new Set([
   'wearable', 'visible', 'slot', 'price', 'enchant_id', 'enchants_from',
   'att_anim', 'no_present', 'sc', 'desc', 'carpentry_type', 'carpentry_id',
+  'farming_id', 'fungiculture_id', 'pet', 'item_id',
 ]);
+
+function itemIcon(id, name) {
+  const relPath = `/img/items/${id}.png`;
+  const absPath = path.join(STATIC_DIR, 'img', 'items', `${id}.png`);
+  if (existsSync(absPath)) {
+    return `![${name}](${relPath})`;
+  }
+  return '—';
+}
+
+function petIcon(id, name) {
+  const relPath = `/img/pets/${id}.png`;
+  const absPath = path.join(STATIC_DIR, 'img', 'pets', `${id}.png`);
+  if (existsSync(absPath)) {
+    return `![${name}](${relPath})`;
+  }
+  return '—';
+}
+
+function mobIcon(id, name) {
+  const relPath = `/img/mobs/${id}.png`;
+  const absPath = path.join(STATIC_DIR, 'img', 'mobs', `${id}.png`);
+  if (existsSync(absPath)) {
+    return `![${name}](${relPath})`;
+  }
+  return '—';
+}
 
 function itemStats(item) {
   const params = item.params || {};
   const parts = [];
+
+  if (params.slot !== undefined && ITEM_SLOTS[params.slot]) {
+    parts.push(`Slot: ${ITEM_SLOTS[params.slot]}`);
+  }
+  if (params.power !== undefined) parts.push(`Power: ${params.power}`);
+  if (params.aim !== undefined) parts.push(`Aim: ${params.aim}`);
+  if (params.armor !== undefined) parts.push(`Armor: ${params.armor}`);
+  if (params.magic !== undefined) parts.push(`Magic: ${params.magic}`);
+  if (params.speed !== undefined) parts.push(`Speed: ${params.speed}`);
+  if (params.heal !== undefined) parts.push(`Heal: ${params.heal}`);
+
+  // Requirements
+  const reqs = [];
+  if (params.min_accuracy) reqs.push(`Accuracy ${params.min_accuracy}`);
+  if (params.min_defense) reqs.push(`Defense ${params.min_defense}`);
+  if (params.min_strength) reqs.push(`Strength ${params.min_strength}`);
+  if (params.min_magic) reqs.push(`Magic ${params.min_magic}`);
+  if (params.min_archery) reqs.push(`Archery ${params.min_archery}`);
+  if (reqs.length > 0) parts.push(`Req: ${reqs.join(', ')}`);
+
+  // Other remaining params
   for (const [k, v] of Object.entries(params)) {
     if (STATS_EXCLUDE.has(k)) continue;
-    if (v && typeof v === 'object') continue; // structures imbriquées (ex: visible) déjà exclues sinon
+    if (['power', 'aim', 'armor', 'magic', 'speed', 'heal', 'min_accuracy', 'min_defense', 'min_strength', 'min_magic', 'min_archery'].includes(k)) continue;
+    if (v && typeof v === 'object') continue;
     parts.push(`${k}: ${v}`);
   }
+
   return parts.join(', ');
 }
 
@@ -129,8 +212,13 @@ async function generateItems(items) {
       const part = chunks[i];
       const suffix = chunks.length > 1 ? `-${i + 1}` : '';
       const title = chunks.length > 1 ? `${cat} (${i + 1}/${chunks.length})` : cat;
-      const rows = part.map((it) => [it.n, fmtNumber(it.params?.price), itemStats(it)]);
-      const body = `## ${title}\n\n${table(['Name', 'Price', 'Stats'], rows)}\n`;
+      const rows = part.map((it) => [
+        itemIcon(it.id, it.n),
+        it.n,
+        fmtNumber(it.params?.price),
+        itemStats(it),
+      ]);
+      const body = `## ${title}\n\n${table(['Icon', 'Name', 'Price', 'Stats'], rows)}\n`;
       await writePage(dir, `${slugify(cat)}${suffix}`, title, body);
       pageCount++;
     }
@@ -144,8 +232,9 @@ async function generateRecipes(recipes, itemById) {
 
   const bySkill = new Map();
   for (const r of recipes) {
-    if (!bySkill.has(r.skill)) bySkill.set(r.skill, []);
-    bySkill.get(r.skill).push(r);
+    const skill = (r.skill || 'Other').toLowerCase();
+    if (!bySkill.has(skill)) bySkill.set(skill, []);
+    bySkill.get(skill).push(r);
   }
 
   let pageCount = 0;
@@ -162,9 +251,16 @@ async function generateRecipes(recipes, itemById) {
         const materials = (r.matts || [])
           .map((m) => `${m.c}× ${itemById.get(Number(m.id)) ?? `#${m.id}`}`)
           .join('\n');
-        return [r.n, r.level, r.xp, chance, materials];
+        return [
+          itemIcon(r.id, r.n),
+          r.n,
+          r.level,
+          r.xp,
+          chance,
+          materials,
+        ];
       });
-      const body = `## ${title}\n\n${table(['Name', 'Level', 'XP', 'Chance', 'Materials'], rows)}\n`;
+      const body = `## ${title}\n\n${table(['Icon', 'Name', 'Level', 'XP', 'Chance', 'Materials'], rows)}\n`;
       await writePage(dir, `${slugify(skill)}${suffix}`, title, body);
       pageCount++;
     }
@@ -178,9 +274,15 @@ async function generateMobs(mobs, itemById) {
 
   const byZone = new Map();
   for (const m of mobs) {
-    for (const zone of Object.keys(m.locations || {})) {
-      if (!byZone.has(zone)) byZone.set(zone, []);
-      byZone.get(zone).push(m);
+    const locs = Object.keys(m.locations || {});
+    if (locs.length === 0) {
+      if (!byZone.has('Unknown Location')) byZone.set('Unknown Location', []);
+      byZone.get('Unknown Location').push(m);
+    } else {
+      for (const zone of locs) {
+        if (!byZone.has(zone)) byZone.set(zone, []);
+        byZone.get(zone).push(m);
+      }
     }
   }
 
@@ -195,6 +297,7 @@ async function generateMobs(mobs, itemById) {
         .map((d) => `${itemById.get(d.id) ?? `#${d.id}`} (${d.actualChance ?? (d.chance * 100).toFixed(2)}%)`)
         .join('\n');
       return [
+        mobIcon(m.id, m.n),
         m.n,
         m.params?.combat_level ?? '—',
         m.params?.health ?? '—',
@@ -202,7 +305,7 @@ async function generateMobs(mobs, itemById) {
         drops,
       ];
     });
-    const body = `## ${zone}\n\n${table(['Name', 'Combat Level', 'Health', 'Aggressive', 'Drops'], rows)}\n`;
+    const body = `## ${zone}\n\n${table(['Icon', 'Name', 'Combat Level', 'Health', 'Aggressive', 'Drops'], rows)}\n`;
     await writePage(dir, slugify(zone), zone, body);
     pageCount++;
   }
@@ -243,7 +346,7 @@ async function generateVendors(vendors, itemById) {
   console.log(`vendors: ${pageCount} pages (${vendors.length} entrées, ${byMap.size} lieux)`);
 }
 
-async function generatePets(pets, itemById) {
+async function generatePets(pets, petBreeds, itemById) {
   const dir = path.join(OUT_DIR, 'pets');
   await writeCategoryJson(dir, 'Pets', 6, 'database-pets');
 
@@ -263,6 +366,7 @@ async function generatePets(pets, itemById) {
         .map(([id, weight]) => `${itemById.get(Number(id)) ?? `#${id}`} (${(weight * 100).toFixed(0)}%)`)
         .join('\n');
       return [
+        petIcon(p.id, p.n),
         p.n,
         fmtNumber(p.params?.xp_required),
         p.params?.happiness ?? '—',
@@ -270,27 +374,61 @@ async function generatePets(pets, itemById) {
         eats,
       ];
     });
-    const body = `## ${rarity}\n\n${table(['Name', 'XP Required', 'Happiness', 'Breeding Level', 'Eats'], rows)}\n`;
+    const body = `## ${rarity}\n\n${table(['Icon', 'Name', 'XP Required', 'Happiness', 'Breeding Level', 'Eats'], rows)}\n`;
     await writePage(dir, slugify(rarity), rarity, body);
     pageCount++;
   }
-  console.log(`pets: ${pageCount} pages (${pets.length} entrées, ${byRarity.size} raretés)`);
+
+  // Breeding Guide / Matrix Page
+  if (petBreeds && petBreeds.length > 0) {
+    const rows = petBreeds.map((b) => {
+      const p1 = b.parent1?.name ?? '—';
+      const p2 = b.parent2?.name ?? '—';
+      const p1Icon = b.parent1?.b_i !== undefined ? petIcon(b.parent1.b_i, p1) : '';
+      const p2Icon = b.parent2?.b_i !== undefined ? petIcon(b.parent2.b_i, p2) : '';
+      
+      const offspring = (b.offspring || [])
+        .map((o) => {
+          const name = itemById.get(o.id) ?? `#${o.id}`;
+          const chance = o.show_both ? `${o.min}–${o.max}%` : `${o.min}%`;
+          const icon = itemIcon(o.id, name);
+          return `${icon} ${name} (${chance})`;
+        })
+        .join('\n');
+
+      return [
+        `${p1Icon} ${p1}`.trim(),
+        `${p2Icon} ${p2}`.trim(),
+        b.level ?? '—',
+        `${b.time ?? '—'} min`,
+        b.xp ?? '—',
+        offspring,
+      ];
+    });
+
+    const body = `## Pet Breeding Combinations\n\n${table(
+      ['Parent 1', 'Parent 2', 'Breeding Level', 'Duration', 'XP', 'Offspring (Chances)'],
+      rows
+    )}\n`;
+    await writePage(dir, 'breeding', 'Breeding & Combinations', body);
+    pageCount++;
+  }
+
+  console.log(`pets: ${pageCount} pages (${pets.length} familiers, ${byRarity.size} raretés + breeding)`);
 }
 
 async function generateIndex() {
   await mkdir(OUT_DIR, { recursive: true });
-  await writeCategoryJson(OUT_DIR, 'Database (modb)', 3);
-  const title = 'Database (modb)';
+  await writeCategoryJson(OUT_DIR, 'Database', 3);
+  const title = 'Database';
   const body = `
-Cette section complète le wiki avec les données du jeu extraites de [modb](${MODB_URL}) : objets, monstres, recettes, vendeurs et familiers. Contrairement aux pages du wiki (texte libre traduit/adapté), ces pages sont des tableaux générés automatiquement depuis les données brutes du jeu.
+Cette section contient l'intégralité des données du jeu RPG MO, synchronisées directement avec les fichiers officiels de [data.mo.ee](https://data.mo.ee) et enrichies de toutes les icônes de sprites.
 
-- **Items** — tous les objets du jeu, groupés par catégorie
-- **Recipes** — recettes d'artisanat, groupées par compétence
-- **Mobs** — monstres, groupés par zone
-- **Vendors** — marchands, groupés par lieu
-- **Pets** — familiers, groupés par rareté
-
-Ces pages sont régénérées via \`scripts/fetch-modb.mjs\` puis \`scripts/generate-database-pages.mjs\` — voir le README.
+- **Items** — 5 500+ objets avec icônes, statistiques, emplacements d'équipement et prix
+- **Recipes** — 3 000+ recettes d'artisanat par compétence (Forging, Carpentry, Fletching, Cooking, Alchemy, Wizardry...)
+- **Mobs** — 900+ monstres, boss et PNJs avec points de vie, niveau de combat et tables de drops
+- **Vendors** — marchands et inventaires de vente
+- **Pets** — familiers groupés par rareté et **matrice complète de reproduction (Breeding)**
 
 Voir [Sources et remerciements](/sources) pour l'attribution complète.
 `;
@@ -298,14 +436,10 @@ Voir [Sources et remerciements](/sources) pour l'attribution complète.
 }
 
 async function main() {
-  console.log('Chargement des données modb...');
-  const { items, recipes, mobs, vendors, pets } = await loadAll();
+  console.log('Chargement des données...');
+  const { items, recipes, mobs, vendors, pets, petBreeds } = await loadAll();
   const itemById = new Map(items.map((it) => [it.id, it.n]));
 
-  // On repart d'un dossier propre pour éviter des pages orphelines si le
-  // découpage en catégories change d'une exécution à l'autre. On ne touche
-  // qu'aux sous-dossiers gérés par ce script (pas docs/database/guides/,
-  // géré par scripts/generate-bob-pages.mjs).
   for (const sub of ['items', 'recipes', 'mobs', 'vendors', 'pets', 'index.md']) {
     await rm(path.join(OUT_DIR, sub), { recursive: true, force: true });
   }
@@ -315,7 +449,7 @@ async function main() {
   await generateRecipes(recipes, itemById);
   await generateMobs(mobs, itemById);
   await generateVendors(vendors, itemById);
-  await generatePets(pets, itemById);
+  await generatePets(pets, petBreeds, itemById);
 
   console.log('Terminé.');
 }
