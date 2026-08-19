@@ -7,51 +7,33 @@ sidebar_position: 1
 
 ## O tym wiki
 
-To repozytorium GitHub nie jest oryginalnym dziełem. Zostało zbudowane przez agregowanie, przeformatowanie i tłumaczenie treści z kilku istniejących źródeł społecznościowych — wiki Fandom, modb, rpgmobob.com i innych — wszystkich wymienionych na stronie [Źródła i podziękowania](/sources).
+To wiki łączy trzy uzupełniające się źródła, aby zebrać najpełniejsze informacje o RPG MO:
 
-Cel tego projektu jest dwojaki:
-- **Skondensować** rozproszoną wiedzę o RPG MO w jednym, przejrzystym i ustrukturyzowanym miejscu.
-- **Służyć jako wiarygodna baza wiedzy dla narzędzi AI** (takich jak ChatGPT, Claude lub dowolny asystent oparty na RAG), których gracze mogą używać do szybkiego i precyzyjnego znajdowania informacji o grze. To repozytorium jest również indeksowane przez [CodeGraph](https://github.com/colbymchenry/codegraph), aby jego struktura i zawartość były bezpośrednio eksplorowane przez agentów AI.
+- **[Dane z Gry na Żywo](/game-data)** — dane wyodrębnione bezpośrednio z oficjalnych plików gry na [data.mo.ee](https://data.mo.ee): każdy przedmiot, potwora, zwierzaka, recepturę i kupca z aktualnymi statystykami i tabelami dropów. Najdokładniejsze źródło surowych danych.
+- **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — wiki społecznościowe zbudowane przez wolontariuszy. Zawiera poradniki, historię wydarzeń i szczegółowe artykuły.
+- **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — baza danych społecznościowa autorstwa **bobdylan**. Sekcja [Database](/database) tego wiki jest oparta na tym źródle.
 
-Jeśli chcesz wnieść wkład, zgłosić błąd lub prosić o usunięcie treści, której jesteś autorem, otwórz issue w [repozytorium GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Aby wnieść wkład lub zgłosić błąd, otwórz issue w [repozytorium GitHub](https://github.com/marcqg/rpg-mo-wiki).
 
-## _Witajcie na RPG MO Wiki!_ **Co to jest RPG MO?**
+Zob. [Źródła i podziękowania](/sources) w celu pełnego uznania.
 
-RPG MO jest to gra sandboxowa, w urzymana w stylu 2D z 18 umiejętnościami do wytrenowania jest również wciąż rozbudowywana przez ciągłe updaty.
+## _Witajcie na RPG MO Wiki!_ **Co to jest RPG MO?**
 
-Możesz grać przez różne przeglądarki i strony internetowe HTML 5, przez różne serwisy hostujące jak Kongregate, MocoSpace , i Steam. Jest również dostępna przez Google Play Store, with może być również pobrana na komputer z systemem Windows, Mac, i Linux/Android. Strona Modb [kliknij](https://mo.ee/).
+RPG MO to gra sandboxowa w stylu 2D z 19 umiejętnościami do wytrenowania i ciągłymi aktualizacjami.
 
-## Zaczynamy:
+Link do gry: [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 
-*   Poradnik dla nowego gracza
-*   [Lokacje](https://rpg-mo.fandom.com/wiki/Lokacje)
-*   Poradniki
-*   Mody stworzone przez graczy
-*   Komendy czatu
+## Zaczynamy
+
+*   [Poradnik dla nowego gracza](/new-player-guide)
+*   [Lokacje](/locations)
+*   [Poradniki](/database/guides/combat-level)
+*   [Skróty klawiszowe](/keybinding)
+*   [Komendy czatu](/chat-commands)
 *   [Oficjalne Forum](https://forums.mo.ee/)
 *   [Oficjalna Strona](https://mo.ee/)
 
-#### **Features** Edit
-
-*   Umiejętności
-*   Zadania
-*   Zadania związane z umiejętnościami
-*   Wspólne podziemia
-*   Mini Gry
-*   PvP
-*   Potwory
-
-#### **Items** Edit
-
-*   Inwentarz
-*   Jedzenie
-*   Wyspa
-*   Materiały
-*   Zwierzaki
-*   Czary
-*   Narzędzia
-
-## Wymagania Systemowe:
+## Wymagania Systemowe
 
 *   Połączenie z internetem
 *   Przeglądarka Internetowa: Najnowszy Chrome/Firefox/Internet Explorer/Opera

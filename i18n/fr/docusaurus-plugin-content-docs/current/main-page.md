@@ -12,61 +12,35 @@ sidebar_position: 1
 
 ## À propos de ce wiki
 
-Ce dépôt GitHub n'est pas un travail original. Il a été construit en agrégeant, reformatant et traduisant du contenu provenant de plusieurs sources communautaires existantes — le wiki Fandom, modb, rpgmobob.com, et d'autres — toutes créditées sur la page [Sources et remerciements](/sources).
+Ce wiki combine trois sources complémentaires pour rassembler les informations les plus complètes sur RPG MO :
 
-L'objectif de ce projet est double :
-- **Condenser** les informations dispersées sur RPG MO en un seul endroit, propre et structuré.
-- **Servir de base de connaissances fiable pour les outils d'IA** (comme ChatGPT, Claude, ou tout assistant basé sur un RAG) que les joueurs pourraient utiliser pour trouver rapidement et précisément des informations sur le jeu. Ce dépôt est également indexé avec [CodeGraph](https://github.com/colbymchenry/codegraph) pour rendre sa structure et son contenu directement explorables par des agents IA.
+- **[Données du Jeu en direct](/game-data)** — données extraites directement et automatiquement depuis les fichiers officiels du jeu sur [data.mo.ee](https://data.mo.ee) : chaque objet, monstre, familier, recette et marchand avec leurs statistiques et tables de drops à jour. C'est la source la plus précise pour les données brutes du jeu.
+- **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — le wiki communautaire, patiemment construit par des éditeurs bénévoles. Il fournit des guides de compétences, de l'histoire, des événements, des astuces et des articles détaillés.
+- **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — une base de données communautaire par **bobdylan**, offrant une vue structurée des objets, monstres et recettes. La section [Database](/database) de ce wiki est construite sur cette source.
 
-Si tu veux contribuer, signaler une erreur, ou demander le retrait d'un contenu dont tu es l'auteur·e, ouvre une issue sur le [dépôt GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Ce dépôt est également indexé avec [CodeGraph](https://github.com/colbymchenry/codegraph) pour rendre sa structure directement explorable par des outils d'IA. Si tu veux contribuer, signaler une erreur ou demander le retrait d'un contenu, ouvre une issue sur le [dépôt GitHub](https://github.com/marcqg/rpg-mo-wiki).
+
+Voir [Sources et remerciements](/sources) pour l'attribution complète.
 
 ## _Bienvenue sur le RPG MO Wiki !_ **Qu'est-ce que RPG MO ?**
 
 [RPG MO](https://data.mo.ee/loader.html) est un bac à sable (sandbox) en 2D avec 19 compétences à entraîner, et du nouveau contenu ajouté régulièrement.
 
-Le jeu se joue depuis quasiment n'importe quel navigateur compatible HTML5, via différentes plateformes d'hébergement de jeux comme [Kongregate](https://www.kongregate.com/games/MarxGames/rpg-mo-sandbox), [itch.io](https://marxgames.itch.io/rpg) et [Steam](http://store.steampowered.com/app/372800/). Il est disponible sur le [Google Play Store](https://play.google.com/store/apps/details?id=ee.mo.rpgnew) pour Android et sur l'[App Store](https://apps.apple.com/us/app/rpg-mo/id601177570) pour iOS et MacOS, avec des clients autonomes également disponibles pour [Windows, Mac et Linux/Android](http://mo.ee/download.html). Le site Modb est [ici](http://rpgmo.out-line.co/#/).
+Le jeu se joue depuis quasiment n'importe quel navigateur compatible HTML5, via [Kongregate](https://www.kongregate.com/games/MarxGames/rpg-mo-sandbox), [itch.io](https://marxgames.itch.io/rpg) et [Steam](http://store.steampowered.com/app/372800/). Disponible sur le [Google Play Store](https://play.google.com/store/apps/details?id=ee.mo.rpgnew) pour Android et sur l'[App Store](https://apps.apple.com/us/app/rpg-mo/id601177570) pour iOS et MacOS.
 
-\* Lien sécurisé vers le jeu :
-
-*   [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
+\* Lien sécurisé vers le jeu : [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 
 [Crédits](https://mo.ee/credits.html)
 
 ## Pour commencer
 
-*   [Guide du nouveau joueur](https://rpg-mo.fandom.com/wiki/New_Player_Guide)
-*   [Cartes de toutes les zones](https://rpg-mo.fandom.com/wiki/Locations)
-*   [Guides](https://rpg-mo.fandom.com/wiki/Guides)
-*   [Raccourcis clavier](https://rpg-mo.fandom.com/wiki/Keybinding)
-*   [Mods créés par les joueurs](https://rpg-mo.fandom.com/wiki/Mods)
-*   [Commandes du chat](https://rpg-mo.fandom.com/wiki/Chat_Commands)
+*   [Guide du nouveau joueur](/new-player-guide)
+*   [Cartes de toutes les zones](/locations)
+*   [Guides](/database/guides/combat-level)
+*   [Raccourcis clavier](/keybinding)
+*   [Commandes du chat](/chat-commands)
 *   [Forums officiels](http://forums.mo.ee/)
 *   [Site officiel](http://mo.ee/)
-
-#### **Fonctionnalités**
-
-*   [Compétences](https://rpg-mo.fandom.com/wiki/Skills)
-*   [Quêtes](https://rpg-mo.fandom.com/wiki/Quests)
-*   [Quêtes de compétence](https://rpg-mo.fandom.com/wiki/Skill_Quests)
-*   [Donjons de groupe](https://rpg-mo.fandom.com/wiki/Party_Dungeons)
-*   [Mini-jeux](https://rpg-mo.fandom.com/wiki/Mini_Games)
-*   [PvP](https://rpg-mo.fandom.com/wiki/PvP)
-*   [Bestiaire](https://rpg-mo.fandom.com/wiki/Monster_Book)
-*   [Monstres](https://rpg-mo.fandom.com/wiki/Monsters)
-*   [Combat](https://rpg-mo.fandom.com/wiki/Fighting_mode)
-*   [Mort](https://rpg-mo.fandom.com/wiki/Death)
-*   [Vitesse de déplacement](https://rpg-mo.fandom.com/wiki/Movement_speed)
-*   [Enchantement](https://rpg-mo.fandom.com/wiki/Enchanting)
-
-#### **Objets**
-
-*   [Équipement](https://rpg-mo.fandom.com/wiki/Equipment)
-*   [Nourriture](https://rpg-mo.fandom.com/wiki/Foods)
-*   [Île](https://rpg-mo.fandom.com/wiki/Player_Island)
-*   [Matériaux](https://rpg-mo.fandom.com/wiki/Materials)
-*   [Familiers](https://rpg-mo.fandom.com/wiki/Pets)
-*   [Sorts](https://rpg-mo.fandom.com/wiki/Spells)
-*   [Outils](https://rpg-mo.fandom.com/wiki/Tools)
 
 ## Configuration système générale
 

@@ -7,49 +7,29 @@ sidebar_position: 1
 
 ## Sobre este wiki
 
-Este repositório GitHub não é um trabalho original. Foi construído agregando, reformatando e traduzindo conteúdo de várias fontes comunitárias existentes — o wiki do Fandom, modb, rpgmobob.com e outros — todos creditados na página [Fontes e Créditos](/sources).
+Este wiki combina três fontes complementares para reunir as informações mais completas sobre RPG MO:
 
-O objetivo deste projeto é duplo:
-- **Condensar** o conhecimento disperso sobre RPG MO em um único lugar, limpo e estruturado.
-- **Servir como base de conhecimento confiável para ferramentas de IA** (como ChatGPT, Claude ou qualquer assistente baseado em RAG) que os jogadores possam usar para encontrar informações sobre o jogo de forma rápida e precisa. Este repositório também é indexado com [CodeGraph](https://github.com/colbymchenry/codegraph) para tornar sua estrutura e conteúdo diretamente exploráveis por agentes de IA.
+- **[Dados do Jogo em Tempo Real](/game-data)** — dados extraídos diretamente dos arquivos oficiais do jogo em [data.mo.ee](https://data.mo.ee): cada item, monstro, pet, receita e comerciante com estatísticas atualizadas e tabelas de drops. A fonte mais precisa para dados brutos do jogo.
+- **[RPG MO Wiki (Fandom)](https://rpg-mo.fandom.com/wiki/Main_Page)** — wiki comunitária construída por voluntários. Fornece guias de habilidades, histórico de eventos e artigos detalhados.
+- **[modb / rpgmobob.com](https://modb.rpgmobob.com/#/)** — banco de dados comunitário por **bobdylan**. A seção [Database](/database) deste wiki é baseada nesta fonte.
 
-Se você quiser contribuir, reportar um erro ou solicitar a remoção de conteúdo de sua autoria, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Para contribuir ou reportar erros, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
 
+Veja [Fontes e Créditos](/sources) para atribuição completa.
 
+## [RPG MO](https://data.mo.ee/loader.html) é um jogo sandbox 2D com 19 habilidades para desenvolver e atualizações regulares.
 
-[RPG MO](http://www.rpg.mo.ee/)  é um jogo sandbox, estilo 2d com 18 habilidades para desenvolver e atualizações regulares.
-
-Pode ser jogado praticamente em todo navegador com suporte à [HTML 5](https://www.barbi-igre.net/tag/html5/), e a partir de uma variedade de hospedes de jogos como [Kongregate](http://www.kongregate.com/), [MocoSpace](http://www.mocospace.com/games;sid=aaaWV_iwqCgbSfxZxJmzv?gid=1321&r=252&#confirm) ,e [Steam](http://store.steampowered.com/app/372800/). Está disponível através da [Google Play Store](https://play.google.com/store/apps/details?id=ee.mo.rpgnew), e também clientes standalone para plataformas [Windows, Mac, and Linux/Android](http://mo.ee/download.html). Modb site [aqui](http://modb.rpgmobob.com/#/).
+Link do jogo: [https://data.mo.ee/index2.html](https://data.mo.ee/index2.html)
 
 ## Começando
 
-*   [Guia de novos jogadores](https://rpg-mo.fandom.com/wiki/Locations)
-*   [Localizações](https://rpg-mo.fandom.com/wiki/Locations)
-*   [Guias](https://rpg-mo.fandom.com/wiki/Guides)
-*   [Mods criados por jogadores](https://rpg-mo.fandom.com/wiki/Mods)
-*   [Comandos de Chat](https://rpg-mo.fandom.com/wiki/Chat_Commands)
+*   [Guia de novos jogadores](/new-player-guide)
+*   [Localizações](/locations)
+*   [Guias](/database/guides/combat-level)
+*   [Atalhos de teclado](/keybinding)
+*   [Comandos de Chat](/chat-commands)
 *   [Forum Oficial](http://forums.mo.ee/)
 *   [Site Oficial](http://mo.ee/)
-
-#### Características
-
-*   [Habilidades](https://rpg-mo.fandom.com/wiki/Skills)
-*   [Missões](https://rpg-mo.fandom.com/wiki/Quests)
-*   [Missões de habilidades](https://rpg-mo.fandom.com/wiki/Skill_Quests)
-*   [Missões em grupo](https://rpg-mo.fandom.com/wiki/Party_Dungeons)
-*   [Mini Jogos](https://rpg-mo.fandom.com/wiki/Mini_Games)
-*   [PvP](https://rpg-mo.fandom.com/wiki/PvP)
-*   [Monstros](https://rpg-mo.fandom.com/wiki/Monsters)
-
-#### **Itens**
-
-*   [Equipamentos](https://rpg-mo.fandom.com/wiki/Equipment)
-*   [Comidas](https://rpg-mo.fandom.com/wiki/Foods)
-*   [Ilha](https://rpg-mo.fandom.com/wiki/Island_Deed)
-*   [Materiais](https://rpg-mo.fandom.com/wiki/Materials)
-*   [Pets](https://rpg-mo.fandom.com/wiki/Pets)
-*   [Magias](https://rpg-mo.fandom.com/wiki/Spells)
-*   [Ferramentas](https://rpg-mo.fandom.com/wiki/Tools)
 
 ## Requisitos Gerais de Sistema
 

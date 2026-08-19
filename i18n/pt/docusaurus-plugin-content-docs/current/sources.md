@@ -4,34 +4,18 @@ slug: /sources
 sidebar_position: 5
 ---
 
-> 🇧🇷 Versão em Português — título original (inglês): **Sources & Credits** — <a href="/rpg-mo-wiki/sources">see the English page</a>
+> 🇧🇷 Versão em Português — título original (inglês): **Sources & Credits**
 
-Este wiki não é um trabalho original: é uma compilação, reformatação e tradução do trabalho de pessoas que documentaram pacientemente o RPG MO muito antes de nós, muitas vezes como voluntários ao longo de muitos anos. Este site não é afiliado a nenhuma das fontes abaixo, nem aos desenvolvedores do RPG MO. Um enorme obrigado a todos eles.
+## Como este wiki é construído
 
-## RPG MO Wiki (Fandom)
+| Fonte | O que fornece | Onde aparece |
+| --- | --- | --- |
+| **Arquivos do jogo** ([data.mo.ee](https://data.mo.ee)) | Itens, monstros, pets, receitas, comerciantes | [Dados do Jogo em Tempo Real](/game-data) |
+| **modb** ([modb.rpgmobob.com](https://modb.rpgmobob.com/#/)) | Banco de dados por **bobdylan** | [Database](/database) |
+| **RPG MO Wiki (Fandom)** ([rpg-mo.fandom.com](https://rpg-mo.fandom.com/wiki/Main_Page)) | Guias, eventos, dicas | [Wiki](/skills) |
 
-[rpg-mo.fandom.com](https://rpg-mo.fandom.com/wiki/Main_Page)
-
-O conteúdo textual deste wiki (é traduzido e adaptado do **RPG MO Wiki** hospedado no Fandom, sob licença **CC BY-SA**.
-
-## modb
-
-[modb.rpgmobob.com](https://modb.rpgmobob.com/#/) — por **bobdylan**
-
-A seção Database deste wiki é baseada nos dados do **modb**, um banco de dados comunitário criado e mantido por bobdylan.
-
-## rpgmobob.com
-
-[www.rpgmobob.com](https://www.rpgmobob.com/) — por **bobdylan**
-
-Os guias de Farming, Fungiculture, Fishing Spots, World Map e Combat Level vêm das ferramentas de bobdylan.
-
-## Mining Routes
-
-[zybuluo.com/sulphate](https://www.zybuluo.com/sulphate/note/1241013) — por **sulphate**
-
-O guia de rotas de mineração é um resumo do trabalho de sulphate.
+Conteúdo textual traduzido do Fandom (**CC BY-SA**). Seção [Dados do Jogo](/game-data) gerada de data.mo.ee.
 
 ---
 
-Se você é o autor de um desses recursos e gostaria de uma correção de atribuição, ou da remoção do seu conteúdo, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
+Para correção de atribuição, abra uma issue no [repositório GitHub](https://github.com/marcqg/rpg-mo-wiki).
