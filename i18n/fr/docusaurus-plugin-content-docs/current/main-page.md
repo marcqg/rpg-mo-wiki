@@ -77,3 +77,60 @@ Le jeu se joue depuis quasiment n'importe quel navigateur compatible HTML5, via 
 *   RAM : au moins 256 Mo (512 Mo recommandé)
 *   Disque dur : 50 Mo d'espace libre (pour le cache)
 *   Entrée : souris, clavier, tactile, manette
+
+{/* LIVE-GAME-DATA-START */}
+
+## 🎮 Données du jeu en direct
+
+> Toutes les données ci-dessous sont extraites directement des fichiers officiels du jeu sur [data.mo.ee](https://data.mo.ee) — générées automatiquement et maintenues à jour.
+> *Dernière mise à jour : 2026-08-19*
+
+### 🗡️ Objets — 5,587 entrées
+
+| Catégorie | Entrées | Voir |
+| --- | --- | --- |
+| Armor | 2,187 | [→](/game-data/items/armor) |
+| Weapon | 706 | [→](/game-data/items/weapon) |
+| Material | 624 | [→](/game-data/items/material) |
+| Jewelry | 461 | [→](/game-data/items/jewelry) |
+| Pet Item | 495 | [→](/game-data/items/pet-item) |
+| Archery | 370 | [→](/game-data/items/archery) |
+| House | 261 | [→](/game-data/items/house) |
+| Food | 339 | [→](/game-data/items/food) |
+| Tool | 110 | [→](/game-data/items/tool) |
+| Spell | 34 | [→](/game-data/items/spell) |
+
+### 👾 Monstres — 904 ennemis dans 46 zones
+
+[Parcourir toutes les zones →](/game-data/mobs/dorpat)
+
+### 🐾 Familiers — 495 compagnons
+
+| Catégorie | Entrées | Voir |
+| --- | --- | --- |
+| Common | 101 | [→](/game-data/pets/common) |
+| Rare | 71 | [→](/game-data/pets/rare) |
+| Legendary | 154 | [→](/game-data/pets/legendary) |
+| Ancient | 96 | [→](/game-data/pets/ancient) |
+| Artifact | 3 | [→](/game-data/pets/artifact) |
+| Egg | 70 | [→](/game-data/pets/egg) |
+
+### 📖 Recettes — 3,065 formules d'artisanat
+
+| Compétence | Entrées | Voir |
+| --- | --- | --- |
+| Forging | 721 | [→](/game-data/recipes/forging) |
+| Fletching | 365 | [→](/game-data/recipes/fletching) |
+| Wizardry | 363 | [→](/game-data/recipes/wizardry) |
+| Alchemy | 349 | [→](/game-data/recipes/alchemy) |
+| Mining | 331 | [→](/game-data/recipes/mining) |
+| Jewelry | 235 | [→](/game-data/recipes/jewelry) |
+| Carpentry | 207 | [→](/game-data/recipes/carpentry) |
+| Fishing | 129 | [→](/game-data/recipes/fishing) |
+| Cooking | 118 | [→](/game-data/recipes/cooking) |
+| Woodcutting | 93 | [→](/game-data/recipes/woodcutting) |
+| Farming | 61 | [→](/game-data/recipes/farming) |
+| Fungiculture | 48 | [→](/game-data/recipes/fungiculture) |
+| Breeding | 45 | [→](/game-data/recipes/breeding) |
+
+{/* LIVE-GAME-DATA-END */}

@@ -69,3 +69,60 @@ sidebar_position: 1
 *   RAM: At least 256 MB (512 MB 권장)
 *   Hard drive: 50 MB of free space (캐시 파일 용)
 *   Input: 마우스, 키보드, 터치, 게임 패드
+
+{/* LIVE-GAME-DATA-START */}
+
+## 🎮 라이브 게임 데이터
+
+> 아래 데이터는 공식 게임 파일 [data.mo.ee](https://data.mo.ee)에서 직접 추출된 것으로, 자동으로 생성되어 최신 상태로 유지됩니다.
+> *마지막 업데이트: 2026-08-19*
+
+### 🗡️ 아이템 — 5,587개
+
+| 카테고리 | 수량 | 보기 |
+| --- | --- | --- |
+| Armor | 2,187 | [→](/game-data/items/armor) |
+| Weapon | 706 | [→](/game-data/items/weapon) |
+| Material | 624 | [→](/game-data/items/material) |
+| Jewelry | 461 | [→](/game-data/items/jewelry) |
+| Pet Item | 495 | [→](/game-data/items/pet-item) |
+| Archery | 370 | [→](/game-data/items/archery) |
+| House | 261 | [→](/game-data/items/house) |
+| Food | 339 | [→](/game-data/items/food) |
+| Tool | 110 | [→](/game-data/items/tool) |
+| Spell | 34 | [→](/game-data/items/spell) |
+
+### 👾 몬스터 — 46개 지역의 904마리
+
+[모든 지역 보기 →](/game-data/mobs/dorpat)
+
+### 🐾 펫 — 495마리
+
+| 카테고리 | 수량 | 보기 |
+| --- | --- | --- |
+| Common | 101 | [→](/game-data/pets/common) |
+| Rare | 71 | [→](/game-data/pets/rare) |
+| Legendary | 154 | [→](/game-data/pets/legendary) |
+| Ancient | 96 | [→](/game-data/pets/ancient) |
+| Artifact | 3 | [→](/game-data/pets/artifact) |
+| Egg | 70 | [→](/game-data/pets/egg) |
+
+### 📖 레시피 — 3,065개 공식
+
+| 스킬 | 수량 | 보기 |
+| --- | --- | --- |
+| Forging | 721 | [→](/game-data/recipes/forging) |
+| Fletching | 365 | [→](/game-data/recipes/fletching) |
+| Wizardry | 363 | [→](/game-data/recipes/wizardry) |
+| Alchemy | 349 | [→](/game-data/recipes/alchemy) |
+| Mining | 331 | [→](/game-data/recipes/mining) |
+| Jewelry | 235 | [→](/game-data/recipes/jewelry) |
+| Carpentry | 207 | [→](/game-data/recipes/carpentry) |
+| Fishing | 129 | [→](/game-data/recipes/fishing) |
+| Cooking | 118 | [→](/game-data/recipes/cooking) |
+| Woodcutting | 93 | [→](/game-data/recipes/woodcutting) |
+| Farming | 61 | [→](/game-data/recipes/farming) |
+| Fungiculture | 48 | [→](/game-data/recipes/fungiculture) |
+| Breeding | 45 | [→](/game-data/recipes/breeding) |
+
+{/* LIVE-GAME-DATA-END */}
