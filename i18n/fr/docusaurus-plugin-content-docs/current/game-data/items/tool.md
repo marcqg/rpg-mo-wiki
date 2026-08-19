@@ -1,9 +1,12 @@
 ---
-title: "Tool"
+title: "Outils"
 ---
-## Tool
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Tool** — <a href="/rpg-mo-wiki/game-data/items/tool">voir la page en anglais</a>
+
+## Outils
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![Air Altar Permission](/img/items/3142.png) | Air Altar Permission | 750,000 | Slot: Right Hand, min_wizardry: 40 |
 | ![Air Blast Medallion](/img/items/1008.png) | Air Blast Medallion | 8,519 | Slot: Left Hand, Req: Accuracy 1, min_wizardry: 60 |

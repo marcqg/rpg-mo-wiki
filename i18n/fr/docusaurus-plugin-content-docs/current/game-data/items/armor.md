@@ -1,9 +1,12 @@
 ---
-title: "Armor"
+title: "Armures"
 ---
-## Armor
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Armor** — <a href="/rpg-mo-wiki/game-data/items/armor">voir la page en anglais</a>
+
+## Armures
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![[Relic] Blessed Coral Helmet](/img/items/4046.png) | [Relic] Blessed Coral Helmet | 3,700,000 | Slot: Helmet, Armor: 110, Req: Defense 110, melee_block: 3, health_restore: 0.1 |
 | ![[Relic] Blessed Defender Shield](/img/items/4040.png) | [Relic] Blessed Defender Shield | 3,600,000 | Slot: Right Hand, Armor: 1, Req: Defense 70, magic_block: 27, melee_block: 10 |

@@ -1,9 +1,12 @@
 ---
-title: "Mining"
+title: "Minage"
 ---
-## Mining
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Mining** — <a href="/rpg-mo-wiki/game-data/recipes/mining">voir la page en anglais</a>
+
+## Minage
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Abelsonite Chunk](/img/items/3584.png) | Abelsonite Chunk | 135 | 600 | 100% | — |
 | ![Abelsonite Chunk](/img/items/3584.png) | Abelsonite Chunk | 135 | 600 | 100% | — |

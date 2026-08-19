@@ -1,9 +1,12 @@
 ---
-title: "Legendary"
+title: "Légendaire"
 ---
-## Legendary
 
-| Icon | Name | XP Required | Happiness | Breeding Level | Eats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Legendary** — <a href="/rpg-mo-wiki/game-data/pets/legendary">voir la page en anglais</a>
+
+## Légendaire
+
+| Icône | Nom | XP requis | Bonheur | Niveau d'élevage | Mange |
 | --- | --- | --- | --- | --- | --- |
 | ![Adult Cockatrice [Legendary]](/img/pets/217.png) | Adult Cockatrice [Legendary] | — | 75 | 88 | Raw Sand Crab (5%)<br/>Apple (30%)<br/>Uncut High Grade Crystal (70%)<br/>Cut Crystal (80%) |
 | ![Adult Valravn [Legendary]](/img/pets/220.png) | Adult Valravn [Legendary] | — | 100 | 119 | Raw Sand Crab (6%)<br/>Apple (25%)<br/>Uncut High Grade Crystal (50%)<br/>Cut Crystal (80%) |

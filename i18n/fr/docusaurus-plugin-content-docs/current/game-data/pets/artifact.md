@@ -1,9 +1,12 @@
 ---
-title: "Artifact"
+title: "Artefact"
 ---
-## Artifact
 
-| Icon | Name | XP Required | Happiness | Breeding Level | Eats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Artifact** — <a href="/rpg-mo-wiki/game-data/pets/artifact">voir la page en anglais</a>
+
+## Artefact
+
+| Icône | Nom | XP requis | Bonheur | Niveau d'élevage | Mange |
 | --- | --- | --- | --- | --- | --- |
 | ![Old King Pumpkin [Artifact]](/img/pets/426.png) | Old King Pumpkin [Artifact] | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |
 | ![Rotten King Pumpkin [Artifact]](/img/pets/425.png) | Rotten King Pumpkin [Artifact] | — | 32 | 1 | Raw Ham (15%)<br/>Raw Frog (30%) |

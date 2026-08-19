@@ -1,9 +1,12 @@
 ---
-title: "Weapon"
+title: "Armes"
 ---
-## Weapon
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Weapon** — <a href="/rpg-mo-wiki/game-data/items/weapon">voir la page en anglais</a>
+
+## Armes
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![[Relic] Blessed Death Reaper Scythe](/img/items/4317.png) | [Relic] Blessed Death Reaper Scythe | 1,250,000 | Slot: Left Hand, Armor: 100, Speed: 14, min_health: 55, health_restore: 0.15 |
 | ![[Relic] Blessed Resurrection Blade](/img/items/3917.png) | [Relic] Blessed Resurrection Blade | 1,250,000 | Slot: Left Hand, Power: 100, Req: Accuracy 1, Strength 40, health_restore: 0.15, melee_block: 5, disable_slot: 3 |

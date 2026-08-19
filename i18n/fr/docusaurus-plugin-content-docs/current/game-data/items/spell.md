@@ -1,9 +1,12 @@
 ---
-title: "Spell"
+title: "Sorts"
 ---
-## Spell
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Spell** — <a href="/rpg-mo-wiki/game-data/items/spell">voir la page en anglais</a>
+
+## Sorts
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![Air Blast](/img/items/418.png) | Air Blast | 6,270 | Slot: Magic, Magic: 18, Req: Magic 50 |
 | ![Air Bolt](/img/items/403.png) | Air Bolt | 585 | Slot: Magic, Magic: 3, Req: Magic 3 |

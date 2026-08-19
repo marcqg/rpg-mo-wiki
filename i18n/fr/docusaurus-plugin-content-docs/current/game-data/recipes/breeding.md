@@ -1,9 +1,12 @@
 ---
-title: "Breeding"
+title: "Élevage"
 ---
-## Breeding
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Breeding** — <a href="/rpg-mo-wiki/game-data/recipes/breeding">voir la page en anglais</a>
+
+## Élevage
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Broken Crystal Knife](/img/items/5555.png) | Broken Crystal Knife | 1 | 285 | 100% | — |
 | ![Broken Crystal Knife](/img/items/5555.png) | Broken Crystal Knife | 1 | 150 | 100% | — |

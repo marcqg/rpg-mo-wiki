@@ -1,9 +1,12 @@
 ---
-title: "Pet Item"
+title: "Objets Familiers"
 ---
-## Pet Item
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Pet Item** — <a href="/rpg-mo-wiki/game-data/items/pet-item">voir la page en anglais</a>
+
+## Objets Familiers
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![Abyss Fenris [Ancient]](/img/items/5194.png) | Abyss Fenris [Ancient] | 1 | Slot: Pet, Power: 100, Aim: 50, Speed: 25, pvp_archery_block: 4, pvp_melee_block: 4, pvp_magic_block: 4, melee_block: 5, magic_block: 5, min_health: 57 |
 | ![Abyss Strigoi [Ancient]](/img/items/5193.png) | Abyss Strigoi [Ancient] | 1 | Slot: Pet, Power: 80, Aim: 70, Armor: 70, Speed: 15, min_health: 57, pvp_archery_block: 7, pvp_melee_block: 6, pvp_magic_block: 5, melee_block: 4, magic_block: 3 |

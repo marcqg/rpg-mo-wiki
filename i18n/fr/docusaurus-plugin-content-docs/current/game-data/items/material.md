@@ -1,9 +1,12 @@
 ---
-title: "Material"
+title: "Matériaux"
 ---
-## Material
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Material** — <a href="/rpg-mo-wiki/game-data/items/material">voir la page en anglais</a>
+
+## Matériaux
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![3-leaf clover](/img/items/1172.png) | 3-leaf clover | 1 | — |
 | ![4-leaf clover](/img/items/1173.png) | 4-leaf clover | 1 | — |

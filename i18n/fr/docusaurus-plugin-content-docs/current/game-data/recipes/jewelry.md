@@ -1,9 +1,12 @@
 ---
-title: "Jewelry"
+title: "Bijouterie"
 ---
-## Jewelry
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Jewelry** — <a href="/rpg-mo-wiki/game-data/recipes/jewelry">voir la page en anglais</a>
+
+## Bijoux
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Abelsonite Bar](/img/items/3583.png) | Abelsonite Bar | 105 | 140 | 100% | — |
 | ![Abelsonite Bar](/img/items/3583.png) | Abelsonite Bar | 105 | 140 | 100% | — |

@@ -1,9 +1,12 @@
 ---
 title: "Rare"
 ---
+
+> 🇫🇷 Traduction française — nom original (anglais) : **Rare** — <a href="/rpg-mo-wiki/game-data/pets/rare">voir la page en anglais</a>
+
 ## Rare
 
-| Icon | Name | XP Required | Happiness | Breeding Level | Eats |
+| Icône | Nom | XP requis | Bonheur | Niveau d'élevage | Mange |
 | --- | --- | --- | --- | --- | --- |
 | ![Adult Afrit [Rare]](/img/pets/214.png) | Adult Afrit [Rare] | — | 39 | 83 | Large Fire Mushroom (30%)<br/>Fire Mushroom (20%) |
 | ![Adult Chemosit [Rare]](/img/pets/194.png) | Adult Chemosit [Rare] | — | 29 | 109 | Raw Perch (10%)<br/>Human Bones (15%) |

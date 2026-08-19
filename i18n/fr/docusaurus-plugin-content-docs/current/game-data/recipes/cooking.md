@@ -1,9 +1,12 @@
 ---
-title: "Cooking"
+title: "Cuisine"
 ---
-## Cooking
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Cooking** — <a href="/rpg-mo-wiki/game-data/recipes/cooking">voir la page en anglais</a>
+
+## Cuisine
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Angry Witch [Legendary]](/img/items/1139.png) | Angry Witch [Legendary] | 1 | 0 | 100% | — |
 | ![Black Chimaera Steak](/img/items/5254.png) | Black Chimaera Steak | 127 | 1241 | 100% | — |

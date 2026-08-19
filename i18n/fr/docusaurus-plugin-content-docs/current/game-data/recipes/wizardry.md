@@ -1,9 +1,12 @@
 ---
-title: "Wizardry"
+title: "Sorcellerie"
 ---
-## Wizardry
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Wizardry** — <a href="/rpg-mo-wiki/game-data/recipes/wizardry">voir la page en anglais</a>
+
+## Sorcellerie
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![7 Souls Gloves Of Magic](/img/items/1705.png) | 7 Souls Gloves Of Magic | 99 | 0 | 100% | — |
 | ![7 Souls Gloves Of Magic](/img/items/1705.png) | 7 Souls Gloves Of Magic | 99 | 0 | 100% | — |

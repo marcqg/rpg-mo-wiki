@@ -1,9 +1,12 @@
 ---
-title: "Fletching"
+title: "Fabrication de flèches"
 ---
-## Fletching
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Fletching** — <a href="/rpg-mo-wiki/game-data/recipes/fletching">voir la page en anglais</a>
+
+## Fabrication de flèches
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![7 Souls Gloves Of Archery](/img/items/2578.png) | 7 Souls Gloves Of Archery | 99 | 0 | 100% | — |
 | ![7 Souls Gloves Of Archery](/img/items/2578.png) | 7 Souls Gloves Of Archery | 99 | 0 | 100% | — |

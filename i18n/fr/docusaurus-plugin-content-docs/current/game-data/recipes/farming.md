@@ -1,9 +1,12 @@
 ---
-title: "Farming"
+title: "Agriculture"
 ---
-## Farming
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Farming** — <a href="/rpg-mo-wiki/game-data/recipes/farming">voir la page en anglais</a>
+
+## Agriculture
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Aconitum](/img/items/285.png) | Aconitum | 65 | 70 | 100% | — |
 | ![Angel Cotton](/img/items/3153.png) | Angel Cotton | 40 | 40 | 100% | — |

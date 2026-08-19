@@ -1,9 +1,12 @@
 ---
-title: "Archery"
+title: "Tir à l'arc"
 ---
-## Archery
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Archery** — <a href="/rpg-mo-wiki/game-data/items/archery">voir la page en anglais</a>
+
+## Tir à l'arc
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![[Relic] Blessed Burning Shortbow](/img/items/4042.png) | [Relic] Blessed Burning Shortbow | 3,600,000 | Slot: Left Hand, Armor: 100, Speed: 19, Req: Archery 80, archery: 253, arrow_cooldown: 0.36, archery_damage_boost: 0.25, bow: true |
 | ![[Relic] Blessed Ice Titan Longbow](/img/items/4044.png) | [Relic] Blessed Ice Titan Longbow | 3,700,000 | Slot: Left Hand, Armor: 150, Speed: 20, Req: Archery 100, archery: 280, magic_block: 8, archery_speed_boost: 0.4, archery_damage_boost: 0.3, archery_range_boost: 3, bow: true |

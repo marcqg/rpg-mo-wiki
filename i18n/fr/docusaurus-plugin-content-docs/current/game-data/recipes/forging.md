@@ -1,9 +1,12 @@
 ---
-title: "Forging"
+title: "Forge"
 ---
-## Forging
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Forging** — <a href="/rpg-mo-wiki/game-data/recipes/forging">voir la page en anglais</a>
+
+## Forge
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![[Relic] Blessed Burning Shortbow](/img/items/4042.png) | [Relic] Blessed Burning Shortbow | 40 | 0 | 100% | — |
 | ![[Relic] Blessed Coral Helmet](/img/items/4046.png) | [Relic] Blessed Coral Helmet | 40 | 0 | 100% | — |

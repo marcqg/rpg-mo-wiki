@@ -1,9 +1,12 @@
 ---
-title: "Ancient"
+title: "Ancien"
 ---
-## Ancient
 
-| Icon | Name | XP Required | Happiness | Breeding Level | Eats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Ancient** — <a href="/rpg-mo-wiki/game-data/pets/ancient">voir la page en anglais</a>
+
+## Ancien
+
+| Icône | Nom | XP requis | Bonheur | Niveau d'élevage | Mange |
 | --- | --- | --- | --- | --- | --- |
 | — | Abyss Fenris [Ancient] | — | 60 | 1 | Blood Herb (2%)<br/>Rakblood Soul (5%) |
 | — | Abyss Strigoi [Ancient] | — | 60 | 1 | Blood Herb (2%)<br/>Rakblood Soul (5%) |

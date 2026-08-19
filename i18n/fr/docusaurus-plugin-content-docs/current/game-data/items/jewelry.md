@@ -1,9 +1,12 @@
 ---
-title: "Jewelry"
+title: "Bijoux"
 ---
-## Jewelry
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Jewelry** — <a href="/rpg-mo-wiki/game-data/items/jewelry">voir la page en anglais</a>
+
+## Bijoux
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![[Relic] Blessed Resurrection Bandage](/img/items/3915.png) | [Relic] Blessed Resurrection Bandage | 1,250,000 | Slot: Ring, min_health: 50, health_restore: 0.15 |
 | ![[Relic] Resurrection Bandage](/img/items/3914.png) | [Relic] Resurrection Bandage | 250,000 | Slot: Ring, min_health: 50, health_restore: 0.1 |

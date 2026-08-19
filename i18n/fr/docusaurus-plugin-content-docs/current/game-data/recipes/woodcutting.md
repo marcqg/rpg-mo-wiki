@@ -1,9 +1,12 @@
 ---
-title: "Woodcutting"
+title: "Bûcheronnage"
 ---
-## Woodcutting
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Woodcutting** — <a href="/rpg-mo-wiki/game-data/recipes/woodcutting">voir la page en anglais</a>
+
+## Bûcheronnage
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Aconitum Seed](/img/items/774.png) | Aconitum Seed | 55 | 45 | 100% | — |
 | ![Blood Herb Seed](/img/items/775.png) | Blood Herb Seed | 65 | 55 | 100% | — |

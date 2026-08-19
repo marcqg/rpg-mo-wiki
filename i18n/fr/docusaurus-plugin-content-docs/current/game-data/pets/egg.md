@@ -1,9 +1,12 @@
 ---
-title: "Egg"
+title: "Œuf"
 ---
-## Egg
 
-| Icon | Name | XP Required | Happiness | Breeding Level | Eats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Egg** — <a href="/rpg-mo-wiki/game-data/pets/egg">voir la page en anglais</a>
+
+## Œuf
+
+| Icône | Nom | XP requis | Bonheur | Niveau d'élevage | Mange |
 | --- | --- | --- | --- | --- | --- |
 | ![Amphisbaena [Egg]](/img/pets/277.png) | Amphisbaena [Egg] | — | — | — | — |
 | ![Ancient Ironbelly [Egg]](/img/pets/230.png) | Ancient Ironbelly [Egg] | — | — | — | — |

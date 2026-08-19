@@ -1,9 +1,12 @@
 ---
-title: "Alchemy"
+title: "Alchimie"
 ---
-## Alchemy
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Alchemy** — <a href="/rpg-mo-wiki/game-data/recipes/alchemy">voir la page en anglais</a>
+
+## Alchimie
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Angel Feather](/img/items/2260.png) | Angel Feather | 40 | 30 | 100% | — |
 | ![Angel Feather](/img/items/2260.png) | Angel Feather | 40 | 30 | 100% | — |

@@ -1,9 +1,12 @@
 ---
-title: "Common"
+title: "Commun"
 ---
-## Common
 
-| Icon | Name | XP Required | Happiness | Breeding Level | Eats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Common** — <a href="/rpg-mo-wiki/game-data/pets/common">voir la page en anglais</a>
+
+## Commun
+
+| Icône | Nom | XP requis | Bonheur | Niveau d'élevage | Mange |
 | --- | --- | --- | --- | --- | --- |
 | ![Afrit [Common]](/img/pets/213.png) | Afrit [Common] | 800,000 | 39 | 1 | Large Fire Mushroom (30%)<br/>Fire Mushroom (20%) |
 | ![Ancient Wyvern [Common]](/img/pets/87.png) | Ancient Wyvern [Common] | — | 60 | 1 | Dragon Eye (5%)<br/>Beast Eye (3%) |

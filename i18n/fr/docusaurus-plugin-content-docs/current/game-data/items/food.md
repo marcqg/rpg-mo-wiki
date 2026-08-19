@@ -1,9 +1,12 @@
 ---
-title: "Food"
+title: "Nourriture"
 ---
-## Food
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **Food** — <a href="/rpg-mo-wiki/game-data/items/food">voir la page en anglais</a>
+
+## Nourriture
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![2x Experience Potion](/img/items/1033.png) | 2x Experience Potion | 1,680,000 | boost_accuracy: 0.15, boost_strength: 0.15, boost_defense: 0.15, boost_magic: 0.15, boost_mining: 0.15, boost_cooking: 0.15, boost_fishing: 0.15, boost_woodcutting: 0.15, boost_archery: 0.15 |
 | ![Apple](/img/items/762.png) | Apple | 60 | Heal: 2 |

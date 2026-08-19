@@ -1,9 +1,12 @@
 ---
-title: "Fishing"
+title: "Pêche"
 ---
-## Fishing
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Fishing** — <a href="/rpg-mo-wiki/game-data/recipes/fishing">voir la page en anglais</a>
+
+## Pêche
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Dulse Seaweed](/img/items/214.png) | Dulse Seaweed | 85 | 10 | 100% | — |
 | ![Empty Medium Vial](/img/items/247.png) | Empty Medium Vial | 48 | 1 | 100% | — |

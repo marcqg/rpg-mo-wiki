@@ -1,9 +1,12 @@
 ---
-title: "Carpentry"
+title: "Charpenterie"
 ---
-## Carpentry
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Carpentry** — <a href="/rpg-mo-wiki/game-data/recipes/carpentry">voir la page en anglais</a>
+
+## Charpenterie
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![13th Anniversary Decorations](/img/items/5364.png) | 13th Anniversary Decorations | 40 | 270 | 100% | — |
 | ![Blue Palm Bed](/img/items/846.png) | Blue Palm Bed | 70 | 7500 | 100% | — |

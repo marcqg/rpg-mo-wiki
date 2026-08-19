@@ -1,9 +1,12 @@
 ---
-title: "Fungiculture"
+title: "Fongicoelture"
 ---
-## Fungiculture
 
-| Icon | Name | Level | XP | Chance | Materials |
+> 🇫🇷 Traduction française — nom original (anglais) : **Fungiculture** — <a href="/rpg-mo-wiki/game-data/recipes/fungiculture">voir la page en anglais</a>
+
+## Fongicoelture
+
+| Icône | Nom | Niveau | XP | Chance | Matériaux |
 | --- | --- | --- | --- | --- | --- |
 | ![Amanita Mushroom](/img/items/4218.png) | Amanita Mushroom | 30 | 33 | 100% | — |
 | ![Amanita Mushroom Spores](/img/items/4242.png) | Amanita Mushroom Spores | 30 | 11 | 100% | — |

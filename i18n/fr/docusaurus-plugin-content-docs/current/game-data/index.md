@@ -1,16 +1,19 @@
 ---
-title: "Live Game Data"
+title: "Données du Jeu en Direct"
 ---
 
-This section contains data extracted **directly from the official RPG MO game files** at [data.mo.ee](https://data.mo.ee).  
-It is refreshed by running `node scripts/fetch-game-data.mjs` then `node scripts/generate-game-data-pages.mjs`.
+> 🇫🇷 Traduction française — nom original (anglais) : **Live Game Data** — <a href="/rpg-mo-wiki/game-data">voir la page en anglais</a>
 
-| Section | Total | Sub-categories |
+
+Cette section contient des données extraites **directement depuis les fichiers officiels du jeu RPG MO** at [data.mo.ee](https://data.mo.ee).  
+Mis à jour en exécutant `node scripts/fetch-game-data.mjs` puis `node scripts/generate-game-data-pages.mjs`.
+
+| Section | Total | Sous-catégories |
 | --- | --- | --- |
-| [Items](./items/armor) | 5,587 objects | Armor · Weapon · Material · Jewelry · Pet Item · Archery · House · Food · Tool · Spell |
-| [Mobs](./mobs/dorpat) | 904 enemies | 46 zones |
-| [Pets](./pets/common) | 495 companions | Common · Rare · Legendary · Ancient · Artifact · Egg |
-| [Recipes](./recipes/forging) | 3,065 formulas | Forging · Alchemy · Fletching · Wizardry · Mining · Carpentry · Jewelry · Fishing · Cooking · Farming · Woodcutting · Fungiculture · Breeding |
+| [Items](./items/armor) | 5,587 objets | Armor · Weapon · Material · Jewelry · Pet Item · Archery · House · Food · Tool · Spell |
+| [Mobs](./mobs/dorpat) | 904 ennemis | 46 zones |
+| [Pets](./pets/common) | 495 compagnons | Common · Rare · Legendary · Ancient · Artifact · Egg |
+| [Recipes](./recipes/forging) | 3,065 formules | Forging · Alchemy · Fletching · Wizardry · Mining · Carpentry · Jewelry · Fishing · Cooking · Farming · Woodcutting · Fungiculture · Breeding |
 
-See [Sources & Credits](/sources) for full attribution.
+Voir [Sources et remerciements](/sources) pour l'attribution complète.
 

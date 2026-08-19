@@ -1,9 +1,12 @@
 ---
-title: "House"
+title: "Maison"
 ---
-## House
 
-| Icon | Name | Price | Stats |
+> 🇫🇷 Traduction française — nom original (anglais) : **House** — <a href="/rpg-mo-wiki/game-data/items/house">voir la page en anglais</a>
+
+## Maison
+
+| Icône | Nom | Prix | Stats |
 | --- | --- | --- | --- |
 | ![13th Anniversary Decorations](/img/items/5364.png) | 13th Anniversary Decorations | 1 | Slot: Right Hand, size: 6 |
 | ![Armor Stand](/img/items/2639.png) | Armor Stand | 2,200,000 | Slot: Right Hand |
